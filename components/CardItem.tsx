@@ -21,7 +21,7 @@ const CardItem = ({ word, isDifficult, markDifficult, speakSth, showMeaning, sho
         <span className={styles.label}>show meaning</span>
         <span className={styles.meaning}>{word.meaning}</span>
       </label>
-      <div style={{ marginTop: '20px' }}>
+      <div style={{ marginTop: '20px', overflowY: 'auto', height: '200px' }}>
       {(inSlide || showExamples) && word.examples.map((example, idx) =>
         <div key={`${word.ID}-example-${idx}`} style={{ display: 'flex' }}>
           {showVoice && <button style={{ marginRight: '5px', alignSelf: 'center' }} onClick={() => speakSth(example)}>&#128264;</button>}
