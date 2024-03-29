@@ -141,7 +141,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
             isPlaying={carouselModalOpen}
             interval={slideSpeed}
           >
-            <Slider moveThreshold={0.2}>
+            <Slider>
               {wordsToShow.map((word, idx) => <Slide index={idx} key={word.ID}>
                 <CardItem
                   word={word}
