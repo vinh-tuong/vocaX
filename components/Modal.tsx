@@ -1,16 +1,15 @@
 import { CSSProperties, useEffect } from 'react';
 import styles from '../styles/Modal.module.css'
+import { mobileCheck } from '@/utils/helpers';
 
 const Modal = ({ open, onModalClose, style, children }: { open: boolean; style?: CSSProperties | undefined, children: JSX.Element; onModalClose: () => void }) => {
   useEffect(() => {
-    if (open) {
-      document.body.style.height = '100vh';
-      document.body.style.overflowY = 'hidden';
+    if (open && mobileCheck()) {
+      document.body.style.position = 'fixed';
     }
 
     return () => {
-      document.body.style.height = 'auto';
-      document.body.style.overflowY = 'auto';
+      document.body.style.position = '';
     }
   }, [open]);
 
