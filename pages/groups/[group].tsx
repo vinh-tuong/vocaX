@@ -15,6 +15,7 @@ import SlideTracker from '@/components/SlideTracker';
 import CardItem from '@/components/CardItem';
 import { useUser } from '@auth0/nextjs-auth0/client';
 import Head from 'next/head';
+import Link from 'next/link';
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -81,7 +82,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
         <link rel="icon" href="/favicon.ico" />
       </Head><main className={`${homeStyles.main} ${inter.className}`}>
         <div className={homeStyles.description}>
-          <a href="/">Back to home</a>
+          <Link href="/">Back to home</Link>
           <div>
             Welcome&nbsp;
             <code className={homeStyles.code}>{user ? user.name : 'Anonymous User'}</code>

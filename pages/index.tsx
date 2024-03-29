@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 import { useUser } from '@auth0/nextjs-auth0/client';
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
@@ -22,7 +23,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
-          {user ? <a href="/api/auth/logout">Logout</a> : <a href="/api/auth/login">Login</a>}
+          {user ? <Link href="/api/auth/logout">Logout</Link> : <Link href="/api/auth/login">Login</Link>}
           <div>
             Welcome&nbsp;
             <code className={styles.code}>{user ? user.name : 'Anonymous User'}</code>
