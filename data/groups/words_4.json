@@ -1,0 +1,820 @@
+[
+  {
+    "ID": "1734",
+    "word": "der Vorort, -e",
+    "meaning": "the suburb",
+    "examples": [
+      "Mein Bruder wohnt in einem Vorort von Hamburg."
+    ]
+  },
+  {
+    "ID": "892",
+    "word": "furchtbar",
+    "meaning": "terrible",
+    "examples": [
+      "Dennis hat furchtbare Schmerzen.",
+      "Das war mir furchtbar unangenehm."
+    ]
+  },
+  {
+    "ID": "1452",
+    "word": "der Lerner, - / die Lernerin, -nen",
+    "meaning": "the learner",
+    "examples": [
+      "Sie ist eine fleißige Lernerin"
+    ]
+  },
+  {
+    "ID": "1836",
+    "word": "die Prüfung, -en",
+    "meaning": "the exam, test",
+    "examples": [
+      "Mein Freund hat die Prüfung bestanden."
+    ]
+  },
+  {
+    "ID": "2619",
+    "word": "die Vollzeit",
+    "meaning": "full-time",
+    "examples": [
+      "Ich möchte gerne Vollzeit arbeiten."
+    ]
+  },
+  {
+    "ID": "444",
+    "word": "die Bühne, -n",
+    "meaning": "the stage",
+    "examples": [
+      "Er steht gern auf der Bühne."
+    ]
+  },
+  {
+    "ID": "1981",
+    "word": "der Schaden, ¨-",
+    "meaning": "damage",
+    "examples": [
+      "Ich hatte einen Unfall mit dem Auto. Jetzt muss ich den Schaden der Versicherung melden."
+    ]
+  },
+  {
+    "ID": "1636",
+    "word": "der Name, -n",
+    "meaning": "the name",
+    "examples": [
+      "Wie ist Ihr Name?",
+      "An den Namen kann ich mich nicht mehr erinnern."
+    ]
+  },
+  {
+    "ID": "2120",
+    "word": "sinnlos",
+    "meaning": "meaningless",
+    "examples": [
+      "So ein sinnloses Buch habe ich schon lange nicht mehr gelesen."
+    ]
+  },
+  {
+    "ID": "961",
+    "word": "die Generation, -en",
+    "meaning": "generation",
+    "examples": [
+      "In diesem Haus wohnen drei Generationen zusammen."
+    ]
+  },
+  {
+    "ID": "1200",
+    "word": "international",
+    "meaning": "international",
+    "examples": [
+      "Die Teilnehmenden in unserem Kurs sind ganz international",
+      "Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …",
+      "Der Professor war international bekannt"
+    ]
+  },
+  {
+    "ID": "1457",
+    "word": "das Lexikon, Lexika",
+    "meaning": "the encyclopedia",
+    "examples": [
+      "Wir könnten im Lexikon nachsehen"
+    ]
+  },
+  {
+    "ID": "2466",
+    "word": "das Unglück, -e",
+    "meaning": "misfortune",
+    "examples": [
+      "Bei dem Unglück gab es viele Verletzte."
+    ]
+  },
+  {
+    "ID": "812",
+    "word": "die Firma, Firmen",
+    "meaning": "the company",
+    "examples": [
+      "Seit wann arbeiten Sie bei dieser Firma?"
+    ]
+  },
+  {
+    "ID": "2575",
+    "word": "verrückt",
+    "meaning": "crazy",
+    "examples": [
+      "Bist du verrückt geworden?!",
+      "So eine verrückte Idee."
+    ]
+  },
+  {
+    "ID": "1713",
+    "word": "das Öl, -e",
+    "meaning": "the oil",
+    "examples": [
+      "Es fehlt Öl am Salat.",
+      "Wir heizen mit Öl.",
+      "Können Sie bei meinem Auto bitte das Öl kontrollieren?"
+    ]
+  },
+  {
+    "ID": "678",
+    "word": "die Erfahrung, -en",
+    "meaning": "the experience",
+    "examples": [
+      "Ich habe zehn Jahre Erfahrung in diesem Beruf.",
+      "Mit diesem Gerät haben wir gute Erfahrungen gemacht."
+    ]
+  },
+  {
+    "ID": "2654",
+    "word": "vorwärts",
+    "meaning": "forward",
+    "examples": [
+      "Ich kann nicht vorbei. Bitte fahr noch ein Stück vorwärts."
+    ]
+  },
+  {
+    "ID": "582",
+    "word": "der Einbruch, ¨-e",
+    "meaning": "the burglary",
+    "examples": [
+      "In der Urlaubszeit gibt es viele Wohnungseinbrüche."
+    ]
+  },
+  {
+    "ID": "850",
+    "word": "das Foto, -s",
+    "meaning": "the photo",
+    "examples": [
+      "Können Sie dieses Foto vergrößern?"
+    ]
+  },
+  {
+    "ID": "2473",
+    "word": "unterbrechen",
+    "meaning": "to interrupt",
+    "examples": [
+      "Wir unterbrechen die Sendung für eine wichtige Nachricht.",
+      "Bitte unterbrich mich nicht, wenn ich spreche."
+    ]
+  },
+  {
+    "ID": "2633",
+    "word": "die Vorfahrt",
+    "meaning": "right of way",
+    "examples": [
+      "Achtung! Das Auto rechts hat Vorfahrt!"
+    ]
+  },
+  {
+    "ID": "2385",
+    "word": "die Trennung, -en",
+    "meaning": "separation",
+    "examples": [
+      "Die Trennung von der Familie war schwierig.",
+      "Meine Kollegin ist noch nicht geschieden, aber sie lebt in Trennung."
+    ]
+  },
+  {
+    "ID": "1497",
+    "word": "die Mahlzeit, -en",
+    "meaning": "meal",
+    "examples": [
+      "Die Tropfen bitte immer nach den Mahlzeiten einnehmen",
+      "In Deutschland gibt es meist nur einmal am Tag eine warme Mahlzeit"
+    ]
+  },
+  {
+    "ID": "2628",
+    "word": "voraussichtlich",
+    "meaning": "presumably",
+    "examples": [
+      "Der Zug hat voraussichtlich 20 Minuten Verspätung."
+    ]
+  },
+  {
+    "ID": "1298",
+    "word": "klingen",
+    "meaning": "to sound",
+    "examples": [
+      "Wollen wir einkaufen gehen und danach zusammen kochen? – Ja, das klingt gut"
+    ]
+  },
+  {
+    "ID": "1076",
+    "word": "das Handy, -s",
+    "meaning": "the mobile phone",
+    "examples": [
+      "Ich habe kein Festnetztelefon, aber ein Handy",
+      "Soll ich Ihnen meine Handynummer geben?"
+    ]
+  },
+  {
+    "ID": "565",
+    "word": "egal",
+    "meaning": "doesn't matter / all the same",
+    "examples": [
+      "Es ist mir ganz egal, was die Leute denken.",
+      "Egal wie das Wetter ist, ich gehe schwimmen."
+    ]
+  },
+  {
+    "ID": "183",
+    "word": "auseinander",
+    "meaning": "apart",
+    "examples": [
+      "Wir wohnen nicht weit auseinander."
+    ]
+  },
+  {
+    "ID": "956",
+    "word": "das Gemüse",
+    "meaning": "vegetables",
+    "examples": [
+      "Wir kaufen das Gemüse direkt beim Bauern."
+    ]
+  },
+  {
+    "ID": "2551",
+    "word": "verlassen",
+    "meaning": "to leave",
+    "examples": [
+      "Ich habe die Party um 3 Uhr verlassen.",
+      "Du kannst dich auf mich verlassen. Ich helfe dir auf jeden Fall."
+    ]
+  },
+  {
+    "ID": "1513",
+    "word": "die Margarine",
+    "meaning": "margarine",
+    "examples": [
+      "Meine Frau isst nur Margarine und keine Butter"
+    ]
+  },
+  {
+    "ID": "1470",
+    "word": "links",
+    "meaning": "left",
+    "examples": [
+      "An der Kreuzung müssen Sie nach links abbiegen",
+      "Gehen Sie die nächste Straße links"
+    ]
+  },
+  {
+    "ID": "554",
+    "word": "(sich) duschen",
+    "meaning": "to shower",
+    "examples": [
+      "Wenn Sie sich duschen wollen",
+      "Das Badezimmer ist dort hinten links."
+    ]
+  },
+  {
+    "ID": "22",
+    "word": "das Abonnement, -s/-e",
+    "meaning": "the subscription",
+    "examples": [
+      "Ich habe das Abonnement gekündigt."
+    ]
+  },
+  {
+    "ID": "2680",
+    "word": "sich waschen",
+    "meaning": "to wash oneself",
+    "examples": [
+      "Ich habe die Bluse gerade frisch gewaschen.",
+      "Wo kann ich mir die Hände waschen?"
+    ]
+  },
+  {
+    "ID": "349",
+    "word": "bestimmt",
+    "meaning": "definitely / a certain",
+    "examples": [
+      "Das hat Nancy bestimmt nicht so gemeint.",
+      "Möchtest du ein bestimmtes Brot?"
+    ]
+  },
+  {
+    "ID": "473",
+    "word": "danach",
+    "meaning": "afterwards",
+    "examples": [
+      "Zuerst gehen wir einkaufen, danach grillen wir auf unserem Balkon."
+    ]
+  },
+  {
+    "ID": "1615",
+    "word": "die Mutter, ¨-",
+    "meaning": "the mother",
+    "examples": [
+      "Meine Mutter heißt Klara.",
+      "Dieser Raum ist für Mütter mit kleinen Kindern reserviert."
+    ]
+  },
+  {
+    "ID": "777",
+    "word": "der Fehler, -",
+    "meaning": "the mistake",
+    "examples": [
+      "Ich glaube, da haben Sie einen Fehler gemacht."
+    ]
+  },
+  {
+    "ID": "742",
+    "word": "extrem",
+    "meaning": "extremely",
+    "examples": [
+      "Die Prüfung war extrem schwer."
+    ]
+  },
+  {
+    "ID": "564",
+    "word": "eckig",
+    "meaning": "square / angular",
+    "examples": [
+      "Ich möchte einen eckigen Tisch, keinen runden."
+    ]
+  },
+  {
+    "ID": "1714",
+    "word": "die Oma, -s",
+    "meaning": "the grandma",
+    "examples": [
+      "Meine Oma ist achtzig Jahre alt geworden."
+    ]
+  },
+  {
+    "ID": "467",
+    "word": "dagegen",
+    "meaning": "against it",
+    "examples": [
+      "Vorsicht, da ist ein Baum! Fahr nicht dagegen!",
+      "Sind Sie für oder gegen ein Rauchverbot? - Ich bin dagegen."
+    ]
+  },
+  {
+    "ID": "2343",
+    "word": "das Ticket, -s",
+    "meaning": "ticket",
+    "examples": [
+      "Wir müssen die Tickets für unseren Flug ausdrucken.",
+      "Ich kaufe heute Tickets für das Konzert."
+    ]
+  },
+  {
+    "ID": "2415",
+    "word": "übermorgen",
+    "meaning": "the day after tomorrow",
+    "examples": [
+      "Morgen kann ich nicht. Wir sehen uns übermorgen."
+    ]
+  },
+  {
+    "ID": "451",
+    "word": "der Bus, -se",
+    "meaning": "the bus",
+    "examples": [
+      "Ich fahre meistens mit dem Bus zur Arbeit."
+    ]
+  },
+  {
+    "ID": "587",
+    "word": "die Einfahrt, -en",
+    "meaning": "the driveway",
+    "examples": [
+      "Da parkt wieder jemand vor unserer Einfahrt.",
+      "Können Sie nicht lesen",
+      "Einfahrt freihalten!"
+    ]
+  },
+  {
+    "ID": "785",
+    "word": "die Fernbedienung, -en",
+    "meaning": "the remote control",
+    "examples": [
+      "Hast du die Fernbedienung gesehen?"
+    ]
+  },
+  {
+    "ID": "1217",
+    "word": "jemand",
+    "meaning": "someone",
+    "examples": [
+      "Hat jemand einen Bleistift für mich?",
+      "Kennst du jemanden, der mir ein Fahrrad leihen kann?"
+    ]
+  },
+  {
+    "ID": "203",
+    "word": "ausschließen",
+    "meaning": "to exclude",
+    "examples": [
+      "Das kann man nicht ganz ausschließen.",
+      "So viel kann ich nicht bezahlen. Das ist völlig ausgeschlossen."
+    ]
+  },
+  {
+    "ID": "1363",
+    "word": "der Kreis, -e",
+    "meaning": "the circle",
+    "examples": [
+      "Die Kinder sitzen im Kindergarten im Kreis",
+      "Bitte malt jetzt alle einen Kreis in euer Heft",
+      "Unser Ort gehört zum Kreis Neuss"
+    ]
+  },
+  {
+    "ID": "638",
+    "word": "der Empfang, ¨-e",
+    "meaning": "reception",
+    "examples": [
+      "Bitte den Empfang bestätigen!",
+      "Ich bin mit dem Fernseher nicht zufrieden. Der Empfang ist sehr schlecht."
+    ]
+  },
+  {
+    "ID": "1288",
+    "word": "das Kleid, -er",
+    "meaning": "dress",
+    "examples": [
+      "Ich habe mir ein neues Kleid gekauft"
+    ]
+  },
+  {
+    "ID": "2545",
+    "word": "der Verkäufer, - / die Verkäuferin, -nen",
+    "meaning": "salesperson",
+    "examples": [
+      "Die Verkäuferin wird Ihnen gleich helfen."
+    ]
+  },
+  {
+    "ID": "493",
+    "word": "das Denkmal, ¨-er",
+    "meaning": "the monument",
+    "examples": [
+      "In dieser Stadt gibt es viele berühmte Denkmäler."
+    ]
+  },
+  {
+    "ID": "1747",
+    "word": "parken",
+    "meaning": "to park",
+    "examples": [
+      "Hier dürfen Sie nicht parken.",
+      "Hier ist das Parken verboten."
+    ]
+  },
+  {
+    "ID": "23",
+    "word": "absagen",
+    "meaning": "to cancel",
+    "examples": [
+      "Ich muss unser Treffen leider absagen, weil ich krank geworden bin."
+    ]
+  },
+  {
+    "ID": "1943",
+    "word": "die Rose, -n",
+    "meaning": "rose",
+    "examples": [
+      "Rote Rosen sind ein schönes Geschenk."
+    ]
+  },
+  {
+    "ID": "1950",
+    "word": "das Rüebli, - (CH)",
+    "meaning": "the carrot",
+    "examples": [
+      "Hasen fressen gern Rüebli."
+    ]
+  },
+  {
+    "ID": "24",
+    "word": "der Abschluss, ¨-e",
+    "meaning": "the conclusion",
+    "examples": [
+      "Ein guter Schulabschluss ist sehr wichtig."
+    ]
+  },
+  {
+    "ID": "1292",
+    "word": "klicken",
+    "meaning": "to click",
+    "examples": [
+      "Wenn du die Datei öffnen willst, musst du mit der Maus zweimal klicken"
+    ]
+  },
+  {
+    "ID": "1960",
+    "word": "der Sack, ¨-e",
+    "meaning": "sack/bag",
+    "examples": [
+      "Ich hätte gern einen Sack Kartoffeln.",
+      "Wo soll ich die Säcke mit dem Müll hinstellen?"
+    ]
+  },
+  {
+    "ID": "745",
+    "word": "der Fachmann, die Fachfrau",
+    "meaning": "the specialist",
+    "examples": [
+      "Meine Schwester ist Computerfachfrau."
+    ]
+  },
+  {
+    "ID": "2138",
+    "word": "Sonder-, das Sonderangebot, -e",
+    "meaning": "special",
+    "examples": [
+      "This is a special offer 25% reduced."
+    ]
+  },
+  {
+    "ID": "368",
+    "word": "der Beweis, -e",
+    "meaning": "the proof",
+    "examples": [
+      "Haben Sie dafür Beweise?"
+    ]
+  },
+  {
+    "ID": "822",
+    "word": "fliehen",
+    "meaning": "to flee",
+    "examples": [
+      "Der Einbrecher ist sofort geflohen."
+    ]
+  },
+  {
+    "ID": "2256",
+    "word": "der Streit",
+    "meaning": "argument",
+    "examples": [
+      "Ich möchte keinen Streit mit den Nachbarn."
+    ]
+  },
+  {
+    "ID": "485",
+    "word": "die Daten (Plural)",
+    "meaning": "the data",
+    "examples": [
+      "Wir haben alle Ihre Daten im Computer."
+    ]
+  },
+  {
+    "ID": "377",
+    "word": "das Bild, -er",
+    "meaning": "the picture",
+    "examples": [
+      "Ein Bild von meinen Kindern hängt über meinem Schreibtisch."
+    ]
+  },
+  {
+    "ID": "1892",
+    "word": "regnen",
+    "meaning": "to rain",
+    "examples": [
+      "Es hat gestern den ganzen Tag geregnet."
+    ]
+  },
+  {
+    "ID": "1603",
+    "word": "der Mund, ¨-er",
+    "meaning": "the mouth",
+    "examples": [
+      "Sie haben Halsschmerzen? Bitte machen Sie mal den Mund auf."
+    ]
+  },
+  {
+    "ID": "1461",
+    "word": "die Liebe",
+    "meaning": "love",
+    "examples": [
+      "Wir haben aus Liebe geheiratet",
+      "Für mich ist das Wichtigste die Liebe zu meiner Familie und zu meinen Kindern",
+      "Die Kinder haben die Geschenke mit viel Liebe gemacht"
+    ]
+  },
+  {
+    "ID": "887",
+    "word": "der Führerschein, -e (D, A)",
+    "meaning": "the driving license",
+    "examples": [
+      "Hast du einen Führerschein?",
+      "Ich habe vor einem halben Jahr den Führerschein gemacht."
+    ]
+  },
+  {
+    "ID": "2397",
+    "word": "trotz",
+    "meaning": "despite",
+    "examples": [
+      "Trotz Grippe bin ich zur Arbeit gegangen."
+    ]
+  },
+  {
+    "ID": "2467",
+    "word": "unheimlich",
+    "meaning": "creepy / incredibly",
+    "examples": [
+      "Ich mag dieses Haus nicht. Es sieht unheimlich aus.",
+      "Diese Person ist mir unheimlich.",
+      "Lass uns umkehren. Mir wird im Dunkeln unheimlich.",
+      "Die Prüfung war unheimlich schwer."
+    ]
+  },
+  {
+    "ID": "1428",
+    "word": "das Leben",
+    "meaning": "life",
+    "examples": [
+      "Ich habe mich an das Leben auf dem Land gewöhnt",
+      "Hier ist das Leben teuer"
+    ]
+  },
+  {
+    "ID": "430",
+    "word": "die Broschüre, -n",
+    "meaning": "the brochure",
+    "examples": [
+      "In der Broschüre finden Sie die neuesten Informationen."
+    ]
+  },
+  {
+    "ID": "2013",
+    "word": "der/das (Schlag-)Obers (A) → (Schlag-)Sahne (D); (Schlag-)Rahm (CH)",
+    "meaning": "whipped cream",
+    "examples": [
+      "Ich hätte gern ein Stück Torte mit Schlagobers."
+    ]
+  },
+  {
+    "ID": "853",
+    "word": "die Fotografie, -n",
+    "meaning": "the photography",
+    "examples": [
+      "Ich interessiere mich für Fotografie."
+    ]
+  },
+  {
+    "ID": "2477",
+    "word": "die Unterlagen (Pl.)",
+    "meaning": "documents",
+    "examples": [
+      "Ich schicke Ihnen alle Unterlagen mit der Post zu."
+    ]
+  },
+  {
+    "ID": "1919",
+    "word": "die Reparatur, -en",
+    "meaning": "the repair",
+    "examples": [
+      "Eine Reparatur wäre zu teuer."
+    ]
+  },
+  {
+    "ID": "1393",
+    "word": "kurz",
+    "meaning": "short; briefly",
+    "examples": [
+      "Ricardo hat kurze Haare",
+      "Kann ich Sie kurz sprechen?",
+      "Kurz vor 8 Uhr hat das Telefon geklingelt",
+      "Mein Mann ist kurz nach mir gekommen",
+      "Ich bin vor Kurzem nach München gezogen",
+      "Ich wohne seit Kurzem in München",
+      "Ich habe das Kleid kürzer machen lassen"
+    ]
+  },
+  {
+    "ID": "897",
+    "word": "die Fußgängerin, -nen",
+    "meaning": "the female pedestrian",
+    "examples": [
+      "Dieser Weg ist nur für Fußgänger."
+    ]
+  },
+  {
+    "ID": "410",
+    "word": "das Boot, -e",
+    "meaning": "the boat",
+    "examples": [
+      "An diesem See kann man Boote mieten."
+    ]
+  },
+  {
+    "ID": "2124",
+    "word": "der Sitz, -e",
+    "meaning": "seat",
+    "examples": [
+      "Ich suche für meinen Sohn einen Sitz fürs Auto. Er ist erst drei Jahre alt."
+    ]
+  },
+  {
+    "ID": "552",
+    "word": "der Durst",
+    "meaning": "the thirst",
+    "examples": [
+      "Ich hole Ihnen etwas zu trinken. Sie haben sicher Durst."
+    ]
+  },
+  {
+    "ID": "1640",
+    "word": "die Nase, -n",
+    "meaning": "the nose",
+    "examples": [
+      "Haben Sie Nasentropfen? Ich bin stark erkältet."
+    ]
+  },
+  {
+    "ID": "2559",
+    "word": "der Verlust, -e",
+    "meaning": "loss",
+    "examples": [
+      "Der Verlust meiner Uhr ärgert mich sehr."
+    ]
+  },
+  {
+    "ID": "796",
+    "word": "festsetzen",
+    "meaning": "to fix / to set",
+    "examples": [
+      "Die Schule hat den Termin für die Prüfung festgesetzt."
+    ]
+  },
+  {
+    "ID": "2661",
+    "word": "die Wahl, -en",
+    "meaning": "choice / election",
+    "examples": [
+      "Sie haben die Wahl",
+      "mit Vollpension oder Halbpension?",
+      "Die nächste Wahl ist im Herbst."
+    ]
+  },
+  {
+    "ID": "1102",
+    "word": "der Held, -en / die Heldin, -nen",
+    "meaning": "the hero / the heroine",
+    "examples": [
+      "Er spielt gern den Helden",
+      "Sie ist die Heldin des Tages"
+    ]
+  },
+  {
+    "ID": "2622",
+    "word": "von",
+    "meaning": "from",
+    "examples": [
+      "Ich komme gerade vom Zahnarzt.",
+      "Emil ist ein Freund von mir.",
+      "Haben Sie noch eine Zeitung von heute?",
+      "Von jetzt an müssen wir sparen.",
+      "Das Büro ist von 13 bis 15 Uhr geschlossen."
+    ]
+  },
+  {
+    "ID": "26",
+    "word": "der Absender, - / die Absenderin, -nen",
+    "meaning": "the sender",
+    "examples": [
+      "Schicken Sie das Paket an den Absender zurück."
+    ]
+  },
+  {
+    "ID": "783",
+    "word": "das Fenster, -",
+    "meaning": "the window",
+    "examples": [
+      "Darf ich einen Moment das Fenster aufmachen?"
+    ]
+  },
+  {
+    "ID": "1929",
+    "word": "die Rezeption/Reception, -en",
+    "meaning": "the reception",
+    "examples": [
+      "Geben Sie bitte den Schlüssel an der Rezeption ab."
+    ]
+  }
+]

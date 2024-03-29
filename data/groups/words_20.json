@@ -1,0 +1,834 @@
+[
+  {
+    "ID": "2502",
+    "word": "der Vater, ¨-",
+    "meaning": "father",
+    "examples": [
+      "Mein Vater arbeitet in einem Restaurant.",
+      "Herr Müller ist Vater geworden."
+    ]
+  },
+  {
+    "ID": "1749",
+    "word": "die Party, -s",
+    "meaning": "the party",
+    "examples": [
+      "Letzte Woche war ich auf einer Geburtstagsparty."
+    ]
+  },
+  {
+    "ID": "1756",
+    "word": "pauschal",
+    "meaning": "flat rate, all-inclusive",
+    "examples": [
+      "Sie haben die Reise pauschal gebucht."
+    ]
+  },
+  {
+    "ID": "653",
+    "word": "enthalten",
+    "meaning": "to contain",
+    "examples": [
+      "Diese Schokolade enthält nur sehr wenig Zucker.",
+      "Ist die Änderung im Preis enthalten?"
+    ]
+  },
+  {
+    "ID": "116",
+    "word": "antworten",
+    "meaning": "to answer",
+    "examples": [
+      "Jorge hat seit drei Wochen nicht auf meinen Brief geantwortet."
+    ]
+  },
+  {
+    "ID": "1736",
+    "word": "der Ozean, -e",
+    "meaning": "the ocean",
+    "examples": [
+      "Dieses Schiff fährt über den Atlantischen Ozean."
+    ]
+  },
+  {
+    "ID": "1884",
+    "word": "die Rede, -n",
+    "meaning": "speech",
+    "examples": [
+      "Der Präsident hat eine Rede gehalten."
+    ]
+  },
+  {
+    "ID": "2377",
+    "word": "träumen",
+    "meaning": "to dream",
+    "examples": [
+      "Ich habe schlecht geträumt.",
+      "Ich träume von einem großen Haus mit Garten."
+    ]
+  },
+  {
+    "ID": "1136",
+    "word": "hoch",
+    "meaning": "high",
+    "examples": [
+      "Der Berg ist fast 3000 m hoch",
+      "Das Hotel liegt hoch über dem See",
+      "Die Benzinpreise sind sehr hoch"
+    ]
+  },
+  {
+    "ID": "1376",
+    "word": "der Kugelschreiber, -",
+    "meaning": "the pen",
+    "examples": [
+      "Mein Kugelschreiber ist weg"
+    ]
+  },
+  {
+    "ID": "2525",
+    "word": "verdächtig",
+    "meaning": "suspicious",
+    "examples": [
+      "Die Tür war nicht abgeschlossen. Das ist verdächtig.",
+      "Haben Sie etwas Verdächtiges gesehen?"
+    ]
+  },
+  {
+    "ID": "2830",
+    "word": "zugehen",
+    "meaning": "to close",
+    "examples": [
+      "Die Tür geht nicht zu. Kannst du mir helfen?"
+    ]
+  },
+  {
+    "ID": "1953",
+    "word": "die Ruhe",
+    "meaning": "quiet/silence",
+    "examples": [
+      "Ruhe bitte!",
+      "Lass mich jetzt endlich in Ruhe!",
+      "Ich brauche meine Ruhe."
+    ]
+  },
+  {
+    "ID": "2113",
+    "word": "siegen",
+    "meaning": "win",
+    "examples": [
+      "Die Mannschaft siegte mit 2-0."
+    ]
+  },
+  {
+    "ID": "2846",
+    "word": "zusammen/zusammen-",
+    "meaning": "together",
+    "examples": [
+      "Wir haben als Kinder oft zusammen gespielt.",
+      "Zahlen bitte. - Zusammen oder getrennt?",
+      "Das macht zusammen 10 Euro 80.",
+      "Fuß und Ball musst du zusammenschreiben – Fußball!"
+    ]
+  },
+  {
+    "ID": "927",
+    "word": "geehrt",
+    "meaning": "honored",
+    "examples": [
+      "Sehr geehrte Damen und Herren …"
+    ]
+  },
+  {
+    "ID": "102",
+    "word": "anschaffen",
+    "meaning": "to acquire",
+    "examples": [
+      "Wir haben uns neue Möbel angeschafft."
+    ]
+  },
+  {
+    "ID": "2540",
+    "word": "das Verhalten",
+    "meaning": "behavior",
+    "examples": [
+      "Ich bewundere dein Verhalten in der schwierigen Situation."
+    ]
+  },
+  {
+    "ID": "390",
+    "word": "bitte",
+    "meaning": "please",
+    "examples": [
+      "Eine Tasse Kaffee, bitte!",
+      "Bitte schön!",
+      "Wie bitte? Was haben Sie gesagt?",
+      "Sprechen Sie bitte langsam."
+    ]
+  },
+  {
+    "ID": "1154",
+    "word": "hübsch",
+    "meaning": "pretty",
+    "examples": [
+      "Wir haben eine hübsche Wohnung gefunden",
+      "Dietmars neue Freundin ist sehr hübsch"
+    ]
+  },
+  {
+    "ID": "2445",
+    "word": "umgehen",
+    "meaning": "to handle",
+    "examples": [
+      "Er kann sehr gut mit Kindern umgehen."
+    ]
+  },
+  {
+    "ID": "277",
+    "word": "begeistert",
+    "meaning": "enthusiastic",
+    "examples": [
+      "Es war ein tolles Konzert. Ich bin begeistert."
+    ]
+  },
+  {
+    "ID": "1574",
+    "word": "mitteilen",
+    "meaning": "to inform",
+    "examples": [
+      "Den Prüfungstermin teilen wir Ihnen noch mit."
+    ]
+  },
+  {
+    "ID": "2048",
+    "word": "die Schrift, -en",
+    "meaning": "handwriting/script",
+    "examples": [
+      "Ich kann leider deine Schrift nicht lesen."
+    ]
+  },
+  {
+    "ID": "2007",
+    "word": "schimpfen",
+    "meaning": "to scold",
+    "examples": [
+      "Der Arzt hat mit mir geschimpft, weil ich zu wenig Sport mache.",
+      "Alle schimpfen über/auf das Wetter."
+    ]
+  },
+  {
+    "ID": "2050",
+    "word": "der Schriftsteller, -/die Schriftstellerin, -nen",
+    "meaning": "the writer",
+    "examples": [
+      "Kennst du diese Schriftstellerin? Ich liebe ihre Bücher."
+    ]
+  },
+  {
+    "ID": "2535",
+    "word": "das Vergnügen, -",
+    "meaning": "pleasure",
+    "examples": [
+      "Es ist ein Vergnügen, den Kindern beim Spielen zuzusehen.",
+      "Ich wünsche dir viel Vergnügen bei der Party!"
+    ]
+  },
+  {
+    "ID": "545",
+    "word": "dünn",
+    "meaning": "thin",
+    "examples": [
+      "Mein Sohn ist sehr dünn. Er isst zu wenig.",
+      "Warum ziehst du nur so einen dünnen Mantel an? Es ist kalt draußen."
+    ]
+  },
+  {
+    "ID": "2346",
+    "word": "das Haustier, -e",
+    "meaning": "pet",
+    "examples": [
+      "Hat deine Familie ein Haustier? − Ja, wir haben einen Hund."
+    ]
+  },
+  {
+    "ID": "1187",
+    "word": "das Institut, -e",
+    "meaning": "the institute",
+    "examples": [
+      "Ich besuche einen Sprachkurs in einem kleinen Sprachinstitut"
+    ]
+  },
+  {
+    "ID": "356",
+    "word": "der Betreuer, - / die Betreuerin, -nen",
+    "meaning": "the caregiver",
+    "examples": [
+      "Die Betreuerin der Kinder ist sehr nett."
+    ]
+  },
+  {
+    "ID": "2484",
+    "word": "unterscheiden",
+    "meaning": "to differentiate",
+    "examples": [
+      "Ihr seid euch sehr ähnlich. Auf dem Foto kann man euch beide nicht unterscheiden."
+    ]
+  },
+  {
+    "ID": "1709",
+    "word": "oft/öfter",
+    "meaning": "often/more often",
+    "examples": [
+      "Ich treffe mich oft mit meiner Freundin.",
+      "In letzter Zeit muss ich öfter Überstunden machen."
+    ]
+  },
+  {
+    "ID": "1868",
+    "word": "reagieren",
+    "meaning": "to react",
+    "examples": [
+      "Ich habe dem Vermieter geschrieben aber er hat noch nicht reagiert."
+    ]
+  },
+  {
+    "ID": "163",
+    "word": "aufmerksam",
+    "meaning": "attentive",
+    "examples": [
+      "Die Schülerin hörte aufmerksam zu.",
+      "Ich mache Sie darauf aufmerksam, dass wir in einer halben Stunde schließen."
+    ]
+  },
+  {
+    "ID": "1823",
+    "word": "das Produkt, -e",
+    "meaning": "the product",
+    "examples": [
+      "Unsere Produkte haben eine hohe Qualität.",
+      "Der Arzt sagt, ich soll keine fertigen Produkte essen."
+    ]
+  },
+  {
+    "ID": "510",
+    "word": "diesmal",
+    "meaning": "this time",
+    "examples": [
+      "Die letzten Spiele haben wir verloren. Diesmal haben wir zum Glück gewonnen."
+    ]
+  },
+  {
+    "ID": "1259",
+    "word": "der Kauf",
+    "meaning": "the purchase",
+    "examples": [
+      "Der neue Esstisch war ein guter Kauf"
+    ]
+  },
+  {
+    "ID": "2826",
+    "word": "zufrieden",
+    "meaning": "satisfied",
+    "examples": [
+      "Meine Kinder haben heute Zeugnisse bekommen. Ich bin zufrieden.",
+      "Ich bin mit der Wohnung zufrieden. Sie ist nicht so groß, aber sie hat einen Balkon."
+    ]
+  },
+  {
+    "ID": "1863",
+    "word": "rauchen",
+    "meaning": "to smoke",
+    "examples": [
+      "Smoking is prohibited here!",
+      "Does it bother you if I smoke?"
+    ]
+  },
+  {
+    "ID": "575",
+    "word": "eilen",
+    "meaning": "to hurry",
+    "examples": [
+      "Es eilt sehr. Bitte machen Sie schnell."
+    ]
+  },
+  {
+    "ID": "1898",
+    "word": "reif",
+    "meaning": "ripe",
+    "examples": [
+      "Die Banane kannst du nicht essen. Sie ist noch nicht reif."
+    ]
+  },
+  {
+    "ID": "175",
+    "word": "der Aufzug, ¨-e (D, A) / der Lift",
+    "meaning": "the elevator",
+    "examples": [
+      "Im Büro ist leider der Aufzug kaputt."
+    ]
+  },
+  {
+    "ID": "1431",
+    "word": "das Leder",
+    "meaning": "the leather",
+    "examples": [
+      "Ist die Tasche aus Leder?"
+    ]
+  },
+  {
+    "ID": "2352",
+    "word": "die Tochter, ¨-",
+    "meaning": "daughter",
+    "examples": [
+      "Das ist meine Tochter Katharina."
+    ]
+  },
+  {
+    "ID": "733",
+    "word": "der Essig",
+    "meaning": "the vinegar",
+    "examples": [
+      "Am Salat fehlt noch etwas Essig."
+    ]
+  },
+  {
+    "ID": "2647",
+    "word": "vorsichtig",
+    "meaning": "careful",
+    "examples": [
+      "Bitte fahr vorsichtig, die Straße ist glatt."
+    ]
+  },
+  {
+    "ID": "1909",
+    "word": "reiten",
+    "meaning": "to ride",
+    "examples": [
+      "Möchtest du gerne reiten lernen?"
+    ]
+  },
+  {
+    "ID": "1590",
+    "word": "möglich",
+    "meaning": "possible",
+    "examples": [
+      "Kann ich bitte sofort einen Termin haben? – Das ist leider nicht möglich."
+    ]
+  },
+  {
+    "ID": "1440",
+    "word": "leid tun",
+    "meaning": "to feel sorry",
+    "examples": [
+      "Die Frau tut mir leid",
+      "Wie komme ich zum Bahnhof? - Tut mir leid, das weiß ich nicht",
+      "Es tut mir leid, dass ich Ihnen nicht helfen kann"
+    ]
+  },
+  {
+    "ID": "2623",
+    "word": "voneinander",
+    "meaning": "from each other",
+    "examples": [
+      "Wir haben lange nichts voneinander gehört."
+    ]
+  },
+  {
+    "ID": "2743",
+    "word": "wirklich",
+    "meaning": "really",
+    "examples": [
+      "Du glaubst mir nicht? Es ist aber wirklich so.",
+      "Im Bahnhofsrestaurant isst man wirklich sehr gut."
+    ]
+  },
+  {
+    "ID": "1212",
+    "word": "jeder, jedes, jede",
+    "meaning": "each, every",
+    "examples": [
+      "Das Restaurant hat jeden Tag geöffnet",
+      "Jedes Kind bekommt ein Spiel",
+      "Die Prospekte bekommen Sie in jedem Reisebüro",
+      "Im Supermarkt gibt es keine Schmerztabletten. Das weiß doch jeder"
+    ]
+  },
+  {
+    "ID": "648",
+    "word": "der Enkel, - / die Enkelin, -nen",
+    "meaning": "the grandson / granddaughter",
+    "examples": [
+      "Alle meine Enkel gehen schon zur Schule."
+    ]
+  },
+  {
+    "ID": "607",
+    "word": "einpacken",
+    "meaning": "to pack",
+    "examples": [
+      "1. Hast du Handtücher eingepackt?",
+      "Soll ich Ihnen das als Geschenk einpacken?"
+    ]
+  },
+  {
+    "ID": "2407",
+    "word": "üben",
+    "meaning": "to practice",
+    "examples": [
+      "Ich lerne gerade Gitarre spielen. Ich übe jeden Tag zwei Stunden."
+    ]
+  },
+  {
+    "ID": "1239",
+    "word": "die Kanne, -n",
+    "meaning": "the pot, the jug",
+    "examples": [
+      "Das ist aber eine schöne Teekanne. – Ja, die ist aus China",
+      "Bitte einen Kaffee! – Eine Tasse oder ein Kännchen?"
+    ]
+  },
+  {
+    "ID": "1162",
+    "word": "der Hut, ¨-e",
+    "meaning": "the hat",
+    "examples": [
+      "Sie sollten im Sommer nicht ohne Hut in die Sonne gehen"
+    ]
+  },
+  {
+    "ID": "1294",
+    "word": "das Klima",
+    "meaning": "climate",
+    "examples": [
+      "Alle sagen, dass sich das Klima ändert"
+    ]
+  },
+  {
+    "ID": "140",
+    "word": "ärgerlich",
+    "meaning": "annoying",
+    "examples": [
+      "Der Zug hat schon wieder Verspätung. Das ist wirklich ärgerlich."
+    ]
+  },
+  {
+    "ID": "2573",
+    "word": "verraten",
+    "meaning": "to betray",
+    "examples": [
+      "Wer hat dir das Geheimnis verraten?",
+      "Sein Blick verriet mir, dass er verletzt ist."
+    ]
+  },
+  {
+    "ID": "2711",
+    "word": "werden",
+    "meaning": "to become",
+    "examples": [
+      "Es wird kalt.",
+      "Ich habe morgen Geburtstag. − Wie alt wirst du denn?",
+      "Warum fährst du so schnell? Bist du verrückt geworden?!",
+      "Mein Sohn möchte Polizist werden.",
+      "Wohin fahren Sie in Urlaub? – Ich glaube, wir werden dieses Jahr zu Hause bleiben."
+    ]
+  },
+  {
+    "ID": "2401",
+    "word": "die Tür, -en",
+    "meaning": "door",
+    "examples": [
+      "Machen Sie bitte die Tür zu! Es zieht."
+    ]
+  },
+  {
+    "ID": "2439",
+    "word": "um",
+    "meaning": "at",
+    "examples": [
+      "Wir treffen uns um 8 Uhr.",
+      "Die Apotheke ist gleich um die Ecke.",
+      "Die Benzinpreise sind schon wieder um 3 % gestiegen."
+    ]
+  },
+  {
+    "ID": "2522",
+    "word": "sich verbrennen",
+    "meaning": "to burn oneself",
+    "examples": [
+      "Ich werde alle Briefe verbrennen.",
+      "Der Herd war noch heiß. Ich habe mich verbrannt."
+    ]
+  },
+  {
+    "ID": "1573",
+    "word": "die Mitte",
+    "meaning": "the middle",
+    "examples": [
+      "Wo möchten Sie sitzen? – In der Mitte.",
+      "Bis Mitte der Woche bin ich fertig.",
+      "Ich habe Urlaub bis Mitte August.",
+      "Den Schrank stellen wir ans Fenster, den Tisch in die Mitte."
+    ]
+  },
+  {
+    "ID": "158",
+    "word": "aufhalten",
+    "meaning": "to hold up",
+    "examples": [
+      "Wo hält er sich gerade auf? – In München.",
+      "Darf ich Ihnen die Tür aufhalten?",
+      "Entschuldigen Sie die Verspätung, ich wurde aufgehalten."
+    ]
+  },
+  {
+    "ID": "273",
+    "word": "sich befinden",
+    "meaning": "to be located",
+    "examples": [
+      "Das Bord-Bistro befindet sich in der Mitte des Zuges."
+    ]
+  },
+  {
+    "ID": "106",
+    "word": "ansehen",
+    "meaning": "to look at",
+    "examples": [
+      "Warum siehst du mich so erschrocken an?",
+      "Darf ich eure Urlaubsfotos ansehen?"
+    ]
+  },
+  {
+    "ID": "1670",
+    "word": "niemand",
+    "meaning": "nobody",
+    "examples": [
+      "Ich habe geklingelt. Aber es war niemand zu Hause."
+    ]
+  },
+  {
+    "ID": "1398",
+    "word": "das Kuvert, -s (A) → der Briefumschlag; Couvert (CH)",
+    "meaning": "the envelope",
+    "examples": [
+      "Ich hätte gern 50 Kuverts und Briefmarken dazu"
+    ]
+  },
+  {
+    "ID": "1589",
+    "word": "mögen",
+    "meaning": "to like",
+    "examples": [
+      "Ich mag keinen Reis.",
+      "Möchtest du noch ein Stück Kuchen?",
+      "Ich möchte gern Herrn Schmidt sprechen.",
+      "Herr Müller, Sie möchten bitte sofort zum Chef kommen."
+    ]
+  },
+  {
+    "ID": "2699",
+    "word": "weit",
+    "meaning": "far",
+    "examples": [
+      "Wie weit ist es noch bis München?",
+      "Wie weit sind Sie mit der Arbeit?",
+      "Die Jacke ist mir zu weit."
+    ]
+  },
+  {
+    "ID": "384",
+    "word": "die Birne, -n",
+    "meaning": "the pear",
+    "examples": [
+      "Möchten Sie Obst? Die Birnen sind heute besonders schön."
+    ]
+  },
+  {
+    "ID": "2342",
+    "word": "die Therapie, -n",
+    "meaning": "therapy",
+    "examples": [
+      "Die Therapie hat geholfen. Es geht mir schon viel besser."
+    ]
+  },
+  {
+    "ID": "2723",
+    "word": "das Wetter",
+    "meaning": "weather",
+    "examples": [
+      "Ich habe Radio gehört. Das Wetter soll schön werden.",
+      "Wir hatten im Urlaub schlechtes Wetter.",
+      "Bei schönem Wetter könnten wir ein Picknick machen."
+    ]
+  },
+  {
+    "ID": "1492",
+    "word": "machen",
+    "meaning": "to do; to make",
+    "examples": [
+      "Was machst du am Wochenende?",
+      "Ich muss jetzt das Essen machen",
+      "Ich habe die Betten noch nicht gemacht",
+      "Soll ich dir die Suppe noch einmal warm machen?",
+      "Meine Arbeit macht mir viel Spaß",
+      "Mach dir bitte keine Sorgen",
+      "Was würden Sie an meiner Stelle machen?",
+      "Tut mir leid. Die Küche hat schon geschlossen. – Da kann man nichts machen",
+      "Entschuldigung! – Das macht doch nichts",
+      "Das macht zusammen 20 Euro"
+    ]
+  },
+  {
+    "ID": "2153",
+    "word": "spannend",
+    "meaning": "exciting",
+    "examples": [
+      "Das Spiel war spannend bis zur letzten Minute."
+    ]
+  },
+  {
+    "ID": "318",
+    "word": "berichten",
+    "meaning": "to report",
+    "examples": [
+      "Alle Zeitungen haben über den Unfall berichtet."
+    ]
+  },
+  {
+    "ID": "2815",
+    "word": "die Zitrone, -n",
+    "meaning": "lemon",
+    "examples": [
+      "Ich hätte gern einen Tee mit Zitrone."
+    ]
+  },
+  {
+    "ID": "2246",
+    "word": "strafbar",
+    "meaning": "punishable",
+    "examples": [
+      "Was du da machst, ist strafbar."
+    ]
+  },
+  {
+    "ID": "2327",
+    "word": "die Temperatur, -en",
+    "meaning": "temperature",
+    "examples": [
+      "Die Temperaturen steigen heute um 10 Grad."
+    ]
+  },
+  {
+    "ID": "1511",
+    "word": "die Mappe, -n",
+    "meaning": "folder",
+    "examples": [
+      "Mein Pass ist in dieser Mappe"
+    ]
+  },
+  {
+    "ID": "2274",
+    "word": "suchen",
+    "meaning": "to search",
+    "examples": [
+      "Ich suche meine Brille.",
+      "Wir suchen eine größere Wohnung.",
+      "Wen suchen Sie?"
+    ]
+  },
+  {
+    "ID": "2402",
+    "word": "der Turm, ¨-e",
+    "meaning": "tower",
+    "examples": [
+      "Kommen Sie auf den Turm von hier sieht man die ganze Stadt."
+    ]
+  },
+  {
+    "ID": "2236",
+    "word": "stinken",
+    "meaning": "to stink",
+    "examples": [
+      "Was stinkt denn hier so? – Das ist der Fisch. Er ist nicht mehr frisch."
+    ]
+  },
+  {
+    "ID": "2201",
+    "word": "die Station, -en",
+    "meaning": "station",
+    "examples": [
+      "Sie müssen an der nächsten Station aussteigen.",
+      "Meine Nachbarin liegt auf Station III."
+    ]
+  },
+  {
+    "ID": "37",
+    "word": "die Adresse, -n",
+    "meaning": "the address",
+    "examples": [
+      "Hast du schon meine neue Adresse?"
+    ]
+  },
+  {
+    "ID": "2845",
+    "word": "zusagen",
+    "meaning": "to accept",
+    "examples": [
+      "Meine Eltern haben uns zum Essen eingeladen. Ich habe zugesagt."
+    ]
+  },
+  {
+    "ID": "56",
+    "word": "als ob",
+    "meaning": "as if",
+    "examples": [
+      "Er tut so, als ob wir nie darüber gesprochen hätten."
+    ]
+  },
+  {
+    "ID": "1406",
+    "word": "die Landwirtschaft",
+    "meaning": "the agriculture",
+    "examples": [
+      "Auf dem Land arbeiten die meisten Leute in der Landwirtschaft"
+    ]
+  },
+  {
+    "ID": "1009",
+    "word": "die Gitarre, -n",
+    "meaning": "the guitar",
+    "examples": [
+      "Ich spiele seit drei Jahren Gitarre"
+    ]
+  },
+  {
+    "ID": "240",
+    "word": "das Ballett, -e",
+    "meaning": "the ballet",
+    "examples": [
+      "Meine Tochter möchte gern Ballett tanzen."
+    ]
+  },
+  {
+    "ID": "2112",
+    "word": "sichtbar",
+    "meaning": "visible",
+    "examples": [
+      "Es gibt keine sichtbaren Verletzungen. Aber wir müssen das Bein trotzdem untersuchen."
+    ]
+  },
+  {
+    "ID": "844",
+    "word": "die Fortbildung, -en",
+    "meaning": "the further education",
+    "examples": [
+      "Die Fortbildung, die ich machen will, ist sehr teuer."
+    ]
+  },
+  {
+    "ID": "753",
+    "word": "das Fahrrad, ¨-er",
+    "meaning": "the bicycle",
+    "examples": [
+      "Sie fährt jeden Morgen mit dem Fahrrad zur Arbeit."
+    ]
+  }
+]

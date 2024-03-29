@@ -1,0 +1,817 @@
+[
+  {
+    "ID": "1819",
+    "word": "pro",
+    "meaning": "per",
+    "examples": [
+      "Eintritt pro Person zwei Euro."
+    ]
+  },
+  {
+    "ID": "268",
+    "word": "bedienen",
+    "meaning": "to serve / to operate",
+    "examples": [
+      "Werden Sie schon bedient?",
+      "Die Kaffeemaschine ist ganz leicht zu bedienen."
+    ]
+  },
+  {
+    "ID": "1663",
+    "word": "neulich",
+    "meaning": "recently",
+    "examples": [
+      "Ich war neulich bei der Bank und habe einen alten Freund getroffen."
+    ]
+  },
+  {
+    "ID": "1171",
+    "word": "indem",
+    "meaning": "by (doing something)",
+    "examples": [
+      "Du kannst die Datei öffnen, indem du hier klickst"
+    ]
+  },
+  {
+    "ID": "2139",
+    "word": "sondern",
+    "meaning": "but (after a negation)",
+    "examples": [
+      "Unser Besuch kommt nicht heute, sondern morgen."
+    ]
+  },
+  {
+    "ID": "448",
+    "word": "das Büro, -s",
+    "meaning": "the office",
+    "examples": [
+      "Unser Büro bleibt samstags geschlossen.",
+      "Ich möchte in einem Büro arbeiten."
+    ]
+  },
+  {
+    "ID": "1036",
+    "word": "groß",
+    "meaning": "big, large, tall",
+    "examples": [
+      "Wir haben einen großen Garten",
+      "Wie groß sind Sie?",
+      "Die Jacke ist mir zu groß",
+      "Wenn die Kinder groß sind, haben wir wieder mehr Zeit",
+      "Ich habe keinen großen Hunger"
+    ]
+  },
+  {
+    "ID": "2203",
+    "word": "statistisch",
+    "meaning": "statistical",
+    "examples": [
+      "Die statistischen Ergebnisse zeigen eine gute Entwicklung."
+    ]
+  },
+  {
+    "ID": "345",
+    "word": "bestätigen",
+    "meaning": "to confirm",
+    "examples": [
+      "Die Firma hat mir den Termin schriftlich bestätigt.",
+      "Ich kann bestätigen, dass er hier war."
+    ]
+  },
+  {
+    "ID": "1083",
+    "word": "der Hauptbahnhof, ¨-e",
+    "meaning": "the main train station",
+    "examples": [
+      "Treffen wir uns am Hauptbahnhof?"
+    ]
+  },
+  {
+    "ID": "2410",
+    "word": "überall",
+    "meaning": "everywhere",
+    "examples": [
+      "Ich habe überall gesucht, aber meine Brille ist weg."
+    ]
+  },
+  {
+    "ID": "2586",
+    "word": "versprechen",
+    "meaning": "to promise",
+    "examples": [
+      "Meine Mutter hat mir versprochen, mich abzuholen."
+    ]
+  },
+  {
+    "ID": "1586",
+    "word": "die Mode, -n",
+    "meaning": "fashion",
+    "examples": [
+      "Wie findest du die neue Mode?",
+      "Welche Farbe ist denn jetzt gerade in Mode?"
+    ]
+  },
+  {
+    "ID": "2766",
+    "word": "worum",
+    "meaning": "about what",
+    "examples": [
+      "Kann ich Herrn Meier sprechen? – Worum geht es denn?"
+    ]
+  },
+  {
+    "ID": "132",
+    "word": "die Arbeitserlaubnis",
+    "meaning": "the work permit",
+    "examples": [
+      "Haben Sie eine Arbeitserlaubnis?"
+    ]
+  },
+  {
+    "ID": "1374",
+    "word": "die Küche, -n",
+    "meaning": "the kitchen; cuisine",
+    "examples": [
+      "Ich suche eine Wohnung mit drei Zimmern, Küche und Bad",
+      "Ich mag die deutsche Küche"
+    ]
+  },
+  {
+    "ID": "917",
+    "word": "das Gebiet, -e",
+    "meaning": "the area",
+    "examples": [
+      "In diesem Gebiet gibt es kaum Industrie.",
+      "Die Zeitschrift berichtet regelmäßig über Fortschritte auf dem Gebiet der Medizin."
+    ]
+  },
+  {
+    "ID": "1215",
+    "word": "jedoch",
+    "meaning": "however",
+    "examples": [
+      "Sie ruft immer wieder an, jedoch ohne Erfolg"
+    ]
+  },
+  {
+    "ID": "2530",
+    "word": "vergeblich",
+    "meaning": "in vain",
+    "examples": [
+      "Ich habe vergeblich versucht, dich anzurufen."
+    ]
+  },
+  {
+    "ID": "2027",
+    "word": "schminken",
+    "meaning": "to apply makeup",
+    "examples": [
+      "Du bist heute sehr schön geschminkt."
+    ]
+  },
+  {
+    "ID": "1956",
+    "word": "die Runde, -n",
+    "meaning": "round",
+    "examples": [
+      "I walk five rounds in the park every day.",
+      "We need to talk about the problems. Best with everyone in a round."
+    ]
+  },
+  {
+    "ID": "2420",
+    "word": "überqueren",
+    "meaning": "to cross",
+    "examples": [
+      "Bitte die Straße nur an der Ampel überqueren."
+    ]
+  },
+  {
+    "ID": "1832",
+    "word": "protestieren",
+    "meaning": "to protest",
+    "examples": [
+      "Wir protestieren gegen den Bau der Autobahn."
+    ]
+  },
+  {
+    "ID": "543",
+    "word": "dumm",
+    "meaning": "stupid / dumb",
+    "examples": [
+      "Entschuldigung, das war dumm von mir.",
+      "Mir ist etwas Dummes passiert.",
+      "Ich fand den Film wirklich sehr dumm."
+    ]
+  },
+  {
+    "ID": "1345",
+    "word": "die Kosten (Pl.)",
+    "meaning": "the costs",
+    "examples": [
+      "Die Kosten für die Reise bekomme ich von der Firma"
+    ]
+  },
+  {
+    "ID": "2",
+    "word": "abbiegen",
+    "meaning": "to turn",
+    "examples": [
+      "An der nächsten Kreuzung müssen Sie links abbiegen."
+    ]
+  },
+  {
+    "ID": "1658",
+    "word": "das Netz, -e",
+    "meaning": "the net",
+    "examples": [
+      "Bitte bring ein Netz Orangen mit.",
+      "Der Ball berührte das Netz.",
+      "Seid ihr schon ans Netz angeschlossen?"
+    ]
+  },
+  {
+    "ID": "858",
+    "word": "frei",
+    "meaning": "free",
+    "examples": [
+      "Is dieser Platz noch frei?",
+      "Morgen haben wir frei.",
+      "Eintritt frei.",
+      "Ich trinke nur alkoholfreies Bier.",
+      "Dieses Medikament ist rezeptfrei.",
+      "Die Schüler können die Arbeitszeit frei wählen."
+    ]
+  },
+  {
+    "ID": "194",
+    "word": "die Auskunft, ¨-e",
+    "meaning": "the information",
+    "examples": [
+      "Ich hätte gern eine Auskunft.",
+      "Die Firma hat eine neue Nummer. Bitte rufen Sie die Auskunft an."
+    ]
+  },
+  {
+    "ID": "1282",
+    "word": "klären",
+    "meaning": "to clarify",
+    "examples": [
+      "Ich hoffe, wir können dieses Problem bald klären"
+    ]
+  },
+  {
+    "ID": "423",
+    "word": "der Briefkasten, ¨-",
+    "meaning": "the mailbox",
+    "examples": [
+      "Ist hier in der Nähe ein Briefkasten?",
+      "Hol bitte mal die Zeitung aus dem Briefkasten."
+    ]
+  },
+  {
+    "ID": "2706",
+    "word": "wenig/wenige",
+    "meaning": "little/few",
+    "examples": [
+      "Essen Sie immer so wenig?",
+      "Ich habe nur wenig geschlafen.",
+      "Hier gibt es nur wenige Geschäfte."
+    ]
+  },
+  {
+    "ID": "2482",
+    "word": "der Unterricht",
+    "meaning": "lesson",
+    "examples": [
+      "The lesson lasts from 17 to 19 hours."
+    ]
+  },
+  {
+    "ID": "1172",
+    "word": "individuell",
+    "meaning": "individual",
+    "examples": [
+      "Die Lehrerin versucht, jedes Kind individuell zu fördern"
+    ]
+  },
+  {
+    "ID": "233",
+    "word": "die Straßenbahn, -en",
+    "meaning": "the tram",
+    "examples": [
+      "Nehmen Sie die Straßenbahn Nr. 16."
+    ]
+  },
+  {
+    "ID": "1337",
+    "word": "die Kopie, -n",
+    "meaning": "copy",
+    "examples": [
+      "Machst du mir bitte eine Kopie?"
+    ]
+  },
+  {
+    "ID": "2471",
+    "word": "unter",
+    "meaning": "under",
+    "examples": [
+      "Unter uns wohnt eine Familie mit drei Kindern.",
+      "Die CDs sind im Regal unter dem Fernseher."
+    ]
+  },
+  {
+    "ID": "2360",
+    "word": "das Tor, -e",
+    "meaning": "gate",
+    "examples": [
+      "Hinter dem Tor geht es zur Fabrik.",
+      "Die Mannschaft konnte vier Tore schießen."
+    ]
+  },
+  {
+    "ID": "1557",
+    "word": "die Miete, -n",
+    "meaning": "rent",
+    "examples": [
+      "Unsere Miete ist sehr hoch",
+      "Wie viel Miete bezahlst du?"
+    ]
+  },
+  {
+    "ID": "1716",
+    "word": "der Opa, -s",
+    "meaning": "the grandpa",
+    "examples": [
+      "Mein Opa heißt Hans."
+    ]
+  },
+  {
+    "ID": "1071",
+    "word": "die Hand, ¨-e",
+    "meaning": "the hand",
+    "examples": [
+      "Wasch dir bitte die Hände vor dem Essen",
+      "Gib mir bitte deine Hand. Wir gehen jetzt über die Straße"
+    ]
+  },
+  {
+    "ID": "1251",
+    "word": "die Kartoffel, -n → Erdapfel (A)",
+    "meaning": "the potato",
+    "examples": [
+      "Kann ich bitte noch Kartoffeln bekommen?"
+    ]
+  },
+  {
+    "ID": "133",
+    "word": "arbeitslos",
+    "meaning": "unemployed",
+    "examples": [
+      "Wie lange sind Sie schon arbeitslos?"
+    ]
+  },
+  {
+    "ID": "2311",
+    "word": "tauschen",
+    "meaning": "to exchange",
+    "examples": [
+      "Ich würde meinen Kuchen gegen dein Brot tauschen.",
+      "Wollen wir die Plätze tauschen?"
+    ]
+  },
+  {
+    "ID": "1763",
+    "word": "der Pensionist, -en / die Pensionistin, -nen (A) → Rentner (D, CH)",
+    "meaning": "pensioner",
+    "examples": [
+      "Meine Großmutter arbeitet nicht mehr. Sie ist Pensionistin."
+    ]
+  },
+  {
+    "ID": "173",
+    "word": "aufwachen",
+    "meaning": "to wake up",
+    "examples": [
+      "Von dem Lärm bin ich aufgewacht."
+    ]
+  },
+  {
+    "ID": "2053",
+    "word": "die Schuld",
+    "meaning": "the fault",
+    "examples": [
+      "Es ist nicht meine Schuld, dass das nicht geklappt hat."
+    ]
+  },
+  {
+    "ID": "1527",
+    "word": "die Medizin",
+    "meaning": "medicine",
+    "examples": [
+      "Du musst noch deine Medizin nehmen",
+      "Mein Sohn will Medizin studieren"
+    ]
+  },
+  {
+    "ID": "1545",
+    "word": "menschlich",
+    "meaning": "human",
+    "examples": [
+      "Fehler zu machen ist menschlich"
+    ]
+  },
+  {
+    "ID": "2479",
+    "word": "unternehmen",
+    "meaning": "to do something",
+    "examples": [
+      "Wollen wir heute Abend noch etwas unternehmen?"
+    ]
+  },
+  {
+    "ID": "1082",
+    "word": "Haupt-",
+    "meaning": "main, principal",
+    "examples": [
+      "die Hauptstadt ¨-e Berlin ist die Hauptstadt von Deutschland"
+    ]
+  },
+  {
+    "ID": "686",
+    "word": "ergänzen",
+    "meaning": "to supplement / to complete",
+    "examples": [
+      "Ergänzen Sie bitte die fehlenden Angaben."
+    ]
+  },
+  {
+    "ID": "2164",
+    "word": "der Speisewagen, -",
+    "meaning": "dining car",
+    "examples": [
+      "Wo ist der Speisewagen?"
+    ]
+  },
+  {
+    "ID": "1180",
+    "word": "innen",
+    "meaning": "inside",
+    "examples": [
+      "Der Lichtschalter ist innen links"
+    ]
+  },
+  {
+    "ID": "671",
+    "word": "die Entwicklung, -en",
+    "meaning": "the development",
+    "examples": [
+      "Genug Schlaf ist wichtig für die Entwicklung Ihres Kindes."
+    ]
+  },
+  {
+    "ID": "182",
+    "word": "der Ausdruck, ¨-e",
+    "meaning": "the expression",
+    "examples": [
+      "Diesen Ausdruck habe ich noch nie gehört.",
+      "Machen Sie doch bitte einen Ausdruck von der E-Mail."
+    ]
+  },
+  {
+    "ID": "1772",
+    "word": "die Pfanne, -n",
+    "meaning": "the pan",
+    "examples": [
+      "Hast du keine größere Pfanne? Ich möchte Kartoffeln kochen."
+    ]
+  },
+  {
+    "ID": "2383",
+    "word": "treiben",
+    "meaning": "to do (sports)",
+    "examples": [
+      "Welchen Sport treibst du?"
+    ]
+  },
+  {
+    "ID": "2293",
+    "word": "tanken",
+    "meaning": "to refuel",
+    "examples": [
+      "Wir müssen unbedingt tanken. Wir haben fast kein Benzin mehr.",
+      "Bitte einmal volltanken!"
+    ]
+  },
+  {
+    "ID": "1656",
+    "word": "nervös",
+    "meaning": "nervous",
+    "examples": [
+      "Das Warten macht mich ganz nervös.",
+      "Bei Prüfungen bin ich immer sehr nervös."
+    ]
+  },
+  {
+    "ID": "1216",
+    "word": "jemals",
+    "meaning": "ever",
+    "examples": [
+      "Hast du jemals von dem Problem gehört? – Nein, nie"
+    ]
+  },
+  {
+    "ID": "1526",
+    "word": "das Medikament, -e",
+    "meaning": "medication",
+    "examples": [
+      "Dieses Medikament gibt es nur auf Rezept",
+      "Der Arzt hat mir ein Medikament verschrieben",
+      "Für dieses Medikament müssen Sie fünf Euro dazu zahlen",
+      "Dieses Medikament hat mir sehr gut geholfen"
+    ]
+  },
+  {
+    "ID": "1381",
+    "word": "kulturell",
+    "meaning": "cultural",
+    "examples": [
+      "Es gibt große kulturelle Unterschiede zwischen den Ländern"
+    ]
+  },
+  {
+    "ID": "1841",
+    "word": "die Puppe, -n",
+    "meaning": "the doll",
+    "examples": [
+      "Unsere kleine Tochter bekommt zum Geburtstag eine Puppe."
+    ]
+  },
+  {
+    "ID": "2694",
+    "word": "sich weigern",
+    "meaning": "to refuse",
+    "examples": [
+      "Ich weigere mich, diese Arbeit zu tun."
+    ]
+  },
+  {
+    "ID": "2713",
+    "word": "das Werk, -e",
+    "meaning": "plant / work",
+    "examples": [
+      "Wir haben gestern das Werk besichtigt."
+    ]
+  },
+  {
+    "ID": "1672",
+    "word": "nirgendwo",
+    "meaning": "nowhere",
+    "examples": [
+      "Die Schlüssel kann ich nirgendwo finden."
+    ]
+  },
+  {
+    "ID": "74",
+    "word": "die Änderung, -en",
+    "meaning": "the change",
+    "examples": [
+      "Es gibt eine Programmänderung."
+    ]
+  },
+  {
+    "ID": "2480",
+    "word": "der Unternehmer, - / die Unternehmerin, -nen",
+    "meaning": "entrepreneur",
+    "examples": [
+      "Sie ist erfolgreiche Unternehmerin."
+    ]
+  },
+  {
+    "ID": "1646",
+    "word": "neblig",
+    "meaning": "foggy",
+    "examples": [
+      "Fahr vorsichtig! Es ist neblig."
+    ]
+  },
+  {
+    "ID": "1727",
+    "word": "der Ordner, -",
+    "meaning": "the binder",
+    "examples": [
+      "Für meine Übungen im Deutschkurs habe ich mir einen Ordner gekauft."
+    ]
+  },
+  {
+    "ID": "1402",
+    "word": "die Lage",
+    "meaning": "the situation; location",
+    "examples": [
+      "Wir suchen eine Wohnung in zentraler Lage"
+    ]
+  },
+  {
+    "ID": "1378",
+    "word": "kühl",
+    "meaning": "cool",
+    "examples": [
+      "Es ist kühl draußen. Zieh dir eine Jacke an"
+    ]
+  },
+  {
+    "ID": "15",
+    "word": "abholen",
+    "meaning": "to pick up",
+    "examples": [
+      "Meine Freundin hat mich vom Bahnhof abgeholt."
+    ]
+  },
+  {
+    "ID": "1320",
+    "word": "die Konfitüre, -n (CH)",
+    "meaning": "jam",
+    "examples": [
+      "Bring bitte noch ein Glas Konfitüre mit"
+    ]
+  },
+  {
+    "ID": "2750",
+    "word": "der Wissenschaftler, - / die Wissenschaftlerin, -nen",
+    "meaning": "scientist",
+    "examples": [
+      "Sie ist Wissenschaftlerin an der Universität."
+    ]
+  },
+  {
+    "ID": "1427",
+    "word": "leben",
+    "meaning": "to live",
+    "examples": [
+      "Leben Ihre Großeltern noch?",
+      "Herr Müller hat lange im Ausland gelebt",
+      "Von der Rente allein kann meine Tante nicht leben",
+      "Ich lebe noch bei meinen Eltern"
+    ]
+  },
+  {
+    "ID": "877",
+    "word": "fröhlich",
+    "meaning": "cheerful",
+    "examples": [
+      "Die Musik klingt fröhlich.",
+      "Sie ist ein fröhlicher Mensch."
+    ]
+  },
+  {
+    "ID": "2664",
+    "word": "die Wahrheit, -en",
+    "meaning": "truth",
+    "examples": [
+      "Sag mir bitte die Wahrheit. Hast du wieder geraucht?"
+    ]
+  },
+  {
+    "ID": "1755",
+    "word": "der Patient, -en / die Patientin, -nen",
+    "meaning": "the patient",
+    "examples": [
+      "Ich bin Patientin bei Dr. Hausner. Ich möchte bitte einen Termin."
+    ]
+  },
+  {
+    "ID": "1448",
+    "word": "der Leiter, - / die Leiterin, -nen",
+    "meaning": "the leader; the head",
+    "examples": [
+      "Wie heißt die Leiterin der Schule?"
+    ]
+  },
+  {
+    "ID": "1732",
+    "word": "original",
+    "meaning": "original",
+    "examples": [
+      "Ich muss das originale Dokument abgeben."
+    ]
+  },
+  {
+    "ID": "1223",
+    "word": "die Jugendherberge, -n",
+    "meaning": "the youth hostel",
+    "examples": [
+      "Wo habt ihr übernachtet? – In einer Jugendherberge"
+    ]
+  },
+  {
+    "ID": "439",
+    "word": "buchen",
+    "meaning": "to book",
+    "examples": [
+      "Ich habe für morgen einen Flug nach Rom gebucht."
+    ]
+  },
+  {
+    "ID": "199",
+    "word": "ausreichen",
+    "meaning": "to suffice",
+    "examples": [
+      "Das Geld muss bis März ausreichen.",
+      "Seine Kenntnisse reichen für diese Arbeit aus."
+    ]
+  },
+  {
+    "ID": "725",
+    "word": "erwarten",
+    "meaning": "to expect",
+    "examples": [
+      "Ich erwarte einen Anruf aus Berlin.",
+      "Frau Müller erwartet ein Kind."
+    ]
+  },
+  {
+    "ID": "1061",
+    "word": "die Halle, -n",
+    "meaning": "the hall",
+    "examples": [
+      "Die Stadt baut eine neue Sporthalle"
+    ]
+  },
+  {
+    "ID": "1533",
+    "word": "die Mehrwertsteuer",
+    "meaning": "value-added tax (VAT)",
+    "examples": [
+      "Die Mehrwertsteuer bei diesem Produkt beträgt 20 %"
+    ]
+  },
+  {
+    "ID": "2533",
+    "word": "der Vergleich, -e",
+    "meaning": "comparison",
+    "examples": [
+      "Ein Vergleich ist schwer möglich.",
+      "Im Vergleich zum Wetter letzte Woche ist es heute warm."
+    ]
+  },
+  {
+    "ID": "1501",
+    "word": "malen",
+    "meaning": "to paint",
+    "examples": [
+      "Das Bild hat mein Vater gemalt"
+    ]
+  },
+  {
+    "ID": "1570",
+    "word": "der Mitarbeiter, -/die Mitarbeiterin, -nen",
+    "meaning": "the employee, male/female",
+    "examples": [
+      "Unsere Firma hat sieben Mitarbeiter."
+    ]
+  },
+  {
+    "ID": "1258",
+    "word": "(sich etwas) kaufen",
+    "meaning": "to buy",
+    "examples": [
+      "Im Supermarkt kauft man sehr günstig ein",
+      "Ich habe mir einen Pullover gekauft"
+    ]
+  },
+  {
+    "ID": "2021",
+    "word": "der Schluss",
+    "meaning": "end",
+    "examples": [
+      "Ich muss jetzt Schluss machen. Es klingelt an der Tür.",
+      "Zum Schluss nochmals herzlichen Dank."
+    ]
+  },
+  {
+    "ID": "104",
+    "word": "der Anschluss, ¨-e",
+    "meaning": "the connection",
+    "examples": [
+      "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+      "Ich brauche in meiner Wohnung einen Telefonanschluss."
+    ]
+  },
+  {
+    "ID": "2640",
+    "word": "vorlesen",
+    "meaning": "to read aloud",
+    "examples": [
+      "Ich lese meinen Kindern oft etwas vor."
+    ]
+  },
+  {
+    "ID": "441",
+    "word": "der Buchstabe, -n",
+    "meaning": "the letter",
+    "examples": [
+      "Gibt es diesen Buchstaben auch in deiner Muttersprache?",
+      "Ihr Name beginnt mit K. – Buchstabe K ist in Zimmer 3. Bitte warten Sie dort."
+    ]
+  }
+]

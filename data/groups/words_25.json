@@ -1,0 +1,816 @@
+[
+  {
+    "ID": "963",
+    "word": "genug",
+    "meaning": "enough",
+    "examples": [
+      "Es ist noch genug Suppe da.",
+      "Ich habe jetzt lange genug gewartet.",
+      "Ich verdiene nicht genug."
+    ]
+  },
+  {
+    "ID": "326",
+    "word": "beschäftigen",
+    "meaning": "to employ / to occupy",
+    "examples": [
+      "Womit haben Sie sich bei Ihrer Arbeit beschäftigt?",
+      "Seit wann sind Sie bei dieser Firma beschäftigt?"
+    ]
+  },
+  {
+    "ID": "1310",
+    "word": "der Koch, ¨-e / die Köchin, -nen",
+    "meaning": "the cook, the chef",
+    "examples": [
+      "Ein Freund von mir ist Koch in einem teuren Restaurant"
+    ]
+  },
+  {
+    "ID": "1342",
+    "word": "der Korridor, -e (D CH) → Gang; Flur (D)",
+    "meaning": "the corridor",
+    "examples": [
+      "Wir warten draußen im Korridor"
+    ]
+  },
+  {
+    "ID": "2756",
+    "word": "wohnen",
+    "meaning": "to live",
+    "examples": [
+      "Wir wohnen in einem alten Haus.",
+      "Ich wohne in München.",
+      "Wohnst du noch bei deinen Eltern?"
+    ]
+  },
+  {
+    "ID": "2698",
+    "word": "-weise",
+    "meaning": "wise/partly",
+    "examples": [
+      "War der Test schwierig? – Teilweise.",
+      "Das ist möglicherweise nicht so einfach."
+    ]
+  },
+  {
+    "ID": "1324",
+    "word": "können",
+    "meaning": "can, to be able to",
+    "examples": [
+      "Ich kann den schweren Koffer nicht tragen",
+      "Sie können mit dem Bus zum Bahnhof fahren",
+      "Kann ich jetzt nach Hause gehen?",
+      "Können Sie mir helfen?",
+      "Ich kann sehr gut Englisch und Deutsch",
+      "Es kann sein, dass es heute noch regnet"
+    ]
+  },
+  {
+    "ID": "815",
+    "word": "die Flasche, -n",
+    "meaning": "the bottle",
+    "examples": [
+      "Wo kann man die leeren Flaschen zurückgeben?",
+      "Eine Flasche Bier, bitte."
+    ]
+  },
+  {
+    "ID": "626",
+    "word": "die Einzelheit, -en",
+    "meaning": "detail",
+    "examples": [
+      "Du musst mir das in allen Einzelheiten erzählen."
+    ]
+  },
+  {
+    "ID": "2693",
+    "word": "weich",
+    "meaning": "soft",
+    "examples": [
+      "Ich möchte zum Frühstück ein weiches Ei.",
+      "Das Bett im Hotel war mir zu weich."
+    ]
+  },
+  {
+    "ID": "80",
+    "word": "angeben",
+    "meaning": "to specify",
+    "examples": [
+      "Bitte geben Sie Ihre genaue Adresse an."
+    ]
+  },
+  {
+    "ID": "2394",
+    "word": "trocknen",
+    "meaning": "to dry",
+    "examples": [
+      "Ich habe mir die Haare getrocknet.",
+      "Die Farbe ist schnell getrocknet."
+    ]
+  },
+  {
+    "ID": "2178",
+    "word": "sportlich",
+    "meaning": "sporty",
+    "examples": [
+      "Ich bin nicht sehr sportlich.",
+      "Ich mag bequeme und sportliche Kleidung."
+    ]
+  },
+  {
+    "ID": "1948",
+    "word": "der Rücken, -",
+    "meaning": "back",
+    "examples": [
+      "My back hurts."
+    ]
+  },
+  {
+    "ID": "2444",
+    "word": "die Umgebung, -en",
+    "meaning": "surroundings",
+    "examples": [
+      "In der Umgebung von Berlin kann man schöne Ausflüge machen."
+    ]
+  },
+  {
+    "ID": "10",
+    "word": "Abgase (Pl.)",
+    "meaning": "exhaust gases",
+    "examples": [
+      "Abgase aus Industrie und Haushalten verschmutzen die Luft."
+    ]
+  },
+  {
+    "ID": "519",
+    "word": "die Distanz, -en",
+    "meaning": "the distance",
+    "examples": [
+      "Diese Firma transportiert Waren auch über große Distanzen."
+    ]
+  },
+  {
+    "ID": "179",
+    "word": "die Ausbildung, -en",
+    "meaning": "the training",
+    "examples": [
+      "Ich habe meine Ausbildung abgeschlossen.",
+      "Mit deiner guten Ausbildung findest du sicher eine Arbeit."
+    ]
+  },
+  {
+    "ID": "1208",
+    "word": "die Jause, -n (A) → Imbiss (A); Znüni/Zvieri (CH)",
+    "meaning": "the snack",
+    "examples": [
+      "Es ist Zeit für eine kleine Jause"
+    ]
+  },
+  {
+    "ID": "1035",
+    "word": "die Grippe",
+    "meaning": "the flu",
+    "examples": [
+      "Ich habe eine Grippe und kann leider nicht kommen"
+    ]
+  },
+  {
+    "ID": "1918",
+    "word": "reparieren",
+    "meaning": "to repair",
+    "examples": [
+      "Das Fahrrad kann man leider nicht mehr reparieren."
+    ]
+  },
+  {
+    "ID": "2858",
+    "word": "die Zustimmung, -en",
+    "meaning": "approval",
+    "examples": [
+      "Wir brauchen Ihre Zustimmung, um Ihnen Werbung zu schicken."
+    ]
+  },
+  {
+    "ID": "1274",
+    "word": "das Kino, -s",
+    "meaning": "the cinema",
+    "examples": [
+      "Wollen wir ins Kino gehen?"
+    ]
+  },
+  {
+    "ID": "396",
+    "word": "der Blick, -e",
+    "meaning": "the view",
+    "examples": [
+      "Von hier hat man einen tollen Blick über die Stadt."
+    ]
+  },
+  {
+    "ID": "2841",
+    "word": "zunehmen",
+    "meaning": "to gain weight",
+    "examples": [
+      "Ich habe im Urlaub 1 Kilo zugenommen."
+    ]
+  },
+  {
+    "ID": "1602",
+    "word": "die Mülltonne, -n",
+    "meaning": "the garbage bin",
+    "examples": [
+      "Die Mülltonne ist voll."
+    ]
+  },
+  {
+    "ID": "814",
+    "word": "die Fläche, -n",
+    "meaning": "the area",
+    "examples": [
+      "Unsere Wohnung hat eine Wohnfläche von 100 m²."
+    ]
+  },
+  {
+    "ID": "328",
+    "word": "der Bescheid, -e",
+    "meaning": "the notification",
+    "examples": [
+      "Den endgültigen Bescheid erhalten Sie in etwa vier Wochen."
+    ]
+  },
+  {
+    "ID": "1971",
+    "word": "sämtliche",
+    "meaning": "all",
+    "examples": [
+      "Sämtliche Fenster müssen geschlossen bleiben."
+    ]
+  },
+  {
+    "ID": "1773",
+    "word": "der Pfeffer",
+    "meaning": "the pepper",
+    "examples": [
+      "Bringen Sie uns bitte Pfeffer und Salz."
+    ]
+  },
+  {
+    "ID": "2267",
+    "word": "das Studio, -s",
+    "meaning": "studio",
+    "examples": [
+      "Zu Gast im Studio sind heute ..."
+    ]
+  },
+  {
+    "ID": "1419",
+    "word": "lassen",
+    "meaning": "to let; to leave",
+    "examples": [
+      "Ich habe mein Gepäck am Bahnhof gelassen",
+      "Am Samstag lasse ich mir die Haare schneiden",
+      "Ich lasse meine Kinder abends nur eine Stunde fernsehen",
+      "Kann ich mein Auto hier stehen lassen?",
+      "Wo habe ich nur meine Brille gelassen?",
+      "Ich habe meinen Anzug reinigen lassen",
+      "Ich kann meine kleine Tochter noch nicht allein lassen",
+      "Lass mich in Ruhe. Ich muss arbeiten"
+    ]
+  },
+  {
+    "ID": "1153",
+    "word": "das Hotel, -s",
+    "meaning": "the hotel",
+    "examples": [
+      "Im Urlaub sind wir in einem Hotel am Meer"
+    ]
+  },
+  {
+    "ID": "2662",
+    "word": "wahnsinnig",
+    "meaning": "crazy",
+    "examples": [
+      "Du fährst viel zu schnell. Bist du wahnsinnig?!",
+      "Diese Musik gefällt mir wahnsinnig gut."
+    ]
+  },
+  {
+    "ID": "1474",
+    "word": "die Literatur",
+    "meaning": "literature",
+    "examples": [
+      "Ich interessiere mich für Literatur"
+    ]
+  },
+  {
+    "ID": "2757",
+    "word": "der Wohnort, -e",
+    "meaning": "place of residence",
+    "examples": [
+      "Tragen Sie bitte Straße und Wohnort ein."
+    ]
+  },
+  {
+    "ID": "1976",
+    "word": "sauber",
+    "meaning": "clean",
+    "examples": [
+      "Bringen Sie mir bitte ein sauberes Glas!",
+      "Ich muss noch das Bad sauber machen."
+    ]
+  },
+  {
+    "ID": "672",
+    "word": "die Erde",
+    "meaning": "the earth / soil",
+    "examples": [
+      "Die Pflanzen brauchen neue Erde.",
+      "Mein Sohn hat das Glas auf die Erde fallen lassen."
+    ]
+  },
+  {
+    "ID": "1272",
+    "word": "der Kindergarten, ¨-",
+    "meaning": "the kindergarten",
+    "examples": [
+      "Morgens bringe ich meinen Sohn in den Kindergarten"
+    ]
+  },
+  {
+    "ID": "740",
+    "word": "der Export, -e",
+    "meaning": "the export",
+    "examples": [
+      "Hier ist die Firma Schulz Import und Export."
+    ]
+  },
+  {
+    "ID": "1390",
+    "word": "der Kurs, -e",
+    "meaning": "the course; rate",
+    "examples": [
+      "I besuche regelmäßig einen Deutschkurs"
+    ]
+  },
+  {
+    "ID": "329",
+    "word": "Bescheid sagen",
+    "meaning": "to inform",
+    "examples": [
+      "Ich erkundige mich nach den Terminen und sage Ihnen dann Bescheid."
+    ]
+  },
+  {
+    "ID": "2403",
+    "word": "die Tüte, -n",
+    "meaning": "bag",
+    "examples": [
+      "Brauchen Sie eine Tüte für den Salat?"
+    ]
+  },
+  {
+    "ID": "2767",
+    "word": "das Wort, ¨-er",
+    "meaning": "word",
+    "examples": [
+      "Ich kenne diese beiden Wörter nicht."
+    ]
+  },
+  {
+    "ID": "18",
+    "word": "ablehnen",
+    "meaning": "to reject",
+    "examples": [
+      "Er hat mein Angebot, ihm zu helfen, abgelehnt."
+    ]
+  },
+  {
+    "ID": "1553",
+    "word": "die Methode, -n",
+    "meaning": "method",
+    "examples": [
+      "Weißt du eine gute Methode, um schnell gut Deutsch zu lernen?"
+    ]
+  },
+  {
+    "ID": "1828",
+    "word": "das Programm, -e",
+    "meaning": "the program",
+    "examples": [
+      "Hast du schon ins Programm geguckt? Gibt es heute im Fernsehen einen schönen Film?",
+      "Mit welchen Programmen arbeitest du am Computer?"
+    ]
+  },
+  {
+    "ID": "1152",
+    "word": "die Hose, -n",
+    "meaning": "the trousers, the pants",
+    "examples": [
+      "Können Sie die Hose etwas kürzer machen?"
+    ]
+  },
+  {
+    "ID": "364",
+    "word": "bevor",
+    "meaning": "before",
+    "examples": [
+      "Bevor wir gehen, möchte ich noch etwas essen."
+    ]
+  },
+  {
+    "ID": "1881",
+    "word": "recht-",
+    "meaning": "right (as in \"right hand\")",
+    "examples": [
+      "Ich habe mir den rechten Arm gebrochen."
+    ]
+  },
+  {
+    "ID": "991",
+    "word": "gesund",
+    "meaning": "healthy",
+    "examples": [
+      "Ich hatte Grippe. Jetzt bin ich wieder gesund",
+      "Zu viel Zucker ist nicht gesund"
+    ]
+  },
+  {
+    "ID": "2038",
+    "word": "die Schokolade",
+    "meaning": "chocolate",
+    "examples": [
+      "Ich habe eine Tafel Schokolade gegessen.",
+      "Bringen Sie mir bitte eine Tasse heiße Schokolade."
+    ]
+  },
+  {
+    "ID": "54",
+    "word": "das Alphabet, -e",
+    "meaning": "the alphabet",
+    "examples": [
+      "Wie viele Buchstaben hat das Alphabet in Ihrer Sprache?"
+    ]
+  },
+  {
+    "ID": "2665",
+    "word": "während",
+    "meaning": "while",
+    "examples": [
+      "Während ich arbeite, höre ich oft Musik.",
+      "Während der Prüfung dürfen wir unsere Handys nicht benutzen."
+    ]
+  },
+  {
+    "ID": "1797",
+    "word": "der Polizist, -en / die Polizistin, -nen",
+    "meaning": "the police officer",
+    "examples": [
+      "Die Ampel war kaputt. Ein Polizist hat den Verkehr geregelt."
+    ]
+  },
+  {
+    "ID": "270",
+    "word": "die Bedingung, -en",
+    "meaning": "the condition",
+    "examples": [
+      "Wenn Sie unsere Bedingungen akzeptieren, können wir einen Vertrag machen.",
+      "Wir haben in unserem Betrieb sehr gute Arbeitsbedingungen."
+    ]
+  },
+  {
+    "ID": "511",
+    "word": "digital",
+    "meaning": "digital",
+    "examples": [
+      "Ich habe eine Digitaluhr gekauft. Die geht genauer als meine alte Uhr."
+    ]
+  },
+  {
+    "ID": "1327",
+    "word": "der Konsum",
+    "meaning": "consumption",
+    "examples": [
+      "Der Konsum von Lebensmitteln steigt"
+    ]
+  },
+  {
+    "ID": "2135",
+    "word": "solange",
+    "meaning": "as long as",
+    "examples": [
+      "Solange Sie Fieber haben, dürfen Sie auf keinen Fall arbeiten gehen."
+    ]
+  },
+  {
+    "ID": "1276",
+    "word": "die Kirche, -n",
+    "meaning": "the church",
+    "examples": [
+      "Diese Kirche ist aus dem 12. Jahrhundert"
+    ]
+  },
+  {
+    "ID": "2160",
+    "word": "der Spaziergang, ¨-e",
+    "meaning": "walk",
+    "examples": [
+      "Abends mache ich oft einen Spaziergang durch das Viertel."
+    ]
+  },
+  {
+    "ID": "704",
+    "word": "erleben",
+    "meaning": "to experience",
+    "examples": [
+      "In unserem Urlaub haben wir viel Schönes erlebt."
+    ]
+  },
+  {
+    "ID": "2447",
+    "word": "die Umleitung, -en",
+    "meaning": "detour",
+    "examples": [
+      "Es gibt wegen des Unfalls eine Umleitung."
+    ]
+  },
+  {
+    "ID": "1248",
+    "word": "die Karte, -n",
+    "meaning": "the card, the ticket",
+    "examples": [
+      "Schreibst du mir eine Karte aus dem Urlaub?",
+      "Diese Karte gilt nur für die 2. Klasse",
+      "Hast du schon die Karten für das Konzert abgeholt?",
+      "Haben Sie eine Karte von Norddeutschland?",
+      "Herr Ober, bitte die Speisekarte",
+      "Spielen Sie Karten?"
+    ]
+  },
+  {
+    "ID": "1957",
+    "word": "die Rundfahrt, -en",
+    "meaning": "tour",
+    "examples": [
+      "On the second day, we did a tour through the harbor."
+    ]
+  },
+  {
+    "ID": "320",
+    "word": "der Beruf, -e",
+    "meaning": "the profession",
+    "examples": [
+      "Was sind Sie von Beruf?"
+    ]
+  },
+  {
+    "ID": "2608",
+    "word": "verzichten",
+    "meaning": "to do without",
+    "examples": [
+      "Ich verzichte heute auf den Kaffee."
+    ]
+  },
+  {
+    "ID": "867",
+    "word": "der Freund, -e",
+    "meaning": "the friend",
+    "examples": [
+      "Ich sehe meine Freunde nur am Wochenende."
+    ]
+  },
+  {
+    "ID": "1759",
+    "word": "peinlich",
+    "meaning": "embarrassing",
+    "examples": [
+      "Das muss dir nicht peinlich sein.",
+      "Das war eine peinliche Situation."
+    ]
+  },
+  {
+    "ID": "1983",
+    "word": "schaffen",
+    "meaning": "to manage/can",
+    "examples": [
+      "Kannst du mir helfen, die Party vorzubereiten? Ich schaffe das nicht allein."
+    ]
+  },
+  {
+    "ID": "2518",
+    "word": "verbinden",
+    "meaning": "to connect",
+    "examples": [
+      "Wir müssen die Wunde sofort verbinden.",
+      "Sie sind falsch verbunden! Hier ist Müller, nicht Meyer."
+    ]
+  },
+  {
+    "ID": "2229",
+    "word": "still",
+    "meaning": "quiet",
+    "examples": [
+      "Sei doch mal einen Moment still!",
+      "Maria kann nicht still sitzen."
+    ]
+  },
+  {
+    "ID": "2804",
+    "word": "der Zettel, -",
+    "meaning": "note",
+    "examples": [
+      "Hast du einen Zettel für mich? Ich muss etwas aufschreiben."
+    ]
+  },
+  {
+    "ID": "2472",
+    "word": "unter-",
+    "meaning": "lower",
+    "examples": [
+      "Mein Pass ist im unteren Regal."
+    ]
+  },
+  {
+    "ID": "2676",
+    "word": "warten",
+    "meaning": "to wait",
+    "examples": [
+      "Können Sie ein paar Minuten warten?",
+      "Ich warte seit einer Stunde auf den Bus."
+    ]
+  },
+  {
+    "ID": "2744",
+    "word": "die Wirklichkeit",
+    "meaning": "reality",
+    "examples": [
+      "Das Buch beschreibt die Wirklichkeit um 1900 sehr gut.",
+      "Man sagte mir, das Buch kostet nur 9 Euro. In Wirklichkeit kostet es 14 Euro."
+    ]
+  },
+  {
+    "ID": "1039",
+    "word": "gründen",
+    "meaning": "to found, to establish",
+    "examples": [
+      "Frau Bauer hat eine eigene Firma gegründet"
+    ]
+  },
+  {
+    "ID": "1994",
+    "word": "sich scheiden lassen",
+    "meaning": "to get divorced",
+    "examples": [
+      "Meine Nachbarn haben sich scheiden lassen."
+    ]
+  },
+  {
+    "ID": "1034",
+    "word": "der Grill",
+    "meaning": "the grill",
+    "examples": [
+      "Kannst du mir deinen Grill leihen? Wir wollen am Wochenende ein Picknick machen"
+    ]
+  },
+  {
+    "ID": "2390",
+    "word": "treu",
+    "meaning": "faithful",
+    "examples": [
+      "Herr Maier ist ein treuer Kunde von uns."
+    ]
+  },
+  {
+    "ID": "1771",
+    "word": "das Personal",
+    "meaning": "the staff",
+    "examples": [
+      "Dieser Eingang ist nur für das Personal."
+    ]
+  },
+  {
+    "ID": "622",
+    "word": "einzahlen",
+    "meaning": "to deposit",
+    "examples": [
+      "Ich habe gestern Geld auf mein Bankkonto eingezahlt."
+    ]
+  },
+  {
+    "ID": "1129",
+    "word": "hinterlassen",
+    "meaning": "to leave behind",
+    "examples": [
+      "hinterlässt hinterließ hat hinterlassen",
+      "Möchten Sie eine Nachricht hinterlassen?"
+    ]
+  },
+  {
+    "ID": "6",
+    "word": "abfahren",
+    "meaning": "to depart",
+    "examples": [
+      "Unser Zug ist pünktlich abgefahren."
+    ]
+  },
+  {
+    "ID": "1784",
+    "word": "der Pilz, -e",
+    "meaning": "the mushroom",
+    "examples": [
+      "Haben Sie frische Pilze?"
+    ]
+  },
+  {
+    "ID": "2083",
+    "word": "die Seife, -n",
+    "meaning": "soap",
+    "examples": [
+      "Hier gibt es keine Seife."
+    ]
+  },
+  {
+    "ID": "646",
+    "word": "die Energie, -n",
+    "meaning": "energy",
+    "examples": [
+      "Wir müssen Energie sparen.",
+      "Abends habe ich keine Energie mehr, um Sport zu machen."
+    ]
+  },
+  {
+    "ID": "749",
+    "word": "die Fahrbahn, -en",
+    "meaning": "the roadway",
+    "examples": [
+      "Fahren Sie bitte vorsichtig. Es sind Kühe auf der Fahrbahn."
+    ]
+  },
+  {
+    "ID": "2552",
+    "word": "sich verlaufen",
+    "meaning": "to get lost",
+    "examples": [
+      "Gestern haben wir uns im Wald verlaufen. Wir haben erst eine Stunde später den richtigen Weg gefunden."
+    ]
+  },
+  {
+    "ID": "234",
+    "word": "die U-Bahn, -en",
+    "meaning": "the subway",
+    "examples": [
+      "Die letzte U-Bahn geht um 23.15 Uhr."
+    ]
+  },
+  {
+    "ID": "1482",
+    "word": "los/los-",
+    "meaning": "go!, away!",
+    "examples": [
+      "Los! Beeilt euch!",
+      "Gibt es ein Problem? Was ist denn los?",
+      "Achtung – fertig – los!"
+    ]
+  },
+  {
+    "ID": "1958",
+    "word": "der Saal, Säle",
+    "meaning": "hall",
+    "examples": [
+      "For our family celebration, we rented a small hall."
+    ]
+  },
+  {
+    "ID": "509",
+    "word": "dies-",
+    "meaning": "this",
+    "examples": [
+      "Wohin fährst du dieses Jahr in Urlaub?",
+      "Welche Hose nehmen Sie? – Diese hier."
+    ]
+  },
+  {
+    "ID": "1875",
+    "word": "der Rechner, -",
+    "meaning": "the computer",
+    "examples": [
+      "Mein Rechner ist kaputt."
+    ]
+  },
+  {
+    "ID": "1764",
+    "word": "per",
+    "meaning": "by, via",
+    "examples": [
+      "Wie kann ich mich für den Kurs anmelden? – Per Fax oder E-Mail."
+    ]
+  },
+  {
+    "ID": "2853",
+    "word": "der Zuschlag, ¨-e",
+    "meaning": "surcharge",
+    "examples": [
+      "Für diesen Zug müssen Sie einen Zuschlag zahlen."
+    ]
+  }
+]

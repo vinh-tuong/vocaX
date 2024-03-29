@@ -1,0 +1,813 @@
+[
+  {
+    "ID": "2281",
+    "word": "die Suppe, -n",
+    "meaning": "soup",
+    "examples": [
+      "Schmeckt dir die Suppe?"
+    ]
+  },
+  {
+    "ID": "2581",
+    "word": "verschwinden",
+    "meaning": "to disappear",
+    "examples": [
+      "Mein Ausweis ist verschwunden. Hast du ihn vielleicht gesehen?"
+    ]
+  },
+  {
+    "ID": "1997",
+    "word": "der Schein, -e",
+    "meaning": "bill/certificate",
+    "examples": [
+      "Kannst du einen Schein in Kleingeld wechseln?",
+      "Hast du Kleingeld für den Automaten? Ich habe nur Scheine."
+    ]
+  },
+  {
+    "ID": "1312",
+    "word": "der Kollege, -n / die Kollegin, -nen",
+    "meaning": "the colleague",
+    "examples": [
+      "Ich habe guten Kontakt zu meinen Kollegen",
+      "Mein neuer Kollege ist sehr nett"
+    ]
+  },
+  {
+    "ID": "1161",
+    "word": "der Husten",
+    "meaning": "the cough",
+    "examples": [
+      "Haben Sie ein Medikament gegen Husten?"
+    ]
+  },
+  {
+    "ID": "298",
+    "word": "der Bekannte, -n / die Bekannte, -n",
+    "meaning": "the acquaintance",
+    "examples": [
+      "In Hannover wohnen Bekannte von mir."
+    ]
+  },
+  {
+    "ID": "1563",
+    "word": "die Minderheit, -en",
+    "meaning": "minority",
+    "examples": [
+      "Frauen sind in unserer Firma in der Minderheit"
+    ]
+  },
+  {
+    "ID": "1284",
+    "word": "die Klasse, -n",
+    "meaning": "class",
+    "examples": [
+      "In der Klasse sind 24 Schülerinnen und Schüler",
+      "Im Herbst komme ich in die 7. Klasse",
+      "Einmal nach Frankfurt, 1. Klasse bitte"
+    ]
+  },
+  {
+    "ID": "2275",
+    "word": "die Sucht, ¨-e",
+    "meaning": "addiction",
+    "examples": [
+      "Die Sucht nach Medikamenten nimmt zu.",
+      "Er kämpft gegen seine Alkoholsucht.",
+      "Das Internet kann zur Sucht werden."
+    ]
+  },
+  {
+    "ID": "691",
+    "word": "sich erholen",
+    "meaning": "to recover",
+    "examples": [
+      "Im Urlaub habe ich mich sehr gut erholt.",
+      "Er hat sich nach dem Unfall sehr schnell wieder erholt."
+    ]
+  },
+  {
+    "ID": "1873",
+    "word": "die Recherche, -n",
+    "meaning": "research",
+    "examples": [
+      "Für diesen Bericht waren viele Recherchen nötig."
+    ]
+  },
+  {
+    "ID": "968",
+    "word": "das Gerät, -e",
+    "meaning": "device / appliance",
+    "examples": [
+      "Ich kaufe meine Elektrogeräte immer gebraucht. Das ist viel billiger."
+    ]
+  },
+  {
+    "ID": "1285",
+    "word": "die Klassenarbeit, -en",
+    "meaning": "school exam",
+    "examples": [
+      "Mein Sohn schreibt bei Klassenarbeiten immer gute Noten"
+    ]
+  },
+  {
+    "ID": "330",
+    "word": "Bescheid geben",
+    "meaning": "to let know",
+    "examples": [
+      "Kannst du mir bis morgen Bescheid geben?"
+    ]
+  },
+  {
+    "ID": "1855",
+    "word": "der Rand, ¨-er",
+    "meaning": "edge",
+    "examples": [
+      "We live on the outskirts of downtown. It's cheaper and quieter there."
+    ]
+  },
+  {
+    "ID": "609",
+    "word": "die Einrichtung, -en",
+    "meaning": "furnishing",
+    "examples": [
+      "Deine Wohnung ist sehr gemütlich, die Einrichtung gefällt mir sehr gut."
+    ]
+  },
+  {
+    "ID": "540",
+    "word": "der Drucker, -",
+    "meaning": "the printer",
+    "examples": [
+      "Ich brauche einen neuen Drucker für meinen Computer."
+    ]
+  },
+  {
+    "ID": "1879",
+    "word": "recht",
+    "meaning": "right/rightly",
+    "examples": [
+      "Ist es Ihnen recht, wenn ich morgen vorbeikomme?",
+      "Da haben Sie recht.",
+      "Da muss ich Ihnen recht geben."
+    ]
+  },
+  {
+    "ID": "1323",
+    "word": "die Konkurrenz",
+    "meaning": "competition",
+    "examples": [
+      "Die Reparatur ist mir hier zu teuer. Bei der Konkurrenz bekomme ich sie für die Hälfte",
+      "Es ist schwer, ein Geschäft aufzumachen. Die Konkurrenz ist groß"
+    ]
+  },
+  {
+    "ID": "2008",
+    "word": "der Schinken, -",
+    "meaning": "the ham",
+    "examples": [
+      "Bitte ein Brötchen mit Schinken."
+    ]
+  },
+  {
+    "ID": "401",
+    "word": "bloß",
+    "meaning": "just / only",
+    "examples": [
+      "Ich möchte nichts kaufen. Ich möchte mich bloß umsehen.",
+      "Komm bloß nicht zu spät. Wir müssen pünktlich am Bahnhof sein.",
+      "Ach, wenn ich bloß mehr verdienen würde!"
+    ]
+  },
+  {
+    "ID": "2218",
+    "word": "der Stein, -e",
+    "meaning": "stone",
+    "examples": [
+      "Die Kinder werfen Steine ins Wasser."
+    ]
+  },
+  {
+    "ID": "817",
+    "word": "das Fleisch",
+    "meaning": "the meat",
+    "examples": [
+      "Fleisch mag ich nicht."
+    ]
+  },
+  {
+    "ID": "1620",
+    "word": "die Nachfrage, -n",
+    "meaning": "the demand",
+    "examples": [
+      "Die Nachfrage für dieses Produkt ist groß."
+    ]
+  },
+  {
+    "ID": "813",
+    "word": "flach",
+    "meaning": "flat / shallow",
+    "examples": [
+      "Für die Arbeit brauche ich flache Schuhe.",
+      "An dieser Stelle ist der See sehr flach."
+    ]
+  },
+  {
+    "ID": "2271",
+    "word": "die Stunde, -n",
+    "meaning": "hour",
+    "examples": [
+      "Ich bin in einer Stunde wieder zurück.",
+      "Wir haben heute nur vier Stunden Schule.",
+      "Ich warte seit zwei Stunden auf dich."
+    ]
+  },
+  {
+    "ID": "1260",
+    "word": "der Käufer, - / die Käuferin, -nen",
+    "meaning": "the buyer",
+    "examples": [
+      "Ich habe schon einen Käufer für den alten Tisch"
+    ]
+  },
+  {
+    "ID": "1561",
+    "word": "die Milch",
+    "meaning": "milk",
+    "examples": [
+      "Stellst du bitte die Milch in den Kühlschrank?"
+    ]
+  },
+  {
+    "ID": "848",
+    "word": "das Forum, Foren (Internetforum)",
+    "meaning": "the forum (online forum)",
+    "examples": [
+      "Ich melde mich heute bei diesem Forum an."
+    ]
+  },
+  {
+    "ID": "2660",
+    "word": "wählen",
+    "meaning": "to choose / to vote",
+    "examples": [
+      "Sie können wählen",
+      "Als Vorspeise gibt es Suppe oder Salat.",
+      "Sie müssen erst eine Null wählen.",
+      "Ich habe diese Partei nicht gewählt."
+    ]
+  },
+  {
+    "ID": "959",
+    "word": "genau so",
+    "meaning": "just like",
+    "examples": [
+      "Katarina sieht genauso aus wie ihre Schwester."
+    ]
+  },
+  {
+    "ID": "1146",
+    "word": "höflich",
+    "meaning": "polite",
+    "examples": [
+      "Unser Nachbar ist sehr höflich. Er sagt immer als Erster Guten Tag"
+    ]
+  },
+  {
+    "ID": "1197",
+    "word": "das Interesse, -n",
+    "meaning": "the interest",
+    "examples": [
+      "Ich habe viele Interessen",
+      "Sport, Lesen, Handarbeit, Tanzen"
+    ]
+  },
+  {
+    "ID": "1592",
+    "word": "die Möhre, -n (D) → Rüebli (CH)",
+    "meaning": "the carrot",
+    "examples": [
+      "Hasen fressen gern Möhren."
+    ]
+  },
+  {
+    "ID": "1224",
+    "word": "jung",
+    "meaning": "young",
+    "examples": [
+      "Für diesen Film bist du noch zu jung",
+      "Meine Mutter ist jung geblieben",
+      "Claudia ist 21. – Was? Noch so jung?",
+      "Ich habe sehr jung geheiratet",
+      "Bei uns im Haus wohnen viele junge Leute",
+      "Mein Bruder ist zehn Jahre jünger als ich",
+      "Ich bin in unserer Familie die Jüngste"
+    ]
+  },
+  {
+    "ID": "2557",
+    "word": "verlieren",
+    "meaning": "to lose",
+    "examples": [
+      "Ich habe meine Brieftasche verloren.",
+      "Jennifer hat ihre Stelle verloren.",
+      "Sie dürfen den Mut nicht verlieren.",
+      "Unsere Mannschaft hat 3-5 verloren."
+    ]
+  },
+  {
+    "ID": "2742",
+    "word": "die Wirkung, -en",
+    "meaning": "effect",
+    "examples": [
+      "Welche Wirkungen hat dieses Medikament? Muss ich vorsichtig sein?"
+    ]
+  },
+  {
+    "ID": "869",
+    "word": "die Freundschaft, -en",
+    "meaning": "friendship",
+    "examples": [
+      "Deine Freundschaft ist mir sehr wichtig."
+    ]
+  },
+  {
+    "ID": "262",
+    "word": "beantragen",
+    "meaning": "to apply for",
+    "examples": [
+      "Hast du schon einen neuen Pass beantragt?"
+    ]
+  },
+  {
+    "ID": "2567",
+    "word": "vermutlich",
+    "meaning": "probably",
+    "examples": [
+      "Vermutlich sagt er die Wahrheit."
+    ]
+  },
+  {
+    "ID": "1313",
+    "word": "komisch",
+    "meaning": "funny, strange",
+    "examples": [
+      "Das Essen schmeckt komisch. Probier mal",
+      "Der Film war sehr komisch. Wir haben viel gelacht",
+      "Eine grüne Hose und gelbe Schuhe? Das sieht komisch aus"
+    ]
+  },
+  {
+    "ID": "2418",
+    "word": "übernehmen",
+    "meaning": "to take over",
+    "examples": [
+      "Ich habe das Geschäft von meinem Vater übernommen."
+    ]
+  },
+  {
+    "ID": "832",
+    "word": "der Fluss, ¨-e",
+    "meaning": "the river",
+    "examples": [
+      "Wie heißt dieser Fluss?"
+    ]
+  },
+  {
+    "ID": "835",
+    "word": "die Folge, -n",
+    "meaning": "the consequence / episode",
+    "examples": [
+      "Die Folgen des Unfalls waren schlimm."
+    ]
+  },
+  {
+    "ID": "2421",
+    "word": "überraschen",
+    "meaning": "to surprise",
+    "examples": [
+      "Ich bin ganz überrascht, dass die Wohnung so billig ist."
+    ]
+  },
+  {
+    "ID": "32",
+    "word": "abwärts",
+    "meaning": "downwards",
+    "examples": [
+      "Von dort führt der Weg abwärts ins Tal."
+    ]
+  },
+  {
+    "ID": "2163",
+    "word": "die Speisekarte, -n",
+    "meaning": "menu",
+    "examples": [
+      "Bitte die Speisekarte."
+    ]
+  },
+  {
+    "ID": "1877",
+    "word": "das Recht, -e",
+    "meaning": "right",
+    "examples": [
+      "Nach deutschem Recht kann er dafür nicht bestraft werden.",
+      "Ich hatte Vorfahrt. Ich war im Recht.",
+      "Die Rechnung stimmt nicht? Dann haben Sie das Recht, das Geld zurückzubekommen."
+    ]
+  },
+  {
+    "ID": "1211",
+    "word": "die Jeans (Pl.)",
+    "meaning": "the jeans",
+    "examples": [
+      "Nicht nur junge Leute tragen Jeans"
+    ]
+  },
+  {
+    "ID": "2864",
+    "word": "zweifeln",
+    "meaning": "to doubt",
+    "examples": [
+      "Ich zweifle nicht daran, dass Sie recht haben."
+    ]
+  },
+  {
+    "ID": "2492",
+    "word": "untersuchen",
+    "meaning": "to examine",
+    "examples": [
+      "Sie sollten sich vom Arzt untersuchen lassen."
+    ]
+  },
+  {
+    "ID": "1445",
+    "word": "leisten",
+    "meaning": "to afford; to provide",
+    "examples": [
+      "So ein teures Auto kann ich mir leider nicht leisten",
+      "Bei einem Unfall muss jeder Erste Hilfe leisten"
+    ]
+  },
+  {
+    "ID": "260",
+    "word": "beachten",
+    "meaning": "to pay attention to",
+    "examples": [
+      "Bitte beachten Sie die Ansagen am Bahnsteig."
+    ]
+  },
+  {
+    "ID": "2821",
+    "word": "zubereiten",
+    "meaning": "to prepare",
+    "examples": [
+      "Sie bereitet das Fleisch mit Kartoffeln zu."
+    ]
+  },
+  {
+    "ID": "2715",
+    "word": "das Werkzeug, -e",
+    "meaning": "tool",
+    "examples": [
+      "Wir hatten kein Werkzeug für die Reparatur dabei."
+    ]
+  },
+  {
+    "ID": "1885",
+    "word": "reduzieren",
+    "meaning": "to reduce",
+    "examples": [
+      "Wir haben jetzt unsere Preise reduziert.",
+      "Ist dieser Pullover auch reduziert?"
+    ]
+  },
+  {
+    "ID": "2863",
+    "word": "der Zweck, -e",
+    "meaning": "purpose",
+    "examples": [
+      "Ich glaube, es hat keinen Zweck, sich zu bewerben. Der Job ist sicher schon weg."
+    ]
+  },
+  {
+    "ID": "896",
+    "word": "der Fußgänger, -",
+    "meaning": "the pedestrian",
+    "examples": [
+      "Dieser Weg ist nur für Fußgänger."
+    ]
+  },
+  {
+    "ID": "2291",
+    "word": "das Tal, ¨-er",
+    "meaning": "valley",
+    "examples": [
+      "Unser Dorf liegt in einem Tal."
+    ]
+  },
+  {
+    "ID": "1857",
+    "word": "(sich) rasieren",
+    "meaning": "to shave",
+    "examples": [
+      "Your beard is so long! You should shave again."
+    ]
+  },
+  {
+    "ID": "2329",
+    "word": "das Tennis",
+    "meaning": "tennis",
+    "examples": [
+      "Ich spiele gern Tennis."
+    ]
+  },
+  {
+    "ID": "395",
+    "word": "der Bleistift, -e",
+    "meaning": "the pencil",
+    "examples": [
+      "Hast du einen Bleistift für mich?"
+    ]
+  },
+  {
+    "ID": "1025",
+    "word": "die Grafik, -en",
+    "meaning": "the graph",
+    "examples": [
+      "The Grafik zeigt die Temperaturen im letzten Jahr"
+    ]
+  },
+  {
+    "ID": "1075",
+    "word": "der Händler, - / die Händlerin, -nen",
+    "meaning": "the merchant, the dealer",
+    "examples": [
+      "Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?"
+    ]
+  },
+  {
+    "ID": "1876",
+    "word": "die Rechnung, -en",
+    "meaning": "the bill",
+    "examples": [
+      "Bitte die Rechnung!",
+      "Brauchen Sie für diese Reparatur eine Rechnung?"
+    ]
+  },
+  {
+    "ID": "2519",
+    "word": "die Verbindung, -en",
+    "meaning": "connection",
+    "examples": [
+      "Die Verbindung ist sehr gut. Ich kann direkt mit diesem Zug fahren und muss nicht umsteigen.",
+      "Kannst du bitte lauter sprechen? Die Verbindung ist sehr schlecht."
+    ]
+  },
+  {
+    "ID": "2287",
+    "word": "die Tabelle, -n",
+    "meaning": "table",
+    "examples": [
+      "Tragen Sie die richtige Information in die Tabelle ein."
+    ]
+  },
+  {
+    "ID": "760",
+    "word": "falls",
+    "meaning": "in case",
+    "examples": [
+      "Falls es regnet, machen wir kein Picknick."
+    ]
+  },
+  {
+    "ID": "2000",
+    "word": "die Schere, -n",
+    "meaning": "the scissors",
+    "examples": [
+      "Die Schere hier schneidet schlecht. Hast du noch eine andere?"
+    ]
+  },
+  {
+    "ID": "2602",
+    "word": "verwandt",
+    "meaning": "related",
+    "examples": [
+      "Sind Sie mit Frau Meyer verwandt?"
+    ]
+  },
+  {
+    "ID": "1135",
+    "word": "das Hobby, -s",
+    "meaning": "the hobby",
+    "examples": [
+      "Ich habe keine Zeit mehr für meine Hobbys"
+    ]
+  },
+  {
+    "ID": "2637",
+    "word": "vorhin",
+    "meaning": "earlier",
+    "examples": [
+      "Vorhin hat Heidrun angerufen. Du sollst sie zurückrufen."
+    ]
+  },
+  {
+    "ID": "1157",
+    "word": "der Hunger",
+    "meaning": "the hunger",
+    "examples": [
+      "Möchtest du Suppe? – Nein danke, ich habe keinen Hunger"
+    ]
+  },
+  {
+    "ID": "2822",
+    "word": "der Zucker",
+    "meaning": "sugar",
+    "examples": [
+      "Nehmen Sie Zucker in den Tee?"
+    ]
+  },
+  {
+    "ID": "2679",
+    "word": "was für ein-",
+    "meaning": "what kind of",
+    "examples": [
+      "Ich will mir ein Auto kaufen. – Was denn für eins?"
+    ]
+  },
+  {
+    "ID": "398",
+    "word": "blitzen",
+    "meaning": "to flash",
+    "examples": [
+      "Gestern Abend gab es ein Gewitter. Es hat furchtbar geblitzt und gedonnert.",
+      "Ihre Augen blitzen vor Freude."
+    ]
+  },
+  {
+    "ID": "1167",
+    "word": "der Imbiss, -e (D) → Jause (A); Znüni/Zvieri (CH)",
+    "meaning": "the snack",
+    "examples": [
+      "Es ist Zeit für einen kleinen Imbiss"
+    ]
+  },
+  {
+    "ID": "2866",
+    "word": "die Zwiebel, -n",
+    "meaning": "onion",
+    "examples": [
+      "Eine Zwiebel in kleine Stücke schneiden und zusammen mit dem Fleisch braten."
+    ]
+  },
+  {
+    "ID": "1201",
+    "word": "das Interview, -s",
+    "meaning": "the interview",
+    "examples": [
+      "Ich habe im Fernsehen ein interessantes Interview mit zwei Schauspielern gesehen"
+    ]
+  },
+  {
+    "ID": "1328",
+    "word": "der Kontakt, -e",
+    "meaning": "contact",
+    "examples": [
+      "Ich habe wenig Kontakt zu meinen Kollegen"
+    ]
+  },
+  {
+    "ID": "714",
+    "word": "die Eröffnung, -en",
+    "meaning": "the opening",
+    "examples": [
+      "Die Eröffnung der neuen Oper ist am 1. Juni."
+    ]
+  },
+  {
+    "ID": "591",
+    "word": "beeinflussen",
+    "meaning": "to influence",
+    "examples": [
+      "Dieses Ereignis hat die Wahlen beeinflusst."
+    ]
+  },
+  {
+    "ID": "2734",
+    "word": "die Wiese, -n",
+    "meaning": "meadow",
+    "examples": [
+      "Vor unserem Haus ist eine Wiese mit Bäumen."
+    ]
+  },
+  {
+    "ID": "1349",
+    "word": "die Kraft, ¨-e",
+    "meaning": "the strength, power",
+    "examples": [
+      "Für diese Arbeit braucht man viel Kraft"
+    ]
+  },
+  {
+    "ID": "334",
+    "word": "die Beschreibung, -en",
+    "meaning": "the description",
+    "examples": [
+      "Eine Beschreibung des Geräts liegt bei."
+    ]
+  },
+  {
+    "ID": "2860",
+    "word": "zuverlässig",
+    "meaning": "reliable",
+    "examples": [
+      "Der Kollege kommt bestimmt gleich. Er ist immer sehr zuverlässig."
+    ]
+  },
+  {
+    "ID": "1081",
+    "word": "häufig",
+    "meaning": "frequently",
+    "examples": [
+      "Haben Sie häufig Kopfschmerzen? Dann sollten Sie nicht so lange am Computer sitzen"
+    ]
+  },
+  {
+    "ID": "2506",
+    "word": "verabredet",
+    "meaning": "appointed",
+    "examples": [
+      "Tut mir leid, ich habe keine Zeit. Ich bin mit meiner Freundin verabredet."
+    ]
+  },
+  {
+    "ID": "405",
+    "word": "bluten",
+    "meaning": "to bleed",
+    "examples": [
+      "Ich habe mich verletzt. Meine Hand blutet."
+    ]
+  },
+  {
+    "ID": "2046",
+    "word": "das Schreiben, -",
+    "meaning": "the letter/document",
+    "examples": [
+      "Haben Sie mein Schreiben vom 3. März erhalten?"
+    ]
+  },
+  {
+    "ID": "1451",
+    "word": "lernen",
+    "meaning": "to learn",
+    "examples": [
+      "Wie lange lernen Sie schon Deutsch?"
+    ]
+  },
+  {
+    "ID": "1518",
+    "word": "die Marmelade, -n (D, A)",
+    "meaning": "jam",
+    "examples": [
+      "Bring bitte noch ein Glas Marmelade mit"
+    ]
+  },
+  {
+    "ID": "2393",
+    "word": "trocken",
+    "meaning": "dry",
+    "examples": [
+      "Die Wäsche ist noch nicht trocken.",
+      "Hoffentlich regnet es bald. Alles ist ganz trocken.",
+      "Bitte einen trockenen Wein."
+    ]
+  },
+  {
+    "ID": "2738",
+    "word": "der Wind, -e",
+    "meaning": "wind",
+    "examples": [
+      "Der Wind kommt heute von Westen."
+    ]
+  },
+  {
+    "ID": "2183",
+    "word": "sprechen",
+    "meaning": "to speak",
+    "examples": [
+      "Können Sie bitte etwas lauter sprechen?",
+      "Jean spricht sehr gut Deutsch.",
+      "Ich möchte nicht darüber sprechen.",
+      "Die Bundeskanzlerin spricht heute Abend im Fernsehen.",
+      "Kann ich bitte Herrn Müller sprechen?"
+    ]
+  },
+  {
+    "ID": "1348",
+    "word": "das Kostüm, -e",
+    "meaning": "the costume",
+    "examples": [
+      "In dem Film tragen die Leute bunte Kostüme"
+    ]
+  }
+]

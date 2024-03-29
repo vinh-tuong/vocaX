@@ -1,0 +1,829 @@
+[
+  {
+    "ID": "2611",
+    "word": "vielleicht",
+    "meaning": "maybe",
+    "examples": [
+      "Kommst du mit in die Stadt? - Ich weiß noch nicht. Vielleicht.",
+      "Vielleicht bekomme ich den Job.",
+      "Die Fahrkarte war vielleicht teuer!",
+      "Hast du vielleicht Kleingeld für mich?"
+    ]
+  },
+  {
+    "ID": "938",
+    "word": "der Gegensatz, ¨-e",
+    "meaning": "contrast",
+    "examples": [
+      "Diese beiden Meinungen stehen in starkem Gegensatz zueinander.",
+      "Im Gegensatz zu ihm ist sein Vater ziemlich klein."
+    ]
+  },
+  {
+    "ID": "323",
+    "word": "beruhigen",
+    "meaning": "to calm",
+    "examples": [
+      "Beruhigen Sie sich bitte. Es ist alles in Ordnung.",
+      "Ich kann Sie beruhigen. Ihrem Sohn ist nichts passiert."
+    ]
+  },
+  {
+    "ID": "76",
+    "word": "anerkennen",
+    "meaning": "to recognize",
+    "examples": [
+      "Meine Ausbildung wird hier nicht anerkannt."
+    ]
+  },
+  {
+    "ID": "1931",
+    "word": "richtig",
+    "meaning": "right",
+    "examples": [
+      "Was Sie da sagen, ist richtig.",
+      "Geht Ihre Uhr richtig?",
+      "Das ist nicht die richtige Größe."
+    ]
+  },
+  {
+    "ID": "1989",
+    "word": "schauen",
+    "meaning": "to look",
+    "examples": [
+      "Schau mal! Da vorne ist noch ein Platz frei."
+    ]
+  },
+  {
+    "ID": "202",
+    "word": "(sich) ausruhen",
+    "meaning": "to rest",
+    "examples": [
+      "Sie ruhen sich von der Arbeit aus.",
+      "Bist du gut ausgeruht?"
+    ]
+  },
+  {
+    "ID": "1745",
+    "word": "das Parfüm, -s",
+    "meaning": "the perfume",
+    "examples": [
+      "Zum Geburtstag habe ich von meinem Mann ein Parfüm bekommen."
+    ]
+  },
+  {
+    "ID": "665",
+    "word": "entspannend",
+    "meaning": "relaxing",
+    "examples": [
+      "Der Urlaub war sehr entspannend."
+    ]
+  },
+  {
+    "ID": "2689",
+    "word": "weg/weg-",
+    "meaning": "away/gone",
+    "examples": [
+      "Meine Handtasche ist weg!",
+      "Den Brief darfst du nicht wegwerfen."
+    ]
+  },
+  {
+    "ID": "1778",
+    "word": "pflegen",
+    "meaning": "to care for",
+    "examples": [
+      "Meine Mutter ist sehr krank. Ich muss sie pflegen."
+    ]
+  },
+  {
+    "ID": "2583",
+    "word": "die Versichertenkarte, -n",
+    "meaning": "health insurance card",
+    "examples": [
+      "Haben Sie Ihre Versichertenkarte dabei?"
+    ]
+  },
+  {
+    "ID": "1121",
+    "word": "heute",
+    "meaning": "today",
+    "examples": [
+      "Heute kann ich etwas früher nach Hause gehen",
+      "Ab heute bleibt unser Büro nachmittags geschlossen",
+      "Frau Müller kommt heute in acht Tagen zurück",
+      "Heute kann man sich eine Welt ohne Internet nicht mehr vorstellen"
+    ]
+  },
+  {
+    "ID": "340",
+    "word": "besonders",
+    "meaning": "especially / particularly",
+    "examples": [
+      "Ich habe heute ein besonders günstiges Angebot gesehen.",
+      "Durch den Sturm gab es besonders in Süddeutschland schwere Schäden.",
+      "Wie geht’s? – Nicht besonders."
+    ]
+  },
+  {
+    "ID": "1601",
+    "word": "die Müllabfuhr",
+    "meaning": "the garbage collection",
+    "examples": [
+      "Die Müllabfuhr kommt zweimal pro Woche."
+    ]
+  },
+  {
+    "ID": "1525",
+    "word": "die Medien (Pl.)",
+    "meaning": "media",
+    "examples": [
+      "Umweltschutz ist in den Medien ein großes Thema"
+    ]
+  },
+  {
+    "ID": "1911",
+    "word": "der Rekord, -e",
+    "meaning": "the record",
+    "examples": [
+      "Es gibt einen neuen Rekord im Schwimmen."
+    ]
+  },
+  {
+    "ID": "2264",
+    "word": "der Student, -en / die Studentin, -nen",
+    "meaning": "student",
+    "examples": [
+      "Schüler und Studenten zahlen die Hälfte."
+    ]
+  },
+  {
+    "ID": "1932",
+    "word": "die Richtung, -en",
+    "meaning": "the direction",
+    "examples": [
+      "Der Zug in Richtung Köln hat Verspätung.",
+      "Wo ist der Bahnhof? In welche Richtung muss ich fahren?"
+    ]
+  },
+  {
+    "ID": "1609",
+    "word": "der Musiker, -/die Musikerin, -nen",
+    "meaning": "the musician, male/female",
+    "examples": [
+      "Mein Bruder möchte Musiker werden."
+    ]
+  },
+  {
+    "ID": "1532",
+    "word": "die Mehrheit, -en",
+    "meaning": "the majority",
+    "examples": [
+      "Die Mehrheit der Menschen in Deutschland besitzt ein Handy"
+    ]
+  },
+  {
+    "ID": "2555",
+    "word": "sich verlieben",
+    "meaning": "to fall in love",
+    "examples": [
+      "Ich habe mich verliebt."
+    ]
+  },
+  {
+    "ID": "770",
+    "word": "der Fasching (D, A) / die Fasnacht (CH)",
+    "meaning": "the carnival",
+    "examples": [
+      "Dort hängt mein Kostüm für den Faschings-/Fasnachtsumzug."
+    ]
+  },
+  {
+    "ID": "91",
+    "word": "die Anlage, -n",
+    "meaning": "the facility",
+    "examples": [
+      "Meine Musikanlage ist kaputt.",
+      "In der Anlage der E-Mail finden Sie meinen Lebenslauf."
+    ]
+  },
+  {
+    "ID": "586",
+    "word": "einfach",
+    "meaning": "simple / just",
+    "examples": [
+      "Hin und zurück? – Nein, bitte nur einfach.",
+      "Ich verstehe das nicht. Kannst du das bitte einfacher sagen?",
+      "Wir haben am Wochenende einen Ausflug gemacht. Es war einfach toll."
+    ]
+  },
+  {
+    "ID": "1611",
+    "word": "das Müesli/Müsli, -",
+    "meaning": "the muesli",
+    "examples": [
+      "Zum Frühstück gibt es Müsli mit Obst."
+    ]
+  },
+  {
+    "ID": "2175",
+    "word": "der Sport, -",
+    "meaning": "sport",
+    "examples": [
+      "Für Sport interessiere ich mich sehr.",
+      "Ich mache viel Sport."
+    ]
+  },
+  {
+    "ID": "137",
+    "word": "der Architekt, -en / die Architektin, -nen",
+    "meaning": "the architect",
+    "examples": [
+      "Dieses Haus hat eine berühmte Architektin gebaut."
+    ]
+  },
+  {
+    "ID": "415",
+    "word": "brauchen",
+    "meaning": "to need",
+    "examples": [
+      "Ich brauche ein Auto.",
+      "Brauchst du die Zeitung noch?",
+      "Meine Großmutter ist krank. Sie braucht viel Ruhe.",
+      "Ich habe für die Renovierung eine Woche gebraucht.",
+      "Sie brauchen morgen nicht zu kommen. Ich schaffe das alleine."
+    ]
+  },
+  {
+    "ID": "2434",
+    "word": "üblich",
+    "meaning": "usual",
+    "examples": [
+      "In Deutschland ist es üblich, früh zu Abend zu essen."
+    ]
+  },
+  {
+    "ID": "2534",
+    "word": "sich vergnügen",
+    "meaning": "to enjoy oneself",
+    "examples": [
+      "Auf der Party habe ich mich sehr vergnügt."
+    ]
+  },
+  {
+    "ID": "1305",
+    "word": "das Knie",
+    "meaning": "knee",
+    "examples": [
+      "Ich habe mich am Knie verletzt. Jetzt kann ich nicht laufen"
+    ]
+  },
+  {
+    "ID": "1433",
+    "word": "leer",
+    "meaning": "empty",
+    "examples": [
+      "Das Restaurant war fast leer",
+      "Die Kanne ist fast leer. Ich mache uns neuen Tee"
+    ]
+  },
+  {
+    "ID": "2069",
+    "word": "schweigen",
+    "meaning": "silent",
+    "examples": [
+      "Sie sprach viel aber ihr Mann schwieg den ganzen Abend lang."
+    ]
+  },
+  {
+    "ID": "1293",
+    "word": "der Klick, -s",
+    "meaning": "click",
+    "examples": [
+      "Um das Wort zu markieren, genügt ein Doppelklick mit der linken Maustaste"
+    ]
+  },
+  {
+    "ID": "1579",
+    "word": "das Möbel, -",
+    "meaning": "the furniture",
+    "examples": [
+      "Wir haben uns neue Möbel gekauft."
+    ]
+  },
+  {
+    "ID": "2688",
+    "word": "der Weg, -e",
+    "meaning": "path/way",
+    "examples": [
+      "Dieser Weg ist sehr breit und angenehm.",
+      "Wir wohnen im/am Oberweg 10.",
+      "Können Sie mir den Weg zum Bahnhof erklären?"
+    ]
+  },
+  {
+    "ID": "2655",
+    "word": "der Vorwurf, ¨-e",
+    "meaning": "accusation",
+    "examples": [
+      "Eva kann nichts dafür. Mach ihr keine Vorwürfe."
+    ]
+  },
+  {
+    "ID": "1352",
+    "word": "das Kraftwerk, -e",
+    "meaning": "the power plant",
+    "examples": [
+      "Die Menschen protestieren gegen das Kraftwerk"
+    ]
+  },
+  {
+    "ID": "367",
+    "word": "beweisen",
+    "meaning": "to prove",
+    "examples": [
+      "Wir können beweisen, dass Sie bei Rot über die Ampel gefahren sind."
+    ]
+  },
+  {
+    "ID": "1087",
+    "word": "der Haushalt, -e",
+    "meaning": "the household",
+    "examples": [
+      "Ich kümmere mich um den Haushalt d. h. ich putze, wasche, koche etc."
+    ]
+  },
+  {
+    "ID": "2606",
+    "word": "verzeihen",
+    "meaning": "to forgive",
+    "examples": [
+      "Das werde ich ihm nie verzeihen können."
+    ]
+  },
+  {
+    "ID": "181",
+    "word": "ausdrucken",
+    "meaning": "to print",
+    "examples": [
+      "Kann ich das auf deinem Drucker ausdrucken?"
+    ]
+  },
+  {
+    "ID": "2556",
+    "word": "verliebt",
+    "meaning": "in love",
+    "examples": [
+      "Ich bin in Francesco verliebt."
+    ]
+  },
+  {
+    "ID": "1854",
+    "word": "der (Schlag-)Rahm (CH)",
+    "meaning": "whipped cream",
+    "examples": [
+      "I'd like a piece of cake with whipped cream."
+    ]
+  },
+  {
+    "ID": "2578",
+    "word": "verschieben",
+    "meaning": "to postpone",
+    "examples": [
+      "Leider muss ich den Termin verschieben."
+    ]
+  },
+  {
+    "ID": "427",
+    "word": "die Brieftasche, -n",
+    "meaning": "the wallet",
+    "examples": [
+      "Ich habe nur Kleingeld in meiner Brieftasche."
+    ]
+  },
+  {
+    "ID": "1840",
+    "word": "pünktlich",
+    "meaning": "punctual, on time",
+    "examples": [
+      "Seien Sie bitte pünktlich.",
+      "Der Bus fährt pünktlich um acht Uhr."
+    ]
+  },
+  {
+    "ID": "1479",
+    "word": "der Lohn, ¨-e",
+    "meaning": "wage, pay",
+    "examples": [
+      "Sie bekommen Ihren Lohn immer am Ende des Monats",
+      "Die Löhne sind hier sehr niedrig"
+    ]
+  },
+  {
+    "ID": "2726",
+    "word": "wichtig",
+    "meaning": "important",
+    "examples": [
+      "Die Prüfung ist sehr wichtig für mich.",
+      "Morgen habe ich einen wichtigen Termin."
+    ]
+  },
+  {
+    "ID": "2748",
+    "word": "das Wissen",
+    "meaning": "knowledge",
+    "examples": [
+      "Es hat ein großes Wissen über Pflanzen.",
+      "Ich tue nichts ohne dein Wissen."
+    ]
+  },
+  {
+    "ID": "386",
+    "word": "bisher",
+    "meaning": "so far",
+    "examples": [
+      "Bisher ist alles in Ordnung."
+    ]
+  },
+  {
+    "ID": "2031",
+    "word": "verschmutzen",
+    "meaning": "to pollute",
+    "examples": [
+      "Die Fabrik verschmutzt den Fluss."
+    ]
+  },
+  {
+    "ID": "1280",
+    "word": "klappen",
+    "meaning": "to work out, to go well",
+    "examples": [
+      "Wie war die Reise? – Gut. Es hat alles prima geklappt"
+    ]
+  },
+  {
+    "ID": "1626",
+    "word": "nächst-",
+    "meaning": "next",
+    "examples": [
+      "Wo ist hier die nächste Apotheke?",
+      "Rufen Sie bitte nächste Woche noch einmal an.",
+      "Wann fährt der nächste Zug nach Frankfurt?",
+      "Wer ist der Nächste bitte?"
+    ]
+  },
+  {
+    "ID": "1120",
+    "word": "herzlich",
+    "meaning": "warm, hearty",
+    "examples": [
+      "Herzlichen Glückwunsch!"
+    ]
+  },
+  {
+    "ID": "2253",
+    "word": "streiken",
+    "meaning": "to strike",
+    "examples": [
+      "Die Arbeiter streiken für höhere Löhne."
+    ]
+  },
+  {
+    "ID": "1753",
+    "word": "passieren",
+    "meaning": "to happen",
+    "examples": [
+      "Entschuldigung! – Kein Problem. Es ist nichts passiert.",
+      "Wie ist der Unfall passiert?",
+      "Man hat mir die Brieftasche gestohlen. – Das ist mir auch schon passiert."
+    ]
+  },
+  {
+    "ID": "2299",
+    "word": "das Taschengeld, -er",
+    "meaning": "allowance",
+    "examples": [
+      "Wie viel Taschengeld bekommst du im Monat?"
+    ]
+  },
+  {
+    "ID": "1906",
+    "word": "reisen",
+    "meaning": "to travel",
+    "examples": [
+      "Ich reise gern nach Spanien."
+    ]
+  },
+  {
+    "ID": "2696",
+    "word": "der Wein, -e",
+    "meaning": "wine",
+    "examples": [
+      "In diesem Restaurant gibt es sehr guten Wein."
+    ]
+  },
+  {
+    "ID": "1485",
+    "word": "lösen",
+    "meaning": "to solve; to buy a ticket",
+    "examples": [
+      "Wir müssen dieses Problem lösen",
+      "Sie können die Fahrkarten auch am Automaten lösen"
+    ]
+  },
+  {
+    "ID": "2356",
+    "word": "tolerant",
+    "meaning": "tolerant",
+    "examples": [
+      "Die Nachbarn hören oft laut Musik. Wir müssen sehr tolerant sein."
+    ]
+  },
+  {
+    "ID": "95",
+    "word": "annehmen",
+    "meaning": "to accept",
+    "examples": [
+      "Ich nehme Ihre Einladung gern an.",
+      "Ich nehme an, dass Sie mit dem Vorschlag einverstanden sind."
+    ]
+  },
+  {
+    "ID": "1754",
+    "word": "passiv",
+    "meaning": "passive",
+    "examples": [
+      "Man sollte im Kurs nicht passiv sein sondern mitdiskutieren."
+    ]
+  },
+  {
+    "ID": "463",
+    "word": "da",
+    "meaning": "there / then",
+    "examples": [
+      "Da drüben ist ein Getränkeautomat.",
+      "Was Sie da sagen, ist richtig."
+    ]
+  },
+  {
+    "ID": "1026",
+    "word": "das Gras",
+    "meaning": "the grass",
+    "examples": [
+      "Wir lagen den ganzen Tag im Gras"
+    ]
+  },
+  {
+    "ID": "685",
+    "word": "erfüllen",
+    "meaning": "to fulfill",
+    "examples": [
+      "Sie müssen den Vertrag in allen Punkten erfüllen.",
+      "Wir erfüllen Ihnen jeden Wunsch."
+    ]
+  },
+  {
+    "ID": "716",
+    "word": "erschöpft",
+    "meaning": "exhausted",
+    "examples": [
+      "Nach dem Sport bin ich immer sehr erschöpft."
+    ]
+  },
+  {
+    "ID": "2295",
+    "word": "die Tante, -n",
+    "meaning": "aunt",
+    "examples": [
+      "Die Familie meiner Mutter ist sehr groß, daher habe ich viele Tanten."
+    ]
+  },
+  {
+    "ID": "1355",
+    "word": "das Krankenhaus, ¨-er",
+    "meaning": "the hospital",
+    "examples": [
+      "Er hat sich verletzt und musste ins Krankenhaus"
+    ]
+  },
+  {
+    "ID": "201",
+    "word": "ausrichten",
+    "meaning": "to convey a message",
+    "examples": [
+      "Mein Mann ist nicht da. Soll ich ihm etwas ausrichten?"
+    ]
+  },
+  {
+    "ID": "1952",
+    "word": "die Rufnummer, -n",
+    "meaning": "telephone number",
+    "examples": [
+      "Wir möchten Sie gerne anrufen. Wie ist Ihre Rufnummer?"
+    ]
+  },
+  {
+    "ID": "2042",
+    "word": "der Schreck(en)",
+    "meaning": "fright",
+    "examples": [
+      "Ich habe einen großen Schreck bekommen."
+    ]
+  },
+  {
+    "ID": "1353",
+    "word": "krank",
+    "meaning": "sick",
+    "examples": [
+      "Ich war zwei Wochen krank",
+      "Ich muss mich um meine kranke Großmutter kümmern"
+    ]
+  },
+  {
+    "ID": "1432",
+    "word": "ledig",
+    "meaning": "single",
+    "examples": [
+      "Wie ist Ihr Familienstand? – Ledig"
+    ]
+  },
+  {
+    "ID": "216",
+    "word": "(sich etwas) aussuchen",
+    "meaning": "to choose",
+    "examples": [
+      "Such dir etwas Schönes aus! Ich lade dich ein."
+    ]
+  },
+  {
+    "ID": "2431",
+    "word": "die Überweisung, -en",
+    "meaning": "transfer",
+    "examples": [
+      "Sie können bar oder per Überweisung bezahlen.",
+      "Der Hausarzt hat mir eine Überweisung fürs Krankenhaus gegeben."
+    ]
+  },
+  {
+    "ID": "468",
+    "word": "daher",
+    "meaning": "therefore",
+    "examples": [
+      "Ich bin erkältet, daher kann ich heute nicht kommen."
+    ]
+  },
+  {
+    "ID": "2159",
+    "word": "spazieren gehen",
+    "meaning": "to go for a walk",
+    "examples": [
+      "Wir gehen sonntags immer spazieren."
+    ]
+  },
+  {
+    "ID": "1426",
+    "word": "lecker",
+    "meaning": "delicious",
+    "examples": [
+      "Das Essen war sehr lecker"
+    ]
+  },
+  {
+    "ID": "2448",
+    "word": "umso",
+    "meaning": "the more",
+    "examples": [
+      "Je früher wir dort sind, umso besser sind unsere Chancen auf einen guten Sitzplatz.",
+      "Ich kann dir nicht nur heute, sondern auch morgen helfen. – Umso besser!"
+    ]
+  },
+  {
+    "ID": "2344",
+    "word": "tief",
+    "meaning": "deep",
+    "examples": [
+      "Vorsicht, Kinder! Das Wasser ist hier sehr tief.",
+      "Der Schrank ist drei Meter breit und 60 Zentimeter tief.",
+      "Bitte jetzt tief einatmen!"
+    ]
+  },
+  {
+    "ID": "1490",
+    "word": "die Lust",
+    "meaning": "desire",
+    "examples": [
+      "I Ich habe keine Lust zu grillen",
+      "Hast du Lust auf einen Tee?"
+    ]
+  },
+  {
+    "ID": "1588",
+    "word": "modern",
+    "meaning": "modern",
+    "examples": [
+      "Die Wohnung ist modern eingerichtet.",
+      "Das Stadtzentrum von Frankfurt ist ganz modern."
+    ]
+  },
+  {
+    "ID": "144",
+    "word": "der Artikel, -",
+    "meaning": "the article",
+    "examples": [
+      "Ich habe einen interessanten Artikel gelesen.",
+      "Im Deutschen gibt es drei Artikel",
+      "der, die, das."
+    ]
+  },
+  {
+    "ID": "721",
+    "word": "erst-",
+    "meaning": "first",
+    "examples": [
+      "Ich war zum ersten Mal allein im Urlaub.",
+      "Ich wohne im ersten Stock."
+    ]
+  },
+  {
+    "ID": "5",
+    "word": "aber",
+    "meaning": "but",
+    "examples": [
+      "Heute kann ich nicht, aber morgen ganz bestimmt.",
+      "Es lag sehr viel Schnee, aber Enzo ist trotzdem mit dem Motorrad gefahren.",
+      "Wir haben nur eine kleine Wohnung, sind aber damit zufrieden.",
+      "Es war sehr schön. Jetzt muss ich aber gehen.",
+      "Ich würde gerne kommen, aber es geht leider nicht.",
+      "Darf ich dich zu einem Kaffee einladen? – Aber ja, sehr gern.",
+      "Du spielst aber gut Klavier."
+    ]
+  },
+  {
+    "ID": "718",
+    "word": "ersetzen",
+    "meaning": "to replace",
+    "examples": [
+      "Wir ersetzen Ihnen die Kosten.",
+      "Peter ist krank. Jemand muss ihn ersetzen."
+    ]
+  },
+  {
+    "ID": "130",
+    "word": "die Arbeit, -en",
+    "meaning": "the job",
+    "examples": [
+      "Wie gefällt dir deine Arbeit?",
+      "Nach der Ausbildung hat Mohamed eine Arbeit gefunden."
+    ]
+  },
+  {
+    "ID": "2125",
+    "word": "der Ski/Schi, -er/-",
+    "meaning": "ski",
+    "examples": [
+      "Gehen wir am Wochenende Ski laufen?",
+      "Das sind aber schöne Skier!"
+    ]
+  },
+  {
+    "ID": "1817",
+    "word": "prima",
+    "meaning": "great, excellent",
+    "examples": [
+      "Mit diesen Leuten verstehe ich mich prima."
+    ]
+  },
+  {
+    "ID": "1746",
+    "word": "der Park, -s",
+    "meaning": "the park",
+    "examples": [
+      "Ich gehe gern im Park spazieren."
+    ]
+  },
+  {
+    "ID": "2507",
+    "word": "die Verabredung, -en",
+    "meaning": "appointment",
+    "examples": [
+      "Ich habe um 15 Uhr eine Verabredung mit Klaus."
+    ]
+  },
+  {
+    "ID": "578",
+    "word": "ein-",
+    "meaning": "one",
+    "examples": [
+      "Ich nehme ein Bier. Willst du auch eins?",
+      "Wir haben zu wenig Mitspieler. Wir brauchen noch einen."
+    ]
+  },
+  {
+    "ID": "1295",
+    "word": "die Klimaanlage, -n",
+    "meaning": "air conditioning",
+    "examples": [
+      "Im Sommer brauchen wir eine Klimaanlage"
+    ]
+  }
+]

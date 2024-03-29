@@ -1,0 +1,816 @@
+[
+  {
+    "ID": "1163",
+    "word": "die Hütte, -n",
+    "meaning": "the cabin",
+    "examples": [
+      "Wir übernachten in der Hütte auf dem Berg"
+    ]
+  },
+  {
+    "ID": "797",
+    "word": "feststehen",
+    "meaning": "to be certain",
+    "examples": [
+      "Der Termin steht seit Langem fest."
+    ]
+  },
+  {
+    "ID": "2576",
+    "word": "die Versammlung, -en",
+    "meaning": "meeting",
+    "examples": [
+      "Der Minister hielt bei der Versammlung eine Rede."
+    ]
+  },
+  {
+    "ID": "1510",
+    "word": "der Mantel, ¨-",
+    "meaning": "coat",
+    "examples": [
+      "Es ist sehr kalt. Zieh deinen Mantel an"
+    ]
+  },
+  {
+    "ID": "465",
+    "word": "das Dach, ¨-er",
+    "meaning": "the roof",
+    "examples": [
+      "Wir müssen das Dach reparieren lassen.",
+      "Wir wohnen direkt unter dem Dach."
+    ]
+  },
+  {
+    "ID": "739",
+    "word": "der Experte, -n",
+    "meaning": "the expert",
+    "examples": [
+      "Ich verstehe ein bisschen was von Computern. Aber ich bin kein Experte."
+    ]
+  },
+  {
+    "ID": "827",
+    "word": "die Flöte, -n",
+    "meaning": "the flute",
+    "examples": [
+      "Sie spielt sehr schön Flöte."
+    ]
+  },
+  {
+    "ID": "1737",
+    "word": "(ein) paar",
+    "meaning": "a few",
+    "examples": [
+      "Ich komme gleich. Es dauert nur ein paar Minuten.",
+      "Wir fahren mit ein paar Freunden in Urlaub."
+    ]
+  },
+  {
+    "ID": "310",
+    "word": "bequem",
+    "meaning": "comfortable",
+    "examples": [
+      "Meine Kinder ziehen am liebsten bequeme Sachen an.",
+      "Im Supermarkt einkaufen ist sehr bequem.",
+      "Diesen Sessel finde ich sehr bequem."
+    ]
+  },
+  {
+    "ID": "1473",
+    "word": "die Liste, -n",
+    "meaning": "list",
+    "examples": [
+      "Was brauchen wir für die Party? – Mach doch eine Einkaufsliste"
+    ]
+  },
+  {
+    "ID": "483",
+    "word": "die Datei, -en",
+    "meaning": "the file",
+    "examples": [
+      "Wo hast du die Datei gespeichert?"
+    ]
+  },
+  {
+    "ID": "1410",
+    "word": "lang",
+    "meaning": "long",
+    "examples": [
+      "Der Teppich ist 3 m lang und 2 m breit",
+      "Meine Schwester hat mir einen langen Brief geschrieben",
+      "Die Hose ist zu lang. Können Sie sie kürzer machen?"
+    ]
+  },
+  {
+    "ID": "2609",
+    "word": "das Video, -s",
+    "meaning": "video",
+    "examples": [
+      "Ich habe den Film auf Video aufgenommen.",
+      "Lass uns ein Video vom Fest machen!"
+    ]
+  },
+  {
+    "ID": "1066",
+    "word": "haltbar",
+    "meaning": "durable, shelf-stable",
+    "examples": [
+      "Diese Tomaten sind mindestens 2 Wochen haltbar"
+    ]
+  },
+  {
+    "ID": "1126",
+    "word": "(hinunter) runterwerfen",
+    "meaning": "to throw down",
+    "examples": [
+      "wirft runter warf runter hat runtergeworfen",
+      "Kannst du mir bitte den Schlüssel runterwerfen? Ich habe meinen vergessen"
+    ]
+  },
+  {
+    "ID": "2852",
+    "word": "der Zuschauer, - / die Zuschauerin, -nen",
+    "meaning": "viewer",
+    "examples": [
+      "Liebe Zuschauer, wir wünschen Ihnen gute Unterhaltung."
+    ]
+  },
+  {
+    "ID": "647",
+    "word": "eng",
+    "meaning": "narrow / tight",
+    "examples": [
+      "Die Jacke ist mir zu eng.",
+      "Wir arbeiten mit dieser Firma eng zusammen."
+    ]
+  },
+  {
+    "ID": "937",
+    "word": "die Gegend, -en",
+    "meaning": "area",
+    "examples": [
+      "Der Schwarzwald ist eine sehr schöne Gegend.",
+      "Die Schule muss hier in der Gegend sein."
+    ]
+  },
+  {
+    "ID": "906",
+    "word": "garantieren",
+    "meaning": "to guarantee",
+    "examples": [
+      "Ich kann Ihnen nicht garantieren, dass das Gerät nächste Woche fertig ist."
+    ]
+  },
+  {
+    "ID": "472",
+    "word": "damit",
+    "meaning": "with it / so that",
+    "examples": [
+      "Mach schnell, damit wir nicht zu spät kommen.",
+      "Was macht man mit diesem Ding? - Damit kann man Dosen aufmachen."
+    ]
+  },
+  {
+    "ID": "109",
+    "word": "anstellen",
+    "meaning": "to hire",
+    "examples": [
+      "Können Sie bitte die Heizung anstellen?",
+      "Mein Schwager ist bei einer Möbelfirma angestellt.",
+      "Du musst dich anstellen."
+    ]
+  },
+  {
+    "ID": "2225",
+    "word": "der Steward, -s / die Stewardess, -en",
+    "meaning": "steward / stewardess",
+    "examples": [
+      "Die Stewardess bringt das Mittagessen."
+    ]
+  },
+  {
+    "ID": "1961",
+    "word": "der Saft, ¨-e",
+    "meaning": "juice",
+    "examples": [
+      "Ich trinke gern Apfelsaft."
+    ]
+  },
+  {
+    "ID": "966",
+    "word": "gerade",
+    "meaning": "straight",
+    "examples": [
+      "Das Bild hängt nicht gerade.",
+      "Kannst du später noch mal anrufen? Wir sind gerade beim Essen."
+    ]
+  },
+  {
+    "ID": "2268",
+    "word": "die Stufe, -n",
+    "meaning": "level",
+    "examples": [
+      "Vorsicht Stufe!",
+      "Die Volkshochschule bietet Sprachkurse auf verschiedenen Stufen an."
+    ]
+  },
+  {
+    "ID": "480",
+    "word": "darstellen",
+    "meaning": "to represent / to portray",
+    "examples": [
+      "Er konnte das Problem sehr gut darstellen."
+    ]
+  },
+  {
+    "ID": "1807",
+    "word": "das Praktikum, Praktika",
+    "meaning": "the internship",
+    "examples": [
+      "Ich mache diesen Sommer drei Monate ein Praktikum bei einer Firma."
+    ]
+  },
+  {
+    "ID": "1253",
+    "word": "die Kasse, -n",
+    "meaning": "the cashier, the checkout",
+    "examples": [
+      "Zahlen Sie bitte an der Kasse"
+    ]
+  },
+  {
+    "ID": "172",
+    "word": "der Auftritt, -e",
+    "meaning": "the performance",
+    "examples": [
+      "Nach dem Auftritt feiern die Musiker."
+    ]
+  },
+  {
+    "ID": "2596",
+    "word": "das Vertrauen",
+    "meaning": "trust",
+    "examples": [
+      "Ich habe Vertrauen zu Ihnen."
+    ]
+  },
+  {
+    "ID": "1915",
+    "word": "die Rente, -n (D, CH) → Pension (A)",
+    "meaning": "pension",
+    "examples": [
+      "Sie ist 67 und bekommt jetzt eine gute Rente."
+    ]
+  },
+  {
+    "ID": "2114",
+    "word": "der Sieg, -e",
+    "meaning": "victory",
+    "examples": [
+      "Unsere Mannschaft hat gewonnen. Wir freuen uns über den Sieg."
+    ]
+  },
+  {
+    "ID": "1503",
+    "word": "man",
+    "meaning": "one, you, they",
+    "examples": [
+      "Wie schreibt man das?",
+      "Hier darf man nicht parken"
+    ]
+  },
+  {
+    "ID": "1322",
+    "word": "der König, -e",
+    "meaning": "king",
+    "examples": [
+      "Der spanische König ist in Deutschland zu Besuch"
+    ]
+  },
+  {
+    "ID": "2513",
+    "word": "die Verantwortung",
+    "meaning": "responsibility",
+    "examples": [
+      "Sie tragen die Verantwortung für Ihre Kinder."
+    ]
+  },
+  {
+    "ID": "2073",
+    "word": "schwierig",
+    "meaning": "difficult",
+    "examples": [
+      "Die Prüfung war sehr schwierig."
+    ]
+  },
+  {
+    "ID": "2182",
+    "word": "die Zweitsprache, -n",
+    "meaning": "second language",
+    "examples": [
+      "Deutsch ist seine Zweitsprache."
+    ]
+  },
+  {
+    "ID": "2851",
+    "word": "zuschauen",
+    "meaning": "to watch",
+    "examples": [
+      "Willst du mitspielen? – Nein, ich schaue lieber nur zu."
+    ]
+  },
+  {
+    "ID": "1437",
+    "word": "der Lehrer, - / die Lehrerin, -nen",
+    "meaning": "the teacher",
+    "examples": [
+      "Die Lehrerin hat heute viele Hausaufgaben gegeben"
+    ]
+  },
+  {
+    "ID": "1018",
+    "word": "das Gleis, -e",
+    "meaning": "the track",
+    "examples": [
+      "Der Zug fährt heute von Gleis 7 ab"
+    ]
+  },
+  {
+    "ID": "2333",
+    "word": "die Terrasse, -n",
+    "meaning": "terrace",
+    "examples": [
+      "Setzen wir uns auf die Terrasse!"
+    ]
+  },
+  {
+    "ID": "605",
+    "word": "einnehmen",
+    "meaning": "to take (medicine)",
+    "examples": [
+      "Wie muss ich die Tropfen einnehmen?"
+    ]
+  },
+  {
+    "ID": "1263",
+    "word": "der Keller, -",
+    "meaning": "the cellar, the basement",
+    "examples": [
+      "Unser Keller ist nicht besonders groß"
+    ]
+  },
+  {
+    "ID": "230",
+    "word": "die Badewanne, -n",
+    "meaning": "the bathtub",
+    "examples": [
+      "Nach einem langen Arbeitstag setzte sie sich in die Badewanne."
+    ]
+  },
+  {
+    "ID": "2705",
+    "word": "wenden",
+    "meaning": "to turn",
+    "examples": [
+      "Sie müssen zurückfahren, aber hier dürfen Sie nicht wenden."
+    ]
+  },
+  {
+    "ID": "317",
+    "word": "der Berg, -e",
+    "meaning": "the mountain",
+    "examples": [
+      "Die Zugspitze ist der höchste Berg in Deutschland.",
+      "Wir fahren jeden Sonntag in die Berge.",
+      "Auf dem Berg haben wir ein Picknick gemacht."
+    ]
+  },
+  {
+    "ID": "1683",
+    "word": "nötig",
+    "meaning": "necessary",
+    "examples": [
+      "Wenn es nötig ist, nehmen Sie noch eine Tablette.",
+      "Kann ich Ihnen helfen? – Danke, nicht nötig."
+    ]
+  },
+  {
+    "ID": "705",
+    "word": "das Erlebnis, -se",
+    "meaning": "the experience",
+    "examples": [
+      "Die Reise war ein tolles Erlebnis."
+    ]
+  },
+  {
+    "ID": "1685",
+    "word": "notwendig",
+    "meaning": "necessary",
+    "examples": [
+      "Muss ich nochmal wiederkommen? – Nein, das ist nicht notwendig."
+    ]
+  },
+  {
+    "ID": "2500",
+    "word": "das Urteil, -e",
+    "meaning": "judgment",
+    "examples": [
+      "Dein Urteil ist für mich sehr wichtig.",
+      "Das Urteil des Gerichts erscheint mir zu hart."
+    ]
+  },
+  {
+    "ID": "1889",
+    "word": "die Regel, -n",
+    "meaning": "rule",
+    "examples": [
+      "Im Straßenverkehr sind viele Regeln zu beachten.",
+      "Wie geht dieses Spiel? Kennst du die Regeln?",
+      "In der Regel geht sie um sieben Uhr aus dem Haus."
+    ]
+  },
+  {
+    "ID": "975",
+    "word": "geschehen",
+    "meaning": "to happen",
+    "examples": [
+      "Vielen Dank für Ihre Hilfe. – Gern geschehen."
+    ]
+  },
+  {
+    "ID": "103",
+    "word": "anschließen",
+    "meaning": "to connect",
+    "examples": [
+      "Wo kann ich den Computer anschließen?"
+    ]
+  },
+  {
+    "ID": "2837",
+    "word": "zumachen",
+    "meaning": "to close",
+    "examples": [
+      "Mach bitte die Tür zu!"
+    ]
+  },
+  {
+    "ID": "674",
+    "word": "das Erdgeschoss / Ergeschoß, -e",
+    "meaning": "the ground floor",
+    "examples": [
+      "Unsere Wohnung befindet sich im Erdgeschoss."
+    ]
+  },
+  {
+    "ID": "100",
+    "word": "der Anrufbeantworter, -",
+    "meaning": "the answering machine",
+    "examples": [
+      "Ich habe dir eine Nachricht auf den Anrufbeantworter gesprochen."
+    ]
+  },
+  {
+    "ID": "2341",
+    "word": "die Theorie, -n",
+    "meaning": "theory",
+    "examples": [
+      "Das ist die Theorie. In der Praxis ist vieles ganz anders."
+    ]
+  },
+  {
+    "ID": "520",
+    "word": "doch",
+    "meaning": "but / yet",
+    "examples": [
+      "Isst du kein Fleisch? – Doch, manchmal schon.",
+      "Ich habe es mir anders überlegt. Ich komme doch mit in die Stadt."
+    ]
+  },
+  {
+    "ID": "1156",
+    "word": "der Humor",
+    "meaning": "the humor",
+    "examples": [
+      "Wir mögen Paul, weil er so viel Humor hat",
+      "Den Humor des Komikers verstehe ich nicht"
+    ]
+  },
+  {
+    "ID": "589",
+    "word": "der Einfall, ¨-e",
+    "meaning": "the idea",
+    "examples": [
+      "Frag einfach meine Freundin. Sie hat immer gute Einfälle."
+    ]
+  },
+  {
+    "ID": "1344",
+    "word": "kosten",
+    "meaning": "to cost",
+    "examples": [
+      "Wie viel kostet das T-Shirt? – 15 Euro",
+      "Eine Wohnung zu finden kostet viel Zeit"
+    ]
+  },
+  {
+    "ID": "2110",
+    "word": "die Sicherheit, -en",
+    "meaning": "safety",
+    "examples": [
+      "Sicherheit ist für mich sehr wichtig."
+    ]
+  },
+  {
+    "ID": "52",
+    "word": "der Alltag, -",
+    "meaning": "the everyday life",
+    "examples": [
+      "Das ist mein Alltag",
+      "putzen, waschen, kochen."
+    ]
+  },
+  {
+    "ID": "2309",
+    "word": "taub",
+    "meaning": "deaf",
+    "examples": [
+      "Sie hört schlecht, sie ist schon fast taub.",
+      "Bist du taub? Ich spreche mit dir!"
+    ]
+  },
+  {
+    "ID": "1409",
+    "word": "die Landung, -en",
+    "meaning": "the landing",
+    "examples": [
+      "Bei der Landung müssen Sie sich anschnallen"
+    ]
+  },
+  {
+    "ID": "1922",
+    "word": "reservieren",
+    "meaning": "to reserve",
+    "examples": [
+      "Dieser Tisch ist reserviert.",
+      "Bitte reservieren Sie mir ein Doppelzimmer."
+    ]
+  },
+  {
+    "ID": "2856",
+    "word": "zuständig",
+    "meaning": "responsible",
+    "examples": [
+      "Wir haben ein Problem mit der Heizung. Wer ist dafür zuständig?"
+    ]
+  },
+  {
+    "ID": "677",
+    "word": "erfahren",
+    "meaning": "to find out / to learn",
+    "examples": [
+      "Wann erfahren wir das Ergebnis der Prüfung?"
+    ]
+  },
+  {
+    "ID": "1593",
+    "word": "der Moment, -e",
+    "meaning": "the moment",
+    "examples": [
+      "Warten Sie bitte einen Moment.",
+      "Einen Moment bitte.",
+      "Ich habe im Moment sehr viel zu tun."
+    ]
+  },
+  {
+    "ID": "1140",
+    "word": "die Hochzeit, -en",
+    "meaning": "the wedding",
+    "examples": [
+      "Claudia und Peter wollen ihre Hochzeit groß feiern",
+      "Zu dieser Hochzeit kommen mehr als fünfzig Gäste"
+    ]
+  },
+  {
+    "ID": "836",
+    "word": "folgend",
+    "meaning": "following",
+    "examples": [
+      "Mehr Informationen auf den folgenden Seiten.",
+      "Das Geschäft hat folgende Angebote …"
+    ]
+  },
+  {
+    "ID": "1019",
+    "word": "das Glück",
+    "meaning": "luck",
+    "examples": [
+      "Du hast dich nicht verletzt. Da hast du Glück gehabt",
+      "Viel Glück bei der Prüfung!",
+      "Es hat geregnet. Zum Glück hatte ich einen Regenschirm dabei"
+    ]
+  },
+  {
+    "ID": "1914",
+    "word": "rennen",
+    "meaning": "to run",
+    "examples": [
+      "Ich bin sehr schnell gerannt, aber der Bus war schon weg."
+    ]
+  },
+  {
+    "ID": "2691",
+    "word": "wehtun",
+    "meaning": "to hurt",
+    "examples": [
+      "Wo tut es weh?",
+      "Mir tut der Rücken weh.",
+      "Hast du dir wehgetan?"
+    ]
+  },
+  {
+    "ID": "2234",
+    "word": "stimmen",
+    "meaning": "to be correct",
+    "examples": [
+      "Meine Adresse stimmt nicht mehr.",
+      "Das Wetter in Deutschland könnte besser sein. – Das stimmt."
+    ]
+  },
+  {
+    "ID": "2833",
+    "word": "der Zuhörer, - / die Zuhörerin, -nen",
+    "meaning": "listener",
+    "examples": [
+      "Liebe Zuhörerinnen und Zuhörer, Ihre Meinung interessiert uns. Bitte rufen Sie an!"
+    ]
+  },
+  {
+    "ID": "839",
+    "word": "fördern",
+    "meaning": "to promote / to support",
+    "examples": [
+      "Die Stadt fördert viele Sportprojekte."
+    ]
+  },
+  {
+    "ID": "68",
+    "word": "anbieten",
+    "meaning": "to offer",
+    "examples": [
+      "Darf ich Ihnen etwas zu trinken anbieten?"
+    ]
+  },
+  {
+    "ID": "1468",
+    "word": "die Limonade, -n",
+    "meaning": "lemonade",
+    "examples": [
+      "Die Limonade ist sehr süß"
+    ]
+  },
+  {
+    "ID": "2235",
+    "word": "die Stimmung, -en",
+    "meaning": "mood",
+    "examples": [
+      "Es war eine tolle Party. Die Stimmung war sehr gut."
+    ]
+  },
+  {
+    "ID": "1304",
+    "word": "die Kneipe, -n",
+    "meaning": "the pub",
+    "examples": [
+      "Gehen wir noch in eine Kneipe ein Bier trinken?"
+    ]
+  },
+  {
+    "ID": "1649",
+    "word": "nebenbei",
+    "meaning": "by the way",
+    "examples": [
+      "Mein Freund studiert Geschichte. Und nebenbei arbeitet er in einer Kneipe.",
+      "Ich mache die Hausarbeit und nebenbei höre ich Radio."
+    ]
+  },
+  {
+    "ID": "51",
+    "word": "allgemein",
+    "meaning": "general",
+    "examples": [
+      "Wir haben nur über allgemeine Probleme gesprochen.",
+      "Es ist allgemein bekannt, dass man hier gut essen kann.",
+      "Im Allgemeinen bin ich mit meiner Arbeit sehr zufrieden."
+    ]
+  },
+  {
+    "ID": "983",
+    "word": "die Geschwindigkeitsbeschränkung, -en",
+    "meaning": "speed limit",
+    "examples": [
+      "Bitte beachten Sie die Geschwindigkeitsbeschränkungen."
+    ]
+  },
+  {
+    "ID": "1012",
+    "word": "glatt",
+    "meaning": "slippery",
+    "examples": [
+      "Fahr vorsichtig! Es ist glatt"
+    ]
+  },
+  {
+    "ID": "110",
+    "word": "der Angestellte, -n / die Angestellte, -n",
+    "meaning": "the employee",
+    "examples": [
+      "Björn ist Angestellter in einem Reisebüro."
+    ]
+  },
+  {
+    "ID": "1882",
+    "word": "rechtzeitig",
+    "meaning": "in time",
+    "examples": [
+      "Bitte weck mich rechtzeitig. Ich muss pünktlich sein."
+    ]
+  },
+  {
+    "ID": "2424",
+    "word": "die Überschrift, -en",
+    "meaning": "headline",
+    "examples": [
+      "Der Artikel erschien unter der folgenden Überschrift „…“",
+      "Die Überschrift passt überhaupt nicht zum Inhalt des Artikels."
+    ]
+  },
+  {
+    "ID": "1148",
+    "word": "das Holz",
+    "meaning": "the wood",
+    "examples": [
+      "Möchten Sie ein Regal aus Holz oder aus Metall?"
+    ]
+  },
+  {
+    "ID": "2044",
+    "word": "schreiben",
+    "meaning": "to write",
+    "examples": [
+      "Ich habe dir einen Brief geschrieben.",
+      "Ich schreibe dir eine E-Mail.",
+      "Mein Kugelschreiber schreibt nicht mehr."
+    ]
+  },
+  {
+    "ID": "2669",
+    "word": "wandern",
+    "meaning": "to hike",
+    "examples": [
+      "Wir gehen oft wandern."
+    ]
+  },
+  {
+    "ID": "1968",
+    "word": "das Salz, -e",
+    "meaning": "salt",
+    "examples": [
+      "Gib mir bitte mal das Salz!"
+    ]
+  },
+  {
+    "ID": "921",
+    "word": "die Gebrauchsanweisung, -en",
+    "meaning": "the instruction manual",
+    "examples": [
+      "Lesen Sie bitte zuerst die Gebrauchsanweisung."
+    ]
+  },
+  {
+    "ID": "1520",
+    "word": "das Material",
+    "meaning": "material",
+    "examples": [
+      "Aus welchem Material ist der Schrank? – Aus Holz"
+    ]
+  },
+  {
+    "ID": "1442",
+    "word": "leider",
+    "meaning": "unfortunately",
+    "examples": [
+      "Da kann ich Ihnen leider nicht helfen",
+      "Hast du schon eine Antwort auf deinen Brief? – Leider nicht",
+      "Leider kann ich nicht kommen. Ich muss zum Arzt"
+    ]
+  },
+  {
+    "ID": "2570",
+    "word": "verpassen",
+    "meaning": "to miss",
+    "examples": [
+      "Ich habe den Zug verpasst.",
+      "Ich habe die 12-Uhr-Nachrichten verpasst."
+    ]
+  }
+]

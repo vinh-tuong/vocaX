@@ -1,0 +1,840 @@
+[
+  {
+    "ID": "139",
+    "word": "der Ärger",
+    "meaning": "the trouble",
+    "examples": [
+      "Ich hatte heute Ärger im Büro. Ich habe mich mit einem Kollegen gestritten."
+    ]
+  },
+  {
+    "ID": "1326",
+    "word": "konsumieren",
+    "meaning": "to consume",
+    "examples": [
+      "Die Europäer haben im letzten Jahr mehr Fleisch konsumiert"
+    ]
+  },
+  {
+    "ID": "1257",
+    "word": "die Katastrophe, -n",
+    "meaning": "the catastrophe",
+    "examples": [
+      "Der Urlaub war eine Katastrophe. Es hat nur geregnet"
+    ]
+  },
+  {
+    "ID": "629",
+    "word": "das Eis",
+    "meaning": "the ice",
+    "examples": [
+      "Im Winter gibt es Eis und Schnee.",
+      "Bitte eine Cola ohne Eis."
+    ]
+  },
+  {
+    "ID": "1234",
+    "word": "die Kamera, -s",
+    "meaning": "the camera",
+    "examples": [
+      "Ich habe eine ganz neue Kamera"
+    ]
+  },
+  {
+    "ID": "21",
+    "word": "abonnieren",
+    "meaning": "to subscribe",
+    "examples": [
+      "Diese Zeitschrift würde ich gerne abonnieren."
+    ]
+  },
+  {
+    "ID": "2208",
+    "word": "staubsaugen",
+    "meaning": "to vacuum",
+    "examples": [
+      "Ich muss heute in meiner Wohnung noch staubsaugen."
+    ]
+  },
+  {
+    "ID": "2187",
+    "word": "spülen",
+    "meaning": "to rinse",
+    "examples": [
+      "Hast du das Geschirr gespült?",
+      "Spülen Sie bitte jetzt den Mund aus."
+    ]
+  },
+  {
+    "ID": "2548",
+    "word": "der Verlag, -e",
+    "meaning": "publisher",
+    "examples": [
+      "Von welchem Verlag ist dieses Buch?"
+    ]
+  },
+  {
+    "ID": "2054",
+    "word": "schuld",
+    "meaning": "to blame",
+    "examples": [
+      "Ich hatte einen Unfall. Aber ich war nicht schuld."
+    ]
+  },
+  {
+    "ID": "1236",
+    "word": "der Kampf, ¨-e",
+    "meaning": "the fight",
+    "examples": [
+      "Im Schulbus gibt es immer einen Kampf um die Sitzplätze"
+    ]
+  },
+  {
+    "ID": "382",
+    "word": "Bio-",
+    "meaning": "organic",
+    "examples": [
+      "Ich kaufe nur noch Biogemüse."
+    ]
+  },
+  {
+    "ID": "256",
+    "word": "der Bau, Bauten",
+    "meaning": "the building",
+    "examples": [
+      "Ich wohne in einer Neubauwohnung.",
+      "Unser Haus ist ein Altbau."
+    ]
+  },
+  {
+    "ID": "1296",
+    "word": "klingeln",
+    "meaning": "to ring",
+    "examples": [
+      "Ich glaube, es hat an der Tür geklingelt",
+      "Das Telefon klingelt"
+    ]
+  },
+  {
+    "ID": "331",
+    "word": "beschließen",
+    "meaning": "to decide",
+    "examples": [
+      "Wir haben beschlossen, uns ein kleineres Auto zu kaufen."
+    ]
+  },
+  {
+    "ID": "2405",
+    "word": "typisch",
+    "meaning": "typical",
+    "examples": [
+      "Im Hotel gab es typisch deutsches Essen.",
+      "Er kommt wieder zu spät, das ist typisch.",
+      "Diese Musik ist typisch für dieses Land."
+    ]
+  },
+  {
+    "ID": "2411",
+    "word": "überfahren",
+    "meaning": "to run over",
+    "examples": [
+      "Gestern hat ein Autofahrer einen Hund überfahren."
+    ]
+  },
+  {
+    "ID": "2850",
+    "word": "zusätzlich",
+    "meaning": "additionally",
+    "examples": [
+      "Sie müssen in Zukunft eine Stunde zusätzlich arbeiten."
+    ]
+  },
+  {
+    "ID": "1209",
+    "word": "je",
+    "meaning": "depending on",
+    "examples": [
+      "Die Pullover kosten je nach Qualität zwischen 40 und 60 Euro",
+      "Fahren Sie im Juni oder im Juli? – Je nachdem, wann mein Mann Urlaub bekommt"
+    ]
+  },
+  {
+    "ID": "2494",
+    "word": "unterwegs",
+    "meaning": "on the way",
+    "examples": [
+      "Warte auf mich. Ich bin unterwegs und komme gleich.",
+      "Unterwegs können wir noch etwas essen.",
+      "Stell dir vor, der Brief war zwei Wochen unterwegs."
+    ]
+  },
+  {
+    "ID": "389",
+    "word": "die Bitte, -n",
+    "meaning": "the request",
+    "examples": [
+      "Ich habe eine Bitte. Kann ich mal Ihr Handy benutzen?"
+    ]
+  },
+  {
+    "ID": "536",
+    "word": "die Droge, -n",
+    "meaning": "the drug",
+    "examples": [
+      "Nimmst du etwa Drogen?"
+    ]
+  },
+  {
+    "ID": "252",
+    "word": "basteln",
+    "meaning": "to craft",
+    "examples": [
+      "Die Kinder basteln ein Vogelhaus.",
+      "Ich arbeite gern mit natürlichen Bastelmaterialien."
+    ]
+  },
+  {
+    "ID": "306",
+    "word": "benötigen",
+    "meaning": "to need",
+    "examples": [
+      "Sagen Sie Bescheid, wenn Sie noch etwas benötigen."
+    ]
+  },
+  {
+    "ID": "1128",
+    "word": "hinter/hinter-",
+    "meaning": "behind",
+    "examples": [
+      "Hinter dem Haus haben wir einen Garten",
+      "Fahren Sie Ihren Wagen bitte hinter das Haus",
+      "Auf den hinteren Plätzen kann man nicht sehr viel sehen"
+    ]
+  },
+  {
+    "ID": "247",
+    "word": "die Bar, -s",
+    "meaning": "the bar",
+    "examples": [
+      "Setzen wir uns doch an die Bar!",
+      "Ich treffe meine Freundin in der Hotelbar."
+    ]
+  },
+  {
+    "ID": "2288",
+    "word": "die Tablette, -n",
+    "meaning": "pill",
+    "examples": [
+      "Nehmen Sie dreimal täglich eine Tablette."
+    ]
+  },
+  {
+    "ID": "2364",
+    "word": "total",
+    "meaning": "totally",
+    "examples": [
+      "Der Film war total langweilig."
+    ]
+  },
+  {
+    "ID": "2199",
+    "word": "starten",
+    "meaning": "to start",
+    "examples": [
+      "Das Flugzeug ist pünktlich gestartet."
+    ]
+  },
+  {
+    "ID": "2836",
+    "word": "zuletzt",
+    "meaning": "last",
+    "examples": [
+      "Die Kleider packen wir zuletzt ein.",
+      "Wir haben uns vor drei Jahren zuletzt gesehen."
+    ]
+  },
+  {
+    "ID": "1498",
+    "word": "die Mahnung, -en",
+    "meaning": "reminder",
+    "examples": [
+      "Wenn du die Rechnung nicht pünktlich bezahlst, bekommst du eine Mahnung"
+    ]
+  },
+  {
+    "ID": "1610",
+    "word": "der Muskel, -n",
+    "meaning": "the muscle",
+    "examples": [
+      "Im Fitness-Studio trainieren wir unsere Muskeln."
+    ]
+  },
+  {
+    "ID": "689",
+    "word": "erhöhen",
+    "meaning": "to increase",
+    "examples": [
+      "Die Regierung wird sicher bald wieder die Steuern erhöhen."
+    ]
+  },
+  {
+    "ID": "393",
+    "word": "das Blatt, ¨-er",
+    "meaning": "the sheet / leaf",
+    "examples": [
+      "Die Bäume bekommen schon gelbe Blätter.",
+      "Haben Sie ein Blatt Papier für mich?"
+    ]
+  },
+  {
+    "ID": "168",
+    "word": "aufregen",
+    "meaning": "to upset",
+    "examples": [
+      "Es regt mich auf, dass ich schon wieder Überstunden machen muss.",
+      "Ganz ruhig! Bitte regen Sie sich nicht auf.",
+      "Heute hast du eine Prüfung. Bist du schon aufgeregt?",
+      "Die Musikgruppe zu erleben war sehr aufregend."
+    ]
+  },
+  {
+    "ID": "1575",
+    "word": "das Mittel, -",
+    "meaning": "the remedy",
+    "examples": [
+      "Haben Sie ein Mittel gegen Magenschmerzen?",
+      "Der Arzt hat mir ein Mittel gegen Grippe verschrieben.",
+      "Das neue Waschmittel ist sehr gut."
+    ]
+  },
+  {
+    "ID": "538",
+    "word": "drüben",
+    "meaning": "over there",
+    "examples": [
+      "Dort drüben ist die Haltestelle."
+    ]
+  },
+  {
+    "ID": "506",
+    "word": "der Dieb, -e",
+    "meaning": "the thief",
+    "examples": [
+      "Ein Dieb hat mir auf dem Markt die Tasche gestohlen."
+    ]
+  },
+  {
+    "ID": "504",
+    "word": "dicht",
+    "meaning": "airtight / close",
+    "examples": [
+      "Unsere Fenster sind nicht dicht. Es zieht immer."
+    ]
+  },
+  {
+    "ID": "1859",
+    "word": "der Rat",
+    "meaning": "advice",
+    "examples": [
+      "What should I do? Can you give me some advice?"
+    ]
+  },
+  {
+    "ID": "2692",
+    "word": "weiblich",
+    "meaning": "female",
+    "examples": [
+      "Kreuzen Sie bitte an „weiblich“ oder „männlich“."
+    ]
+  },
+  {
+    "ID": "515",
+    "word": "der Direktor, -en / die Direktorin, -nen",
+    "meaning": "the director",
+    "examples": [
+      "Ich möchte gern mit dem Direktor sprechen."
+    ]
+  },
+  {
+    "ID": "264",
+    "word": "sich bedanken",
+    "meaning": "to thank",
+    "examples": [
+      "Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken."
+    ]
+  },
+  {
+    "ID": "27",
+    "word": "die Absicht, -en",
+    "meaning": "the intention",
+    "examples": [
+      "Entschuldigen Sie bitte, meine Tochter hat das nicht mit Absicht gemacht.",
+      "Hast du die Absicht zu studieren?"
+    ]
+  },
+  {
+    "ID": "2005",
+    "word": "das Schiff, -e",
+    "meaning": "the ship",
+    "examples": [
+      "Sind Sie mit dem Schiff oder mit dem Flugzeug gekommen?"
+    ]
+  },
+  {
+    "ID": "350",
+    "word": "bestrafen",
+    "meaning": "to punish",
+    "examples": [
+      "Zu schnelles Fahren wird streng bestraft."
+    ]
+  },
+  {
+    "ID": "1870",
+    "word": "realisieren",
+    "meaning": "to realize",
+    "examples": [
+      "Diese Pläne sind nicht zu realisieren.",
+      "Ich habe nicht realisiert, dass die Zeit schon um ist."
+    ]
+  },
+  {
+    "ID": "332",
+    "word": "beschränken",
+    "meaning": "to limit",
+    "examples": [
+      "Die Teilnehmerzahl für den Kurs ist beschränkt."
+    ]
+  },
+  {
+    "ID": "232",
+    "word": "S-Bahn, -en",
+    "meaning": "the suburban train",
+    "examples": [
+      "Die S-Bahn ist schneller als die Straßenbahn."
+    ]
+  },
+  {
+    "ID": "2255",
+    "word": "(sich) streiten",
+    "meaning": "to argue",
+    "examples": [
+      "Die Kinder streiten sich oft."
+    ]
+  },
+  {
+    "ID": "2501",
+    "word": "die Vase, -n",
+    "meaning": "vase",
+    "examples": [
+      "Hast du eine Vase für die Blumen?"
+    ]
+  },
+  {
+    "ID": "149",
+    "word": "auch",
+    "meaning": "also",
+    "examples": [
+      "Ich muss leider gehen. – Ich auch.",
+      "Ich arbeite die ganze Woche und muss auch am Wochenende arbeiten.",
+      "Wir fahren auf jeden Fall, auch wenn es regnet.",
+      "Der Zug ist gerade eben abgefahren. Warum kommst du auch so spät!"
+    ]
+  },
+  {
+    "ID": "2028",
+    "word": "der Schmuck",
+    "meaning": "jewelry",
+    "examples": [
+      "Dieser Schmuck ist von meiner Großmutter."
+    ]
+  },
+  {
+    "ID": "237",
+    "word": "bald",
+    "meaning": "soon",
+    "examples": [
+      "Besuchen Sie uns doch bald mal.",
+      "Geben Sie mir bitte so bald wie möglich Bescheid.",
+      "Auf Wiedersehen, bis bald!"
+    ]
+  },
+  {
+    "ID": "160",
+    "word": "aufhören",
+    "meaning": "to stop",
+    "examples": [
+      "Es hört nicht auf zu schneien.",
+      "Wann hört ihr mit der Arbeit auf?",
+      "Hier hört die Hauptstraße auf."
+    ]
+  },
+  {
+    "ID": "221",
+    "word": "das Auto, -s",
+    "meaning": "the car",
+    "examples": [
+      "Mario fährt mit dem Auto zur Arbeit."
+    ]
+  },
+  {
+    "ID": "251",
+    "word": "der Basketball, ¨-e",
+    "meaning": "the basketball",
+    "examples": [
+      "Sie spielt sehr gern Basketball.",
+      "Er hat zum Geburtstag einen neuen Basketball bekommen."
+    ]
+  },
+  {
+    "ID": "2508",
+    "word": "verabschieden",
+    "meaning": "to say goodbye",
+    "examples": [
+      "Ich wurde von meinen Freunden sehr nett verabschiedet.",
+      "Es ist schon 23 Uhr. Ich möchte mich verabschieden."
+    ]
+  },
+  {
+    "ID": "690",
+    "word": "die Erhöhung, -en",
+    "meaning": "the increase",
+    "examples": [
+      "Wir streiken für eine Lohnerhöhung."
+    ]
+  },
+  {
+    "ID": "335",
+    "word": "sich beschweren",
+    "meaning": "to complain",
+    "examples": [
+      "Wo können wir uns beschweren?"
+    ]
+  },
+  {
+    "ID": "1598",
+    "word": "müde",
+    "meaning": "tired",
+    "examples": [
+      "Ich bin müde. Ich gehe schlafen."
+    ]
+  },
+  {
+    "ID": "1608",
+    "word": "musikalisch",
+    "meaning": "musical",
+    "examples": [
+      "Sie ist sehr musikalisch",
+      "Sie spielt Klavier, Flöte, und Geige.",
+      "Das musikalische Angebot gefällt mir."
+    ]
+  },
+  {
+    "ID": "614",
+    "word": "einsetzen",
+    "meaning": "to employ / to insert",
+    "examples": [
+      "Ich glaube, wir müssen jemanden einsetzen, der sich um die Organisation kümmert.",
+      "Peter hat sich dafür eingesetzt, dass ich den Job bekomme."
+    ]
+  },
+  {
+    "ID": "2799",
+    "word": "zelten",
+    "meaning": "to camp",
+    "examples": [
+      "Ich habe noch nie gezeltet."
+    ]
+  },
+  {
+    "ID": "20",
+    "word": "abnehmen",
+    "meaning": "to take off",
+    "examples": [
+      "Morgen können wir den Verband abnehmen.",
+      "Ich habe zehn Kilo abgenommen."
+    ]
+  },
+  {
+    "ID": "79",
+    "word": "anfangs",
+    "meaning": "at first",
+    "examples": [
+      "Anfangs ging alles gut."
+    ]
+  },
+  {
+    "ID": "2316",
+    "word": "Tee ziehen lassen",
+    "meaning": "to let the tea steep",
+    "examples": [
+      "Diesen Tee sollte man 10 Minuten ziehen lassen."
+    ]
+  },
+  {
+    "ID": "2170",
+    "word": "das Spiel, -e",
+    "meaning": "game",
+    "examples": [
+      "Monopoly ist ein ganz bekanntes Spiel.",
+      "Nach 20 Minuten stand das Spiel 2-1."
+    ]
+  },
+  {
+    "ID": "2193",
+    "word": "der Stadtplan, ¨-e",
+    "meaning": "city map",
+    "examples": [
+      "Haben Sie einen Stadtplan?"
+    ]
+  },
+  {
+    "ID": "2369",
+    "word": "tragen",
+    "meaning": "to carry",
+    "examples": [
+      "Lass mich den Koffer tragen. Der ist zu schwer für dich.",
+      "Mein Bruder trägt eine Brille.",
+      "Die Kosten trägt die Krankenkasse."
+    ]
+  },
+  {
+    "ID": "2725",
+    "word": "die Wettervorhersage, -n",
+    "meaning": "weather forecast",
+    "examples": [
+      "Die Wettervorhersage für morgen",
+      "trocken und sonnig."
+    ]
+  },
+  {
+    "ID": "1517",
+    "word": "der Markt, ¨-e",
+    "meaning": "market",
+    "examples": [
+      "Ich gehe heute auf den Markt",
+      "Mittwochs und samstags ist bei uns Markt"
+    ]
+  },
+  {
+    "ID": "2722",
+    "word": "wetten",
+    "meaning": "to bet",
+    "examples": [
+      "Wir haben gewettet, dass sie wieder zu spät kommt.",
+      "Wetten, dass es bald regnet?"
+    ]
+  },
+  {
+    "ID": "2747",
+    "word": "wissen",
+    "meaning": "to know",
+    "examples": [
+      "Weißt du, wie der Hausmeister heißt?",
+      "Ich habe nicht gewusst, dass Pascal verheiratet ist.",
+      "Woher wissen Sie das?"
+    ]
+  },
+  {
+    "ID": "2865",
+    "word": "der Zweifel, -",
+    "meaning": "doubt",
+    "examples": [
+      "Da ist ohne Zweifel die beste Lösung.",
+      "Allmählich bekomme ich Zweifel daran."
+    ]
+  },
+  {
+    "ID": "2023",
+    "word": "schmal",
+    "meaning": "narrow",
+    "examples": [
+      "Hier kannst du nicht parken. Die Straße ist zu schmal."
+    ]
+  },
+  {
+    "ID": "159",
+    "word": "aufheben",
+    "meaning": "to pick up",
+    "examples": [
+      "Lassen Sie die Papiere nur auf dem Boden liegen, ich hebe sie schon auf.",
+      "Die Quittung müssen Sie gut aufheben."
+    ]
+  },
+  {
+    "ID": "2465",
+    "word": "unglaublich",
+    "meaning": "incredible",
+    "examples": [
+      "Es ist unglaublich. Schon wieder so ein Unglück."
+    ]
+  },
+  {
+    "ID": "1504",
+    "word": "manch-",
+    "meaning": "some",
+    "examples": [
+      "Manche Nachbarn sind unfreundlich",
+      "An manchen Tagen ist das Zugfahren billiger"
+    ]
+  },
+  {
+    "ID": "171",
+    "word": "auftreten",
+    "meaning": "to perform",
+    "examples": [
+      "Nächste Woche tritt in der Stadthalle eine berühmte Musikgruppe auf."
+    ]
+  },
+  {
+    "ID": "83",
+    "word": "angenehm",
+    "meaning": "pleasant",
+    "examples": [
+      "Wir wünschen Ihnen eine angenehme Reise."
+    ]
+  },
+  {
+    "ID": "2681",
+    "word": "die Wäsche",
+    "meaning": "laundry",
+    "examples": [
+      "Ich muss heute noch Wäsche waschen.",
+      "Kannst du bitte die Wäsche aufhängen?"
+    ]
+  },
+  {
+    "ID": "507",
+    "word": "dienen",
+    "meaning": "to serve",
+    "examples": [
+      "Solche Kontakte dienen der Verbesserung der internationalen Beziehungen.",
+      "Dieser Raum dient als Aufenthaltsraum.",
+      "Er hat der Firma viele Jahre lang gedient."
+    ]
+  },
+  {
+    "ID": "2520",
+    "word": "verbrauchen",
+    "meaning": "to consume",
+    "examples": [
+      "Wie viel Benzin verbraucht dein Auto?"
+    ]
+  },
+  {
+    "ID": "84",
+    "word": "die Angst, ¨-e",
+    "meaning": "the fear",
+    "examples": [
+      "Du brauchst keine Angst zu haben. Der Hund tut dir nichts.",
+      "Ich habe Angst, vielleicht ist etwas passiert."
+    ]
+  },
+  {
+    "ID": "1515",
+    "word": "die Marke, -n",
+    "meaning": "brand; stamp",
+    "examples": [
+      "Ich brauche bitte fünf Briefmarken zu 1 Euro",
+      "Markenschuhe sind mir zu teuer"
+    ]
+  },
+  {
+    "ID": "2186",
+    "word": "die Spritze, -n",
+    "meaning": "injection",
+    "examples": [
+      "Ich habe heute vom Arzt eine Spritze gegen die Schmerzen bekommen."
+    ]
+  },
+  {
+    "ID": "150",
+    "word": "auf",
+    "meaning": "on",
+    "examples": [
+      "Deine Brille liegt auf dem Schreibtisch.",
+      "Die Kinder spielen unten auf der Straße.",
+      "Meine Eltern leben auf dem Land.",
+      "Gestern waren wir auf einer Party.",
+      "Auf unsere Anzeige in der Abendzeitung hat sich noch niemand gemeldet.",
+      "Wie heißt das auf Deutsch?",
+      "Meine Tochter kommt nächstes Jahr aufs Gymnasium.",
+      "Im Mai war ich auf Urlaub.",
+      "Ich bin schon seit zwei Stunden auf.",
+      "Komm herein, die Tür ist auf."
+    ]
+  },
+  {
+    "ID": "2179",
+    "word": "die Sprache, -n",
+    "meaning": "language",
+    "examples": [
+      "Franco spricht mehrere Sprachen."
+    ]
+  },
+  {
+    "ID": "1872",
+    "word": "realistisch",
+    "meaning": "realistic",
+    "examples": [
+      "Ich glaube nicht, dass du für das Auto noch so viel Geld bekommst. Das ist nicht realistisch."
+    ]
+  },
+  {
+    "ID": "2682",
+    "word": "das Waschmittel, -",
+    "meaning": "detergent",
+    "examples": [
+      "Diese Bluse darfst du nicht mit jedem Waschmittel waschen."
+    ]
+  },
+  {
+    "ID": "604",
+    "word": "einmal",
+    "meaning": "once",
+    "examples": [
+      "Ich habe diese Oper leider nur einmal gesehen.",
+      "Bitte rufen Sie morgen noch einmal an."
+    ]
+  },
+  {
+    "ID": "178",
+    "word": "aus",
+    "meaning": "out",
+    "examples": [
+      "Frau Müller geht jeden Morgen um 8 Uhr aus dem Haus.",
+      "Frau Özgen kommt aus der Türkei.",
+      "Die Möbel sind noch aus der Zeit um 1900.",
+      "Ich trage nur Pullover aus reiner Wolle.",
+      "Wir haben aus Liebe geheiratet.",
+      "Wann ist der Kurs aus?",
+      "Ich seh‘ nichts! Das Licht ist aus!"
+    ]
+  },
+  {
+    "ID": "2304",
+    "word": "die Tat, -en",
+    "meaning": "deed",
+    "examples": [
+      "Dieser Mensch hat mit vielen guten Taten geholfen."
+    ]
+  },
+  {
+    "ID": "46",
+    "word": "der Alkohol, -",
+    "meaning": "the alcohol",
+    "examples": [
+      "Du musst die Wunde mit Alkohol reinigen.",
+      "Nein danke, ich trinke keinen Alkohol."
+    ]
+  },
+  {
+    "ID": "2072",
+    "word": "Schwieger-",
+    "meaning": "in-law",
+    "examples": [
+      "Wir besuchen morgen meine Schwiegereltern.",
+      "Mein Schwiegervater ist Lehrer.",
+      "Ich verstehe mich gut mit meiner Schwiegertochter."
+    ]
+  }
+]

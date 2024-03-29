@@ -1,0 +1,699 @@
+[
+  {
+    "ID": "1595",
+    "word": "der Monitor, -e",
+    "meaning": "the monitor",
+    "examples": [
+      "Ich habe mir einen größeren Monitor gekauft. Das ist besser für meine Augen."
+    ]
+  },
+  {
+    "ID": "1491",
+    "word": "lustig",
+    "meaning": "funny",
+    "examples": [
+      "Ich habe einen lustigen Film gesehen",
+      "Mir ist heute etwas Lustiges passiert"
+    ]
+  },
+  {
+    "ID": "2740",
+    "word": "winken",
+    "meaning": "to wave",
+    "examples": [
+      "Alle standen auf dem Bahnsteig und winkten zum Abschied."
+    ]
+  },
+  {
+    "ID": "2231",
+    "word": "die Stiege, -n (A) → Treppe (D CH)",
+    "meaning": "stairs",
+    "examples": [
+      "Wo ist die Toilette? – Die Stiege hoch und dann links.",
+      "Meine Oma kann nicht gut Stiegen steigen."
+    ]
+  },
+  {
+    "ID": "145",
+    "word": "der Arzt, ¨-e / die Ärztin, -nen",
+    "meaning": "the doctor",
+    "examples": [
+      "Ich muss heute zum Arzt.",
+      "Wann warst du beim Zahnarzt?"
+    ]
+  },
+  {
+    "ID": "1522",
+    "word": "die Mauer, -n",
+    "meaning": "wall",
+    "examples": [
+      "Die Kinder sind über die Mauer geklettert"
+    ]
+  },
+  {
+    "ID": "28",
+    "word": "absolut",
+    "meaning": "absolutely",
+    "examples": [
+      "Was Sie da sagen, ist absolut falsch.",
+      "Ich habe absolutes Vertrauen zu dir."
+    ]
+  },
+  {
+    "ID": "596",
+    "word": "einheitlich",
+    "meaning": "uniform",
+    "examples": [
+      "Die Schüler dieser Schule tragen einheitliche Kleidung."
+    ]
+  },
+  {
+    "ID": "1617",
+    "word": "der Nachbar, -n/die Nachbarin, -nen",
+    "meaning": "the neighbor, male/female",
+    "examples": [
+      "Meine neue Nachbarin ist sehr nett."
+    ]
+  },
+  {
+    "ID": "65",
+    "word": "sich amüsieren",
+    "meaning": "to enjoy oneself",
+    "examples": [
+      "Bei dem Fest haben wir uns sehr gut amüsiert."
+    ]
+  },
+  {
+    "ID": "1523",
+    "word": "maximal",
+    "meaning": "maximum",
+    "examples": [
+      "Wie lange braucht ein Brief? – Maximal zwei Tage",
+      "Wie schwer darf der Brief sein? – Maximal 20 g"
+    ]
+  },
+  {
+    "ID": "2043",
+    "word": "schrecklich",
+    "meaning": "terrible/horrible",
+    "examples": [
+      "Heute ist eine schreckliche Hitze.",
+      "Das Restaurant war schrecklich voll.",
+      "Ich finde dieses Kleid schrecklich.",
+      "Auf der Autobahn ist ein schrecklicher Unfall passiert."
+    ]
+  },
+  {
+    "ID": "1619",
+    "word": "nachdenken",
+    "meaning": "to think about",
+    "examples": [
+      "Ich weiß nicht, was ich machen soll. Ich muss nachdenken."
+    ]
+  },
+  {
+    "ID": "1505",
+    "word": "manchmal",
+    "meaning": "sometimes",
+    "examples": [
+      "Manchmal gehe ich mit meiner Frau ins Café",
+      "Rauchen Sie? – Manchmal"
+    ]
+  },
+  {
+    "ID": "2792",
+    "word": "die Zeile, -n",
+    "meaning": "line",
+    "examples": [
+      "Das Wort steht in der fünften Zeile von oben."
+    ]
+  },
+  {
+    "ID": "2212",
+    "word": "der Stecker, -",
+    "meaning": "plug",
+    "examples": [
+      "Der Stecker passt nicht in diese Steckdose."
+    ]
+  },
+  {
+    "ID": "2320",
+    "word": "die Teilzeit",
+    "meaning": "part-time",
+    "examples": [
+      "Ich arbeite im Moment nur Teilzeit."
+    ]
+  },
+  {
+    "ID": "518",
+    "word": "die Diskussion, -en",
+    "meaning": "the discussion",
+    "examples": [
+      "Im Fernsehen gab es eine Diskussion zum Thema „Kinderbetreuung“."
+    ]
+  },
+  {
+    "ID": "2450",
+    "word": "umsteigen",
+    "meaning": "to change (trains)",
+    "examples": [
+      "In Ulm müssen Sie umsteigen."
+    ]
+  },
+  {
+    "ID": "2240",
+    "word": "stolz",
+    "meaning": "proud",
+    "examples": [
+      "Ich bin stolz auf dich. Das hast du sehr gut gemacht."
+    ]
+  },
+  {
+    "ID": "688",
+    "word": "erhalten",
+    "meaning": "to receive",
+    "examples": [
+      "Ihr Schreiben vom 3. Januar haben wir erhalten."
+    ]
+  },
+  {
+    "ID": "2066",
+    "word": "das Schwammerl, -n (A) → Pilz",
+    "meaning": "mushroom",
+    "examples": [
+      "Haben Sie frische Schwammerln?"
+    ]
+  },
+  {
+    "ID": "534",
+    "word": "dringend",
+    "meaning": "urgent",
+    "examples": [
+      "Ich muss dich dringend sprechen.",
+      "Ich erwarte einen dringenden Anruf.",
+      "Bitte kommen Sie schnell. Es ist dringend."
+    ]
+  },
+  {
+    "ID": "2459",
+    "word": "un-",
+    "meaning": "un-",
+    "examples": [
+      "Der Verkäufer war sehr unfreundlich.",
+      "Dieses Geräusch ist mir unangenehm.",
+      "Er kam wie immer unpünktlich."
+    ]
+  },
+  {
+    "ID": "1562",
+    "word": "mild",
+    "meaning": "mild",
+    "examples": [
+      "Möchten Sie die Soße scharf? – Nein, bitte ganz mild",
+      "Wie wird das Wetter? – Es soll etwas milder werden"
+    ]
+  },
+  {
+    "ID": "2521",
+    "word": "der Verbrecher, - / die Verbrecherin, -nen",
+    "meaning": "criminal",
+    "examples": [
+      "Die Polizei hat den Verbrecher verhaftet."
+    ]
+  },
+  {
+    "ID": "1583",
+    "word": "die Mobilbox, -en",
+    "meaning": "voicemail box",
+    "examples": [
+      "Ich habe zwei Nachrichten auf meiner Mobilbox."
+    ]
+  },
+  {
+    "ID": "370",
+    "word": "die Bewerbung, -en",
+    "meaning": "the application",
+    "examples": [
+      "Wohin soll ich meine Bewerbung schicken?",
+      "Hilfst du mir bei meiner Bewerbung?"
+    ]
+  },
+  {
+    "ID": "679",
+    "word": "erfinden",
+    "meaning": "to invent",
+    "examples": [
+      "Das Rad wurde vor ca. 6000 Jahren erfunden."
+    ]
+  },
+  {
+    "ID": "2358",
+    "word": "die Tomate, -n",
+    "meaning": "tomato",
+    "examples": [
+      "Kauf bitte noch Tomaten auf dem Markt."
+    ]
+  },
+  {
+    "ID": "64",
+    "word": "das Amt, ¨-er",
+    "meaning": "the office",
+    "examples": [
+      "Das Arbeitsamt befindet sich neben dem Busbahnhof."
+    ]
+  },
+  {
+    "ID": "2070",
+    "word": "schwer",
+    "meaning": "heavy",
+    "examples": [
+      "Der Koffer ist viel zu schwer.",
+      "Die Prüfung war schwer.",
+      "Das ist eine schwere Arbeit.",
+      "Dieses Wort ist schwer zu erklären."
+    ]
+  },
+  {
+    "ID": "2363",
+    "word": "der Tote, -n / die Tote, -n",
+    "meaning": "deceased",
+    "examples": [
+      "Bei dem Unfall gab es zwei Tote."
+    ]
+  },
+  {
+    "ID": "2219",
+    "word": "die Stelle, -n",
+    "meaning": "position",
+    "examples": [
+      "Wir treffen uns hier an dieser Stelle.",
+      "Ich habe eine neue Stelle.",
+      "Diese Stelle in seinem Brief ist mir nicht ganz klar.",
+      "An Ihrer Stelle würde ich den Vertrag nicht unterschreiben."
+    ]
+  },
+  {
+    "ID": "1509",
+    "word": "die Mannschaft, -en",
+    "meaning": "team",
+    "examples": [
+      "Unsere Mannschaft hat 0-1 verloren"
+    ]
+  },
+  {
+    "ID": "2322",
+    "word": "die Teilnahme, -n",
+    "meaning": "participation",
+    "examples": [
+      "Die Teilnahme am Gewinnspiel ist kostenlos."
+    ]
+  },
+  {
+    "ID": "680",
+    "word": "die Erfindung, -en",
+    "meaning": "the invention",
+    "examples": [
+      "Die Erfindung des Buchdrucks war sehr wichtig für die Menschen."
+    ]
+  },
+  {
+    "ID": "715",
+    "word": "erreichen",
+    "meaning": "to reach",
+    "examples": [
+      "Wenn wir uns beeilen, erreichen wir noch den 8-Uhr-Zug.",
+      "Bis 17 Uhr können Sie mich im Büro erreichen."
+    ]
+  },
+  {
+    "ID": "40",
+    "word": "die Aktion, -en",
+    "meaning": "the action",
+    "examples": [
+      "Die Stadt sollte eine Aktion für Familien planen."
+    ]
+  },
+  {
+    "ID": "2242",
+    "word": "stören",
+    "meaning": "to disturb",
+    "examples": [
+      "Darf ich Sie einen Augenblick stören?",
+      "Du kannst das Radio anlassen. Das stört mich nicht."
+    ]
+  },
+  {
+    "ID": "1514",
+    "word": "die Marille, -n (A) → Aprikose (D, CH)",
+    "meaning": "apricot",
+    "examples": [
+      "Schmecken dir die Marillen?"
+    ]
+  },
+  {
+    "ID": "719",
+    "word": "der Ersatz",
+    "meaning": "the replacement",
+    "examples": [
+      "Sie bekommen von unserer Firma einen Ersatz für das kaputte Gerät."
+    ]
+  },
+  {
+    "ID": "162",
+    "word": "auflösen",
+    "meaning": "to dissolve",
+    "examples": [
+      "Die Tablette bitte in Wasser auflösen."
+    ]
+  },
+  {
+    "ID": "2365",
+    "word": "der Tourismus",
+    "meaning": "tourism",
+    "examples": [
+      "In dieser Gegend gibt es viel Tourismus."
+    ]
+  },
+  {
+    "ID": "601",
+    "word": "das Einkommen, -",
+    "meaning": "income",
+    "examples": [
+      "Bei einem höheren Einkommen muss man mehr Steuern zahlen."
+    ]
+  },
+  {
+    "ID": "2045",
+    "word": "aufschreiben",
+    "meaning": "to write down",
+    "examples": [
+      "Ich habe mir deine Telefonnummer aufgeschrieben."
+    ]
+  },
+  {
+    "ID": "2059",
+    "word": "der Schüler, -/die Schülerin, -nen",
+    "meaning": "the student",
+    "examples": [
+      "In der Klasse sind 25 Schülerinnen."
+    ]
+  },
+  {
+    "ID": "2063",
+    "word": "schützen",
+    "meaning": "to protect",
+    "examples": [
+      "Diese Impfung schützt vor Grippe."
+    ]
+  },
+  {
+    "ID": "2217",
+    "word": "steil",
+    "meaning": "steep",
+    "examples": [
+      "The road to our house is very steep."
+    ]
+  },
+  {
+    "ID": "2035",
+    "word": "schnell",
+    "meaning": "fast/quick",
+    "examples": [
+      "Warum fährst du so schnell?",
+      "Bitte sagen Sie mir so schnell wie möglich Bescheid.",
+      "Ich bin gleich fertig, ich muss nur noch schnell telefonieren."
+    ]
+  },
+  {
+    "ID": "627",
+    "word": "einzig-",
+    "meaning": "only",
+    "examples": [
+      "Wir waren die einzigen Gäste.",
+      "Das war das einzige Mal, dass ich ihn gesehen habe."
+    ]
+  },
+  {
+    "ID": "2381",
+    "word": "treffen",
+    "meaning": "to meet",
+    "examples": [
+      "Wir treffen uns immer freitags.",
+      "Ich habe Petra zufällig in der Stadt getroffen."
+    ]
+  },
+  {
+    "ID": "2049",
+    "word": "schriftlich",
+    "meaning": "in writing",
+    "examples": [
+      "Die schriftliche Prüfung dauert einen halben Tag.",
+      "Wir brauchen von Ihnen eine schriftliche Bestätigung.",
+      "Sie müssen sich schriftlich anmelden."
+    ]
+  },
+  {
+    "ID": "600",
+    "word": "der Einkauf, ¨-e",
+    "meaning": "shopping",
+    "examples": [
+      "Achten Sie beim Einkauf auf Sonderangebote."
+    ]
+  },
+  {
+    "ID": "387",
+    "word": "ein bisschen",
+    "meaning": "a little",
+    "examples": [
+      "Wenn Sie ein bisschen warten können, wir zusammen gehen.",
+      "Möchten Sie noch ein bisschen Reis?",
+      "Können Sie bitte ein bisschen lauter sprechen?",
+      "Sprechen Sie Englisch? – Ein bisschen."
+    ]
+  },
+  {
+    "ID": "608",
+    "word": "einrichten",
+    "meaning": "to set up",
+    "examples": [
+      "Ich habe meine Wohnung selbst eingerichtet.",
+      "Wir haben eine extra Telefonnummer eingerichtet."
+    ]
+  },
+  {
+    "ID": "2033",
+    "word": "schneien",
+    "meaning": "to snow",
+    "examples": [
+      "Heute Nacht hat es geschneint."
+    ]
+  },
+  {
+    "ID": "2189",
+    "word": "spüren",
+    "meaning": "to feel",
+    "examples": [
+      "Wo tut es weh? Spüren Sie das hier?"
+    ]
+  },
+  {
+    "ID": "2313",
+    "word": "technisch",
+    "meaning": "technical",
+    "examples": [
+      "Es gab ein technisches Problem.",
+      "Sind Sie technisch interessiert?"
+    ]
+  },
+  {
+    "ID": "2367",
+    "word": "die Tradition, -en",
+    "meaning": "tradition",
+    "examples": [
+      "Eine große Hochzeit mit vielen Leuten ist bei uns Tradition."
+    ]
+  },
+  {
+    "ID": "403",
+    "word": "die Blume, -n",
+    "meaning": "the flower",
+    "examples": [
+      "Wir haben meiner Mutter Blumen zum Geburtstag geschenkt."
+    ]
+  },
+  {
+    "ID": "392",
+    "word": "blass",
+    "meaning": "pale",
+    "examples": [
+      "Du siehst ganz blass aus. Bist du krank?"
+    ]
+  },
+  {
+    "ID": "623",
+    "word": "die Einzahlung, -en",
+    "meaning": "deposit",
+    "examples": [
+      "Sie sollten die Einzahlung pünktlich machen."
+    ]
+  },
+  {
+    "ID": "2375",
+    "word": "transportieren",
+    "meaning": "to transport",
+    "examples": [
+      "Wie willst du die Möbel denn transportieren?"
+    ]
+  },
+  {
+    "ID": "426",
+    "word": "der Briefumschlag, ¨-e",
+    "meaning": "the envelope",
+    "examples": [
+      "Ich hätte gern 50 Briefumschläge und Briefmarken dazu."
+    ]
+  },
+  {
+    "ID": "527",
+    "word": "das Dorf, ¨-er",
+    "meaning": "the village",
+    "examples": [
+      "Unser Dorf liegt direkt an der Autobahn."
+    ]
+  },
+  {
+    "ID": "2362",
+    "word": "tot",
+    "meaning": "dead",
+    "examples": [
+      "Meine Großeltern sind schon lange tot."
+    ]
+  },
+  {
+    "ID": "2400",
+    "word": "tun",
+    "meaning": "to do",
+    "examples": [
+      "Ich habe heute viel zu tun.",
+      "Was kann ich für Sie tun?",
+      "Ich habe zu viel Zucker in den Kaffee getan.",
+      "Es tut mir leid. Ich kann nicht kommen.",
+      "Der Arm tut mir weh.",
+      "Ich habe endlich mal ausgeschlafen. Das hat gut getan."
+    ]
+  },
+  {
+    "ID": "1480",
+    "word": "sich lohnen",
+    "meaning": "to be worth it",
+    "examples": [
+      "Für drei Tage zu meinen Eltern fahren lohnt sich nicht. Es ist zu weit"
+    ]
+  },
+  {
+    "ID": "2061",
+    "word": "die Schüssel, -n",
+    "meaning": "the bowl",
+    "examples": [
+      "Gibst du mir bitte eine Schüssel für den Salat?"
+    ]
+  },
+  {
+    "ID": "498",
+    "word": "deswegen",
+    "meaning": "therefore",
+    "examples": [
+      "Ich habe falsch geparkt. Deswegen habe ich einen Strafzettel bekommen."
+    ]
+  },
+  {
+    "ID": "2026",
+    "word": "das Schmerzmittel, -",
+    "meaning": "painkiller",
+    "examples": [
+      "Sie haben Zahnschmerzen? Ich verschreibe Ihnen ein Schmerzmittel."
+    ]
+  },
+  {
+    "ID": "1597",
+    "word": "das Motorrad, ¨-er",
+    "meaning": "the motorcycle",
+    "examples": [
+      "Oskar fährt jeden Tag mit dem Motorrad zur Arbeit."
+    ]
+  },
+  {
+    "ID": "1629",
+    "word": "die Nadel, -n",
+    "meaning": "the needle",
+    "examples": [
+      "Hast du eine Nadel für mich? Ich muss einen Knopf annähen."
+    ]
+  },
+  {
+    "ID": "628",
+    "word": "einziehen",
+    "meaning": "to move in",
+    "examples": [
+      "Die Wohnung ist fertig. Wir können nächste Woche einziehen."
+    ]
+  },
+  {
+    "ID": "2325",
+    "word": "das Telefon, -e",
+    "meaning": "telephone",
+    "examples": [
+      "Darf ich bitte Ihr Telefon benutzen?"
+    ]
+  },
+  {
+    "ID": "580",
+    "word": "einbrechen",
+    "meaning": "to break in",
+    "examples": [
+      "Jemand ist in unsere Wohnung eingebrochen."
+    ]
+  },
+  {
+    "ID": "1963",
+    "word": "die (Schlag-)Sahne (D)",
+    "meaning": "whipped cream",
+    "examples": [
+      "Ich hätte gern ein Stück Torte mit Sahne."
+    ]
+  },
+  {
+    "ID": "533",
+    "word": "drehen",
+    "meaning": "to turn",
+    "examples": [
+      "Drehen Sie zum Einschalten den Schalter nach rechts.",
+      "Die Kinder drehen sich zur Musik im Kreis.",
+      "Bei Familie Huber dreht sich jetzt alles um das Baby."
+    ]
+  },
+  {
+    "ID": "517",
+    "word": "diskutieren",
+    "meaning": "to discuss",
+    "examples": [
+      "Wir haben lange diskutiert, wie wir das Büro einrichten sollen."
+    ]
+  },
+  {
+    "ID": "660",
+    "word": "sich entschließen",
+    "meaning": "to decide",
+    "examples": [
+      "Mein Nachbar hat sich nun doch entschlossen, sein Auto zu verkaufen."
+    ]
+  },
+  {
+    "ID": "98",
+    "word": "anrufen",
+    "meaning": "to call",
+    "examples": [
+      "Ich rufe Sie heute Abend an."
+    ]
+  }
+]

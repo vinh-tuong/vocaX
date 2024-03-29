@@ -1,0 +1,42 @@
+.der {
+  color: blue;
+}
+
+.die {
+  color: red;
+}
+
+.das {
+  color: green;
+}
+
+.label {
+  color: #aaa;;
+}
+
+.label, .meaning {
+  font-style: italic;
+  padding-left: 20px;
+}
+
+.checkbox {
+  position: absolute;
+  opacity: 0;
+  z-index: -1;
+}
+
+.checkbox + label > .meaning {
+  display: none;
+}
+
+.checkbox + label > .label {
+  display: inline;
+}
+
+.checkbox:checked + label > .meaning, .checkbox.showMeaning + label > .meaning {
+  display: inline;
+}
+
+.checkbox:checked + label > .label, .checkbox.showMeaning + label > .label {
+  display: none;
+}

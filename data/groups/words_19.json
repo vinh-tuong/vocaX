@@ -1,0 +1,818 @@
+[
+  {
+    "ID": "407",
+    "word": "der Boden, ¨-",
+    "meaning": "the floor / ground",
+    "examples": [
+      "Die Bücher lagen alle auf dem Boden.",
+      "Auf diesem Boden wächst Gemüse besonders gut."
+    ]
+  },
+  {
+    "ID": "1175",
+    "word": "informieren",
+    "meaning": "to inform",
+    "examples": [
+      "Wir informieren Sie rechtzeitig über die neuen Prüfungstermine",
+      "Du musst dich vor der Reise genau über die Bedingungen informieren"
+    ]
+  },
+  {
+    "ID": "1486",
+    "word": "die Lösung, -en",
+    "meaning": "solution",
+    "examples": [
+      "Wir fahren alle zusammen mit dem Zug. Das ist die beste Lösung",
+      "Die Aufgabe ist nicht schwer. Die Lösung ist ganz einfach"
+    ]
+  },
+  {
+    "ID": "1030",
+    "word": "greifen",
+    "meaning": "to grab",
+    "examples": [
+      "Greifen Sie doch zu!"
+    ]
+  },
+  {
+    "ID": "2474",
+    "word": "(sich) unterhalten",
+    "meaning": "to talk / to entertain",
+    "examples": [
+      "Wir haben uns über das Fußballspiel unterhalten.",
+      "Ich habe mich bei der Party sehr gut unterhalten."
+    ]
+  },
+  {
+    "ID": "2078",
+    "word": "der See, -n",
+    "meaning": "lake",
+    "examples": [
+      "Unser Hotel war direkt am See."
+    ]
+  },
+  {
+    "ID": "1020",
+    "word": "glücklich",
+    "meaning": "happy",
+    "examples": [
+      "Meine Schwester hat geheiratet und ist sehr glücklich",
+      "Ich wünsche Ihnen ein glückliches neues Jahr",
+      "Ich bin glücklich verheiratet"
+    ]
+  },
+  {
+    "ID": "981",
+    "word": "der Geschmack",
+    "meaning": "taste",
+    "examples": [
+      "Ich möchte bitte Kaugummi mit Erdbeergeschmack."
+    ]
+  },
+  {
+    "ID": "198",
+    "word": "die Ausnahme, -n",
+    "meaning": "the exception",
+    "examples": [
+      "Normalerweise muss ich am Wochenende arbeiten. Aber heute ist eine Ausnahme."
+    ]
+  },
+  {
+    "ID": "1795",
+    "word": "politisch",
+    "meaning": "political",
+    "examples": [
+      "Ich diskutiere mit meinem Mann oft über politische Probleme.",
+      "Die politischen Meinungen zum Thema Umwelt sind sehr verschieden."
+    ]
+  },
+  {
+    "ID": "141",
+    "word": "arm",
+    "meaning": "poor",
+    "examples": [
+      "Die Regierung hilft armen Nachbarländern.",
+      "Ich hätte gerne 200 g fettarmen Käse."
+    ]
+  },
+  {
+    "ID": "931",
+    "word": "gefallen",
+    "meaning": "to like",
+    "examples": [
+      "Wie gefällt es Ihnen hier?",
+      "Der Pullover gefällt mir gut."
+    ]
+  },
+  {
+    "ID": "521",
+    "word": "der Doktor, -en / die Doktorin, -nen",
+    "meaning": "the doctor",
+    "examples": [
+      "Ist Frau Dr. Müller da?",
+      "Meine Tochter ist krank. Wir gehen zum Doktor."
+    ]
+  },
+  {
+    "ID": "1056",
+    "word": "das Hähnchen/Hühnchen, -",
+    "meaning": "the chicken",
+    "examples": [
+      "Zum Mittagessen gibt es Hühnchen mit Reis"
+    ]
+  },
+  {
+    "ID": "978",
+    "word": "geschieden",
+    "meaning": "divorced",
+    "examples": [
+      "Ich bin seit drei Jahren geschieden."
+    ]
+  },
+  {
+    "ID": "1974",
+    "word": "satt",
+    "meaning": "full",
+    "examples": [
+      "Möchten Sie noch etwas? – Nein danke, ich bin satt."
+    ]
+  },
+  {
+    "ID": "2457",
+    "word": "der Umzug, ¨-e",
+    "meaning": "move",
+    "examples": [
+      "Der Umzug ist nächste Woche."
+    ]
+  },
+  {
+    "ID": "1206",
+    "word": "ja",
+    "meaning": "yes",
+    "examples": [
+      "Sind Sie verheiratet? – Ja",
+      "Hallo? – Ja bitte? Wer spricht denn da?",
+      "Denk bitte daran, die Tür abzuschließen. – Ja, ja, mach' ich",
+      "Heute Morgen um fünf hat es geschneit. – Ja, wirklich?",
+      "Ich würde ja gern kommen, aber es geht wirklich nicht",
+      "Du weißt ja, dass ich kein Bier trinke. Gib mir bitte einen Tee",
+      "Du bist hier in Berlin? – Das ist ja eine Überraschung",
+      "Steige bitte ja nicht auf den Stuhl!"
+    ]
+  },
+  {
+    "ID": "117",
+    "word": "die Antwort, -en",
+    "meaning": "the answer",
+    "examples": [
+      "Leider habe ich keine Antwort bekommen."
+    ]
+  },
+  {
+    "ID": "2103",
+    "word": "senkrecht",
+    "meaning": "vertical",
+    "examples": [
+      "Ziehen Sie bitte eine senkrechte Linie."
+    ]
+  },
+  {
+    "ID": "1912",
+    "word": "relativ",
+    "meaning": "relative",
+    "examples": [
+      "Die Wohnung ist relativ groß, aber sehr teuer."
+    ]
+  },
+  {
+    "ID": "2332",
+    "word": "der Terminkalender, -",
+    "meaning": "appointment calendar",
+    "examples": [
+      "Hast du unser Treffen schon in deinen Terminkalender eingetragen?"
+    ]
+  },
+  {
+    "ID": "1477",
+    "word": "locker",
+    "meaning": "relaxed, loose",
+    "examples": [
+      "Lassen Sie bitte die Arme ganz locker und atmen Sie tief ein"
+    ]
+  },
+  {
+    "ID": "1986",
+    "word": "scharf",
+    "meaning": "spicy/sharp",
+    "examples": [
+      "Bei uns zu Hause essen wir immer sehr scharf.",
+      "Hast du kein schärferes Messer?"
+    ]
+  },
+  {
+    "ID": "1073",
+    "word": "handeln",
+    "meaning": "to trade, to deal",
+    "examples": [
+      "Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse",
+      "Kann ich Sie bitte mal sprechen? – Worum handelt es sich denn?",
+      "Auf diesem Markt kannst du handeln und bekommst die Sachen billiger"
+    ]
+  },
+  {
+    "ID": "1462",
+    "word": "Lieblings-",
+    "meaning": "favorite",
+    "examples": [
+      "z. B. Lieblingsfarbe, Lieblingsfilm, Lieblingsessen",
+      "Mein Lieblingsessen ist Pizza"
+    ]
+  },
+  {
+    "ID": "996",
+    "word": "das Gewicht, -e",
+    "meaning": "the weight",
+    "examples": [
+      "Wie teuer ist das Päckchen? – Das hängt vom Gewicht ab",
+      "Sie dürfen Gepäck bis zu einem Gewicht von 15 kg mitnehmen"
+    ]
+  },
+  {
+    "ID": "2652",
+    "word": "der Vortrag, ¨-e",
+    "meaning": "lecture",
+    "examples": [
+      "Ihr Vortrag war sehr interessant."
+    ]
+  },
+  {
+    "ID": "553",
+    "word": "durstig",
+    "meaning": "thirsty",
+    "examples": [
+      "Du bist sicher durstig. Was möchtest du trinken?"
+    ]
+  },
+  {
+    "ID": "2154",
+    "word": "sparen",
+    "meaning": "to save",
+    "examples": [
+      "Ein Auto ist mir zu teuer, ich muss sparen.",
+      "Um Strom zu sparen, schalten wir die Heizung nachts aus."
+    ]
+  },
+  {
+    "ID": "2646",
+    "word": "die Vorsicht",
+    "meaning": "caution",
+    "examples": [
+      "Vorsicht! Der Teller ist heiß."
+    ]
+  },
+  {
+    "ID": "2592",
+    "word": "der Versuch, -e",
+    "meaning": "attempt",
+    "examples": [
+      "In der Forschung werden viele Versuche gemacht.",
+      "Mein Versuch, etwas zu ändern, blieb ohne Erfolg."
+    ]
+  },
+  {
+    "ID": "1458",
+    "word": "das Licht, -er",
+    "meaning": "the light",
+    "examples": [
+      "Kannst du bitte Licht machen? Ich kann so nichts sehen",
+      "Es ist so dunkel. Wo macht man hier das Licht an?"
+    ]
+  },
+  {
+    "ID": "1331",
+    "word": "kontrollieren",
+    "meaning": "to control, to check",
+    "examples": [
+      "Beim Auto müssen Sie regelmäßig das Öl kontrollieren"
+    ]
+  },
+  {
+    "ID": "2101",
+    "word": "die Sendung, -en",
+    "meaning": "program",
+    "examples": [
+      "Wir wiederholen die Sendung am 11. Mai.",
+      "Ich warte auf eine Postsendung."
+    ]
+  },
+  {
+    "ID": "2741",
+    "word": "wirken",
+    "meaning": "to have an effect",
+    "examples": [
+      "Die Tabletten haben nicht gewirkt."
+    ]
+  },
+  {
+    "ID": "2678",
+    "word": "was",
+    "meaning": "what",
+    "examples": [
+      "Was ist das?",
+      "Was möchten Sie?",
+      "Wissen Sie, was das ist?",
+      "Hast du schon (et)was gegessen?"
+    ]
+  },
+  {
+    "ID": "2338",
+    "word": "das Theater, -",
+    "meaning": "theater",
+    "examples": [
+      "Wir gehen nächste Woche ins Theater."
+    ]
+  },
+  {
+    "ID": "2223",
+    "word": "der Stern, -e",
+    "meaning": "star",
+    "examples": [
+      "Heute sieht man viele Sterne am Himmel."
+    ]
+  },
+  {
+    "ID": "1934",
+    "word": "riesig",
+    "meaning": "huge",
+    "examples": [
+      "Die Stadt ist riesig.",
+      "Ich habe mich über das Geschenk riesig gefreut."
+    ]
+  },
+  {
+    "ID": "2566",
+    "word": "vermuten",
+    "meaning": "to suspect",
+    "examples": [
+      "Ich vermute, sie wird heute nicht kommen."
+    ]
+  },
+  {
+    "ID": "2838",
+    "word": "zumindest",
+    "meaning": "at least",
+    "examples": [
+      "Ich möchte nicht in der Stadt wohnen, zumindest jetzt nicht, wenn die Kinder noch so klein sind."
+    ]
+  },
+  {
+    "ID": "571",
+    "word": "das Ei, -er",
+    "meaning": "the egg",
+    "examples": [
+      "Möchtest du zum Frühstück ein Ei?"
+    ]
+  },
+  {
+    "ID": "1827",
+    "word": "der Profisportler, - / die Profisportlerin, -nen",
+    "meaning": "the professional athlete",
+    "examples": [
+      "Mein Sohn möchte Profisportler werden."
+    ]
+  },
+  {
+    "ID": "2308",
+    "word": "tatsächlich",
+    "meaning": "actually",
+    "examples": [
+      "Die Hose ist tatsächlich zu klein, obwohl sie so groß aussieht."
+    ]
+  },
+  {
+    "ID": "2382",
+    "word": "der Treffpunkt, -e",
+    "meaning": "meeting point",
+    "examples": [
+      "Unser Treffpunkt ist um 17 Uhr am Hauptbahnhof."
+    ]
+  },
+  {
+    "ID": "1447",
+    "word": "leiten",
+    "meaning": "to lead",
+    "examples": [
+      "Wer leitet den Kurs?"
+    ]
+  },
+  {
+    "ID": "366",
+    "word": "die Bewegung, -en",
+    "meaning": "the movement",
+    "examples": [
+      "Sie brauchen mehr Bewegung. Sie müssen regelmäßig spazieren gehen."
+    ]
+  },
+  {
+    "ID": "241",
+    "word": "die Banane, -n",
+    "meaning": "the banana",
+    "examples": [
+      "1 Kilo Bananen, bitte."
+    ]
+  },
+  {
+    "ID": "125",
+    "word": "die Apotheke, -n",
+    "meaning": "the pharmacy",
+    "examples": [
+      "Ist hier in der Nähe eine Apotheke?"
+    ]
+  },
+  {
+    "ID": "1991",
+    "word": "das Schaufenster, -",
+    "meaning": "display window",
+    "examples": [
+      "Ich habe im Schaufenster eine schicke Bluse gesehen."
+    ]
+  },
+  {
+    "ID": "496",
+    "word": "deshalb",
+    "meaning": "therefore",
+    "examples": [
+      "Ich war krank. Deshalb war ich nicht im Büro."
+    ]
+  },
+  {
+    "ID": "1333",
+    "word": "sich konzentrieren",
+    "meaning": "to concentrate",
+    "examples": [
+      "Bitte stör mich jetzt nicht. Ich muss mich auf meine Arbeit konzentrieren"
+    ]
+  },
+  {
+    "ID": "422",
+    "word": "der Brief, -e",
+    "meaning": "the letter",
+    "examples": [
+      "Ich schreibe nicht gern Briefe."
+    ]
+  },
+  {
+    "ID": "1424",
+    "word": "laut",
+    "meaning": "loud",
+    "examples": [
+      "Lass uns gehen. Hier ist es mir zu laut",
+      "Können Sie bitte etwas lauter sprechen?",
+      "Laut Wetterbericht gibt es morgen Regen"
+    ]
+  },
+  {
+    "ID": "1704",
+    "word": "die Öffentlichkeit",
+    "meaning": "the public",
+    "examples": [
+      "Von solchen Dingen erfährt die Öffentlichkeit nur selten.",
+      "Ich möchte in der Öffentlichkeit nicht streiten."
+    ]
+  },
+  {
+    "ID": "391",
+    "word": "bitter",
+    "meaning": "bitter",
+    "examples": [
+      "Hast du Zucker? Der Tee ist sehr bitter."
+    ]
+  },
+  {
+    "ID": "1338",
+    "word": "der Kopierer, -",
+    "meaning": "copier",
+    "examples": [
+      "Der Kopierer ist schon wieder kaputt"
+    ]
+  },
+  {
+    "ID": "245",
+    "word": "die Bankleitzahl, -en",
+    "meaning": "the bank sort code",
+    "examples": [
+      "Bitte geben Sie Ihre Bankleitzahl an."
+    ]
+  },
+  {
+    "ID": "1567",
+    "word": "mischen",
+    "meaning": "to mix",
+    "examples": [
+      "Ich möchte ein gemischtes Eis mit Sahne",
+      "Wie möchten Sie das Geld? – Bitte gemischt, große und kleine Scheine"
+    ]
+  },
+  {
+    "ID": "684",
+    "word": "erfordern",
+    "meaning": "to require",
+    "examples": [
+      "Dieser Job erfordert viel Kraft."
+    ]
+  },
+  {
+    "ID": "2145",
+    "word": "die Soße/Sauce, -n",
+    "meaning": "sauce",
+    "examples": [
+      "Gibst du mir bitte mal die Soße?"
+    ]
+  },
+  {
+    "ID": "2002",
+    "word": "schieben",
+    "meaning": "to push",
+    "examples": [
+      "Leider ist mein Fahrrad kaputtgegangen. Ich musste es nach Hause schieben.",
+      "Wir können den Schrank links an die Wand schieben; dann haben wir mehr Platz."
+    ]
+  },
+  {
+    "ID": "153",
+    "word": "auffordern",
+    "meaning": "to request",
+    "examples": [
+      "Sie forderte mich auf, meine Meinung zu sagen.",
+      "Er fordert sie zum Tanz auf."
+    ]
+  },
+  {
+    "ID": "634",
+    "word": "Elektro-",
+    "meaning": "electro",
+    "examples": [
+      "z.B. Elektrogeschäft, Elektroingenieur, Elektroherd"
+    ]
+  },
+  {
+    "ID": "1164",
+    "word": "ideal",
+    "meaning": "ideal",
+    "examples": [
+      "Eine Wohnung mit Garten wäre für uns ideal"
+    ]
+  },
+  {
+    "ID": "712",
+    "word": "ernsthaft",
+    "meaning": "serious",
+    "examples": [
+      "I überlege ernsthaft, ob ich in eine andere Stadt ziehen soll."
+    ]
+  },
+  {
+    "ID": "357",
+    "word": "die Betreuung",
+    "meaning": "the care",
+    "examples": [
+      "Haben Sie eine Betreuung für Ihre Kinder?"
+    ]
+  },
+  {
+    "ID": "2777",
+    "word": "wütend",
+    "meaning": "angry",
+    "examples": [
+      "Warum bist du so wütend?"
+    ]
+  },
+  {
+    "ID": "1204",
+    "word": "irgendwann",
+    "meaning": "sometime",
+    "examples": [
+      "Ich habe Sie irgendwann schon mal gesehen"
+    ]
+  },
+  {
+    "ID": "2245",
+    "word": "die Strafe, -n",
+    "meaning": "fine",
+    "examples": [
+      "Schwarzfahren kostet 60 Euro Strafe."
+    ]
+  },
+  {
+    "ID": "2412",
+    "word": "überhaupt",
+    "meaning": "at all",
+    "examples": [
+      "Die Suppe schmeckt mir überhaupt nicht.",
+      "Tut mir leid, ich habe überhaupt keine Zeit.",
+      "Du willst mit meinem Auto fahren? Hast du überhaupt einen Führerschein?"
+    ]
+  },
+  {
+    "ID": "1275",
+    "word": "der Kiosk, -e",
+    "meaning": "the kiosk",
+    "examples": [
+      "Zeitungen bekommst du am Kiosk"
+    ]
+  },
+  {
+    "ID": "2707",
+    "word": "wenigstens",
+    "meaning": "at least",
+    "examples": [
+      "Ich habe keinen Hunger. – Ach, essen Sie wenigstens ein Stück Kuchen."
+    ]
+  },
+  {
+    "ID": "2739",
+    "word": "windig",
+    "meaning": "windy",
+    "examples": [
+      "Es ist heute sehr windig."
+    ]
+  },
+  {
+    "ID": "500",
+    "word": "deutlich",
+    "meaning": "clearly",
+    "examples": [
+      "Schreiben Sie bitte deutlich!"
+    ]
+  },
+  {
+    "ID": "505",
+    "word": "dick",
+    "meaning": "fat / thick",
+    "examples": [
+      "Ich bin zu dick. Ich muss weniger essen.",
+      "Die Wände sind hier sehr dick."
+    ]
+  },
+  {
+    "ID": "1897",
+    "word": "reichen",
+    "meaning": "to suffice",
+    "examples": [
+      "Ich nehme nur eine Suppe. Das reicht mir.",
+      "Wie lange reicht das Papier noch? Ich glaube, wir müssen neues bestellen."
+    ]
+  },
+  {
+    "ID": "1979",
+    "word": "schade",
+    "meaning": "too bad",
+    "examples": [
+      "Ich kann leider nicht mitkommen. – Das ist aber schade!",
+      "Schade, dass du nicht mitkommen kannst."
+    ]
+  },
+  {
+    "ID": "1686",
+    "word": "die Nudel, -n",
+    "meaning": "the noodle",
+    "examples": [
+      "Möchten Sie Nudeln oder Reis? – Lieber Nudeln."
+    ]
+  },
+  {
+    "ID": "2167",
+    "word": "speziell",
+    "meaning": "special",
+    "examples": [
+      "Ich suche einen ganz speziellen Ring für meine Freundin."
+    ]
+  },
+  {
+    "ID": "2709",
+    "word": "wer",
+    "meaning": "who",
+    "examples": [
+      "Wer ist das? Kennst du die Frau?",
+      "Wer will die Prüfung machen?"
+    ]
+  },
+  {
+    "ID": "2690",
+    "word": "wegen",
+    "meaning": "because of",
+    "examples": [
+      "Wegen Nebels konnte unser Flugzeug nicht landen.",
+      "Ich rufe wegen meiner Tochter an."
+    ]
+  },
+  {
+    "ID": "2451",
+    "word": "umtauschen",
+    "meaning": "to exchange",
+    "examples": [
+      "Ich möchte diese Bluse umtauschen. Sie passt mir nicht.",
+      "Wo kann ich Geld umtauschen?"
+    ]
+  },
+  {
+    "ID": "1029",
+    "word": "gratis",
+    "meaning": "free",
+    "examples": [
+      "Diese Reparatur kostet Sie gar nichts, wir machen das gratis für Sie"
+    ]
+  },
+  {
+    "ID": "2503",
+    "word": "vegetarisch",
+    "meaning": "vegetarian",
+    "examples": [
+      "Ich mag kein Fleisch. Ich esse am liebsten vegetarisch.",
+      "Haben Sie auch vegetarische Gerichte?"
+    ]
+  },
+  {
+    "ID": "269",
+    "word": "die Bedienungsanleitung, -en",
+    "meaning": "the instruction manual",
+    "examples": [
+      "Die Bedienungsanleitung verstehe ich nicht."
+    ]
+  },
+  {
+    "ID": "706",
+    "word": "erledigen",
+    "meaning": "to take care of / to complete",
+    "examples": [
+      "Diese zwei Pakete müssen zur Post. Könntest du das für mich erledigen?"
+    ]
+  },
+  {
+    "ID": "1143",
+    "word": "hoffen",
+    "meaning": "to hope",
+    "examples": [
+      "Ich hoffe, dass ihr zu meinem Geburtstag kommen könnt",
+      "Wir alle hoffen auf besseres Wetter"
+    ]
+  },
+  {
+    "ID": "275",
+    "word": "befriedigend",
+    "meaning": "satisfactory",
+    "examples": [
+      "Das Ergebnis ist befriedigend."
+    ]
+  },
+  {
+    "ID": "2302",
+    "word": "die Tastatur, -en",
+    "meaning": "keyboard",
+    "examples": [
+      "Die Tastatur an meinem Computer ist ganz neu."
+    ]
+  },
+  {
+    "ID": "563",
+    "word": "die Ecke, -n (D, CH) / das Eck, -en (A)",
+    "meaning": "the corner",
+    "examples": [
+      "Das Regal stellen wir hier in die Ecke.",
+      "Das bekommen Sie im Kiosk an der Ecke.",
+      "Wo ist die Apotheke? − Gleich um die Ecke."
+    ]
+  },
+  {
+    "ID": "1804",
+    "word": "die Postleitzahl, -en",
+    "meaning": "the postal code",
+    "examples": [
+      "Weißt du die Postleitzahl der Kollwitzstraße in Berlin?"
+    ]
+  },
+  {
+    "ID": "1489",
+    "word": "die Lüge, -n",
+    "meaning": "lie",
+    "examples": [
+      "Das ist eine Lüge!"
+    ]
+  },
+  {
+    "ID": "1194",
+    "word": "der Intensivkurs, -e",
+    "meaning": "the intensive course",
+    "examples": [
+      "Der Intensivkurs findet täglich von 9 bis 12 Uhr statt"
+    ]
+  },
+  {
+    "ID": "1861",
+    "word": "das Rätsel",
+    "meaning": "puzzle",
+    "examples": [
+      "I can't solve this puzzle."
+    ]
+  }
+]

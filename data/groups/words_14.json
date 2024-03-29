@@ -1,0 +1,847 @@
+[
+  {
+    "ID": "2399",
+    "word": "das Tuch, ¨-er",
+    "meaning": "cloth",
+    "examples": [
+      "Wo hast du dieses schöne Tuch gekauft?",
+      "Die Handtücher sind im Schrank ganz oben.",
+      "Hast du ein Taschentuch für mich?"
+    ]
+  },
+  {
+    "ID": "824",
+    "word": "fließen",
+    "meaning": "to flow",
+    "examples": [
+      "Dieser Fluss fließt in die Nordsee."
+    ]
+  },
+  {
+    "ID": "2257",
+    "word": "streng",
+    "meaning": "strict",
+    "examples": [
+      "Unsere Tochter hat einen sehr strengen Lehrer."
+    ]
+  },
+  {
+    "ID": "2185",
+    "word": "springen",
+    "meaning": "to jump",
+    "examples": [
+      "Wir waren im Schwimmbad. Mein Sohn ist immer wieder ins Wasser gesprungen.",
+      "Wie weit bist du heute gesprungen? – 340 m."
+    ]
+  },
+  {
+    "ID": "1560",
+    "word": "die Migration",
+    "meaning": "migration",
+    "examples": [
+      "Gestern gab es im Fernsehen eine Diskussion zum Thema Migration"
+    ]
+  },
+  {
+    "ID": "2816",
+    "word": "der Zivilstand (CH) → Personenstand; Familienstand (D A)",
+    "meaning": "marital status",
+    "examples": [
+      "Bei „Zivilstand“ musst du „ledig“ ankreuzen."
+    ]
+  },
+  {
+    "ID": "958",
+    "word": "genau",
+    "meaning": "exactly / precise",
+    "examples": [
+      "Haben Sie die genaue Zeit?",
+      "Sind Sie sicher, dass heute Ruhetag ist? – Ja, das weiß ich genau.",
+      "Die Uhr geht genau.",
+      "Es ist genau acht Uhr."
+    ]
+  },
+  {
+    "ID": "1529",
+    "word": "das Mehl",
+    "meaning": "flour",
+    "examples": [
+      "Ich möchte einen Kuchen backen. Ist noch genug Mehl da?"
+    ]
+  },
+  {
+    "ID": "1543",
+    "word": "die Mensa, -s/-en",
+    "meaning": "cafeteria",
+    "examples": [
+      "Ich esse fast jeden Tag in der Mensa"
+    ]
+  },
+  {
+    "ID": "1998",
+    "word": "scheinen",
+    "meaning": "to shine/seem",
+    "examples": [
+      "Gestern hat es geregnet. Heute scheint wieder die Sonne.",
+      "Mein Kollege scheint krank zu sein. Er war heute nicht im Büro."
+    ]
+  },
+  {
+    "ID": "2784",
+    "word": "der Zahn, ¨-e",
+    "meaning": "tooth",
+    "examples": [
+      "Der Zahn tut mir schon lange weh."
+    ]
+  },
+  {
+    "ID": "772",
+    "word": "fast",
+    "meaning": "almost",
+    "examples": [
+      "Das Konzert ist fast zu Ende.",
+      "Ich habe fast alles verstanden."
+    ]
+  },
+  {
+    "ID": "1967",
+    "word": "der Salon, -s",
+    "meaning": "salon",
+    "examples": [
+      "Sie arbeitet als Friseurin in einem Salon."
+    ]
+  },
+  {
+    "ID": "982",
+    "word": "die Geschwindigkeit, -en",
+    "meaning": "speed",
+    "examples": [
+      "Das Auto fuhr mit zu hoher Geschwindigkeit."
+    ]
+  },
+  {
+    "ID": "2442",
+    "word": "(sich) umdrehen",
+    "meaning": "to turn around",
+    "examples": [
+      "Dreh dich mal um. Da hinten liegt das Buch doch.",
+      "Dreh das Blatt um; die Lösung steht auf der Rückseite."
+    ]
+  },
+  {
+    "ID": "1079",
+    "word": "hassen",
+    "meaning": "to hate",
+    "examples": [
+      "Ich hasse Autofahren",
+      "Ich hasse es, zu spät zu kommen"
+    ]
+  },
+  {
+    "ID": "1987",
+    "word": "der Schatten, -",
+    "meaning": "shadow",
+    "examples": [
+      "Gestern hatten wir 25 Grad im Schatten."
+    ]
+  },
+  {
+    "ID": "2283",
+    "word": "das Symbol, -e",
+    "meaning": "symbol",
+    "examples": [
+      "Das Herz ist ein Symbol für die Liebe.",
+      "Auf dem Bildschirm finden Sie viele Symbole."
+    ]
+  },
+  {
+    "ID": "2728",
+    "word": "wie",
+    "meaning": "how",
+    "examples": [
+      "Wie heißt du?",
+      "Wie lange bist du schon hier?",
+      "Meine Frau ist so alt wie ich.",
+      "Wie schreibt man das?",
+      "Wie bitte?",
+      "Wie gefällt dir unsere Wohnung?"
+    ]
+  },
+  {
+    "ID": "2118",
+    "word": "sinken",
+    "meaning": "sink",
+    "examples": [
+      "Das Schiff ist vor der Küste gesunken.",
+      "Der Preis ist um 3 % gesunken."
+    ]
+  },
+  {
+    "ID": "1158",
+    "word": "hungrig",
+    "meaning": "hungry",
+    "examples": [
+      "Ich bin sehr hungrig"
+    ]
+  },
+  {
+    "ID": "2016",
+    "word": "schlecht",
+    "meaning": "bad",
+    "examples": [
+      "Das Wetter ist schlecht.",
+      "Du siehst aber schlecht aus. Bist du krank?",
+      "Es geht mir schlecht. Ich habe Fieber.",
+      "Ich habe zu viel gegessen. Jetzt ist mir schlecht.",
+      "Hier ist schlechte Luft. Mach bitte das Fenster auf.",
+      "Stell die Milch in den Kühlschrank. Sonst wird sie schlecht.",
+      "Die Bezahlung in dieser Firma ist schlecht.",
+      "Die Verbindung ist schlecht. Ich höre dich nicht gut.",
+      "Der Film war nicht schlecht. Er hat mir ganz gut gefallen."
+    ]
+  },
+  {
+    "ID": "138",
+    "word": "(sich) ärgern",
+    "meaning": "to get annoyed",
+    "examples": [
+      "Ärgern Sie sich nicht.",
+      "Mein Bruder hat mich schon als Kind immer geärgert."
+    ]
+  },
+  {
+    "ID": "1852",
+    "word": "der Radfahrer, -/die Radfahrerin, -nen",
+    "meaning": "cyclist",
+    "examples": [
+      "Watch out! There comes a cyclist."
+    ]
+  },
+  {
+    "ID": "1699",
+    "word": "obwohl",
+    "meaning": "although",
+    "examples": [
+      "Obwohl meine Kollegin krank ist, geht sie arbeiten."
+    ]
+  },
+  {
+    "ID": "657",
+    "word": "entscheiden",
+    "meaning": "to decide",
+    "examples": [
+      "Das kann ich nicht allein entscheiden, da muss ich erst fragen.",
+      "Für welchen Anzug haben Sie sich entschieden?"
+    ]
+  },
+  {
+    "ID": "488",
+    "word": "dauernd",
+    "meaning": "constantly",
+    "examples": [
+      "Das dauernde Klingeln des Telefons stört mich.",
+      "Er ist dauernd krank."
+    ]
+  },
+  {
+    "ID": "2772",
+    "word": "wunderschön",
+    "meaning": "beautiful",
+    "examples": [
+      "Wir haben einen Ausflug gemacht. Es war wunderschön.",
+      "Ich habe mir ein wunderschönes Kleid gekauft."
+    ]
+  },
+  {
+    "ID": "301",
+    "word": "der Beleg, -e",
+    "meaning": "the receipt",
+    "examples": [
+      "Brauchen Sie einen Beleg?"
+    ]
+  },
+  {
+    "ID": "152",
+    "word": "auffallen",
+    "meaning": "to stand out",
+    "examples": [
+      "Mir ist aufgefallen, dass Harriett ganz blass ist."
+    ]
+  },
+  {
+    "ID": "2563",
+    "word": "die Vermietung, -en",
+    "meaning": "rental",
+    "examples": [
+      "Mit der Vermietung von Wohnungen kann man viel Geld verdienen."
+    ]
+  },
+  {
+    "ID": "2582",
+    "word": "versichern",
+    "meaning": "to insure",
+    "examples": [
+      "Wollen Sie Ihr Gepäck versichern?",
+      "Wie sind Sie versichert?"
+    ]
+  },
+  {
+    "ID": "142",
+    "word": "der Arm, -e",
+    "meaning": "the arm",
+    "examples": [
+      "Mein Freund hat sich den Arm gebrochen."
+    ]
+  },
+  {
+    "ID": "1290",
+    "word": "klein",
+    "meaning": "small, little",
+    "examples": [
+      "Unsere Wohnung ist klein",
+      "Unser Kind ist noch klein",
+      "Wir machen am Sonntag einen kleinen Ausflug"
+    ]
+  },
+  {
+    "ID": "70",
+    "word": "das Angebot, -e",
+    "meaning": "the offer",
+    "examples": [
+      "Ich habe in der Zeitung ein paar günstige Wohnungsangebote gelesen.",
+      "Der Käse ist heute im Angebot."
+    ]
+  },
+  {
+    "ID": "1317",
+    "word": "kompliziert",
+    "meaning": "complicated",
+    "examples": [
+      "Er schreibt viel zu kompliziert"
+    ]
+  },
+  {
+    "ID": "1792",
+    "word": "plötzlich",
+    "meaning": "suddenly",
+    "examples": [
+      "Es war zuerst so schön. Plötzlich hat es angefangen zu regnen."
+    ]
+  },
+  {
+    "ID": "1534",
+    "word": "meinen",
+    "meaning": "to mean; to think",
+    "examples": [
+      "Dieser Film ist gut. Was meinst du?",
+      "Ich meine, du solltest weniger rauchen"
+    ]
+  },
+  {
+    "ID": "1810",
+    "word": "präsentieren",
+    "meaning": "to present",
+    "examples": [
+      "Präsentieren Sie Ihre Ergebnisse bitte im Kurs."
+    ]
+  },
+  {
+    "ID": "1651",
+    "word": "negativ",
+    "meaning": "negative",
+    "examples": [
+      "Du solltest nicht alles negativ sehen."
+    ]
+  },
+  {
+    "ID": "2080",
+    "word": "sehen",
+    "meaning": "see",
+    "examples": [
+      "Warst du schon mal an der Nord/Ostsee?",
+      "Ich sehe nicht gut. Ich brauche eine Brille.",
+      "Ich habe einen schönen Film gesehen.",
+      "Wir haben uns lange nicht gesehen.",
+      "Darf ich mal Ihren Ausweis sehen?",
+      "Sieh mal! Es schneit.",
+      "Ich komme gleich wieder ich muss mal schnell nach dem Essen sehen.",
+      "Was machst du im Urlaub? – Ich weiß noch nicht. Mal sehen.",
+      "Du siehst deiner Mutter sehr ähnlich."
+    ]
+  },
+  {
+    "ID": "1131",
+    "word": "hinweisen",
+    "meaning": "to indicate, to point out",
+    "examples": [
+      "weist hin wies hin hat hingewiesen",
+      "Wir möchten Sie darauf hinweisen, dass das Rauchen am Bahnsteig nicht gestattet ist"
+    ]
+  },
+  {
+    "ID": "458",
+    "word": "der Coiffeur, -e / die Coiffeuse, -n (CH) / der Friseur, -e (D, A)",
+    "meaning": "the hairdresser",
+    "examples": [
+      "Du siehst toll aus! Wer ist dein Coiffeur?",
+      "Meine Tochter will Coiffeuse werden."
+    ]
+  },
+  {
+    "ID": "2827",
+    "word": "der Zugang, ¨-e",
+    "meaning": "access",
+    "examples": [
+      "Der Zugang zu diesem Haus ist schwierig.",
+      "Hast du Zugang zum Internet?"
+    ]
+  },
+  {
+    "ID": "2379",
+    "word": "Traum-",
+    "meaning": "dream",
+    "examples": [
+      "Mein Traumberuf ist Feuerwehrmann."
+    ]
+  },
+  {
+    "ID": "2190",
+    "word": "das Stadion, Stadien",
+    "meaning": "stadium",
+    "examples": [
+      "Ich möchte am Samstag ins Stadion gehen. Da spielt meine Mannschaft."
+    ]
+  },
+  {
+    "ID": "2404",
+    "word": "der Typ, -en",
+    "meaning": "type",
+    "examples": [
+      "Mein Nachbar ist ein netter Typ.",
+      "Was für ein Typ bist du? Was machst du gerne?",
+      "Kennen Sie sich mit den verschiedenen Typen aus? Auch mit meinem Auto?"
+    ]
+  },
+  {
+    "ID": "1530",
+    "word": "mehr (siehe auch viel)",
+    "meaning": "more",
+    "examples": [
+      "Ich habe diesmal mehr gelernt als bei der letzten Prüfung",
+      "Mehr kann ich nicht essen!"
+    ]
+  },
+  {
+    "ID": "1722",
+    "word": "die Orange, -n",
+    "meaning": "the orange",
+    "examples": [
+      "Ich esse gern Orangen."
+    ]
+  },
+  {
+    "ID": "2806",
+    "word": "der Zeuge, -n / die Zeugin, -nen",
+    "meaning": "witness",
+    "examples": [
+      "Die Polizei sucht noch Zeugen für den Unfall."
+    ]
+  },
+  {
+    "ID": "2030",
+    "word": "schmutzig",
+    "meaning": "dirty",
+    "examples": [
+      "Leg bitte die schmutzige Wäsche in die Waschmaschine.",
+      "Das Handtuch ist schmutzig."
+    ]
+  },
+  {
+    "ID": "228",
+    "word": "baden",
+    "meaning": "to bathe",
+    "examples": [
+      "Wenn du baden möchtest",
+      "Das Badezimmer ist dort hinten links.",
+      "Hier ist Baden verboten!"
+    ]
+  },
+  {
+    "ID": "227",
+    "word": "die Bäckerei, -en",
+    "meaning": "the bakery",
+    "examples": [
+      "Wir kaufen unser Brot immer in der Bäckerei am Markt."
+    ]
+  },
+  {
+    "ID": "166",
+    "word": "aufpassen",
+    "meaning": "to pay attention",
+    "examples": [
+      "Tut mir leid. Da habe ich wohl nicht aufgepasst.",
+      "Ich muss zu Hause bleiben und auf die Kinder aufpassen."
+    ]
+  },
+  {
+    "ID": "1730",
+    "word": "die Organisation, -en",
+    "meaning": "the organization",
+    "examples": [
+      "Die Organisation des Festes war sehr gut.",
+      "Sind Sie Mitglied in einer Organisation?"
+    ]
+  },
+  {
+    "ID": "855",
+    "word": "die Frage, -n",
+    "meaning": "the question",
+    "examples": [
+      "Ich habe Ihre Frage leider nicht verstanden.",
+      "Das kommt gar nicht infrage!"
+    ]
+  },
+  {
+    "ID": "720",
+    "word": "erst",
+    "meaning": "only / just",
+    "examples": [
+      "Sofia ist erst 20 Jahre alt.",
+      "Ich habe das erst gestern erfahren."
+    ]
+  },
+  {
+    "ID": "1910",
+    "word": "die Reklame, -n",
+    "meaning": "the advertisement",
+    "examples": [
+      "Ich möchte keine Reklame im Briefkasten."
+    ]
+  },
+  {
+    "ID": "1093",
+    "word": "das Heim, -e",
+    "meaning": "the home",
+    "examples": [
+      "Meine Oma wohnt in einem Seniorenheim"
+    ]
+  },
+  {
+    "ID": "1587",
+    "word": "das Modell, -e",
+    "meaning": "model",
+    "examples": [
+      "Wie findest du dieses Auto? – Dieses Modell gefällt mir nicht."
+    ]
+  },
+  {
+    "ID": "416",
+    "word": "brechen",
+    "meaning": "to break",
+    "examples": [
+      "Er hat sich beim Skifahren verletzt, sein Bein ist gebrochen.",
+      "Ich habe mir im Urlaub das Bein gebrochen."
+    ]
+  },
+  {
+    "ID": "2004",
+    "word": "schießen",
+    "meaning": "to shoot",
+    "examples": [
+      "Unsere Mannschaft hat ein Tor geschossen."
+    ]
+  },
+  {
+    "ID": "1104",
+    "word": "die Hilfe",
+    "meaning": "the help",
+    "examples": [
+      "Vielen Dank für Ihre Hilfe",
+      "Haben Sie einen Kurs für Erste Hilfe gemacht? Das müssen Sie, wenn Sie den Führerschein machen wollen",
+      "Hilfe! Jemand hat mir die Handtasche gestohlen. Bitte helfen Sie mir!"
+    ]
+  },
+  {
+    "ID": "1962",
+    "word": "sagen",
+    "meaning": "to say",
+    "examples": [
+      "Entschuldigung! Was haben Sie gesagt?",
+      "Können Sie mir bitte sagen, wo hier ein Geldautomat ist?",
+      "Wie sagt man „sorry“ auf Deutsch?",
+      "Sag mal, wie geht’s dir denn?"
+    ]
+  },
+  {
+    "ID": "2541",
+    "word": "das Verhältnis, -se",
+    "meaning": "relationship",
+    "examples": [
+      "Ich habe ein gutes Verhältnis zu meinen Eltern."
+    ]
+  },
+  {
+    "ID": "284",
+    "word": "begrüßen",
+    "meaning": "to greet",
+    "examples": [
+      "Der Gastgeber begrüßt seine Gäste."
+    ]
+  },
+  {
+    "ID": "2493",
+    "word": "die Untersuchung, -en",
+    "meaning": "examination",
+    "examples": [
+      "Ich habe morgen eine Untersuchung im Krankenhaus."
+    ]
+  },
+  {
+    "ID": "768",
+    "word": "farbig",
+    "meaning": "colored",
+    "examples": [
+      "Ich brauche kein weißes, sondern farbiges Papier."
+    ]
+  },
+  {
+    "ID": "1047",
+    "word": "gültig",
+    "meaning": "valid",
+    "examples": [
+      "Mein Pass ist nur noch zwei Monate gültig"
+    ]
+  },
+  {
+    "ID": "288",
+    "word": "behindern",
+    "meaning": "to obstruct",
+    "examples": [
+      "Bitte parken Sie so, dass Sie niemanden behindern.",
+      "Seit dem Unfall ist das Kind unserer Freunde behindert."
+    ]
+  },
+  {
+    "ID": "2237",
+    "word": "der Stock → Etage (D CH)",
+    "meaning": "floor",
+    "examples": [
+      "Das Büro ist im 3. Stock Zimmer 305."
+    ]
+  },
+  {
+    "ID": "2620",
+    "word": "Volleyball",
+    "meaning": "volleyball",
+    "examples": [
+      "Im Sommer spiele ich gern Volleyball."
+    ]
+  },
+  {
+    "ID": "1332",
+    "word": "die Kontrolle, -n",
+    "meaning": "control, inspection",
+    "examples": [
+      "An den Grenzen gibt es kaum noch Kontrollen",
+      "Fahrkartenkontrolle! Bitte Ihre Fahrkarten!"
+    ]
+  },
+  {
+    "ID": "763",
+    "word": "der Familienstand",
+    "meaning": "the marital status",
+    "examples": [
+      "Bei „Familienstand“ musst du „ledig“ ankreuzen."
+    ]
+  },
+  {
+    "ID": "1577",
+    "word": "mittler-",
+    "meaning": "middle",
+    "examples": [
+      "In den mittleren Reihen sind noch Plätze frei."
+    ]
+  },
+  {
+    "ID": "1138",
+    "word": "hochladen",
+    "meaning": "to upload",
+    "examples": [
+      "läd hoch lud hoch hat hochgeladen",
+      "Kannst du bitte die Datei für die Hausaufgabe hochladen?"
+    ]
+  },
+  {
+    "ID": "995",
+    "word": "die Gewerkschaft, -en",
+    "meaning": "the trade union",
+    "examples": [
+      "Die Gewerkschaft vertritt die Interessen der Arbeitnehmer"
+    ]
+  },
+  {
+    "ID": "1648",
+    "word": "nebenan",
+    "meaning": "next door",
+    "examples": [
+      "Das ist José, er wohnt nebenan."
+    ]
+  },
+  {
+    "ID": "544",
+    "word": "dunkel",
+    "meaning": "dark",
+    "examples": [
+      "Um sechs Uhr ist es schon dunkel.",
+      "Meine Schwester hat dunkle Haare.",
+      "Ich habe mir eine dunkelblaue Bluse gekauft."
+    ]
+  },
+  {
+    "ID": "2029",
+    "word": "der Schmutz",
+    "meaning": "dirt",
+    "examples": [
+      "Du hast Schmutz an deinen Schuhen."
+    ]
+  },
+  {
+    "ID": "943",
+    "word": "das Geheimnis, -se",
+    "meaning": "secret",
+    "examples": [
+      "Das kann ich dir nicht sagen. Das ist ein Geheimnis."
+    ]
+  },
+  {
+    "ID": "2588",
+    "word": "das Verständnis",
+    "meaning": "understanding",
+    "examples": [
+      "Wir bitten um Ihr Verständnis."
+    ]
+  },
+  {
+    "ID": "2746",
+    "word": "die Wirtschaft",
+    "meaning": "economy",
+    "examples": [
+      "In der Schule lernen die Kinder viel über Wirtschaft und Politik."
+    ]
+  },
+  {
+    "ID": "461",
+    "word": "der Cousin, -s / die Cousine, -n",
+    "meaning": "the cousin",
+    "examples": [
+      "Meine Cousine wohnt jetzt in Brasilien."
+    ]
+  },
+  {
+    "ID": "1122",
+    "word": "heutig-",
+    "meaning": "today's",
+    "examples": [
+      "Die heutigen Computer können viel mehr als noch vor ein paar Jahren"
+    ]
+  },
+  {
+    "ID": "433",
+    "word": "die Brücke, -n",
+    "meaning": "the bridge",
+    "examples": [
+      "Fahren Sie über die nächste Brücke und dann rechts."
+    ]
+  },
+  {
+    "ID": "658",
+    "word": "die Entscheidung, -en",
+    "meaning": "the decision",
+    "examples": [
+      "Diese wichtige Entscheidung möchte ich zuerst mit meinem Mann besprechen."
+    ]
+  },
+  {
+    "ID": "1306",
+    "word": "der Knochen, -",
+    "meaning": "bone",
+    "examples": [
+      "Ich bin hingefallen. Jetzt tun mir alle Knochen weh"
+    ]
+  },
+  {
+    "ID": "2793",
+    "word": "die Zeit",
+    "meaning": "time",
+    "examples": [
+      "Ich habe heute keine Zeit.",
+      "Es ist noch früh. Wir haben noch viel Zeit.",
+      "Um welche Zeit sind Sie normalerweise zu Hause?",
+      "Um diese Zeit ist hier wenig los."
+    ]
+  },
+  {
+    "ID": "2598",
+    "word": "der Vertreter, - / die Vertreterin, -nen",
+    "meaning": "representative",
+    "examples": [
+      "Als Herr Dr. Müller in Urlaub war, bin ich zu seiner Vertreterin gegangen.",
+      "Die Elternvertreter treffen sich morgen Abend in der Schule."
+    ]
+  },
+  {
+    "ID": "2801",
+    "word": "das Zentrum, Zentren",
+    "meaning": "center",
+    "examples": [
+      "Im Zentrum gibt es fast keine Parkplätze.",
+      "Es gibt ein neues Zentrum mit vielen Geschäften. Es wird am Samstag eröffnet."
+    ]
+  },
+  {
+    "ID": "1095",
+    "word": "heimlich",
+    "meaning": "secretly",
+    "examples": [
+      "Gestern habe ich gehört, dass mein Sohn heimlich raucht"
+    ]
+  },
+  {
+    "ID": "1099",
+    "word": "heißen",
+    "meaning": "to be called",
+    "examples": [
+      "Wie heißen Sie?",
+      "Wie heißt das auf Deutsch?",
+      "Die Erklärung verstehe ich nicht. Was heißt das?"
+    ]
+  },
+  {
+    "ID": "1105",
+    "word": "hell",
+    "meaning": "bright",
+    "examples": [
+      "Im Sommer wird es um 5 Uhr schon hell",
+      "Mein Zimmer ist schön hell",
+      "Ich habe mir einen hellblauen Pullover gekauft"
+    ]
+  },
+  {
+    "ID": "2807",
+    "word": "das Zeugnis, -se",
+    "meaning": "report card",
+    "examples": [
+      "Wenn Sie die Prüfung schaffen, bekommen Sie ein Zeugnis."
+    ]
+  },
+  {
+    "ID": "358",
+    "word": "der Betrieb, -e",
+    "meaning": "the company / operation",
+    "examples": [
+      "In diesem Betrieb arbeiten zehn Leute.",
+      "Kurz vor Weihnachten ist in den Kaufhäusern immer viel Betrieb.",
+      "Der Aufzug ist in Betrieb/außer Betrieb."
+    ]
+  }
+]

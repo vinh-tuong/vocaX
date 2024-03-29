@@ -1,0 +1,821 @@
+[
+  {
+    "ID": "1080",
+    "word": "hässlich",
+    "meaning": "ugly",
+    "examples": [
+      "Das ist aber eine hässliche Lampe!",
+      "Dieses Kleid finde ich hässlich"
+    ]
+  },
+  {
+    "ID": "1569",
+    "word": "mit",
+    "meaning": "with",
+    "examples": [
+      "Ich gehe heute Abend mit Maria aus.",
+      "Wir suchen eine Dreizimmerwohnung mit Küche und Bad.",
+      "Ich hätte gern einen Tee mit Zitrone.",
+      "Mit meiner Mutter sind wir acht Personen.",
+      "Ich bin mit dem Fahrrad gekommen."
+    ]
+  },
+  {
+    "ID": "1441",
+    "word": "leiden",
+    "meaning": "to suffer",
+    "examples": [
+      "Er leidet an einer schweren Krankheit",
+      "Sie leidet sehr unter den Verhältnissen"
+    ]
+  },
+  {
+    "ID": "1334",
+    "word": "das Konzert, -e",
+    "meaning": "concert",
+    "examples": [
+      "Für das Konzert am Sonntag gibt es noch Karten"
+    ]
+  },
+  {
+    "ID": "1691",
+    "word": "nützen",
+    "meaning": "to be of use",
+    "examples": [
+      "Ich habe jeden Tag eine Tablette genommen. Aber es hat nichts genützt."
+    ]
+  },
+  {
+    "ID": "2174",
+    "word": "spitz",
+    "meaning": "sharp",
+    "examples": [
+      "The pencil is not sharp."
+    ]
+  },
+  {
+    "ID": "2868",
+    "word": "zwischen",
+    "meaning": "between",
+    "examples": [
+      "Das Regal stellen wir zwischen die beiden Schränke.",
+      "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+      "Zwischen 8 und 10 Uhr bin ich zu Hause."
+    ]
+  },
+  {
+    "ID": "325",
+    "word": "beschädigen",
+    "meaning": "to damage",
+    "examples": [
+      "Bitte machen Sie eine Liste davon, was die Einbrecher beschädigt haben."
+    ]
+  },
+  {
+    "ID": "894",
+    "word": "der Fuß, ¨-e",
+    "meaning": "the foot",
+    "examples": [
+      "Er hat sich den linken Fuß gebrochen.",
+      "Sind Sie zu Fuß gekommen?"
+    ]
+  },
+  {
+    "ID": "1549",
+    "word": "die Messe, -n",
+    "meaning": "fair; trade show",
+    "examples": [
+      "Kommst du mit zur Automobilmesse?",
+      "Vielleicht kann ich auf der Messe einen Job bekommen"
+    ]
+  },
+  {
+    "ID": "1920",
+    "word": "die Reportage, -n",
+    "meaning": "the reportage",
+    "examples": [
+      "Hast du die Reportage über Afrika gesehen?"
+    ]
+  },
+  {
+    "ID": "1580",
+    "word": "möbliert",
+    "meaning": "furnished",
+    "examples": [
+      "Ich suche ein möbliertes Zimmer."
+    ]
+  },
+  {
+    "ID": "2056",
+    "word": "schuldig",
+    "meaning": "owing",
+    "examples": [
+      "Was bin ich Ihnen schuldig? – 50 Euro bitte."
+    ]
+  },
+  {
+    "ID": "1706",
+    "word": "offenbar",
+    "meaning": "apparently",
+    "examples": [
+      "Das Restaurant ist heute offenbar geschlossen."
+    ]
+  },
+  {
+    "ID": "525",
+    "word": "doppelt",
+    "meaning": "double",
+    "examples": [
+      "Das Buch habe ich doppelt."
+    ]
+  },
+  {
+    "ID": "1970",
+    "word": "sammeln",
+    "meaning": "to collect",
+    "examples": [
+      "Mein Bruder sammelt Briefmarken.",
+      "Im Herbst sammeln wir im Wald Pilze."
+    ]
+  },
+  {
+    "ID": "1512",
+    "word": "das Märchen, -",
+    "meaning": "fairy tale",
+    "examples": [
+      "Meine Großmutter hat uns viele Märchen erzählt"
+    ]
+  },
+  {
+    "ID": "841",
+    "word": "die Form, -en",
+    "meaning": "the form",
+    "examples": [
+      "Diese Schuhe haben eine schöne Form.",
+      "Ich möchte für den Geburtstag einen Kuchen backen. Kannst du mir eine Backform leihen?"
+    ]
+  },
+  {
+    "ID": "748",
+    "word": "die Fähre, -n",
+    "meaning": "the ferry",
+    "examples": [
+      "Wir nehmen die Fähre über den Bodensee."
+    ]
+  },
+  {
+    "ID": "1297",
+    "word": "die Klingel, -n",
+    "meaning": "bell",
+    "examples": [
+      "Drück bitte auf die Klingel"
+    ]
+  },
+  {
+    "ID": "1925",
+    "word": "der Rest, -e",
+    "meaning": "the rest",
+    "examples": [
+      "Hier sind 100 Euro. Den Rest gebe ich dir später.",
+      "Es ist noch ein Rest Wein da. Möchtest du noch?"
+    ]
+  },
+  {
+    "ID": "700",
+    "word": "die Erklärung, -en",
+    "meaning": "the explanation",
+    "examples": [
+      "Haben Sie schon die Steuererklärung gemacht?"
+    ]
+  },
+  {
+    "ID": "90",
+    "word": "ankündigen",
+    "meaning": "to announce",
+    "examples": [
+      "Wir sollten unseren Besuch ankündigen."
+    ]
+  },
+  {
+    "ID": "143",
+    "word": "die Art, -en",
+    "meaning": "the kind",
+    "examples": [
+      "Im Zoo haben sie 34 verschiedene Arten von Vögeln.",
+      "Seine Art gefällt mir nicht.",
+      "Man kann auf unterschiedliche Art und Weise ein Fest feiern."
+    ]
+  },
+  {
+    "ID": "1067",
+    "word": "halten",
+    "meaning": "to hold, to stop",
+    "examples": [
+      "Kannst du mal kurz meine Handtasche halten?",
+      "Entschuldigung, hält dieser Zug auch in Darmstadt?",
+      "Halten Sie bitte im Keller die Fenster geschlossen",
+      "Alle Mieter müssen sich an die Hausordnung halten",
+      "Die Stadt will einen neuen Flughafen bauen. Was halten Sie davon?",
+      "Halt Polizei! Fahren Sie bitte an den Straßenrand",
+      "Die Wurst hält sich noch ein paar Tage"
+    ]
+  },
+  {
+    "ID": "1262",
+    "word": "kein-",
+    "meaning": "no, not any",
+    "examples": [
+      "Ich habe leider heute keine Zeit",
+      "Jetzt habe ich noch keinen Hunger",
+      "Ich habe keine Kinder",
+      "Was für ein Auto haben Sie? – Ich habe keins"
+    ]
+  },
+  {
+    "ID": "2254",
+    "word": "der Streik, -s",
+    "meaning": "strike",
+    "examples": [
+      "Es gab einen Streik am Flughafen. Deshalb hatte unsere Maschine Verspätung."
+    ]
+  },
+  {
+    "ID": "497",
+    "word": "das Dessert, -s",
+    "meaning": "the dessert",
+    "examples": [
+      "Nach dem Essen gab es noch ein leckeres Dessert."
+    ]
+  },
+  {
+    "ID": "1717",
+    "word": "die Oper, -n",
+    "meaning": "the opera",
+    "examples": [
+      "Ich mag Opern.",
+      "Warst du schon mal in der Oper?"
+    ]
+  },
+  {
+    "ID": "2303",
+    "word": "die Taste, -n",
+    "meaning": "button",
+    "examples": [
+      "An der Fernbedienung ist eine Taste kaputt.",
+      "Du musst jetzt die Stopp-Taste drücken."
+    ]
+  },
+  {
+    "ID": "1147",
+    "word": "holen",
+    "meaning": "to fetch, to get",
+    "examples": [
+      "Soll ich uns was zu trinken holen?",
+      "Warum haben Sie nicht sofort einen Arzt geholt?"
+    ]
+  },
+  {
+    "ID": "915",
+    "word": "geben",
+    "meaning": "to give",
+    "examples": [
+      "Geben Sie mir bitte eine Quittung!",
+      "Können Sie mir etwas zum Schreiben geben?",
+      "Der Arzt hat mir eine Spritze gegeben.",
+      "Was gibt es im Fernsehen?",
+      "Es gibt bald Regen."
+    ]
+  },
+  {
+    "ID": "2417",
+    "word": "die Übernachtung, -en",
+    "meaning": "overnight stay",
+    "examples": [
+      "In diesem Hotel kostet die Übernachtung mit Frühstück 90 Euro."
+    ]
+  },
+  {
+    "ID": "1070",
+    "word": "der Hammer, ¨-",
+    "meaning": "the hammer",
+    "examples": [
+      "Ich möchte ein Bild aufhängen. Hast du einen Hammer für mich?"
+    ]
+  },
+  {
+    "ID": "388",
+    "word": "bitten",
+    "meaning": "to ask",
+    "examples": [
+      "Darf ich Sie bitten, kurz zuzuhören?"
+    ]
+  },
+  {
+    "ID": "2233",
+    "word": "die Stimme, -n",
+    "meaning": "voice",
+    "examples": [
+      "Ich habe dich sofort an der Stimme erkannt."
+    ]
+  },
+  {
+    "ID": "1397",
+    "word": "die Küste, -n",
+    "meaning": "the coast",
+    "examples": [
+      "Unser Dorf liegt direkt an der Küste"
+    ]
+  },
+  {
+    "ID": "1394",
+    "word": "kürzlich",
+    "meaning": "recently",
+    "examples": [
+      "Wir haben doch kürzlich darüber gesprochen, dass wir am Wochenende wegfahren wollen"
+    ]
+  },
+  {
+    "ID": "226",
+    "word": "backen",
+    "meaning": "to bake",
+    "examples": [
+      "Wenn du kommst, backe ich einen Kuchen."
+    ]
+  },
+  {
+    "ID": "1933",
+    "word": "riechen",
+    "meaning": "to smell",
+    "examples": [
+      "Dieses Parfüm riecht sehr gut.",
+      "Im ganzen Haus riecht es nach Farbe.",
+      "Ich bin erkältet. Ich kann nichts riechen."
+    ]
+  },
+  {
+    "ID": "708",
+    "word": "die Ermäßigung, -en",
+    "meaning": "the discount",
+    "examples": [
+      "Es gibt eine Ermäßigung für Kinder und Senioren."
+    ]
+  },
+  {
+    "ID": "1995",
+    "word": "geschieden",
+    "meaning": "divorced",
+    "examples": [
+      "Meine Kollegin ist geschieden."
+    ]
+  },
+  {
+    "ID": "619",
+    "word": "der Eintritt",
+    "meaning": "admission",
+    "examples": [
+      "Kinder über 10 Jahre zahlen den vollen Eintritt.",
+      "Der Eintritt ist frei."
+    ]
+  },
+  {
+    "ID": "1939",
+    "word": "roh",
+    "meaning": "raw",
+    "examples": [
+      "Du kannst das nicht essen. Das Fleisch ist noch roh."
+    ]
+  },
+  {
+    "ID": "2395",
+    "word": "die Tropfen (Pl.)",
+    "meaning": "drops",
+    "examples": [
+      "Hast du die Tropfen schon genommen?",
+      "Wegen der paar Regentropfen brauchst du doch keinen Schirm."
+    ]
+  },
+  {
+    "ID": "1286",
+    "word": "das Klavier, -e",
+    "meaning": "piano",
+    "examples": [
+      "Meine Tochter möchte Klavier spielen lernen"
+    ]
+  },
+  {
+    "ID": "2071",
+    "word": "die Schwester, -n",
+    "meaning": "sister",
+    "examples": [
+      "Ich habe eine ältere Schwester und einen jüngeren Bruder.",
+      "Schwester Anna hat mir eine Schmerztablette gegeben."
+    ]
+  },
+  {
+    "ID": "327",
+    "word": "die Beschäftigung, -en",
+    "meaning": "the employment",
+    "examples": [
+      "Ich suche eine Halbtagsbeschäftigung, weil ich ein kleines Kind habe."
+    ]
+  },
+  {
+    "ID": "2814",
+    "word": "der Zirkus, -se",
+    "meaning": "circus",
+    "examples": [
+      "Heute gehen wir mit den Kindern in den Zirkus."
+    ]
+  },
+  {
+    "ID": "2650",
+    "word": "das Vorstellungsgespräch, -e",
+    "meaning": "interview",
+    "examples": [
+      "Wann hast du dein Vorstellungsgespräch?"
+    ]
+  },
+  {
+    "ID": "523",
+    "word": "donnern",
+    "meaning": "to thunder",
+    "examples": [
+      "Hörst du es donnern? Das Gewitter kommt näher.",
+      "Der Lkw donnert über die Landstraße."
+    ]
+  },
+  {
+    "ID": "146",
+    "word": "das Asyl",
+    "meaning": "asylum",
+    "examples": [
+      "Die Menschen sind auf der Flucht und bitten um Asyl."
+    ]
+  },
+  {
+    "ID": "1721",
+    "word": "optimistisch",
+    "meaning": "optimistic",
+    "examples": [
+      "Glaubst du, dass du den Job bekommst? – Ja, ich bin ganz optimistisch."
+    ]
+  },
+  {
+    "ID": "250",
+    "word": "der Bart, ¨-e",
+    "meaning": "the beard",
+    "examples": [
+      "John trägt jetzt einen Bart."
+    ]
+  },
+  {
+    "ID": "939",
+    "word": "der Gegenstand, ¨-e",
+    "meaning": "object",
+    "examples": [
+      "Ich schließe meine persönlichen Gegenstände im Schwimmbad lieber in ein Fach ein.",
+      "Eine Durchsage der Polizei",
+      "Auf der A8 liegen Gegenstände auf der Fahrbahn."
+    ]
+  },
+  {
+    "ID": "1478",
+    "word": "der Löffel, -",
+    "meaning": "spoon",
+    "examples": [
+      "Bitte bringen Sie mir einen Löffel"
+    ]
+  },
+  {
+    "ID": "1945",
+    "word": "rück-",
+    "meaning": "back-",
+    "examples": [
+      "die Rückfahrt, -en",
+      "On the return journey, I will visit my parents."
+    ]
+  },
+  {
+    "ID": "1455",
+    "word": "letzt-",
+    "meaning": "last",
+    "examples": [
+      "Was hast du letzte Woche gemacht?",
+      "Ich wohne im letzten Haus auf der rechten Seite",
+      "Wann haben Sie Ihre Familie das letzte Mal gesehen?"
+    ]
+  },
+  {
+    "ID": "1449",
+    "word": "die Leitung, -en",
+    "meaning": "the management; the line",
+    "examples": [
+      "Ab 1. Juli übernimmt Herr Meier die Leitung der Abteilung",
+      "Tut mir leid, alle Leitungen sind besetzt",
+      "Wir müssen eine neue Leitung legen lassen"
+    ]
+  },
+  {
+    "ID": "1676",
+    "word": "normal",
+    "meaning": "normal",
+    "examples": [
+      "Fehler zu machen ist doch ganz normal."
+    ]
+  },
+  {
+    "ID": "1069",
+    "word": "die Haltestelle, -n",
+    "meaning": "the stop, the station",
+    "examples": [
+      "An der nächsten Haltestelle müssen wir aussteigen"
+    ]
+  },
+  {
+    "ID": "1705",
+    "word": "veröffentlichen",
+    "meaning": "to publish",
+    "examples": [
+      "Das Buch wurde gestern veröffentlicht."
+    ]
+  },
+  {
+    "ID": "531",
+    "word": "draußen",
+    "meaning": "outside",
+    "examples": [
+      "Es ist kalt draußen.",
+      "Wir müssen draußen warten."
+    ]
+  },
+  {
+    "ID": "2828",
+    "word": "zugänglich",
+    "meaning": "accessible",
+    "examples": [
+      "Der Park ist für alle zugänglich."
+    ]
+  },
+  {
+    "ID": "948",
+    "word": "das Geld",
+    "meaning": "money",
+    "examples": [
+      "Ich habe nicht genug Geld dabei.",
+      "Sie haben mir zu viel Wechselgeld gegeben."
+    ]
+  },
+  {
+    "ID": "1690",
+    "word": "nutzen",
+    "meaning": "to use",
+    "examples": [
+      "Ich möchte das schöne Wetter nutzen und spazieren gehen."
+    ]
+  },
+  {
+    "ID": "89",
+    "word": "die Ankunft, -",
+    "meaning": "the arrival",
+    "examples": [
+      "Die Abfahrt ist um 0.55 Uhr, die Ankunft um 8.07 Uhr.",
+      "Gleich nach der Ankunft habe ich meine Eltern angerufen."
+    ]
+  },
+  {
+    "ID": "2093",
+    "word": "selbstverständlich",
+    "meaning": "of course",
+    "examples": [
+      "Selbstverständlich sagen wir Ihnen sofort Bescheid."
+    ]
+  },
+  {
+    "ID": "2861",
+    "word": "das/der Zvieri/Znüni -s (CH) → Imbiss (D); Jause (A)",
+    "meaning": "the snack",
+    "examples": [
+      "Es ist Zeit für ein kleines Zvieri."
+    ]
+  },
+  {
+    "ID": "161",
+    "word": "aufladen",
+    "meaning": "to charge",
+    "examples": [
+      "Ich muss mein Telefon aufladen. Die Batterie ist leer."
+    ]
+  },
+  {
+    "ID": "1050",
+    "word": "die Gymnastik",
+    "meaning": "gymnastics",
+    "examples": [
+      "Ich mache jeden Morgen Gymnastik"
+    ]
+  },
+  {
+    "ID": "263",
+    "word": "beantworten",
+    "meaning": "to answer",
+    "examples": [
+      "Sie haben meine Frage leider nicht beantwortet."
+    ]
+  },
+  {
+    "ID": "1558",
+    "word": "der Mieter, - / die Mieterin, -nen",
+    "meaning": "tenant",
+    "examples": [
+      "Sie hat heute neue Mieter für die Wohnung gefunden"
+    ]
+  },
+  {
+    "ID": "265",
+    "word": "der Bedarf",
+    "meaning": "the need",
+    "examples": [
+      "An diesem Produkt besteht großer Bedarf."
+    ]
+  },
+  {
+    "ID": "2278",
+    "word": "die Summe, -n",
+    "meaning": "sum",
+    "examples": [
+      "Die Summe scheint mir zu hoch!"
+    ]
+  },
+  {
+    "ID": "180",
+    "word": "ausgebildet",
+    "meaning": "trained",
+    "examples": [
+      "Für diesen Beruf müssen Sie gut ausgebildet sein."
+    ]
+  },
+  {
+    "ID": "2547",
+    "word": "das Verkehrsmittel, -",
+    "meaning": "means of transport",
+    "examples": [
+      "Es gibt kaum Parkplätze. Sie sollten mit öffentlichen Verkehrsmitteln fahren."
+    ]
+  },
+  {
+    "ID": "2096",
+    "word": "das Semester, -",
+    "meaning": "semester",
+    "examples": [
+      "Mein Neffe studiert im 7. Semester Medizin."
+    ]
+  },
+  {
+    "ID": "409",
+    "word": "die Bohne, -n",
+    "meaning": "the bean",
+    "examples": [
+      "Ich esse gern Bohnen."
+    ]
+  },
+  {
+    "ID": "2686",
+    "word": "der Wecker, -",
+    "meaning": "alarm clock",
+    "examples": [
+      "Hast du den Wecker schon gestellt?"
+    ]
+  },
+  {
+    "ID": "2133",
+    "word": "sogar",
+    "meaning": "even",
+    "examples": [
+      "Auf dem Berg war es so kalt. Es hat sogar geschneit."
+    ]
+  },
+  {
+    "ID": "253",
+    "word": "die Batterie, -n",
+    "meaning": "the battery",
+    "examples": [
+      "Bringst du bitte Batterien für die Kamera mit?"
+    ]
+  },
+  {
+    "ID": "1698",
+    "word": "das Obst",
+    "meaning": "the fruit",
+    "examples": [
+      "Obst kaufe ich am liebsten auf dem Markt."
+    ]
+  },
+  {
+    "ID": "287",
+    "word": "behaupten",
+    "meaning": "to claim",
+    "examples": [
+      "Er behauptet, unsere Meinung sei nicht wichtig.",
+      "Es ist schwer, sich gegen meinen Kollegen zu behaupten."
+    ]
+  },
+  {
+    "ID": "1779",
+    "word": "der Pfleger, - / die Pflegerin, -nen",
+    "meaning": "the nurse",
+    "examples": [
+      "Meine Freundin ist Pflegerin in einem Altersheim."
+    ]
+  },
+  {
+    "ID": "2041",
+    "word": "der Schrank, ¨-e",
+    "meaning": "closet/cabinet",
+    "examples": [
+      "Die Handtücher liegen im Schrank."
+    ]
+  },
+  {
+    "ID": "2180",
+    "word": "die Fremdsprache, -n",
+    "meaning": "foreign language",
+    "examples": [
+      "Ich spreche drei Fremdsprachen."
+    ]
+  },
+  {
+    "ID": "707",
+    "word": "erleichtern",
+    "meaning": "to relieve / to facilitate",
+    "examples": [
+      "Ich bin erleichtert, dass alles so gut geklappt hat.",
+      "Das Internet erleichtert mir die Arbeit sehr."
+    ]
+  },
+  {
+    "ID": "1380",
+    "word": "die Kultur, -en",
+    "meaning": "culture",
+    "examples": [
+      "Ich interessiere mich für andere Länder und Kulturen"
+    ]
+  },
+  {
+    "ID": "1139",
+    "word": "höchstens",
+    "meaning": "at most",
+    "examples": [
+      "Ich habe wenig Zeit. Ich kann höchstens eine Viertelstunde bleiben"
+    ]
+  },
+  {
+    "ID": "7",
+    "word": "die Abfahrt, -en",
+    "meaning": "the departure",
+    "examples": [
+      "Es bleiben uns noch zwanzig Minuten bis zur Abfahrt."
+    ]
+  },
+  {
+    "ID": "267",
+    "word": "die Bedeutung, -en",
+    "meaning": "the meaning",
+    "examples": [
+      "Das Wort „Maus“ hat inzwischen zwei Bedeutungen."
+    ]
+  },
+  {
+    "ID": "2355",
+    "word": "die Toilette, -n",
+    "meaning": "toilet",
+    "examples": [
+      "Wo ist die Toilette bitte?"
+    ]
+  },
+  {
+    "ID": "535",
+    "word": "drin / drinnen",
+    "meaning": "inside",
+    "examples": [
+      "Wo wollt ihr sitzen? Draußen oder drinnen?",
+      "Bei der Hitze ist es drinnen viel angenehmer.",
+      "In der Packung ist nichts mehr drin."
+    ]
+  },
+  {
+    "ID": "1422",
+    "word": "das Laufwerk, -e",
+    "meaning": "the drive",
+    "examples": [
+      "Für meinen Computer habe ich mir ein neues Laufwerk gekauft"
+    ]
+  },
+  {
+    "ID": "1693",
+    "word": "ob",
+    "meaning": "whether",
+    "examples": [
+      "Ich weiß noch nicht, ob ich kommen kann."
+    ]
+  }
+]

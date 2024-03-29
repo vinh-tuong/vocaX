@@ -1,0 +1,822 @@
+[
+  {
+    "ID": "101",
+    "word": "die Ansage, -n",
+    "meaning": "the announcement",
+    "examples": [
+      "Achten Sie auf die Ansage am Bahnsteig."
+    ]
+  },
+  {
+    "ID": "905",
+    "word": "die Garage, -n",
+    "meaning": "the garage",
+    "examples": [
+      "Hier ist eine Garage zu vermieten."
+    ]
+  },
+  {
+    "ID": "2188",
+    "word": "die Spur, -en",
+    "meaning": "lane",
+    "examples": [
+      "Fahren Sie bitte auf der linken Spur, wenn Sie schneller fahren."
+    ]
+  },
+  {
+    "ID": "1985",
+    "word": "der Schalter, -",
+    "meaning": "counter",
+    "examples": [
+      "The light switch is right next to the door.",
+      "You can get stamps at counter 3."
+    ]
+  },
+  {
+    "ID": "1391",
+    "word": "der Kursleiter, - / die Kursleiterin, -nen",
+    "meaning": "the course instructor",
+    "examples": [
+      "Die Kursleiterin ist mit unserer Kursgruppe manchmal in den Computerraum gegangen"
+    ]
+  },
+  {
+    "ID": "1564",
+    "word": "mindestens",
+    "meaning": "at least",
+    "examples": [
+      "Ein guter Fernsehapparat kostet mindestens 500 Euro",
+      "Bitte kommen Sie mindestens eine Stunde vor Abflug zum Flughafen"
+    ]
+  },
+  {
+    "ID": "723",
+    "word": "erwachsen",
+    "meaning": "adult",
+    "examples": [
+      "Die Kinder sind schon fast erwachsen.",
+      "Wir haben zwei erwachsene Töchter."
+    ]
+  },
+  {
+    "ID": "127",
+    "word": "der Appetit",
+    "meaning": "the appetite",
+    "examples": [
+      "Ich habe heute keinen Appetit, ich mag nichts essen.",
+      "Auf was hast du Appetit? Vielleicht auf einen Salat?",
+      "Guten Appetit!"
+    ]
+  },
+  {
+    "ID": "583",
+    "word": "eindeutig",
+    "meaning": "clear / unambiguous",
+    "examples": [
+      "Das Ergebnis ist eindeutig. Du hast gewonnen.",
+      "Du kannst eindeutig besser kochen als ich."
+    ]
+  },
+  {
+    "ID": "2037",
+    "word": "der Schnupfen",
+    "meaning": "the cold",
+    "examples": [
+      "Ich habe Schnupfen. Welches Medikament empfehlen Sie?"
+    ]
+  },
+  {
+    "ID": "2769",
+    "word": "die Wunde, -n",
+    "meaning": "wound",
+    "examples": [
+      "Die Wunde müssen wir sofort verbinden."
+    ]
+  },
+  {
+    "ID": "1740",
+    "word": "das Paket, -e",
+    "meaning": "the package",
+    "examples": [
+      "Hast du das Paket zur Post gebracht?"
+    ]
+  },
+  {
+    "ID": "1151",
+    "word": "der Hörer, - / die Hörerin, -nen",
+    "meaning": "the listener",
+    "examples": [
+      "Die Sendung hat viele Hörer und Hörerinnen"
+    ]
+  },
+  {
+    "ID": "1412",
+    "word": "lange / lang",
+    "meaning": "long; for a long time",
+    "examples": [
+      "Wie lange dauert die Fahrt von Hamburg nach Berlin?",
+      "Wie lange bist du schon in Deutschland?",
+      "Wartest du schon lange?",
+      "Wir sind noch lange nicht fertig mit der Arbeit",
+      "Wir haben lange gefrühstückt",
+      "Beim Arzt muss man oft lange warten",
+      "Ich komme gleich. Es dauert nicht lange"
+    ]
+  },
+  {
+    "ID": "2389",
+    "word": "treten",
+    "meaning": "to step",
+    "examples": [
+      "Ich bin in ein Stück Glas getreten.",
+      "Au! Du hast mich getreten!"
+    ]
+  },
+  {
+    "ID": "248",
+    "word": "bar",
+    "meaning": "cash",
+    "examples": [
+      "Zahlen Sie bar?"
+    ]
+  },
+  {
+    "ID": "1643",
+    "word": "die Natur",
+    "meaning": "the nature",
+    "examples": [
+      "Ich bin gern draußen in der Natur."
+    ]
+  },
+  {
+    "ID": "1972",
+    "word": "der Sand",
+    "meaning": "sand",
+    "examples": [
+      "Die Kinder spielen gern im Sand."
+    ]
+  },
+  {
+    "ID": "2136",
+    "word": "solch-",
+    "meaning": "such",
+    "examples": [
+      "Solche Schuhe finde ich toll."
+    ]
+  },
+  {
+    "ID": "1166",
+    "word": "illegal",
+    "meaning": "illegal",
+    "examples": [
+      "Ohne Steuerkarte zu arbeiten ist illegal. Wenn es herauskommt, musst du Strafe zahlen"
+    ]
+  },
+  {
+    "ID": "99",
+    "word": "der Anruf, -e",
+    "meaning": "the call",
+    "examples": [
+      "Ich warte auf einen Anruf aus Berlin."
+    ]
+  },
+  {
+    "ID": "1935",
+    "word": "das Rind, -er",
+    "meaning": "beef",
+    "examples": [
+      "Ich esse nur Fleisch vom Rind."
+    ]
+  },
+  {
+    "ID": "1921",
+    "word": "der Reporter, -/die Reporterin, -nen",
+    "meaning": "the reporter",
+    "examples": [
+      "Die Reporterin macht gerade ein Interview."
+    ]
+  },
+  {
+    "ID": "1540",
+    "word": "melden",
+    "meaning": "to report; to register",
+    "examples": [
+      "Ich habe schon zweimal angerufen. Aber es meldet sich niemand",
+      "Den Unfall müssen Sie der Versicherung melden",
+      "Warum hast du dich so lange nicht gemeldet? Warst du krank?"
+    ]
+  },
+  {
+    "ID": "1168",
+    "word": "immer",
+    "meaning": "always",
+    "examples": [
+      "Frau Bast kommt immer zu spät",
+      "Mein Kollege liegt immer noch im Krankenhaus",
+      "Die Schmerzen werden immer schlimmer"
+    ]
+  },
+  {
+    "ID": "2359",
+    "word": "der Topf, ¨-e",
+    "meaning": "pot",
+    "examples": [
+      "Dieses Jahr haben wir keine Töpfe mit Blumen auf dem Balkon.",
+      "Hast du keinen größeren Topf? Ich möchte Kartoffeln kochen."
+    ]
+  },
+  {
+    "ID": "781",
+    "word": "der Feiertag, -e",
+    "meaning": "the holiday",
+    "examples": [
+      "Am Montag ist Feiertag."
+    ]
+  },
+  {
+    "ID": "1024",
+    "word": "der Gott, ¨-er",
+    "meaning": "God",
+    "examples": [
+      "Glaubst du an Gott?",
+      "Gott sei Dank ist ihm nichts passiert"
+    ]
+  },
+  {
+    "ID": "380",
+    "word": "billig",
+    "meaning": "cheap",
+    "examples": [
+      "Dieses Buch ist nicht ganz billig."
+    ]
+  },
+  {
+    "ID": "2144",
+    "word": "die Sorge, -n",
+    "meaning": "worry",
+    "examples": [
+      "Um Ihre Zukunft brauchen Sie sich keine Sorgen zu machen."
+    ]
+  },
+  {
+    "ID": "1632",
+    "word": "die Nähe",
+    "meaning": "the vicinity",
+    "examples": [
+      "Die Post ist ganz in der Nähe vom Bahnhof"
+    ]
+  },
+  {
+    "ID": "2685",
+    "word": "wecken",
+    "meaning": "to wake",
+    "examples": [
+      "Können Sie mich morgen früh um sechs wecken?"
+    ]
+  },
+  {
+    "ID": "724",
+    "word": "der Erwachsene, -n",
+    "meaning": "the adult",
+    "examples": [
+      "Erwachsene zahlen 5 Euro, für Kinder ist der Eintritt frei."
+    ]
+  },
+  {
+    "ID": "561",
+    "word": "echt",
+    "meaning": "real / genuine",
+    "examples": [
+      "Ich träume von einem echten Perserteppich.",
+      "Der Film war echt gut."
+    ]
+  },
+  {
+    "ID": "338",
+    "word": "besitzen",
+    "meaning": "to own",
+    "examples": [
+      "Besitzt Ihre Frau ein eigenes Auto?"
+    ]
+  },
+  {
+    "ID": "2644",
+    "word": "der Vorschlag, ¨-e",
+    "meaning": "suggestion",
+    "examples": [
+      "Ich mache dir einen Vorschlag",
+      "Du hilfst mir beim Deutschlernen und ich lade dich zum Essen ein."
+    ]
+  },
+  {
+    "ID": "2286",
+    "word": "die Szene, -n",
+    "meaning": "scene",
+    "examples": [
+      "In dieser Szene des Films stirbt der Held.",
+      "Ich kenne mich in der Szene nicht aus. Ich bin zu alt.",
+      "Bitte mach keine Szene!"
+    ]
+  },
+  {
+    "ID": "1500",
+    "word": "das Mal, -e",
+    "meaning": "time",
+    "examples": [
+      "Das machen wir nächstes Mal",
+      "Das erste Mal war ich vor fünf Jahren in England",
+      "Bis zum nächsten Mal"
+    ]
+  },
+  {
+    "ID": "479",
+    "word": "dann",
+    "meaning": "then",
+    "examples": [
+      "Ich muss noch schnell zur Post, dann komme ich.",
+      "Wenn es nicht regnet, dann kommen wir."
+    ]
+  },
+  {
+    "ID": "2745",
+    "word": "der Wirt, -e / die Wirtin, -nen",
+    "meaning": "innkeeper",
+    "examples": [
+      "I Ich kenne die Wirtin von diesem Lokal. Sie ist sehr nett."
+    ]
+  },
+  {
+    "ID": "2785",
+    "word": "die Zahncreme/-pasta",
+    "meaning": "toothpaste",
+    "examples": [
+      "Die neue Zahncreme riecht sehr gut."
+    ]
+  },
+  {
+    "ID": "581",
+    "word": "der Einbrecher, - / die Einbrecherin, -nen",
+    "meaning": "the burglar",
+    "examples": [
+      "Die Einbrecher haben nichts gestohlen."
+    ]
+  },
+  {
+    "ID": "1210",
+    "word": "je … desto …",
+    "meaning": "the more ... the more...",
+    "examples": [
+      "Je länger ich Deutsch lerne, desto besser kann ich es verstehen"
+    ]
+  },
+  {
+    "ID": "17",
+    "word": "das Abitur (D), die Matura (A, CH)",
+    "meaning": "the high school graduation exam",
+    "examples": [
+      "Meine Tochter hat gerade Abitur gemacht."
+    ]
+  },
+  {
+    "ID": "2416",
+    "word": "übernachten",
+    "meaning": "to stay overnight",
+    "examples": [
+      "Wir haben auf dem Campingplatz übernachtet."
+    ]
+  },
+  {
+    "ID": "2216",
+    "word": "steigen",
+    "meaning": "to climb",
+    "examples": [
+      "The prices for milk and vegetables have risen again.",
+      "Towards evening, the fever rose again."
+    ]
+  },
+  {
+    "ID": "2315",
+    "word": "der Tee",
+    "meaning": "tea",
+    "examples": [
+      "Bitte einen Tee mit Zitrone.",
+      "Was kostet dieser Tee hier?"
+    ]
+  },
+  {
+    "ID": "750",
+    "word": "der Fahrer, -",
+    "meaning": "the driver",
+    "examples": [
+      "Die Fahrerin des Wagens wurde nicht verletzt.",
+      "Leonid ist von Beruf Busfahrer."
+    ]
+  },
+  {
+    "ID": "1565",
+    "word": "das Mineralwasser",
+    "meaning": "mineral water",
+    "examples": [
+      "Kann ich bitte ein Mineralwasser haben?"
+    ]
+  },
+  {
+    "ID": "2425",
+    "word": "übersetzen",
+    "meaning": "to translate",
+    "examples": [
+      "Können Sie mir bitte diesen Brief übersetzen?"
+    ]
+  },
+  {
+    "ID": "1214",
+    "word": "jedes Mal",
+    "meaning": "every time",
+    "examples": [
+      "Inge erzählt die Geschichte jedes Mal anders"
+    ]
+  },
+  {
+    "ID": "1450",
+    "word": "die Leiter, -n",
+    "meaning": "the ladder",
+    "examples": [
+      "Haben Sie eine Leiter für mich? Ich will die Fenster putzen"
+    ]
+  },
+  {
+    "ID": "2687",
+    "word": "weder … noch",
+    "meaning": "neither … nor",
+    "examples": [
+      "Für Urlaub haben wir weder Zeit noch Geld."
+    ]
+  },
+  {
+    "ID": "1114",
+    "word": "der Herr, -en",
+    "meaning": "Mr., sir",
+    "examples": [
+      "Da ist ein Herr, der möchte Sie sprechen",
+      "Guten Tag Herr Müller!"
+    ]
+  },
+  {
+    "ID": "744",
+    "word": "das Fach, ¨-er",
+    "meaning": "the subject / compartment",
+    "examples": [
+      "Die Handtücher sind im obersten Fach links.",
+      "Welches Fach magst du in der Schule am liebsten?"
+    ]
+  },
+  {
+    "ID": "1641",
+    "word": "nass",
+    "meaning": "wet",
+    "examples": [
+      "Es hat schrecklich geregnet. Ich bin ganz nass geworden.",
+      "Geh nicht mit den nassen Schuhen ins Wohnzimmer."
+    ]
+  },
+  {
+    "ID": "2222",
+    "word": "sterben",
+    "meaning": "to die",
+    "examples": [
+      "Mein Kollege kommt heute nicht. Sein Vater ist gestern gestorben."
+    ]
+  },
+  {
+    "ID": "2787",
+    "word": "das Zeichen, -",
+    "meaning": "sign",
+    "examples": [
+      "Bitte fangen Sie erst an, wenn ich Ihnen ein Zeichen gebe."
+    ]
+  },
+  {
+    "ID": "2812",
+    "word": "das Zimmer, -",
+    "meaning": "room",
+    "examples": [
+      "Die Wohnung hat drei Zimmer.",
+      "Ich habe ein Zimmer im Hotel Eden reserviert."
+    ]
+  },
+  {
+    "ID": "2432",
+    "word": "(sich) überzeugen",
+    "meaning": "to convince",
+    "examples": [
+      "Ihr Vorschlag überzeugt mich gar nicht.",
+      "Ich bin fest davon überzeugt, dass meine Entscheidung richtig ist."
+    ]
+  },
+  {
+    "ID": "1145",
+    "word": "die Hoffnung, -en",
+    "meaning": "the hope",
+    "examples": [
+      "Man darf die Hoffnung nicht verlieren"
+    ]
+  },
+  {
+    "ID": "1599",
+    "word": "die Mühe",
+    "meaning": "the effort",
+    "examples": [
+      "Vielen Dank für Ihre Mühe.",
+      "Mit ein bisschen mehr Mühe können wir das schaffen."
+    ]
+  },
+  {
+    "ID": "1949",
+    "word": "die Rücksicht, -en",
+    "meaning": "consideration",
+    "examples": [
+      "Please be considerate of the other guests."
+    ]
+  },
+  {
+    "ID": "1496",
+    "word": "mager",
+    "meaning": "lean",
+    "examples": [
+      "Bitte 1 kg mageres Fleisch"
+    ]
+  },
+  {
+    "ID": "1647",
+    "word": "neben",
+    "meaning": "next to",
+    "examples": [
+      "Neben mir ist noch ein Platz frei.",
+      "Darf ich mich neben dich setzen?",
+      "Die Apotheke ist gleich links neben der Post."
+    ]
+  },
+  {
+    "ID": "50",
+    "word": "allerdings",
+    "meaning": "however",
+    "examples": [
+      "Wir können uns morgen treffen, allerdings habe ich erst ab Mittag Zeit."
+    ]
+  },
+  {
+    "ID": "933",
+    "word": "das Gefängnis, -se",
+    "meaning": "prison",
+    "examples": [
+      "Er wurde zu fünf Jahren Gefängnis verurteilt."
+    ]
+  },
+  {
+    "ID": "624",
+    "word": "einzeln",
+    "meaning": "individual",
+    "examples": [
+      "Dieses Mineralwasser gibt es nur als Sechserpack, nicht einzeln."
+    ]
+  },
+  {
+    "ID": "1888",
+    "word": "das Regal, -e",
+    "meaning": "shelf",
+    "examples": [
+      "Das Buch steht im Regal oben rechts."
+    ]
+  },
+  {
+    "ID": "2832",
+    "word": "zuhören",
+    "meaning": "to listen",
+    "examples": [
+      "Hör mir doch mal zu!"
+    ]
+  },
+  {
+    "ID": "1614",
+    "word": "mutig",
+    "meaning": "brave",
+    "examples": [
+      "Es war sehr mutig von dir, deine Meinung laut zu sagen."
+    ]
+  },
+  {
+    "ID": "1219",
+    "word": "jeweils",
+    "meaning": "each",
+    "examples": [
+      "The Kurs findet jeweils montags und donnerstags um 18 Uhr statt"
+    ]
+  },
+  {
+    "ID": "2143",
+    "word": "sorgen",
+    "meaning": "to care for",
+    "examples": [
+      "Wer sorgt denn für die Kinder?",
+      "Können Sie bitte dafür sorgen, dass die Heizung funktioniert?"
+    ]
+  },
+  {
+    "ID": "2198",
+    "word": "stark",
+    "meaning": "strong",
+    "examples": [
+      "Der Kaffee ist sehr stark.",
+      "Am späten Nachmittag ist der Verkehr besonders stark.",
+      "Ich habe starke Kopfschmerzen.",
+      "Können Sie mir kein stärkeres Mittel verschreiben?",
+      "Es hat stark geregnet."
+    ]
+  },
+  {
+    "ID": "30",
+    "word": "die Abteilung, -en",
+    "meaning": "the department",
+    "examples": [
+      "Meine Freundin arbeitet in der Abteilung von Frau Kaufmann."
+    ]
+  },
+  {
+    "ID": "1174",
+    "word": "die Infektion, -en",
+    "meaning": "the infection",
+    "examples": [
+      "Sie haben eine Infektion. Sie müssen Tabletten nehmen"
+    ]
+  },
+  {
+    "ID": "1054",
+    "word": "der Hafen, ¨-",
+    "meaning": "the port",
+    "examples": [
+      "Wenn du in Hamburg bist, musst du dir unbedingt den Hafen ansehen"
+    ]
+  },
+  {
+    "ID": "2105",
+    "word": "der Service",
+    "meaning": "service",
+    "examples": [
+      "Rufst du beim Pizza-Service an?",
+      "Ich war mit dem Service in der Werkstatt nicht zufrieden."
+    ]
+  },
+  {
+    "ID": "1654",
+    "word": "nennen",
+    "meaning": "to call",
+    "examples": [
+      "Mein Freund heißt Alexander, aber alle nennen ihn Alex.",
+      "Wie nennt man dieses Gerät?"
+    ]
+  },
+  {
+    "ID": "2594",
+    "word": "der Vertrag, ¨-e",
+    "meaning": "contract",
+    "examples": [
+      "Sie beide müssen den Vertrag unterschreiben."
+    ]
+  },
+  {
+    "ID": "1423",
+    "word": "die Laune, -n",
+    "meaning": "mood",
+    "examples": [
+      "Heute geht es mir besser, aber gestern hatte ich richtig schlechte Laune"
+    ]
+  },
+  {
+    "ID": "1689",
+    "word": "nur",
+    "meaning": "only",
+    "examples": [
+      "Im Kaufhaus gibt‘s T-Shirts für nur fünf Euro.",
+      "Ich habe keinen Hunger. Ich möchte nur etwas trinken.",
+      "Ich habe nur heute Abend Zeit.",
+      "Kannst du mir Geld leihen? Tut mir leid. Ich habe nur fünf Euro dabei."
+    ]
+  },
+  {
+    "ID": "1493",
+    "word": "das Mädchen, -",
+    "meaning": "girl",
+    "examples": [
+      "Familie Kurz hat zwei Mädchen und einen Jungen"
+    ]
+  },
+  {
+    "ID": "112",
+    "word": "anstrengend",
+    "meaning": "exhausting",
+    "examples": [
+      "Ich finde diese Arbeit sehr anstrengend."
+    ]
+  },
+  {
+    "ID": "2543",
+    "word": "verhindern",
+    "meaning": "to prevent",
+    "examples": [
+      "Wir konnten den Unfall nicht verhindern."
+    ]
+  },
+  {
+    "ID": "123",
+    "word": "das Apartment, -s",
+    "meaning": "the apartment",
+    "examples": [
+      "Wir haben ein Ferienapartment gemietet."
+    ]
+  },
+  {
+    "ID": "2491",
+    "word": "die Unterstützung, -en",
+    "meaning": "support",
+    "examples": [
+      "Ich nehme Ihre Unterstützung gern an."
+    ]
+  },
+  {
+    "ID": "2791",
+    "word": "zeigen",
+    "meaning": "to show",
+    "examples": [
+      "Zeig mir bitte deine Hausaufgaben.",
+      "Der Bahnhof ist nicht weit entfernt. Ich zeige Ihnen den Weg.",
+      "Komm her! Ich zeige dir etwas."
+    ]
+  },
+  {
+    "ID": "271",
+    "word": "sich beeilen",
+    "meaning": "to hurry",
+    "examples": [
+      "Wir müssen uns beeilen. Sonst verpassen wir den Zug."
+    ]
+  },
+  {
+    "ID": "1092",
+    "word": "heim",
+    "meaning": "home",
+    "examples": [
+      "I will jetzt heim"
+    ]
+  },
+  {
+    "ID": "1222",
+    "word": "der Jugendliche, -n / die Jugendliche, -n",
+    "meaning": "the adolescent, the teenager",
+    "examples": [
+      "Die Jugendlichen gehen gerne in die Disko",
+      "Der Eintritt ist für Kinder und Jugendliche bis 16 Jahre frei"
+    ]
+  },
+  {
+    "ID": "1899",
+    "word": "der Reifen, -",
+    "meaning": "the tire",
+    "examples": [
+      "Ihr Wagen braucht neue Reifen."
+    ]
+  },
+  {
+    "ID": "847",
+    "word": "die Fortsetzung, -en",
+    "meaning": "the continuation",
+    "examples": [
+      "Fortsetzung folgt."
+    ]
+  },
+  {
+    "ID": "1300",
+    "word": "klopfen",
+    "meaning": "to knock",
+    "examples": [
+      "Da klopft jemand ans Fenster",
+      "Hat es nicht eben geklopft?",
+      "Bitte klopfen Sie an"
+    ]
+  },
+  {
+    "ID": "661",
+    "word": "entschlossen",
+    "meaning": "determined",
+    "examples": [
+      "Ich bin fest entschlossen, diese Ausbildung fertigzumachen."
+    ]
+  },
+  {
+    "ID": "1812",
+    "word": "die Praxis, Praxen (general)",
+    "meaning": "the practice",
+    "examples": [
+      "Das ist die Theorie. In der Praxis ist vieles ganz anders."
+    ]
+  }
+]

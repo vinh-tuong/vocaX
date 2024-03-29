@@ -1,0 +1,842 @@
+[
+  {
+    "ID": "1141",
+    "word": "der Hof, ¨-e",
+    "meaning": "the courtyard, the farm",
+    "examples": [
+      "Die Kinder spielen am liebsten im Hof"
+    ]
+  },
+  {
+    "ID": "258",
+    "word": "der Bauer, -n",
+    "meaning": "the farmer",
+    "examples": [
+      "Wir kaufen unser Gemüse beim Bauern."
+    ]
+  },
+  {
+    "ID": "2100",
+    "word": "der Sender, -",
+    "meaning": "channel",
+    "examples": [
+      "Welchen Sender siehst du am liebsten?",
+      "Ich höre im Radio am liebsten Sender mit moderner Musik."
+    ]
+  },
+  {
+    "ID": "1965",
+    "word": "der Salat, -e",
+    "meaning": "salad",
+    "examples": [
+      "Möchten Sie zum Fisch einen Salat?"
+    ]
+  },
+  {
+    "ID": "2034",
+    "word": "(sich) schneiden",
+    "meaning": "to cut",
+    "examples": [
+      "Das Messer schneidet nicht.",
+      "Hast du ein Pflaster? Ich habe mich geschnitten.",
+      "Wann lässt du deine Haare schneiden?"
+    ]
+  },
+  {
+    "ID": "2084",
+    "word": "sein",
+    "meaning": "be",
+    "examples": [
+      "Ich bin Mechaniker.",
+      "Das sind meine Kollegen.",
+      "Ich bin müde.",
+      "Das Auto ist jetzt fünfzehn Jahre alt.",
+      "Heute ist Montag.",
+      "Der Termin beim Zahnarzt ist erst übermorgen.",
+      "Um 11 Uhr ist Pause.",
+      "Herr Müller ist in seinem Zimmer.",
+      "Das Auto ist mir zu teuer.",
+      "Das ist schwer zu verstehen.",
+      "Mir ist kalt."
+    ]
+  },
+  {
+    "ID": "2330",
+    "word": "der Teppich, -e",
+    "meaning": "carpet",
+    "examples": [
+      "Ich habe mir einen neuen Teppich gekauft.",
+      "Habt ihr in eurer neuen Wohnung Teppich oder einen Holzfußboden?"
+    ]
+  },
+  {
+    "ID": "35",
+    "word": "achten (auf)",
+    "meaning": "to pay attention (to)",
+    "examples": [
+      "Achten Sie bitte darauf, dass Sie abschließen, wenn Sie gehen."
+    ]
+  },
+  {
+    "ID": "2529",
+    "word": "die Vergangenheit",
+    "meaning": "past",
+    "examples": [
+      "In der Vergangenheit war das anders."
+    ]
+  },
+  {
+    "ID": "397",
+    "word": "blind",
+    "meaning": "blind",
+    "examples": [
+      "Er ist von Geburt an blind."
+    ]
+  },
+  {
+    "ID": "556",
+    "word": "duzen",
+    "meaning": "to use the informal \"you\"",
+    "examples": [
+      "Wollen wir Du zueinander sagen? Ja, wir können uns gern duzen."
+    ]
+  },
+  {
+    "ID": "1831",
+    "word": "Prost",
+    "meaning": "Cheers!",
+    "examples": [
+      "Wir trinken auf Ihre Gesundheit! Prost!"
+    ]
+  },
+  {
+    "ID": "1805",
+    "word": "der Pöstler, - / die Pöstlerin, -nen (CH)",
+    "meaning": "the mail carrier",
+    "examples": [
+      "War die Pöstlerin schon da?"
+    ]
+  },
+  {
+    "ID": "2612",
+    "word": "das Viertel, -",
+    "meaning": "quarter",
+    "examples": [
+      "Wir wohnen in einem schönen Viertel."
+    ]
+  },
+  {
+    "ID": "1566",
+    "word": "minimal",
+    "meaning": "minimal",
+    "examples": [
+      "Da ist nur ein minimaler Unterschied"
+    ]
+  },
+  {
+    "ID": "990",
+    "word": "gestern",
+    "meaning": "yesterday",
+    "examples": [
+      "Ich bin erst gestern zurückgekommen"
+    ]
+  },
+  {
+    "ID": "311",
+    "word": "beraten",
+    "meaning": "to advise",
+    "examples": [
+      "Unser Personal berät Sie gern, wenn Sie Fragen haben."
+    ]
+  },
+  {
+    "ID": "729",
+    "word": "die Erziehung",
+    "meaning": "the education / upbringing",
+    "examples": [
+      "Heute kümmern sich auch viele Väter um die Erziehung der Kinder."
+    ]
+  },
+  {
+    "ID": "643",
+    "word": "das Ende",
+    "meaning": "the end",
+    "examples": [
+      "Ich wohne am Ende der Straße.",
+      "Die nächste Prüfung findet Ende August statt."
+    ]
+  },
+  {
+    "ID": "2012",
+    "word": "schlagen",
+    "meaning": "to beat",
+    "examples": [
+      "Wer hat den Weltmeister geschlagen?",
+      "Ich muss einen Nagel in die Wand schlagen. Wo ist der Hammer?",
+      "Das Herz schlug mir bis zum Hals."
+    ]
+  },
+  {
+    "ID": "157",
+    "word": "aufgeben",
+    "meaning": "to give up",
+    "examples": [
+      "Ich habe auf der Post ein Paket aufgegeben.",
+      "Man darf nie aufgeben. Es gibt immer eine Hoffnung."
+    ]
+  },
+  {
+    "ID": "346",
+    "word": "die Bestätigung, -en",
+    "meaning": "the confirmation",
+    "examples": [
+      "Ich brauche eine schriftliche Bestätigung für das Amt."
+    ]
+  },
+  {
+    "ID": "1891",
+    "word": "regeln",
+    "meaning": "to regulate",
+    "examples": [
+      "Die Ampel ist kaputt. Ein Polizist regelt den Verkehr."
+    ]
+  },
+  {
+    "ID": "1680",
+    "word": "der Notruf",
+    "meaning": "emergency call",
+    "examples": [
+      "Der Notruf hat die Nummer 110."
+    ]
+  },
+  {
+    "ID": "2485",
+    "word": "der Unterschied, -e",
+    "meaning": "difference",
+    "examples": [
+      "Können Sie mir sagen, was der Unterschied ist? Welche Fahrkarte ist günstiger?"
+    ]
+  },
+  {
+    "ID": "2577",
+    "word": "versäumen",
+    "meaning": "to miss",
+    "examples": [
+      "Tut mir leid, ich habe die Anmeldefrist versäumt."
+    ]
+  },
+  {
+    "ID": "2111",
+    "word": "sichern",
+    "meaning": "secure",
+    "examples": [
+      "Du musst immer alle Daten im Computer sichern."
+    ]
+  },
+  {
+    "ID": "1842",
+    "word": "putzen",
+    "meaning": "to clean",
+    "examples": [
+      "Ich muss heute noch die Wohnung putzen.",
+      "Hast du dir schon die Zähne geputzt?"
+    ]
+  },
+  {
+    "ID": "2132",
+    "word": "sogenannt-",
+    "meaning": "so-called",
+    "examples": [
+      "Studenten, die lange studieren, sind sogenannte Langzeitstudierende.",
+      "Wo bleiben denn deine sogenannten Freunde?"
+    ]
+  },
+  {
+    "ID": "2808",
+    "word": "ziehen",
+    "meaning": "to pull / to move",
+    "examples": [
+      "Sie müssen ziehen, nicht drücken.",
+      "Wir sind vor drei Wochen nach Hamburg gezogen.",
+      "Machen Sie bitte die Tür zu, es zieht."
+    ]
+  },
+  {
+    "ID": "2305",
+    "word": "der Täter, - / die Täterin, -nen",
+    "meaning": "perpetrator",
+    "examples": [
+      "Die Polizei hat den Täter endlich gefasst."
+    ]
+  },
+  {
+    "ID": "1572",
+    "word": "das Mitglied, -er",
+    "meaning": "the member",
+    "examples": [
+      "Für Mitglieder ist der Eintritt zum Konzert gratis."
+    ]
+  },
+  {
+    "ID": "1261",
+    "word": "kaum",
+    "meaning": "hardly, barely",
+    "examples": [
+      "Ich kann Sie kaum verstehen. Bitte sprechen Sie lauter",
+      "Es hat letzte Woche kaum geregnet",
+      "Die Fahrt hat nicht lange gedauert. Kaum 20 Minuten"
+    ]
+  },
+  {
+    "ID": "1618",
+    "word": "nachdem",
+    "meaning": "after",
+    "examples": [
+      "Nachdem wir gegessen hatten, sind wir spazieren gegangen."
+    ]
+  },
+  {
+    "ID": "42",
+    "word": "die Aktivität, -en",
+    "meaning": "the activity",
+    "examples": [
+      "In den Ferien bietet die Stadt für Kinder verschiedene Freizeitaktivitäten."
+    ]
+  },
+  {
+    "ID": "1750",
+    "word": "der Pass, ¨-e",
+    "meaning": "the passport",
+    "examples": [
+      "Ich muss meinen Pass verlängern lassen.",
+      "Im Hotel brauchst du bei der Anmeldung deinen Pass."
+    ]
+  },
+  {
+    "ID": "1368",
+    "word": "Kriminal-",
+    "meaning": "criminal",
+    "examples": [
+      "die Kriminalpolizei",
+      "Ein Nachbar von uns arbeitet bei der Kriminalpolizei"
+    ]
+  },
+  {
+    "ID": "758",
+    "word": "fallen",
+    "meaning": "to fall",
+    "examples": [
+      "Das Glas ist auf den Boden gefallen."
+    ]
+  },
+  {
+    "ID": "2314",
+    "word": "die Technologie, -n",
+    "meaning": "technology",
+    "examples": [
+      "Große Fortschritte gab es in der Technologie."
+    ]
+  },
+  {
+    "ID": "1519",
+    "word": "die Maschine, -n",
+    "meaning": "machine",
+    "examples": [
+      "I habe eine neue Kaffeemaschine",
+      "Unsere Maschine soll um 7 Uhr 10 starten"
+    ]
+  },
+  {
+    "ID": "88",
+    "word": "ankommen",
+    "meaning": "to arrive",
+    "examples": [
+      "Wann kommt der Zug in Hamburg an?",
+      "Bei dem Spiel kommt es darauf an, schneller zu laufen als die anderen."
+    ]
+  },
+  {
+    "ID": "2590",
+    "word": "sich verstehen",
+    "meaning": "to understand",
+    "examples": [
+      "Ich kann Sie kaum verstehen. Sprechen Sie bitte lauter.",
+      "Den Satz verstehe ich nicht.",
+      "Ich verstehe nichts von Computern.",
+      "Unsere beiden Kinder verstehen sich sehr gut."
+    ]
+  },
+  {
+    "ID": "1700",
+    "word": "oder",
+    "meaning": "or",
+    "examples": [
+      "Möchten Sie Kaffee oder Tee?",
+      "Entweder wir fahren mit dem Bus oder wir gehen zu Fuß."
+    ]
+  },
+  {
+    "ID": "919",
+    "word": "geboren werden",
+    "meaning": "to be born",
+    "examples": [
+      "Wann und wo sind Sie geboren?"
+    ]
+  },
+  {
+    "ID": "502",
+    "word": "der Dialekt, -e",
+    "meaning": "the dialect",
+    "examples": [
+      "Ich verstehe dich besser, wenn du nicht Dialekt sprichst."
+    ]
+  },
+  {
+    "ID": "840",
+    "word": "die Förderung, -en",
+    "meaning": "the support / promotion",
+    "examples": [
+      "Für das Projekt bekommen wir eine Förderung von der Stadt."
+    ]
+  },
+  {
+    "ID": "532",
+    "word": "der Dreck",
+    "meaning": "dirt / filth",
+    "examples": [
+      "Iss den Apfel nicht! Der lag im Dreck.",
+      "Ich konnte vor lauter Dreck auf dem Fenster nichts sehen.",
+      "Kümmere dich um deinen eigenen Dreck!"
+    ]
+  },
+  {
+    "ID": "1742",
+    "word": "das Papier, -e",
+    "meaning": "the paper",
+    "examples": [
+      "Hast du ein Blatt Papier für mich?",
+      "Bitte bringen Sie zu dem Termin alle Papiere mit."
+    ]
+  },
+  {
+    "ID": "1487",
+    "word": "die Luft",
+    "meaning": "air",
+    "examples": [
+      "Oh hier ist aber schlechte Luft",
+      "Die Seeluft tut mir gut",
+      "Bitte mach das Fenster auf. Ich brauche frische Luft"
+    ]
+  },
+  {
+    "ID": "2849",
+    "word": "der Zusammenhang, ¨-e",
+    "meaning": "context",
+    "examples": [
+      "In diesem Zusammenhang möchte ich Sie auf zwei Bücher aufmerksam machen.",
+      "Was ist der Zusammenhang zwischen diesen beiden Themen?"
+    ]
+  },
+  {
+    "ID": "675",
+    "word": "das Ereignis, -se",
+    "meaning": "the event",
+    "examples": [
+      "Alle Zeitungen haben über diese Ereignisse berichtet.",
+      "Das Konzert war ein großes Ereignis."
+    ]
+  },
+  {
+    "ID": "637",
+    "word": "empfangen",
+    "meaning": "to receive",
+    "examples": [
+      "Wir können mit unserem Fernseher über 30 Programme empfangen.",
+      "Die Gäste wurden sehr herzlich empfangen."
+    ]
+  },
+  {
+    "ID": "2452",
+    "word": "der Umtausch, ¨-e",
+    "meaning": "exchange",
+    "examples": [
+      "Ein Umtausch ist leider nicht möglich."
+    ]
+  },
+  {
+    "ID": "2116",
+    "word": "(sich) siezen",
+    "meaning": "to use formal \"you\"",
+    "examples": [
+      "Obwohl sie sich schon lange kennen, siezen sie sich."
+    ]
+  },
+  {
+    "ID": "446",
+    "word": "die Burg, -en",
+    "meaning": "the castle",
+    "examples": [
+      "Von der Burg hat man eine schöne Aussicht."
+    ]
+  },
+  {
+    "ID": "1667",
+    "word": "nichts",
+    "meaning": "nothing",
+    "examples": [
+      "Ich habe noch nichts gegessen.",
+      "Ich weiß auch nichts Genaues.",
+      "Ich habe nichts zum Schreiben dabei.",
+      "Entschuldigung! – Das macht nichts."
+    ]
+  },
+  {
+    "ID": "1581",
+    "word": "möchten",
+    "meaning": "would like",
+    "examples": [
+      "Möchtest du auch einen Kaffee?",
+      "Im Sommer möchten wir gern ans Meer fahren."
+    ]
+  },
+  {
+    "ID": "1494",
+    "word": "das Magazin, -e",
+    "meaning": "magazine",
+    "examples": [
+      "Jugendliche lesen dieses Magazin gern"
+    ]
+  },
+  {
+    "ID": "929",
+    "word": "die Gefahr, -en",
+    "meaning": "danger",
+    "examples": [
+      "Betreten der Baustelle auf eigene Gefahr."
+    ]
+  },
+  {
+    "ID": "562",
+    "word": "die ec-Karte / EC-Karte",
+    "meaning": "the debit card",
+    "examples": [
+      "Bezahlen Sie bar? Sie können auch mit der ec-Karte zahlen."
+    ]
+  },
+  {
+    "ID": "1887",
+    "word": "die Reform, -en",
+    "meaning": "reform",
+    "examples": [
+      "Die Regierung plant für nächstes Jahr eine Reform. Die Steuern sollen steigen."
+    ]
+  },
+  {
+    "ID": "1379",
+    "word": "der Kühlschrank, ¨-e",
+    "meaning": "the refrigerator",
+    "examples": [
+      "Stell die Milch in den Kühlschrank!"
+    ]
+  },
+  {
+    "ID": "2648",
+    "word": "sich vorstellen",
+    "meaning": "to introduce",
+    "examples": [
+      "So schwierig habe ich mir die Arbeit nicht vorgestellt.",
+      "Darf ich dir meine Frau vorstellen?",
+      "Ich möchte mich vorstellen",
+      "Mein Name ist Schuster."
+    ]
+  },
+  {
+    "ID": "44",
+    "word": "akzeptieren",
+    "meaning": "to accept",
+    "examples": [
+      "Ich kann diese Bedingungen nicht akzeptieren."
+    ]
+  },
+  {
+    "ID": "662",
+    "word": "entschuldigen",
+    "meaning": "to apologize",
+    "examples": [
+      "Entschuldigen Sie bitte, dass ich Sie störe. Aber es gibt ein Problem.",
+      "Herr Meier lässt sich entschuldigen, er ist stark erkältet."
+    ]
+  },
+  {
+    "ID": "2228",
+    "word": "stilistisch",
+    "meaning": "stylistic",
+    "examples": [
+      "Der Text ist stilistisch sehr schön."
+    ]
+  },
+  {
+    "ID": "2414",
+    "word": "überlegen",
+    "meaning": "to consider",
+    "examples": [
+      "Ich kann mich nicht entscheiden. Ich muss mir das noch überlegen.",
+      "Ich habe mir überlegt, ein Auto zu kaufen."
+    ]
+  },
+  {
+    "ID": "1757",
+    "word": "die Pause, -n",
+    "meaning": "the break",
+    "examples": [
+      "Wir machen zehn Minuten Pause."
+    ]
+  },
+  {
+    "ID": "644",
+    "word": "endgültig",
+    "meaning": "final",
+    "examples": [
+      "Damit ist das Problem endgültig gelöst.",
+      "Der endgültige Termin steht noch nicht fest."
+    ]
+  },
+  {
+    "ID": "2795",
+    "word": "zurzeit",
+    "meaning": "at the moment",
+    "examples": [
+      "Zurzeit habe ich sehr viel zu tun."
+    ]
+  },
+  {
+    "ID": "1761",
+    "word": "in Pension gehen/sein",
+    "meaning": "to retire (A)",
+    "examples": [
+      "Ich gehe Ende des Jahres in Pension.",
+      "Mein Nachbar ist seit zehn Jahren in Pension."
+    ]
+  },
+  {
+    "ID": "2092",
+    "word": "selbstständig",
+    "meaning": "self-employed",
+    "examples": [
+      "Jetzt bin ich angestellt. Früher war ich selbstständig.",
+      "Wir suchen eine Sekretärin die selbstständig arbeiten kann."
+    ]
+  },
+  {
+    "ID": "2134",
+    "word": "der Sohn, ¨-e",
+    "meaning": "son",
+    "examples": [
+      "Mein jüngster Sohn ist vier."
+    ]
+  },
+  {
+    "ID": "730",
+    "word": "es",
+    "meaning": "it",
+    "examples": [
+      "Mein Auto muss in die Werkstatt. Es ist kaputt.",
+      "Ich finde es sehr nett von Ihnen, dass Sie mich abholen."
+    ]
+  },
+  {
+    "ID": "2409",
+    "word": "über",
+    "meaning": "over",
+    "examples": [
+      "Die Müllers wohnen direkt über uns.",
+      "Pass bitte auf, wenn du über die Straße gehst.",
+      "Fahren Sie über Stuttgart oder über Würzburg?",
+      "Übers Wochenende fahren wir in die Berge.",
+      "Kinder über zehn Jahre müssen voll bezahlen.",
+      "Ich suche ein Buch über die deutsche Küche."
+    ]
+  },
+  {
+    "ID": "2297",
+    "word": "der Tanz, ¨-e",
+    "meaning": "dance",
+    "examples": [
+      "Diese modernen Tänze kann ich nicht."
+    ]
+  },
+  {
+    "ID": "2813",
+    "word": "die Zinsen (nur Pl.)",
+    "meaning": "interest",
+    "examples": [
+      "Wie viele Zinsen bekomme ich für mein Sparkonto?"
+    ]
+  },
+  {
+    "ID": "2137",
+    "word": "sollen",
+    "meaning": "should",
+    "examples": [
+      "Wann soll ich kommen?",
+      "Ich habe im Radio gehört, es soll morgen regnen.",
+      "Sollten Sie mit dem Vorschlag nicht einverstanden sein, rufen Sie mich an."
+    ]
+  },
+  {
+    "ID": "940",
+    "word": "das Gegenteil, -e",
+    "meaning": "opposite",
+    "examples": [
+      "Das Gegenteil von „klein“ ist „groß“.",
+      "Sie ist das genaue Gegenteil von ihrem Bruder.",
+      "Du bist sicher müde. – Nein, ganz im Gegenteil!"
+    ]
+  },
+  {
+    "ID": "151",
+    "word": "der Aufenthalt, -e",
+    "meaning": "the stay",
+    "examples": [
+      "Der Zug hat in München nur 20 Minuten Aufenthalt.",
+      "Wir wünschen Ihnen einen angenehmen Aufenthalt."
+    ]
+  },
+  {
+    "ID": "873",
+    "word": "der Friseur, -e / die Friseurin, -nen",
+    "meaning": "the hairdresser",
+    "examples": [
+      "Du siehst toll aus! Wer ist dein Friseur?",
+      "Meine Tochter will Friseurin werden."
+    ]
+  },
+  {
+    "ID": "1677",
+    "word": "normalerweise",
+    "meaning": "normally",
+    "examples": [
+      "Wann haben Sie normalerweise Pause?"
+    ]
+  },
+  {
+    "ID": "363",
+    "word": "die Bevölkerung",
+    "meaning": "the population",
+    "examples": [
+      "11 % der Bevölkerung wurden nicht im Inland geboren."
+    ]
+  },
+  {
+    "ID": "2097",
+    "word": "das Seminar, -e",
+    "meaning": "seminar",
+    "examples": [
+      "Ich möchte dieses Seminar unbedingt besuchen."
+    ]
+  },
+  {
+    "ID": "2762",
+    "word": "bewölkt",
+    "meaning": "cloudy",
+    "examples": [
+      "Heute ist es stark bewölkt."
+    ]
+  },
+  {
+    "ID": "830",
+    "word": "das Flugzeug, -e",
+    "meaning": "the airplane",
+    "examples": [
+      "Das Flugzeug ist gerade gelandet."
+    ]
+  },
+  {
+    "ID": "2604",
+    "word": "verwechseln",
+    "meaning": "to confuse",
+    "examples": [
+      "Entschuldigen Sie, ich habe Sie mit jemandem verwechselt."
+    ]
+  },
+  {
+    "ID": "1155",
+    "word": "der Hügel, -",
+    "meaning": "the hill",
+    "examples": [
+      "Auf diesem Hügel machen wir eine Pause"
+    ]
+  },
+  {
+    "ID": "1314",
+    "word": "kommen",
+    "meaning": "to come",
+    "examples": [
+      "Woher kommen Sie? – Aus Frankreich",
+      "Wir gehen heute Abend ins Konzert. Kommen Sie auch?",
+      "Kommen Sie doch mal wieder zu uns",
+      "Wenn Sie mal nach Köln kommen, besuchen Sie uns",
+      "Steffi kommt im Herbst in die Schule",
+      "Die Straßenbahn muss gleich kommen",
+      "Wer kommt als Nächster dran?",
+      "Die Handtücher kommen in den Schrank",
+      "Wie sind Sie denn auf diese Idee gekommen?"
+    ]
+  },
+  {
+    "ID": "513",
+    "word": "das Diplom, -e",
+    "meaning": "the diploma",
+    "examples": [
+      "Wo kann ich mein Diplom abholen?"
+    ]
+  },
+  {
+    "ID": "1385",
+    "word": "die Kündigung, -en",
+    "meaning": "the notice of termination; the resignation",
+    "examples": [
+      "Ich habe die Kündigung bekommen. Jetzt bin ich arbeitslos"
+    ]
+  },
+  {
+    "ID": "2215",
+    "word": "stehlen",
+    "meaning": "to steal",
+    "examples": [
+      "Gestern hat mir jemand im Zug meine Uhr gestohlen."
+    ]
+  },
+  {
+    "ID": "918",
+    "word": "das Gebirge",
+    "meaning": "the mountains",
+    "examples": [
+      "Wir haben unseren Urlaub im Gebirge verbracht."
+    ]
+  },
+  {
+    "ID": "255",
+    "word": "bauen",
+    "meaning": "to build",
+    "examples": [
+      "Mein Nachbar hat ein Haus gebaut."
+    ]
+  },
+  {
+    "ID": "1269",
+    "word": "die Kerze, -n",
+    "meaning": "the candle",
+    "examples": [
+      "Für den Geburtstagstisch brauchen wir viele Blumen und Kerzen"
+    ]
+  },
+  {
+    "ID": "2277",
+    "word": "das Suchtmittel, -",
+    "meaning": "addictive substance",
+    "examples": [
+      "Manche Medikamente sind auch Suchtmittel."
+    ]
+  }
+]

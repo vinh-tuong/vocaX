@@ -1,0 +1,839 @@
+[
+  {
+    "ID": "1954",
+    "word": "ruhig",
+    "meaning": "quiet/calm",
+    "examples": [
+      "Ich suche ein ruhiges Zimmer.",
+      "Nachts ist es hier in der Straße sehr ruhig.",
+      "Du kannst ruhig rauchen."
+    ]
+  },
+  {
+    "ID": "936",
+    "word": "der Gegner, -",
+    "meaning": "the opponent",
+    "examples": [
+      "Sie ist eine Gegnerin von Tierversuchen.",
+      "Die Mannschaft aus Frankreich war ein sehr starker Gegner."
+    ]
+  },
+  {
+    "ID": "876",
+    "word": "froh",
+    "meaning": "glad",
+    "examples": [
+      "I bin froh, dass alles so gut geklappt hat.",
+      "Frohes Fest!"
+    ]
+  },
+  {
+    "ID": "1089",
+    "word": "die Haut",
+    "meaning": "the skin",
+    "examples": [
+      "Haben Sie eine Creme für trockene Haut?"
+    ]
+  },
+  {
+    "ID": "1702",
+    "word": "offen",
+    "meaning": "open",
+    "examples": [
+      "Komm rein. Die Haustür ist offen.",
+      "Ich glaube der Supermarkt ist jetzt noch offen.",
+      "Im Sommer schlafe ich immer bei offenem Fenster.",
+      "Ich habe mit meinem Kollegen ganz offen über mein Problem gesprochen.",
+      "Einzelne Fragen sind noch offen."
+    ]
+  },
+  {
+    "ID": "495",
+    "word": "derselbe, dieselbe, dasselbe",
+    "meaning": "the same",
+    "examples": [
+      "Mein Freund und ich gehen in dieselbe Schule."
+    ]
+  },
+  {
+    "ID": "807",
+    "word": "der Film, -e",
+    "meaning": "the movie",
+    "examples": [
+      "Den Film musst du dir unbedingt ansehen."
+    ]
+  },
+  {
+    "ID": "1808",
+    "word": "der Praktikant, -en / die Praktikantin, -nen",
+    "meaning": "the intern",
+    "examples": [
+      "Bei dieser Firma habe ich zwei Jahre als Praktikantin gearbeitet."
+    ]
+  },
+  {
+    "ID": "2634",
+    "word": "vorgestern",
+    "meaning": "the day before yesterday",
+    "examples": [
+      "Er hat mich vorgestern angerufen."
+    ]
+  },
+  {
+    "ID": "2423",
+    "word": "überreden",
+    "meaning": "to persuade",
+    "examples": [
+      "Zuerst wollte ich nicht, aber mein Bruder hat mich überredet, einen Englischkurs zu machen."
+    ]
+  },
+  {
+    "ID": "2060",
+    "word": "die Schulter, -n",
+    "meaning": "the shoulder",
+    "examples": [
+      "Ich habe Schmerzen in der rechten Schulter."
+    ]
+  },
+  {
+    "ID": "2081",
+    "word": "die Sehenswürdigkeit, -en",
+    "meaning": "sight",
+    "examples": [
+      "Welche Sehenswürdigkeiten gibt es hier?"
+    ]
+  },
+  {
+    "ID": "630",
+    "word": "das Eis (D, A) / das Glace/Glacé (CH)",
+    "meaning": "the ice cream",
+    "examples": [
+      "Zum Nachtisch gibt es Schokoladeneis."
+    ]
+  },
+  {
+    "ID": "871",
+    "word": "frieren",
+    "meaning": "to be cold / to freeze",
+    "examples": [
+      "Wenn Sie frieren, mache ich das Fenster wieder zu.",
+      "Heute Nacht hat es gefroren."
+    ]
+  },
+  {
+    "ID": "1657",
+    "word": "nett",
+    "meaning": "nice",
+    "examples": [
+      "Die Leute sind hier sehr nett.",
+      "Ich habe viele nette Kollegen.",
+      "Vielen Dank! Das ist sehr nett von Ihnen.",
+      "Die Nachbarn waren sehr nett zu uns."
+    ]
+  },
+  {
+    "ID": "2086",
+    "word": "seitdem",
+    "meaning": "since then",
+    "examples": [
+      "Ich bin vor zwei Jahren nach Deutschland gekommen. Seitdem lerne ich Deutsch."
+    ]
+  },
+  {
+    "ID": "2549",
+    "word": "verlangen",
+    "meaning": "to demand",
+    "examples": [
+      "Jeden Tag Überstunden? Das können Sie nicht verlangen.",
+      "Wie viel verlangen Sie für das Auto?",
+      "Frau Müller, Sie werden am Telefon verlangt."
+    ]
+  },
+  {
+    "ID": "2641",
+    "word": "vorn/vorne",
+    "meaning": "front",
+    "examples": [
+      "Bitte vorn beim Fahrer einsteigen!",
+      "Zwei Kinokarten bitte. – Wo möchten Sie sitzen, vorne oder hinten?",
+      "Das war noch nicht ganz richtig. Bitte noch mal von vorne."
+    ]
+  },
+  {
+    "ID": "2157",
+    "word": "spät",
+    "meaning": "late",
+    "examples": [
+      "Wie spät ist es?",
+      "Es ist schon spät, ich muss gehen.",
+      "Ich muss mich beeilen. Sonst komme ich zu spät.",
+      "Sonntags stehen wir immer spät auf.",
+      "Am späten Nachmittag ist der Verkehr besonders stark.",
+      "Können Sie später noch mal anrufen?",
+      "Was willst du denn später mal werden?"
+    ]
+  },
+  {
+    "ID": "2011",
+    "word": "der Schlaf",
+    "meaning": "sleep",
+    "examples": [
+      "Das Kind macht jeden Tag nach dem Mittagessen einen kurzen Schlaf.",
+      "Genügend Schlaf ist wichtig für die Gesundheit."
+    ]
+  },
+  {
+    "ID": "2805",
+    "word": "das Zeug/-zeug",
+    "meaning": "stuff",
+    "examples": [
+      "Was hast du mit meinen Sachen gemacht? – Ich habe dein ganzes Zeug in dein Zimmer getan."
+    ]
+  },
+  {
+    "ID": "2166",
+    "word": "der Spezialist, -en / die Spezialistin, -nen",
+    "meaning": "specialist",
+    "examples": [
+      "Mein Arzt hat mich zur Spezialistin geschickt."
+    ]
+  },
+  {
+    "ID": "2867",
+    "word": "(sich) zwingen",
+    "meaning": "to force",
+    "examples": [
+      "Bitte zwing mich nicht, etwas zu essen. Ich bin wirklich nicht hungrig.",
+      "Das schlechte Wetter zwang uns umzukehren."
+    ]
+  },
+  {
+    "ID": "2319",
+    "word": "der Teil, -e",
+    "meaning": "part",
+    "examples": [
+      "Was steht in dem Brief? Ich habe den ersten Teil nicht verstanden.",
+      "Der Film hat zwei Teile. Heute kommt Teil 1.",
+      "Gefällt dir der neue Job? – Nur zum Teil."
+    ]
+  },
+  {
+    "ID": "2162",
+    "word": "Speise-/-speise",
+    "meaning": "course",
+    "examples": [
+      "Als Vorspeise nehme ich eine Suppe aber dafür nehme ich keine Nachspeise."
+    ]
+  },
+  {
+    "ID": "953",
+    "word": "gelten",
+    "meaning": "to apply / to be valid",
+    "examples": [
+      "Mein Pass gilt noch ein Jahr.",
+      "Bitte diesen Zettel gut aufheben",
+      "Er gilt als Garantie."
+    ]
+  },
+  {
+    "ID": "810",
+    "word": "finden",
+    "meaning": "to find",
+    "examples": [
+      "Meine Tante hat eine gute Arbeit gefunden.",
+      "Ich kann meinen Schlüssel nicht finden.",
+      "Luigi finde ich sehr nett."
+    ]
+  },
+  {
+    "ID": "1033",
+    "word": "grillieren (CH) → grillen (D A)",
+    "meaning": "to grill",
+    "examples": [
+      "Heute wollen wir im Garten grillieren"
+    ]
+  },
+  {
+    "ID": "2524",
+    "word": "der Verdacht",
+    "meaning": "suspicion",
+    "examples": [
+      "Wer hat das Geld aus der Kasse genommen? – Ich weiß es nicht, aber ich habe einen Verdacht.",
+      "Wen haben Sie in Verdacht?"
+    ]
+  },
+  {
+    "ID": "1028",
+    "word": "die Gratulation, -en",
+    "meaning": "the congratulation",
+    "examples": [
+      "Herzliche Gratulation! Sie haben gewonnen!"
+    ]
+  },
+  {
+    "ID": "362",
+    "word": "das Bett, -en",
+    "meaning": "the bed",
+    "examples": [
+      "Wir wollten uns neue Betten kaufen.",
+      "Solange Sie Fieber haben, müssen Sie im Bett bleiben."
+    ]
+  },
+  {
+    "ID": "1696",
+    "word": "der Ober, - (A), Kellner (D), Serviceangestellter (CH)",
+    "meaning": "the waiter",
+    "examples": [
+      "Ich bin Ober von Beruf."
+    ]
+  },
+  {
+    "ID": "2561",
+    "word": "vermieten",
+    "meaning": "to rent out",
+    "examples": [
+      "Bei uns im Haus ist ein Zimmer zu vermieten.",
+      "Die Wohnung ist schon vermietet."
+    ]
+  },
+  {
+    "ID": "1738",
+    "word": "das Paar, -e",
+    "meaning": "the pair",
+    "examples": [
+      "Ina und Pedro sind ein Paar.",
+      "Gestern habe ich mir ein Paar neue Schuhe gekauft."
+    ]
+  },
+  {
+    "ID": "1903",
+    "word": "reinigen",
+    "meaning": "to clean",
+    "examples": [
+      "Ich möchte diesen Anzug reinigen lassen."
+    ]
+  },
+  {
+    "ID": "1371",
+    "word": "kritisieren",
+    "meaning": "to criticize",
+    "examples": [
+      "Kritisiere mich nicht so oft"
+    ]
+  },
+  {
+    "ID": "1785",
+    "word": "die Pizza, -s/Pizzen",
+    "meaning": "the pizza",
+    "examples": [
+      "Lass uns eine Pizza bestellen!"
+    ]
+  },
+  {
+    "ID": "2248",
+    "word": "der Strand, ¨-e",
+    "meaning": "beach",
+    "examples": [
+      "Im Urlaub bin ich am liebsten am Strand."
+    ]
+  },
+  {
+    "ID": "786",
+    "word": "fernsehen",
+    "meaning": "to watch TV",
+    "examples": [
+      "Meine Kinder dürfen abends nur eine Stunde fernsehen."
+    ]
+  },
+  {
+    "ID": "2809",
+    "word": "das Ziel, -e",
+    "meaning": "goal",
+    "examples": [
+      "I Ich will die Prüfung unbedingt schaffen. Das ist mein Ziel."
+    ]
+  },
+  {
+    "ID": "568",
+    "word": "das Ehepaar, -e",
+    "meaning": "the married couple",
+    "examples": [
+      "Das Ehepaar unter uns hat zwei Kinder."
+    ]
+  },
+  {
+    "ID": "980",
+    "word": "das Geschlecht, -er",
+    "meaning": "gender",
+    "examples": [
+      "Bitte kreuzen Sie an „Geschlecht weiblich/männlich“."
+    ]
+  },
+  {
+    "ID": "1137",
+    "word": "die Höhe",
+    "meaning": "the height",
+    "examples": [
+      "Mein Tisch hat folgende Maße",
+      "Länge 120 m, Breite 060 m, Höhe 080 m",
+      "Wir fliegen jetzt in 6000 m Höhe"
+    ]
+  },
+  {
+    "ID": "1395",
+    "word": "küssen",
+    "meaning": "to kiss",
+    "examples": [
+      "Er nahm sie in die Arme und küsste sie",
+      "Beim Verabschieden haben wir uns alle geküsst"
+    ]
+  },
+  {
+    "ID": "1454",
+    "word": "der Leser, - / die Leserin, -nen",
+    "meaning": "the reader",
+    "examples": [
+      "Die Leserinnen und Leser sind mit der Zeitung zufrieden",
+      "Ich werde einen Leserbrief schreiben"
+    ]
+  },
+  {
+    "ID": "2310",
+    "word": "tauchen",
+    "meaning": "to dive",
+    "examples": [
+      "Ich möchte im Urlaub wieder tauchen gehen."
+    ]
+  },
+  {
+    "ID": "2019",
+    "word": "schlimm",
+    "meaning": "bad",
+    "examples": [
+      "The wound looks bad.",
+      "Don't worry. It's not that bad."
+    ]
+  },
+  {
+    "ID": "1674",
+    "word": "noch mal",
+    "meaning": "once again",
+    "examples": [
+      "Vielen Dank nochmal.",
+      "Bitte sagen Sie das nochmal."
+    ]
+  },
+  {
+    "ID": "2372",
+    "word": "das Training, -s",
+    "meaning": "training",
+    "examples": [
+      "Jeden Dienstag ist Training.",
+      "Ich gehe jede Woche zum Training."
+    ]
+  },
+  {
+    "ID": "757",
+    "word": "der Fall, ¨-e",
+    "meaning": "the case",
+    "examples": [
+      "Was würden Sie in diesem Fall tun?"
+    ]
+  },
+  {
+    "ID": "474",
+    "word": "daneben",
+    "meaning": "next to it",
+    "examples": [
+      "Du weißt doch, wo die Post ist. Gleich daneben ist die Bank."
+    ]
+  },
+  {
+    "ID": "353",
+    "word": "sich beteiligen",
+    "meaning": "to participate",
+    "examples": [
+      "Wir wollen unserer Lehrerin ein Geschenk kaufen. Wer möchte sich beteiligen?"
+    ]
+  },
+  {
+    "ID": "766",
+    "word": "fantastisch",
+    "meaning": "fantastic",
+    "examples": [
+      "Die Aussicht ist fantastisch!"
+    ]
+  },
+  {
+    "ID": "2140",
+    "word": "die Sonne",
+    "meaning": "sun",
+    "examples": [
+      "Das Wetter ist schön. Die Sonne scheint.",
+      "Ich habe zu lange in der Sonne gelegen."
+    ]
+  },
+  {
+    "ID": "1085",
+    "word": "die Hausaufgabe, -n",
+    "meaning": "the homework",
+    "examples": [
+      "Kannst du mir bei den Hausaufgaben helfen?"
+    ]
+  },
+  {
+    "ID": "1438",
+    "word": "der Lehrling, -e",
+    "meaning": "the apprentice",
+    "examples": [
+      "Als Lehrling verdient man nicht sehr viel Geld"
+    ]
+  },
+  {
+    "ID": "1552",
+    "word": "das Metall, -e",
+    "meaning": "metal",
+    "examples": [
+      "Dieser Tisch hier ist ganz aus Metall"
+    ]
+  },
+  {
+    "ID": "2040",
+    "word": "schön",
+    "meaning": "beautiful/nice",
+    "examples": [
+      "Ich finde eure Wohnung sehr schön.",
+      "Es ist schön heute.",
+      "Wir wünschen Ihnen einen schönen Aufenthalt in Kiel.",
+      "Schöne Grüße von Herrn Meier.",
+      "Möchten Sie noch eine Tasse Kaffee? – Nein, danke schön.",
+      "Schön, dass du kommst.",
+      "Ich muss noch arbeiten. – Schön, dann bleiben wir zu Hause."
+    ]
+  },
+  {
+    "ID": "1265",
+    "word": "kennen",
+    "meaning": "to know",
+    "examples": [
+      "Kennen Sie hier in der Nähe ein gemütliches Café?",
+      "Kennen Sie diese Frau? – Nein, leider nicht",
+      "Kennen Sie Berlin? – Ja, eine tolle Stadt"
+    ]
+  },
+  {
+    "ID": "378",
+    "word": "der Bildschirm, -e",
+    "meaning": "the screen",
+    "examples": [
+      "Ich brauche einen größeren Bildschirm für meinen Computer.",
+      "Wir haben einen Fernsehapparat mit einem sehr großen Bildschirm."
+    ]
+  },
+  {
+    "ID": "960",
+    "word": "genehmigen",
+    "meaning": "to approve",
+    "examples": [
+      "Mein Chef hat mir sechs Wochen Urlaub genehmigt."
+    ]
+  },
+  {
+    "ID": "1883",
+    "word": "reden",
+    "meaning": "to talk",
+    "examples": [
+      "Worüber habt ihr gestern geredet?"
+    ]
+  },
+  {
+    "ID": "208",
+    "word": "äußerlich",
+    "meaning": "external",
+    "examples": [
+      "Das Medikament dürfen Sie nur äußerlich anwenden."
+    ]
+  },
+  {
+    "ID": "2771",
+    "word": "wunderbar",
+    "meaning": "wonderful",
+    "examples": [
+      "Im ganzen Urlaub hatten wir wunderbares Wetter.",
+      "Diese Schokolade schmeckt wunderbar."
+    ]
+  },
+  {
+    "ID": "1077",
+    "word": "hängen",
+    "meaning": "to hang",
+    "examples": [
+      "Das Bild hängt schief",
+      "Hast du den Anzug wieder in den Schrank gehängt?"
+    ]
+  },
+  {
+    "ID": "2107",
+    "word": "der Sessel, - (D CH) → Fauteuil (A CH); Stuhl",
+    "meaning": "chair",
+    "examples": [
+      "Ich hätte gern einen bequemen Sessel.",
+      "Da hinten ist noch ein Sessel frei."
+    ]
+  },
+  {
+    "ID": "1947",
+    "word": "rückwärts",
+    "meaning": "backwards",
+    "examples": [
+      "I drove backwards out of the garage."
+    ]
+  },
+  {
+    "ID": "800",
+    "word": "das Fett",
+    "meaning": "the fat",
+    "examples": [
+      "Man soll nicht so viel Fett essen."
+    ]
+  },
+  {
+    "ID": "910",
+    "word": "das Gas",
+    "meaning": "the gas",
+    "examples": [
+      "Wir kochen mit Gas.",
+      "Gib Gas! Die Ampel ist grün."
+    ]
+  },
+  {
+    "ID": "2674",
+    "word": "die Wärme",
+    "meaning": "warmth",
+    "examples": [
+      "Wärme ist gut gegen meine Schmerzen."
+    ]
+  },
+  {
+    "ID": "2269",
+    "word": "der Stuhl, ¨-e",
+    "meaning": "chair",
+    "examples": [
+      "Da hinten ist noch ein Stuhl frei."
+    ]
+  },
+  {
+    "ID": "616",
+    "word": "einstellen",
+    "meaning": "to adjust / to employ",
+    "examples": [
+      "Die Firma wird in diesem Jahr drei neue Leute einstellen.",
+      "Das Gerät ist nicht richtig eingestellt."
+    ]
+  },
+  {
+    "ID": "799",
+    "word": "fett",
+    "meaning": "fat",
+    "examples": [
+      "Die Wurst ist mir zu fett.",
+      "Das ist aber eine fette Katze!"
+    ]
+  },
+  {
+    "ID": "1245",
+    "word": "der Karneval, -s/-e (D) → Fasching (D A); Fasnacht (CH)",
+    "meaning": "the carnival",
+    "examples": [
+      "Dort hängt mein Kostüm für den Karnevalsumzug"
+    ]
+  },
+  {
+    "ID": "1186",
+    "word": "installieren",
+    "meaning": "to install",
+    "examples": [
+      "Können Sie mir helfen, meinen Computer zu installieren?"
+    ]
+  },
+  {
+    "ID": "1301",
+    "word": "der Kloß, ¨-e",
+    "meaning": "the dumpling",
+    "examples": [
+      "Möchten Sie zum Fleisch Kartoffeln oder Klöße? – Klöße bitte"
+    ]
+  },
+  {
+    "ID": "2589",
+    "word": "sich verstecken",
+    "meaning": "to hide",
+    "examples": [
+      "Ich habe das Geld hinter dem Regal versteckt.",
+      "Die Kinder verstecken sich im Wald."
+    ]
+  },
+  {
+    "ID": "477",
+    "word": "dankbar",
+    "meaning": "grateful",
+    "examples": [
+      "Ich bin Ihnen sehr dankbar für Ihre Hilfe."
+    ]
+  },
+  {
+    "ID": "2024",
+    "word": "schmecken",
+    "meaning": "to taste",
+    "examples": [
+      "Hat es Ihnen geschmeckt?",
+      "Die Suppe schmeckt nach Knoblauch."
+    ]
+  },
+  {
+    "ID": "1384",
+    "word": "kündigen",
+    "meaning": "to resign; to terminate",
+    "examples": [
+      "I war mit meiner Stelle nicht zufrieden und habe gekündigt",
+      "Hast du deine Wohnung schon gekündigt?",
+      "Ich möchte die Zeitschrift nicht mehr. – Dann musst du schriftlich kündigen"
+    ]
+  },
+  {
+    "ID": "2643",
+    "word": "vorschlagen",
+    "meaning": "to suggest",
+    "examples": [
+      "Ich schlage vor, dass wir eine Pause machen."
+    ]
+  },
+  {
+    "ID": "2197",
+    "word": "der Star, -s",
+    "meaning": "star",
+    "examples": [
+      "Diese Sängerin ist ein großer Star in Deutschland."
+    ]
+  },
+  {
+    "ID": "642",
+    "word": "enden",
+    "meaning": "to end",
+    "examples": [
+      "Die Straße endet hier.",
+      "Das Arbeitsverhältnis endet im Mai."
+    ]
+  },
+  {
+    "ID": "1524",
+    "word": "der Mechaniker, - / die Mechanikerin, -nen",
+    "meaning": "mechanic",
+    "examples": [
+      "Das kann nur ein Mechaniker reparieren",
+      "Karim ist Automechaniker. Er arbeitet bei Opel"
+    ]
+  },
+  {
+    "ID": "635",
+    "word": "elektronisch",
+    "meaning": "electronic",
+    "examples": [
+      "Wir sollten die Daten elektronisch bearbeiten, sonst dauert es zu lange."
+    ]
+  },
+  {
+    "ID": "1022",
+    "word": "das Gold",
+    "meaning": "gold",
+    "examples": [
+      "Ist der Ring aus Gold? Nein, der sieht nur so aus"
+    ]
+  },
+  {
+    "ID": "1720",
+    "word": "das Opfer, -",
+    "meaning": "the victim",
+    "examples": [
+      "Bei der Schiffskatastrophe gab es viele Opfer."
+    ]
+  },
+  {
+    "ID": "2831",
+    "word": "das Zuhause",
+    "meaning": "home",
+    "examples": [
+      "Ich fühle mich hier wohl. Das ist mein Zuhause."
+    ]
+  },
+  {
+    "ID": "2226",
+    "word": "der Stift, -e",
+    "meaning": "pen",
+    "examples": [
+      "Kannst du mir bitte einen Stift geben?"
+    ]
+  },
+  {
+    "ID": "1218",
+    "word": "jetzt",
+    "meaning": "now",
+    "examples": [
+      "Ich muss jetzt gehen",
+      "Bis jetzt hat alles gut geklappt",
+      "Ab jetzt werde ich wieder öfter ins Fitness-Studio gehen",
+      "Ich habe jetzt schon dreimal bei meinem Bruder angerufen. Aber er ist nie da",
+      "Über viele Dinge denke ich jetzt anders als früher"
+    ]
+  },
+  {
+    "ID": "2839",
+    "word": "zunächst",
+    "meaning": "first",
+    "examples": [
+      "Zunächst möchte ich alle begrüßen!"
+    ]
+  },
+  {
+    "ID": "1254",
+    "word": "die Kassette, -n",
+    "meaning": "the cassette",
+    "examples": [
+      "Meine Eltern besitzen noch viele Musikkassetten"
+    ]
+  },
+  {
+    "ID": "1830",
+    "word": "der Prospekt, -e",
+    "meaning": "the brochure",
+    "examples": [
+      "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
+    ]
+  },
+  {
+    "ID": "1220",
+    "word": "der Journalist, -en / die Journalistin, -nen",
+    "meaning": "the journalist",
+    "examples": [
+      "Meine Tochter möchte Journalistin werden"
+    ]
+  },
+  {
+    "ID": "305",
+    "word": "sich bemühen",
+    "meaning": "to make an effort",
+    "examples": [
+      "Er hat sich sehr bemüht, etwas Gutes zu kochen.",
+      "Ich werde mich um einen Termin bemühen."
+    ]
+  },
+  {
+    "ID": "2470",
+    "word": "unten",
+    "meaning": "down / downstairs",
+    "examples": [
+      "Wir wohnen im 3. Stock, meine Eltern unten im 1. Stock.",
+      "Sie ist mal kurz nach unten gegangen."
+    ]
+  }
+]

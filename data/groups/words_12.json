@@ -1,0 +1,821 @@
+[
+  {
+    "ID": "341",
+    "word": "besorgen",
+    "meaning": "to obtain",
+    "examples": [
+      "Soll ich die Eintrittskarten besorgen?"
+    ]
+  },
+  {
+    "ID": "1866",
+    "word": "rauf/rauf-",
+    "meaning": "up/up-",
+    "examples": [
+      "Hier ist die Treppe also los schnell rauf!",
+      "Möchtest du nicht raufkommen?"
+    ]
+  },
+  {
+    "ID": "1982",
+    "word": "schädlich",
+    "meaning": "harmful",
+    "examples": [
+      "Rauchen ist schädlich für die Gesundheit."
+    ]
+  },
+  {
+    "ID": "1319",
+    "word": "die Konferenz, -en",
+    "meaning": "conference",
+    "examples": [
+      "Die Konferenz findet in Raum 19 statt"
+    ]
+  },
+  {
+    "ID": "1246",
+    "word": "die Karotte, -n → Möhre (D); Rüebli (CH)",
+    "meaning": "the carrot",
+    "examples": [
+      "Hasen fressen gern Karotten"
+    ]
+  },
+  {
+    "ID": "1094",
+    "word": "die Heimat",
+    "meaning": "the homeland",
+    "examples": [
+      "Ich lebe jetzt hier in Deutschland. Das ist meine neue Heimat"
+    ]
+  },
+  {
+    "ID": "928",
+    "word": "geeignet",
+    "meaning": "suitable",
+    "examples": [
+      "Dieses Spiel ist nicht für Kinder unter drei Jahren geeignet."
+    ]
+  },
+  {
+    "ID": "2058",
+    "word": "die Schularbeit, -en (A) → Klassenarbeit (D)",
+    "meaning": "school/class work",
+    "examples": [
+      "Mein Sohn schreibt bei Schularbeiten immer gute Noten."
+    ]
+  },
+  {
+    "ID": "1688",
+    "word": "nun",
+    "meaning": "now",
+    "examples": [
+      "Schade, dass du arbeiten musst. – Das ist nun mal so.",
+      "Was ist jetzt? Kommst du nun endlich?"
+    ]
+  },
+  {
+    "ID": "1411",
+    "word": "die Länge",
+    "meaning": "the length",
+    "examples": [
+      "Mein Schreibtisch hat folgende Maße",
+      "Länge 1.20 m, Breite 085 m, Höhe 075 m"
+    ]
+  },
+  {
+    "ID": "1014",
+    "word": "gleich",
+    "meaning": "immediately, same",
+    "examples": [
+      "Ich komme gleich",
+      "Wir sind gleich alt",
+      "Es ist mir ganz gleich was Sie von mir denken",
+      "Wir haben das gleiche Hemd an"
+    ]
+  },
+  {
+    "ID": "1907",
+    "word": "die Reise, -n",
+    "meaning": "the trip",
+    "examples": [
+      "Wir haben eine Reise nach Österreich gebucht.",
+      "Auf der Reise haben wir nette Leute kennengelernt."
+    ]
+  },
+  {
+    "ID": "1074",
+    "word": "der Handel",
+    "meaning": "the trade",
+    "examples": [
+      "Der Handel mit Computern ist ein gutes Geschäft"
+    ]
+  },
+  {
+    "ID": "1867",
+    "word": "raus/raus-",
+    "meaning": "out/out-",
+    "examples": [
+      "Willst du rein oder raus?",
+      "Er ist gerade rausgelaufen."
+    ]
+  },
+  {
+    "ID": "2376",
+    "word": "der Transport, -e",
+    "meaning": "transport",
+    "examples": [
+      "Was kostet der Transport?"
+    ]
+  },
+  {
+    "ID": "207",
+    "word": "außerhalb",
+    "meaning": "outside of",
+    "examples": [
+      "Wir wohnen außerhalb von Berlin."
+    ]
+  },
+  {
+    "ID": "1403",
+    "word": "das Lager, -",
+    "meaning": "the warehouse; camp",
+    "examples": [
+      "Ich weiß nicht, ob wir diesen Schuh in Ihrer Größe haben. Ich sehe mal im Lager nach",
+      "Unsere Kinder fahren im Sommer ins Zeltlager"
+    ]
+  },
+  {
+    "ID": "49",
+    "word": "aller-",
+    "meaning": "most",
+    "examples": [
+      "Am allerbesten ist es, wenn du dich ins Bett legst und lange schläfst. Dann wirst du schnell wieder gesund.",
+      "Das ist das Allerschönste, was ich je gesehen habe."
+    ]
+  },
+  {
+    "ID": "1653",
+    "word": "nein",
+    "meaning": "no",
+    "examples": [
+      "Noch ein Bier? – Nein danke.",
+      "Kommst du auch mit nach München? – Nein, ich habe keine Zeit."
+    ]
+  },
+  {
+    "ID": "452",
+    "word": "die Butter",
+    "meaning": "the butter",
+    "examples": [
+      "Ich möchte nur Butter aufs Brot."
+    ]
+  },
+  {
+    "ID": "457",
+    "word": "chic/schick",
+    "meaning": "stylish",
+    "examples": [
+      "Ich finde dein Kleid sehr chic."
+    ]
+  },
+  {
+    "ID": "2668",
+    "word": "die Wand, ¨-e",
+    "meaning": "wall",
+    "examples": [
+      "Ich stelle das Regal rechts an die Wand.",
+      "Die Wände sind hier sehr dünn. Man hört alles."
+    ]
+  },
+  {
+    "ID": "2130",
+    "word": "das Sofa, -s",
+    "meaning": "sofa",
+    "examples": [
+      "Wir hätten gern ein modernes Sofa."
+    ]
+  },
+  {
+    "ID": "709",
+    "word": "ernähren",
+    "meaning": "to nourish / to feed",
+    "examples": [
+      "Wie ernähre ich mich richtig?",
+      "Meine Eltern müssen beide arbeiten, um die Familie zu ernähren."
+    ]
+  },
+  {
+    "ID": "2337",
+    "word": "der Text, -e",
+    "meaning": "text",
+    "examples": [
+      "Lesen Sie den Text."
+    ]
+  },
+  {
+    "ID": "478",
+    "word": "danke",
+    "meaning": "thanks",
+    "examples": [
+      "Soll ich Ihnen helfen? Nein danke, nicht nötig.",
+      "Guten Appetit! – Danke, gleichfalls."
+    ]
+  },
+  {
+    "ID": "854",
+    "word": "fragen",
+    "meaning": "to ask",
+    "examples": [
+      "Darf ich Sie etwas fragen?",
+      "Hat jemand nach mir gefragt?",
+      "Ich frage mich, ob das richtig war."
+    ]
+  },
+  {
+    "ID": "2152",
+    "word": "der Sozialarbeiter, - / die Sozialarbeiterin, -nen",
+    "meaning": "social worker",
+    "examples": [
+      "Die Sozialarbeiterin kommt einmal in der Woche."
+    ]
+  },
+  {
+    "ID": "2006",
+    "word": "das Schild, -er",
+    "meaning": "the sign",
+    "examples": [
+      "Kannst du lesen, was dort auf dem Schild steht?",
+      "Machen Sie bitte das Schild ab? Der Pullover ist ein Geschenk."
+    ]
+  },
+  {
+    "ID": "1556",
+    "word": "mieten",
+    "meaning": "to rent",
+    "examples": [
+      "Wir haben die Wohnung für drei Jahre gemietet",
+      "Im Urlaub haben wir ein Auto gemietet"
+    ]
+  },
+  {
+    "ID": "2673",
+    "word": "warm",
+    "meaning": "warm",
+    "examples": [
+      "Hier ist es sehr warm.",
+      "Abends essen wir oft warm.",
+      "Du musst dich warm anziehen.",
+      "Mittags möchte ich gern ein warmes Essen.",
+      "Für den Winter brauche ich einen warmen Pullover."
+    ]
+  },
+  {
+    "ID": "2270",
+    "word": "stumm",
+    "meaning": "silent",
+    "examples": [
+      "Stell bitte dein Handy leise oder auf stumm."
+    ]
+  },
+  {
+    "ID": "2158",
+    "word": "spätestens",
+    "meaning": "at the latest",
+    "examples": [
+      "Ich muss spätestens um 9 Uhr bei der Arbeit sein."
+    ]
+  },
+  {
+    "ID": "914",
+    "word": "das Gebäude, -",
+    "meaning": "the building",
+    "examples": [
+      "In diesem Gebäude sind nur Büros."
+    ]
+  },
+  {
+    "ID": "1013",
+    "word": "glauben",
+    "meaning": "to believe",
+    "examples": [
+      "Ich glaube der Chef ist heute nicht im Büro",
+      "Er glaubt mir nicht, dass ich schon um 8 Uhr hier war",
+      "Glaubst du an Zufälle?"
+    ]
+  },
+  {
+    "ID": "2717",
+    "word": "der Wert, -e",
+    "meaning": "value",
+    "examples": [
+      "Das Haus hat einen Wert von ca. 1 Mio. Euro.",
+      "Es hat ja doch keinen Wert.",
+      "Auf Ihr Urteil lege ich großen Wert."
+    ]
+  },
+  {
+    "ID": "1005",
+    "word": "das Gewürz, -e",
+    "meaning": "the spice",
+    "examples": [
+      "Von den scharfen Gewürzen bekommt man Durst"
+    ]
+  },
+  {
+    "ID": "795",
+    "word": "festnehmen",
+    "meaning": "to arrest",
+    "examples": [
+      "Die Polizei hat einen Mann festgenommen."
+    ]
+  },
+  {
+    "ID": "834",
+    "word": "folgen",
+    "meaning": "to follow",
+    "examples": [
+      "Es folgen die Nachrichten.",
+      "Folgen Sie der Reiseleiterin."
+    ]
+  },
+  {
+    "ID": "2829",
+    "word": "der Zug, ¨-e",
+    "meaning": "train",
+    "examples": [
+      "Unser Zug hatte 40 Minuten Verspätung.",
+      "Ich fahre gern mit dem Zug."
+    ]
+  },
+  {
+    "ID": "569",
+    "word": "eher",
+    "meaning": "sooner / rather",
+    "examples": [
+      "Ich stehe meist eher auf als mein Mann.",
+      "Michael sieht gerne Serien, ich mag eher Krimis."
+    ]
+  },
+  {
+    "ID": "1901",
+    "word": "die Reihenfolge, -n",
+    "meaning": "the order",
+    "examples": [
+      "Achten Sie auf die Reihenfolge der Inhaltspunkte."
+    ]
+  },
+  {
+    "ID": "1188",
+    "word": "das Instrument, -e",
+    "meaning": "the instrument",
+    "examples": [
+      "Ich spiele Klavier. Spielen Sie auch ein Musikinstrument?"
+    ]
+  },
+  {
+    "ID": "2454",
+    "word": "der Umweltschutz",
+    "meaning": "environmental protection",
+    "examples": [
+      "Das Land muss mehr Geld für Umweltschutz ausgeben."
+    ]
+  },
+  {
+    "ID": "406",
+    "word": "das Blut",
+    "meaning": "the blood",
+    "examples": [
+      "Der Verletzte hat viel Blut verloren."
+    ]
+  },
+  {
+    "ID": "1964",
+    "word": "die Saison, -s",
+    "meaning": "season",
+    "examples": [
+      "Urlaub in den Schulferien ist immer teurer. Das ist die Saison mit den höchsten Preisen."
+    ]
+  },
+  {
+    "ID": "1173",
+    "word": "die Industrie, -n",
+    "meaning": "the industry",
+    "examples": [
+      "In dieser Gegend gibt es viel Industrie"
+    ]
+  },
+  {
+    "ID": "2324",
+    "word": "telefonieren",
+    "meaning": "to telephone",
+    "examples": [
+      "Ich muss kurz telefonieren.",
+      "Mein Mann telefoniert gerade. Können Sie später noch einmal anrufen?"
+    ]
+  },
+  {
+    "ID": "1741",
+    "word": "die Panne, -n",
+    "meaning": "the breakdown",
+    "examples": [
+      "Kurz vor München hatten wir eine Panne mit dem Auto.",
+      "Die Reise war schlecht organisiert – es gab mehrere Pannen."
+    ]
+  },
+  {
+    "ID": "1847",
+    "word": "die Quittung, -en",
+    "meaning": "receipt",
+    "examples": [
+      "Need a receipt?"
+    ]
+  },
+  {
+    "ID": "1905",
+    "word": "der Reis",
+    "meaning": "rice",
+    "examples": [
+      "Eine Portion Huhn mit Reis bitte."
+    ]
+  },
+  {
+    "ID": "1666",
+    "word": "der Nichtraucher, -/die Nichtraucherin, -nen",
+    "meaning": "the non-smoker, male/female",
+    "examples": [
+      "In unserer Familie sind alle Nichtraucher.",
+      "Möchten Sie einen Tisch im Nichtraucherbereich?"
+    ]
+  },
+  {
+    "ID": "1942",
+    "word": "der Roman, -e",
+    "meaning": "novel",
+    "examples": [
+      "Ich lese gern Romane."
+    ]
+  },
+  {
+    "ID": "2408",
+    "word": "die Übung, -en",
+    "meaning": "exercise",
+    "examples": [
+      "Diese Übung war sehr schwer.",
+      "Ich fahre nicht oft Auto. Mir fehlt die Übung."
+    ]
+  },
+  {
+    "ID": "965",
+    "word": "das Gepäck",
+    "meaning": "luggage",
+    "examples": [
+      "Ich habe mein Gepäck am Bahnhof gelassen."
+    ]
+  },
+  {
+    "ID": "1977",
+    "word": "sauer",
+    "meaning": "sour/angry",
+    "examples": [
+      "Die Äpfel sind mir zu sauer.",
+      "Die Milch ist sauer.",
+      "Immer kommst du zu spät. Ich bin wirklich sauer auf dich."
+    ]
+  },
+  {
+    "ID": "2438",
+    "word": "die Uhr, -en",
+    "meaning": "clock",
+    "examples": [
+      "Wie viel Uhr ist es?",
+      "Es ist vier Uhr.",
+      "Um wie viel Uhr müssen wir gehen?",
+      "Meine Uhr ist stehen geblieben."
+    ]
+  },
+  {
+    "ID": "436",
+    "word": "der Bub, -en (A, CH) / der Junge (D)",
+    "meaning": "the boy",
+    "examples": [
+      "In der Schulklasse sind 15 Buben und 10 Mädchen."
+    ]
+  },
+  {
+    "ID": "1550",
+    "word": "messen",
+    "meaning": "to measure",
+    "examples": [
+      "Haben Sie schon Fieber gemessen?",
+      "Ich habe das Zimmer ausgemessen. Es sind genau 20 m²"
+    ]
+  },
+  {
+    "ID": "2621",
+    "word": "völlig",
+    "meaning": "completely",
+    "examples": [
+      "Das halte ich für völlig ausgeschlossen."
+    ]
+  },
+  {
+    "ID": "1594",
+    "word": "der Mond, -e",
+    "meaning": "the moon",
+    "examples": [
+      "Bei Vollmond kann ich nicht schlafen."
+    ]
+  },
+  {
+    "ID": "2068",
+    "word": "die Schwangerschaft, -en",
+    "meaning": "pregnancy",
+    "examples": [
+      "Sie dürfen während der Schwangerschaft nicht rauchen."
+    ]
+  },
+  {
+    "ID": "1354",
+    "word": "der Kranke, -n / die Kranke, -n",
+    "meaning": "the sick person",
+    "examples": [
+      "Kranke brauchen viel Ruhe"
+    ]
+  },
+  {
+    "ID": "2651",
+    "word": "der Vorteil, -e",
+    "meaning": "advantage",
+    "examples": [
+      "Der Vorteil von dieser Wohnung ist, dass sie direkt im Zentrum liegt."
+    ]
+  },
+  {
+    "ID": "1930",
+    "word": "der Richter, -/die Richterin, -nen",
+    "meaning": "the judge",
+    "examples": [
+      "Der Richter hat noch kein Urteil gesprochen."
+    ]
+  },
+  {
+    "ID": "2615",
+    "word": "die Visitenkarte, -n",
+    "meaning": "business card",
+    "examples": [
+      "Darf ich Ihnen meine Visitenkarte geben?"
+    ]
+  },
+  {
+    "ID": "2569",
+    "word": "verpacken",
+    "meaning": "to pack",
+    "examples": [
+      "Hast Du die Pakete gut verpackt?"
+    ]
+  },
+  {
+    "ID": "2205",
+    "word": "stattfinden",
+    "meaning": "to take place",
+    "examples": [
+      "Das Spiel findet auch bei Regen statt."
+    ]
+  },
+  {
+    "ID": "2348",
+    "word": "der Tipp, -s",
+    "meaning": "tip",
+    "examples": [
+      "Kannst du mir einen Tipp geben? Wo finde ich billige Möbel?"
+    ]
+  },
+  {
+    "ID": "1993",
+    "word": "die Scheibe, -n",
+    "meaning": "slice/window pane",
+    "examples": [
+      "Fünf Scheiben Käse bitte.",
+      "Die Scheiben sind ganz schmutzig. Ich muss die Fenster putzen."
+    ]
+  },
+  {
+    "ID": "789",
+    "word": "fertig",
+    "meaning": "finished / ready",
+    "examples": [
+      "Das Essen ist gleich fertig.",
+      "Wenn ich mit der Arbeit fertig bin, gehe ich nach Hause.",
+      "Bist du fertig?",
+      "Das war ein schlimmer Tag. Ich bin total fertig."
+    ]
+  },
+  {
+    "ID": "755",
+    "word": "fair",
+    "meaning": "fair",
+    "examples": [
+      "Ich finde unsere Mannschaft hat sehr fair gespielt."
+    ]
+  },
+  {
+    "ID": "1760",
+    "word": "die Pension, -en",
+    "meaning": "the pension, guesthouse",
+    "examples": [
+      "Im Urlaub haben wir in einer kleinen Pension gewohnt."
+    ]
+  },
+  {
+    "ID": "1801",
+    "word": "die Portion, -en",
+    "meaning": "the portion",
+    "examples": [
+      "Bitte eine große Portion Sahne!"
+    ]
+  },
+  {
+    "ID": "494",
+    "word": "denn",
+    "meaning": "because",
+    "examples": [
+      "Ich lerne jetzt auch Portugiesisch, denn ich möchte nach Südamerika reisen."
+    ]
+  },
+  {
+    "ID": "373",
+    "word": "die Beziehung, -en",
+    "meaning": "the relationship",
+    "examples": [
+      "Wir haben gute Beziehungen zu unseren Nachbarn."
+    ]
+  },
+  {
+    "ID": "950",
+    "word": "die Geldbörse, -n (A) / die Brieftasche; das Portemonnaie/Portmonee (D, CH)",
+    "meaning": "wallet",
+    "examples": [
+      "Ich habe nur Kleingeld in meiner Geldbörse."
+    ]
+  },
+  {
+    "ID": "2490",
+    "word": "unterstützen",
+    "meaning": "to support",
+    "examples": [
+      "Sie unterstützen mich, wo sie nur können."
+    ]
+  },
+  {
+    "ID": "97",
+    "word": "die Anrede, -n",
+    "meaning": "the salutation",
+    "examples": [
+      "Du darfst im Brief die Anrede nicht vergessen."
+    ]
+  },
+  {
+    "ID": "618",
+    "word": "eintreten",
+    "meaning": "to join",
+    "examples": [
+      "Letztes Jahr bin ich in einen Sportverein eingetreten."
+    ]
+  },
+  {
+    "ID": "1624",
+    "word": "nachschlagen",
+    "meaning": "to look up",
+    "examples": [
+      "Ich kenne das Wort nicht. Das musst du im Wörterbuch nachschlagen."
+    ]
+  },
+  {
+    "ID": "2798",
+    "word": "das Zelt, -e",
+    "meaning": "tent",
+    "examples": [
+      "Wir machen Camping-Urlaub und nehmen ein Zelt mit."
+    ]
+  },
+  {
+    "ID": "986",
+    "word": "das Gesetz, -e",
+    "meaning": "law",
+    "examples": [
+      "Das Parlament hat ein neues Gesetz beschlossen."
+    ]
+  },
+  {
+    "ID": "893",
+    "word": "(sich) fürchten",
+    "meaning": "to be afraid",
+    "examples": [
+      "Sie fürchtet sich vor Schlangen."
+    ]
+  },
+  {
+    "ID": "2488",
+    "word": "die Unterschrift, -en",
+    "meaning": "signature",
+    "examples": [
+      "Auf dem Schreiben fehlt die Unterschrift."
+    ]
+  },
+  {
+    "ID": "1786",
+    "word": "das Plakat, -e",
+    "meaning": "the poster",
+    "examples": [
+      "Im Unterricht haben wir ein Plakat gemacht."
+    ]
+  },
+  {
+    "ID": "1125",
+    "word": "der Himmel",
+    "meaning": "the sky",
+    "examples": [
+      "Wir hatten im Urlaub so tolles Wetter. Immer Sonne und blauer Himmel"
+    ]
+  },
+  {
+    "ID": "1547",
+    "word": "merken",
+    "meaning": "to notice; to remember",
+    "examples": [
+      "Ich habe nicht gemerkt, dass es schon so spät ist. Ich muss gehen",
+      "Ich kann mir keine Zahlen merken. Ich vergesse sie sofort wieder"
+    ]
+  },
+  {
+    "ID": "2387",
+    "word": "die Treppe, -n",
+    "meaning": "staircase",
+    "examples": [
+      "Wo ist die Toilette? – Die Treppe hoch und dann links.",
+      "Meine Oma kann nicht gut Treppen steigen."
+    ]
+  },
+  {
+    "ID": "1623",
+    "word": "die Nachricht, -en",
+    "meaning": "the message",
+    "examples": [
+      "Ich habe eine gute Nachricht für Sie. Sie haben die Prüfung bestanden.",
+      "Ich habe im Radio die Nachrichten gehört.",
+      "Im Moment bin ich nicht zu Hause. Aber Sie können eine Nachricht hinterlassen."
+    ]
+  },
+  {
+    "ID": "957",
+    "word": "gemütlich",
+    "meaning": "cozy / comfortable",
+    "examples": [
+      "Wir haben eine sehr gemütliche Wohnung.",
+      "Es ist sehr gemütlich bei dir."
+    ]
+  },
+  {
+    "ID": "1848",
+    "word": "das Quiz",
+    "meaning": "quiz",
+    "examples": [
+      "He won the quiz."
+    ]
+  },
+  {
+    "ID": "1110",
+    "word": "die Herausforderung, -en",
+    "meaning": "the challenge",
+    "examples": [
+      "Das Spiel ist eine Herausforderung"
+    ]
+  },
+  {
+    "ID": "1383",
+    "word": "der Kunde, -n / die Kundin, -nen",
+    "meaning": "the customer",
+    "examples": [
+      "Sie ist schon lange bei mir Kundin. Ich habe ihr einen Sonderpreis gegeben",
+      "Einen Augenblick bitte. Ich habe einen Kunden"
+    ]
+  },
+  {
+    "ID": "1336",
+    "word": "kopieren",
+    "meaning": "to copy",
+    "examples": [
+      "Kann ich mir diesen Artikel kopieren?",
+      "Ich kopiere dir die Datei auf die Speicherkarte",
+      "Ich kann dir die CD kopieren"
+    ]
+  },
+  {
+    "ID": "1250",
+    "word": "die Fahrkarte, -n → Billett (CH)",
+    "meaning": "the ticket",
+    "examples": [
+      "Fahrkarten können Sie am Schalter kaufen"
+    ]
+  }
+]

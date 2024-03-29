@@ -19,13 +19,6 @@
 }
 
 .description a {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.description p {
   position: relative;
   margin: 0;
   padding: 1rem;
@@ -44,14 +37,32 @@
   grid-template-columns: repeat(4, minmax(25%, auto));
   max-width: 100%;
   width: var(--max-width);
+  grid-gap: 10px;
 }
 
 .card {
-  padding: 1rem 1.2rem;
+  padding: 2rem 1.2rem 1rem;
   border-radius: var(--border-radius);
   background: rgba(var(--card-rgb), 0);
   border: 1px solid rgba(var(--card-border-rgb), 0);
   transition: background 200ms, border 200ms;
+  position: relative;
+}
+
+.card.marked {
+  background-color: rgb(251, 185, 64);
+}
+
+.cardTopRight {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  color: #aaa;
+}
+
+.cardTopRight > input[type="checkbox"] {
+  margin-left: 5px;
+  vertical-align: middle;
 }
 
 .card span {
@@ -74,40 +85,17 @@
 
 .center {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   position: relative;
   padding: 4rem 0;
 }
 
-.center::before {
-  background: var(--secondary-glow);
-  border-radius: 50%;
-  width: 480px;
-  height: 360px;
-  margin-left: -400px;
-}
-
-.center::after {
-  background: var(--primary-glow);
-  width: 240px;
-  height: 180px;
-  z-index: -1;
-}
-
-.center::before,
-.center::after {
-  content: "";
-  left: 50%;
-  position: absolute;
-  filter: blur(45px);
-  transform: translateZ(0);
-}
-
 .logo {
   position: relative;
 }
-/* Enable hover only on non-touch devices */
+/* Enable hover effect only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {
     background: rgba(var(--card-rgb), 0.1);
@@ -150,20 +138,11 @@
     padding: 8rem 0 6rem;
   }
 
-  .center::before {
-    transform: none;
-    height: 300px;
-  }
-
   .description {
     font-size: 0.8rem;
   }
 
-  .description a {
-    padding: 1rem;
-  }
-
-  .description p,
+  .description a,
   .description div {
     display: flex;
     justify-content: center;
@@ -171,7 +150,7 @@
     width: 100%;
   }
 
-  .description p {
+  .description a {
     align-items: center;
     inset: 0 0 auto;
     padding: 2rem 1rem 1.4rem;

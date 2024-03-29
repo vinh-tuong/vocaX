@@ -1,0 +1,814 @@
+[
+  {
+    "ID": "907",
+    "word": "die Garantie",
+    "meaning": "the warranty",
+    "examples": [
+      "Auf die Waschmaschine haben Sie ein Jahr Garantie."
+    ]
+  },
+  {
+    "ID": "418",
+    "word": "die Breite, -n",
+    "meaning": "the width",
+    "examples": [
+      "Welche Maße hat der Tisch? – Länge 1 m, Breite 80 cm, Höhe 120 m."
+    ]
+  },
+  {
+    "ID": "372",
+    "word": "bezahlen",
+    "meaning": "to pay",
+    "examples": [
+      "Hast du die Rechnung schon bezahlt?"
+    ]
+  },
+  {
+    "ID": "1063",
+    "word": "hallo",
+    "meaning": "hello",
+    "examples": [
+      "Hallo, wie geht’s? − Danke, gut und dir?"
+    ]
+  },
+  {
+    "ID": "1416",
+    "word": "sich langweilen",
+    "meaning": "to be bored",
+    "examples": [
+      "Langweilst du dich?"
+    ]
+  },
+  {
+    "ID": "577",
+    "word": "eilig",
+    "meaning": "in a hurry",
+    "examples": [
+      "Hast du es eilig?"
+    ]
+  },
+  {
+    "ID": "1373",
+    "word": "kritisch",
+    "meaning": "critical",
+    "examples": [
+      "Es gab eine Diskussion über die Lebensmittelpreise. Ein Journalist"
+    ]
+  },
+  {
+    "ID": "413",
+    "word": "braten",
+    "meaning": "to fry / to roast",
+    "examples": [
+      "Das Fleisch muss zehn Minuten braten.",
+      "Heute gibt’s gebratenen Fisch."
+    ]
+  },
+  {
+    "ID": "212",
+    "word": "aussprechen",
+    "meaning": "to pronounce",
+    "examples": [
+      "Wie spricht man dieses Wort aus?"
+    ]
+  },
+  {
+    "ID": "976",
+    "word": "das Geschenk, -e",
+    "meaning": "gift",
+    "examples": [
+      "Vielen Dank für das Geschenk."
+    ]
+  },
+  {
+    "ID": "886",
+    "word": "der Führerausweis, -e (CH) → Führerschein (A D)",
+    "meaning": "the driving license",
+    "examples": [
+      "Hast du einen Führerausweis?"
+    ]
+  },
+  {
+    "ID": "1058",
+    "word": "die Halbpension",
+    "meaning": "half board",
+    "examples": [
+      "Wir möchten ein Hotel mit Halbpension"
+    ]
+  },
+  {
+    "ID": "736",
+    "word": "etwas",
+    "meaning": "something",
+    "examples": [
+      "Ich muss dir etwas erzählen.",
+      "Haben Sie etwas zum Schreiben?"
+    ]
+  },
+  {
+    "ID": "85",
+    "word": "ängstlich",
+    "meaning": "fearful",
+    "examples": [
+      "Meine Mutter ist etwas ängstlich. Sie geht nicht gern allein auf die Straße."
+    ]
+  },
+  {
+    "ID": "649",
+    "word": "entdecken",
+    "meaning": "to discover",
+    "examples": [
+      "Ich habe in deinem Brief noch ein paar Fehler entdeckt."
+    ]
+  },
+  {
+    "ID": "703",
+    "word": "die Erlaubnis",
+    "meaning": "the permission",
+    "examples": [
+      "Sie hätten ihn vorher um Erlaubnis bitten müssen."
+    ]
+  },
+  {
+    "ID": "654",
+    "word": "entlang",
+    "meaning": "along",
+    "examples": [
+      "Gehen Sie diese Straße entlang. Dann kommen Sie direkt zum Bahnhof."
+    ]
+  },
+  {
+    "ID": "1059",
+    "word": "halbtags",
+    "meaning": "part-time",
+    "examples": [
+      "Ich habe ein kleines Kind und kann nicht acht Stunden am Tag arbeiten. Deshalb möchte ich halbtags arbeiten"
+    ]
+  },
+  {
+    "ID": "765",
+    "word": "die Fantasie",
+    "meaning": "the imagination",
+    "examples": [
+      "Mein Sohn malt sehr gut. Er hat viel Fantasie."
+    ]
+  },
+  {
+    "ID": "361",
+    "word": "betrunken",
+    "meaning": "drunk",
+    "examples": [
+      "Wenn Sie betrunken Auto fahren, verlieren Sie Ihren Führerschein."
+    ]
+  },
+  {
+    "ID": "1231",
+    "word": "der Kalender, -",
+    "meaning": "the calendar",
+    "examples": [
+      "Ich habe den Termin in meinem Kalender notiert",
+      "Haben Sie am Montag Zeit? – Moment, ich muss erst in meinem Terminkalender nachschauen"
+    ]
+  },
+  {
+    "ID": "875",
+    "word": "die Frist, -en",
+    "meaning": "the deadline",
+    "examples": [
+      "Die Frist für die Anmeldung zum Deutschkurs ist abgelaufen."
+    ]
+  },
+  {
+    "ID": "434",
+    "word": "der Bruder, ¨-",
+    "meaning": "the brother",
+    "examples": [
+      "Mein jüngster Bruder geht noch zur Schule."
+    ]
+  },
+  {
+    "ID": "692",
+    "word": "die Erholung, -en",
+    "meaning": "the recreation / relaxation",
+    "examples": [
+      "Ich habe zu viel gearbeitet. Jetzt brauche ich etwas Erholung."
+    ]
+  },
+  {
+    "ID": "746",
+    "word": "die Fähigkeit, -en",
+    "meaning": "the ability / skill",
+    "examples": [
+      "In seiner Position braucht man die Fähigkeit, andere zu überzeugen."
+    ]
+  },
+  {
+    "ID": "1043",
+    "word": "die Gruppe, -n",
+    "meaning": "the group",
+    "examples": [
+      "Für Gruppen gibt es eine Ermäßigung"
+    ]
+  },
+  {
+    "ID": "615",
+    "word": "einsteigen",
+    "meaning": "to board",
+    "examples": [
+      "Ab 20 Uhr vorne beim Fahrer einsteigen.",
+      "Steig ein. Wir wollen losfahren."
+    ]
+  },
+  {
+    "ID": "66",
+    "word": "an",
+    "meaning": "at",
+    "examples": [
+      "Am Anfang war alles sehr schwierig.",
+      "Dann sehen wir uns also am Dienstag.",
+      "Ich warte am Bahnhof auf dich.",
+      "Am besten du gehst zur Information und fragst da.",
+      "Das Licht war die ganze Nacht an."
+    ]
+  },
+  {
+    "ID": "916",
+    "word": "das Gebäck",
+    "meaning": "the pastry",
+    "examples": [
+      "Das Gebäck ist ganz frisch."
+    ]
+  },
+  {
+    "ID": "804",
+    "word": "die Feuerwehr, -en",
+    "meaning": "the fire department",
+    "examples": [
+      "Schnell! Rufen Sie die Feuerwehr! Die Nummer ist 112."
+    ]
+  },
+  {
+    "ID": "542",
+    "word": "der Druck",
+    "meaning": "the pressure",
+    "examples": [
+      "Mit einem Knopfdruck schaltet man das Gerät ein.",
+      "Wie hoch muss der Druck in den vorderen Reifen sein?"
+    ]
+  },
+  {
+    "ID": "400",
+    "word": "blond",
+    "meaning": "blonde",
+    "examples": [
+      "Mein Sohn ist blond.",
+      "Nina hat lange blonde Haare."
+    ]
+  },
+  {
+    "ID": "710",
+    "word": "die Ernährung",
+    "meaning": "the nutrition",
+    "examples": [
+      "Ich finde eine gesunde Ernährung wichtig."
+    ]
+  },
+  {
+    "ID": "1387",
+    "word": "der Künstler, - / die Künstlerin, -nen",
+    "meaning": "the artist",
+    "examples": [
+      "In diesem Stadtteil wohnen viele Künstlerinnen. Neben uns wohnt eine Musikerin"
+    ]
+  },
+  {
+    "ID": "224",
+    "word": "automatisch",
+    "meaning": "automatic",
+    "examples": [
+      "Die Tür schließt automatisch.",
+      "Das Zeugnis bekommen Sie automatisch zugeschickt."
+    ]
+  },
+  {
+    "ID": "53",
+    "word": "alltäglich",
+    "meaning": "everyday",
+    "examples": [
+      "Das alltägliche Leben ist manchmal langweilig.",
+      "Der Roman erzählt eine ganz alltägliche Geschichte."
+    ]
+  },
+  {
+    "ID": "279",
+    "word": "der Beginn",
+    "meaning": "the beginning",
+    "examples": [
+      "Zu Beginn der Stunde begrüßt die Lehrerin ihre Schüler."
+    ]
+  },
+  {
+    "ID": "1401",
+    "word": "der Laden, ¨-",
+    "meaning": "the shop",
+    "examples": [
+      "Dieses Kleid habe ich in einem Laden im Zentrum gekauft",
+      "Ich kaufe meine Zeitung immer beim Zeitungsladen am Eck"
+    ]
+  },
+  {
+    "ID": "1096",
+    "word": "das Heimweh",
+    "meaning": "homesickness",
+    "examples": [
+      "Ich habe oft Heimweh nach meiner Familie"
+    ]
+  },
+  {
+    "ID": "379",
+    "word": "das Billett, -e/-s (D, A) / die Fahrkarte",
+    "meaning": "the ticket",
+    "examples": [
+      "Ein Billett können Sie am Schalter kaufen."
+    ]
+  },
+  {
+    "ID": "551",
+    "word": "dürfen",
+    "meaning": "may / to be allowed to",
+    "examples": [
+      "(hat dürfen als Modalverb)",
+      "Dürfen wir heute länger fernsehen?",
+      "Sie dürfen hier nicht parken."
+    ]
+  },
+  {
+    "ID": "1241",
+    "word": "das Kapitel, -",
+    "meaning": "the chapter",
+    "examples": [
+      "Die Lehrerin hat gesagt, wir sollen zwei Kapitel im Buch wiederholen"
+    ]
+  },
+  {
+    "ID": "780",
+    "word": "der Feierabend",
+    "meaning": "the end of the workday",
+    "examples": [
+      "Einen schönen Feierabend."
+    ]
+  },
+  {
+    "ID": "1055",
+    "word": "hageln",
+    "meaning": "to hail",
+    "examples": [
+      "Bei Gewitter kann es auch hageln"
+    ]
+  },
+  {
+    "ID": "576",
+    "word": "die Eile",
+    "meaning": "the hurry",
+    "examples": [
+      "Ich bin sehr in Eile.",
+      "Das hat keine Eile."
+    ]
+  },
+  {
+    "ID": "1266",
+    "word": "kennenlernen",
+    "meaning": "to get to know",
+    "examples": [
+      "Wo habt ihr euch kennengelernt?",
+      "Ich möchte gern reisen und andere Länder kennenlernen"
+    ]
+  },
+  {
+    "ID": "550",
+    "word": "durchschnittlich",
+    "meaning": "on average",
+    "examples": [
+      "Die Preise sind im letzten Jahr um durchschnittlich 6 % gestiegen."
+    ]
+  },
+  {
+    "ID": "1351",
+    "word": "das Kraftfahrzeug, -e",
+    "meaning": "the motor vehicle",
+    "examples": [
+      "Auf dieser Straße sind Kraftfahrzeuge nicht erlaubt"
+    ]
+  },
+  {
+    "ID": "299",
+    "word": "bekannt geben",
+    "meaning": "to announce",
+    "examples": [
+      "Den Prüfungsort geben wir Ihnen noch rechtzeitig bekannt."
+    ]
+  },
+  {
+    "ID": "567",
+    "word": "die Ehefrau, -en / der Ehemann, ¨-er",
+    "meaning": "the wife / the husband",
+    "examples": [
+      "Wie heißt Ihre Ehefrau mit Vornamen?"
+    ]
+  },
+  {
+    "ID": "1271",
+    "word": "das Kind, -er",
+    "meaning": "the child",
+    "examples": [
+      "Mein Bruder hat zwei Kinder",
+      "Wir haben ein Kind bekommen",
+      "Die Kinder spielen Fußball"
+    ]
+  },
+  {
+    "ID": "842",
+    "word": "das Formular, -e",
+    "meaning": "the form",
+    "examples": [
+      "Füllen Sie bitte dieses Formular aus."
+    ]
+  },
+  {
+    "ID": "302",
+    "word": "beleidigen",
+    "meaning": "to insult",
+    "examples": [
+      "Ich wollte Sie nicht beleidigen.",
+      "Sei doch nicht immer gleich beleidigt."
+    ]
+  },
+  {
+    "ID": "864",
+    "word": "fressen",
+    "meaning": "to eat (used for animals)",
+    "examples": [
+      "Hat der Hund schon etwas zu fressen bekommen?"
+    ]
+  },
+  {
+    "ID": "1086",
+    "word": "die Hausfrau/der Hausmann",
+    "meaning": "the housewife/househusband",
+    "examples": [
+      "Meine Frau ist Hausfrau und kümmert sich um die Kinder",
+      "/Mein Mann ist Hausmann und kümmert sich um die Kinder"
+    ]
+  },
+  {
+    "ID": "1185",
+    "word": "insgesamt",
+    "meaning": "in total",
+    "examples": [
+      "Insgesamt haben sich 20 Teilnehmer für die Prüfung angemeldet"
+    ]
+  },
+  {
+    "ID": "412",
+    "word": "böse",
+    "meaning": "angry / bad",
+    "examples": [
+      "Ich habe das Buch leider vergessen. Hoffentlich bist du mir nicht böse.",
+      "Mach nicht so ein böses Gesicht!",
+      "Ich bin böse auf dich, du bist wieder nicht gekommen!",
+      "Zeig mal! Du hast dich verletzt? Das sieht aber böse aus."
+    ]
+  },
+  {
+    "ID": "1002",
+    "word": "die Gewohnheit, -en",
+    "meaning": "the habit",
+    "examples": [
+      "Er hat die Gewohnheit morgens zuerst die Post zu erledigen",
+      "Aus alter Gewohnheit treffen wir uns jeden Samstagabend"
+    ]
+  },
+  {
+    "ID": "58",
+    "word": "alt",
+    "meaning": "old",
+    "examples": [
+      "Wie alt sind Sie?",
+      "Maria ist eine alte Freundin von mir."
+    ]
+  },
+  {
+    "ID": "1062",
+    "word": "das Hallenbad, ¨-er",
+    "meaning": "the indoor swimming pool",
+    "examples": [
+      "Sie geht jeden Tag zum Schwimmen ins Hallenbad"
+    ]
+  },
+  {
+    "ID": "1221",
+    "word": "die Jugend",
+    "meaning": "youth",
+    "examples": [
+      "In meiner Jugend habe ich mich sehr für Musik interessiert"
+    ]
+  },
+  {
+    "ID": "1407",
+    "word": "die Landschaft, -en",
+    "meaning": "the landscape",
+    "examples": [
+      "Die Landschaft ist sehr hügelig"
+    ]
+  },
+  {
+    "ID": "764",
+    "word": "fangen",
+    "meaning": "to catch",
+    "examples": [
+      "Das Kind hat den Ball gefangen."
+    ]
+  },
+  {
+    "ID": "188",
+    "word": "die Ausgabe, -n",
+    "meaning": "the expenditure",
+    "examples": [
+      "Wie hoch sind Ihre Ausgaben in einem Monat?",
+      "Wo ist die Essensausgabe?",
+      "In welchem Buch hast du das gelesen? In welcher Ausgabe?"
+    ]
+  },
+  {
+    "ID": "312",
+    "word": "die Beratung, -en",
+    "meaning": "the consultation",
+    "examples": [
+      "Beratungen für Familien gibt es jeden Dienstag zwischen 14 und 16 Uhr."
+    ]
+  },
+  {
+    "ID": "784",
+    "word": "die Ferien (Pl.) (CH)",
+    "meaning": "the holidays / vacation",
+    "examples": [
+      "I habe noch drei Tage Ferien.",
+      "Ich suche eine günstige Ferienwohnung."
+    ]
+  },
+  {
+    "ID": "319",
+    "word": "der Bericht, -e",
+    "meaning": "the report",
+    "examples": [
+      "Ich habe gestern einen interessanten Bericht gelesen."
+    ]
+  },
+  {
+    "ID": "13",
+    "word": "abhängig",
+    "meaning": "dependent",
+    "examples": [
+      "Gregor ist finanziell von seinen Eltern abhängig."
+    ]
+  },
+  {
+    "ID": "1264",
+    "word": "der Kellner, - / die Kellnerin, -nen → Ober (D A); Serviceangestellter (CH)",
+    "meaning": "waiter/waitress",
+    "examples": [
+      "I bin Kellnerin von Beruf"
+    ]
+  },
+  {
+    "ID": "490",
+    "word": "dekorieren",
+    "meaning": "to decorate",
+    "examples": [
+      "Hilfst du mir, den Tisch für die Party zu dekorieren?"
+    ]
+  },
+  {
+    "ID": "598",
+    "word": "sich einigen",
+    "meaning": "to agree",
+    "examples": [
+      "Jeder hat einen anderen Vorschlag. Wir können uns leider nicht einigen."
+    ]
+  },
+  {
+    "ID": "895",
+    "word": "der Fußball, ¨-e",
+    "meaning": "the soccer",
+    "examples": [
+      "Spielt ihr gerne Fußball?",
+      "Jonas wünscht sich zu Weihnachten einen neuen Fußball."
+    ]
+  },
+  {
+    "ID": "29",
+    "word": "abstimmen",
+    "meaning": "to vote",
+    "examples": [
+      "Lasst uns über diesen Punkt abstimmen."
+    ]
+  },
+  {
+    "ID": "560",
+    "word": "die e-card (A) / die Versichertenkarte (D)",
+    "meaning": "the health insurance card",
+    "examples": [
+      "Haben Sie Ihre e-card dabei?"
+    ]
+  },
+  {
+    "ID": "1044",
+    "word": "grüßen",
+    "meaning": "to greet",
+    "examples": [
+      "Wer war die Frau, die du eben gegrüßt hast?",
+      "Ich soll Sie von Frau Meier grüßen"
+    ]
+  },
+  {
+    "ID": "541",
+    "word": "drücken",
+    "meaning": "to press",
+    "examples": [
+      "Sie brauchen nur auf den Knopf zu drücken.",
+      "Die neuen Schuhe drücken.",
+      "Wenn du hier drückst, geht die Tür auf."
+    ]
+  },
+  {
+    "ID": "1415",
+    "word": "langweilig",
+    "meaning": "boring",
+    "examples": [
+      "Der Film war sehr langweilig"
+    ]
+  },
+  {
+    "ID": "1108",
+    "word": "her/her-",
+    "meaning": "here, towards here",
+    "examples": [
+      "Wir haben uns lange nicht gesehen. – Ja, das ist wirklich lange her",
+      "Komm her zu mir!"
+    ]
+  },
+  {
+    "ID": "987",
+    "word": "das Gesicht, -er",
+    "meaning": "face",
+    "examples": [
+      "Wasch dir bitte das Gesicht.",
+      "Mach doch kein so trauriges Gesicht!"
+    ]
+  },
+  {
+    "ID": "1405",
+    "word": "das Land, ¨-er",
+    "meaning": "the country; the countryside",
+    "examples": [
+      "Deutschland ist ein schönes Land",
+      "Möchten Sie lieber auf dem Land oder in der Stadt wohnen?",
+      "Wir haben ein Stück Land gekauft und wollen dort bauen",
+      "In welchen Ländern warst du schon?"
+    ]
+  },
+  {
+    "ID": "1235",
+    "word": "kämpfen",
+    "meaning": "to fight",
+    "examples": [
+      "Die Frauen kämpfen für mehr Rechte"
+    ]
+  },
+  {
+    "ID": "833",
+    "word": "die Flüssigkeit, -en",
+    "meaning": "the liquid",
+    "examples": [
+      "Dieses Medikament mit viel Flüssigkeit einnehmen."
+    ]
+  },
+  {
+    "ID": "1302",
+    "word": "klug",
+    "meaning": "smart",
+    "examples": [
+      "Ich halte sie für klug",
+      "Er hat sich in der Diskussion nicht besonders klug verhalten",
+      "Das ist ein kluger Hund"
+    ]
+  },
+  {
+    "ID": "964",
+    "word": "genügen",
+    "meaning": "to suffice / to be enough",
+    "examples": [
+      "Wie viele Zimmer brauchen Sie? – Mir genügt eine 2-Zimmer-Wohnung."
+    ]
+  },
+  {
+    "ID": "82",
+    "word": "der Angehörige, -n / die Angehörige, -n",
+    "meaning": "the relative",
+    "examples": [
+      "Der Arzt darf nur Familienangehörigen Auskunft geben."
+    ]
+  },
+  {
+    "ID": "1111",
+    "word": "der Herd, -e",
+    "meaning": "the stove, the cooker",
+    "examples": [
+      "In der neuen Küche fehlt noch der Herd"
+    ]
+  },
+  {
+    "ID": "3",
+    "word": "die Abbildung, -en",
+    "meaning": "the illustration",
+    "examples": [
+      "Auf der Abbildung sehen Sie, wie man das Gerät einschaltet."
+    ]
+  },
+  {
+    "ID": "1389",
+    "word": "der Kunststoff, -e",
+    "meaning": "plastic",
+    "examples": [
+      "Der Stuhl ist aus Kunststoff"
+    ]
+  },
+  {
+    "ID": "594",
+    "word": "die Einführung, -en",
+    "meaning": "introduction",
+    "examples": [
+      "Leider habe ich die Einführung des Kurses verpasst."
+    ]
+  },
+  {
+    "ID": "1270",
+    "word": "die Kette, -n",
+    "meaning": "the chain, the necklace",
+    "examples": [
+      "Ich habe zum Geburtstag eine goldene Kette bekommen"
+    ]
+  },
+  {
+    "ID": "484",
+    "word": "das Datum, die Daten",
+    "meaning": "the date",
+    "examples": [
+      "Welches Datum haben wir heute?",
+      "Bitte Datum und Unterschrift nicht vergessen."
+    ]
+  },
+  {
+    "ID": "713",
+    "word": "eröffnen",
+    "meaning": "to open",
+    "examples": [
+      "Mein Nachbar hat letzten Monat ein Geschäft eröffnet.",
+      "Ich möchte ein Konto eröffnen."
+    ]
+  },
+  {
+    "ID": "466",
+    "word": "dafür",
+    "meaning": "for it",
+    "examples": [
+      "Meine Schwester interessiert sich für Politik. Ich interessiere mich nicht dafür.",
+      "Ich bin dafür, dass wir möglichst früh losfahren."
+    ]
+  },
+  {
+    "ID": "1484",
+    "word": "löschen",
+    "meaning": "to delete; to extinguish",
+    "examples": [
+      "Du kannst die Datei löschen. Ich brauche sie nicht mehr",
+      "Das Feuer wurde schnell gelöscht"
+    ]
+  },
+  {
+    "ID": "1249",
+    "word": "die Chipkarte, -n",
+    "meaning": "the chip card",
+    "examples": [
+      "Ich habe eine Chipkarte für diesen Automaten"
+    ]
+  },
+  {
+    "ID": "1551",
+    "word": "das Messer, -",
+    "meaning": "knife",
+    "examples": [
+      "Das Messer schneidet nicht gut"
+    ]
+  }
+]

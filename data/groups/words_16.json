@@ -1,0 +1,813 @@
+[
+  {
+    "ID": "1835",
+    "word": "prüfen",
+    "meaning": "to check, to test",
+    "examples": [
+      "Bitte prüfen Sie sofort, ob die Rechnung stimmt."
+    ]
+  },
+  {
+    "ID": "695",
+    "word": "sich erkälten",
+    "meaning": "to catch a cold",
+    "examples": [
+      "Der Junge hat sich beim Baden erkältet."
+    ]
+  },
+  {
+    "ID": "2794",
+    "word": "der Zeitpunkt, -e",
+    "meaning": "point in time",
+    "examples": [
+      "Er ist krank. Das ist kein guter Zeitpunkt für einen Besuch."
+    ]
+  },
+  {
+    "ID": "1463",
+    "word": "das Lied, -er",
+    "meaning": "the song",
+    "examples": [
+      "Zu deinem Geburtstag singen wir dir ein Lied"
+    ]
+  },
+  {
+    "ID": "1928",
+    "word": "das Rezept, -e",
+    "meaning": "the prescription",
+    "examples": [
+      "Diese Schmerztabletten gibt es nur auf Rezept.",
+      "Weißt du ein gutes Rezept für Gemüsesuppe?"
+    ]
+  },
+  {
+    "ID": "1999",
+    "word": "schenken",
+    "meaning": "to give as a gift",
+    "examples": [
+      "Wir wollen dir zum Geburtstag etwas schenken."
+    ]
+  },
+  {
+    "ID": "1669",
+    "word": "niedrig",
+    "meaning": "low",
+    "examples": [
+      "Die Räume hier sind mir zu niedrig.",
+      "Für die Jahreszeit sind die Temperaturen zu niedrig.",
+      "Die Firma zahlt sehr niedrige Löhne."
+    ]
+  },
+  {
+    "ID": "1871",
+    "word": "die Realität, -en",
+    "meaning": "reality",
+    "examples": [
+      "Das gefällt dir nicht? Aber das ist die Realität."
+    ]
+  },
+  {
+    "ID": "664",
+    "word": "entsorgen",
+    "meaning": "to dispose of",
+    "examples": [
+      "Wie kann ich meine alte Kaffeemaschine entsorgen?"
+    ]
+  },
+  {
+    "ID": "2752",
+    "word": "wo",
+    "meaning": "where",
+    "examples": [
+      "Wo waren Sie im Urlaub?",
+      "Wo wohnen Sie?",
+      "Wo ist denn meine Uhr?"
+    ]
+  },
+  {
+    "ID": "849",
+    "word": "fotografieren",
+    "meaning": "to photograph",
+    "examples": [
+      "Ich fotografiere gern."
+    ]
+  },
+  {
+    "ID": "48",
+    "word": "allein",
+    "meaning": "alone",
+    "examples": [
+      "Ich gehe nicht gern allein spazieren.",
+      "Soll ich Ihnen helfen? – Danke, ich schaffe es schon allein.",
+      "Es war sehr teuer, allein das Essen hat schon über 50 Euro gekostet."
+    ]
+  },
+  {
+    "ID": "2250",
+    "word": "die Straßenbahn, -en (D A) → Tram (CH)",
+    "meaning": "tram",
+    "examples": [
+      "Fahren wir mit der Straßenbahn oder der U-Bahn?"
+    ]
+  },
+  {
+    "ID": "1694",
+    "word": "oben",
+    "meaning": "upstairs",
+    "examples": [
+      "Wir wohnen oben im 4. Stock.",
+      "Die Butter liegt im Kühlschrank ganz oben."
+    ]
+  },
+  {
+    "ID": "1818",
+    "word": "privat",
+    "meaning": "private",
+    "examples": [
+      "Hier meine Nummer im Büro und meine private Nummer.",
+      "Über meine Probleme möchte ich nicht sprechen. Das ist privat.",
+      "Ich treffe meine Arbeitskollegen auch privat."
+    ]
+  },
+  {
+    "ID": "2855",
+    "word": "der Zustand, ¨-e",
+    "meaning": "condition",
+    "examples": [
+      "Als wir in die Wohnung eingezogen sind, war sie in sehr schlechtem Zustand."
+    ]
+  },
+  {
+    "ID": "617",
+    "word": "eintragen",
+    "meaning": "to register / to enter",
+    "examples": [
+      "Tragen Sie sich bitte in die Liste ein."
+    ]
+  },
+  {
+    "ID": "2560",
+    "word": "vermeiden",
+    "meaning": "to avoid",
+    "examples": [
+      "Der Arzt sagt, ich soll Stress vermeiden."
+    ]
+  },
+  {
+    "ID": "2854",
+    "word": "zu sein",
+    "meaning": "to be closed",
+    "examples": [
+      "Am Sonntag sind die meisten Läden zu.",
+      "Das Fenster war nicht zu."
+    ]
+  },
+  {
+    "ID": "1969",
+    "word": "salzig",
+    "meaning": "salty",
+    "examples": [
+      "Dieses Essen ist zu salzig für mich."
+    ]
+  },
+  {
+    "ID": "2057",
+    "word": "die Schule, -n",
+    "meaning": "the school",
+    "examples": [
+      "Meine Tochter geht schon in die Schule.",
+      "Nächste Woche fängt die Schule wieder an.",
+      "Die Schule ist gleich hier um die Ecke."
+    ]
+  },
+  {
+    "ID": "447",
+    "word": "der Bürger, - / die Bürgerin, -nen",
+    "meaning": "the citizen",
+    "examples": [
+      "EU-Bürgerinnen und Bürger können überall in Europa arbeiten."
+    ]
+  },
+  {
+    "ID": "1420",
+    "word": "der Laster, -",
+    "meaning": "the truck",
+    "examples": [
+      "Auf der Autobahn waren so viele Laster. Deshalb hat es so lange gedauert"
+    ]
+  },
+  {
+    "ID": "1193",
+    "word": "intensiv",
+    "meaning": "intensive",
+    "examples": [
+      "Ich möchte intensiv Deutsch lernen"
+    ]
+  },
+  {
+    "ID": "4",
+    "word": "das Abenteuer, -",
+    "meaning": "the adventure",
+    "examples": [
+      "Unser Urlaub war ein tolles Abenteuer.",
+      "Die Kinder lieben Abenteuergeschichten."
+    ]
+  },
+  {
+    "ID": "442",
+    "word": "die Büchse, -n (D, CH) / die Dose (A)",
+    "meaning": "the can",
+    "examples": [
+      "Ich habe noch eine Büchse Bohnen."
+    ]
+  },
+  {
+    "ID": "2496",
+    "word": "der Urlaub, -e",
+    "meaning": "vacation",
+    "examples": [
+      "Ich habe noch drei Tage Urlaub."
+    ]
+  },
+  {
+    "ID": "1701",
+    "word": "der (Back-)Ofen, ¨-",
+    "meaning": "the oven",
+    "examples": [
+      "Ich habe gerade eine Pizza gemacht. Sie ist ganz frisch aus dem Ofen."
+    ]
+  },
+  {
+    "ID": "238",
+    "word": "der Balkon, -e",
+    "meaning": "the balcony",
+    "examples": [
+      "Die Wohnung hat auch einen kleinen Balkon."
+    ]
+  },
+  {
+    "ID": "1535",
+    "word": "meinetwegen",
+    "meaning": "for my sake; as far as I'm concerned",
+    "examples": [
+      "Meinetwegen kannst du heute das Auto haben"
+    ]
+  },
+  {
+    "ID": "728",
+    "word": "erziehen",
+    "meaning": "to educate / to bring up",
+    "examples": [
+      "Kinder zu erziehen ist nicht leicht."
+    ]
+  },
+  {
+    "ID": "2374",
+    "word": "die Träne, -n",
+    "meaning": "tear",
+    "examples": [
+      "Sie trocknet dem Kind die Tränen."
+    ]
+  },
+  {
+    "ID": "209",
+    "word": "außer",
+    "meaning": "except",
+    "examples": [
+      "Außer Lisa hat sich niemand um die Stelle beworben.",
+      "Der Aufzug ist außer Betrieb.",
+      "Wir haben täglich außer Samstag geöffnet."
+    ]
+  },
+  {
+    "ID": "1196",
+    "word": "interessant",
+    "meaning": "interesting",
+    "examples": [
+      "Ich habe einen interessanten Bericht gelesen",
+      "Den Artikel über Brasilien finde ich sehr interessant"
+    ]
+  },
+  {
+    "ID": "445",
+    "word": "bunt",
+    "meaning": "colorful",
+    "examples": [
+      "Das bunte Kleid gefällt mir gut."
+    ]
+  },
+  {
+    "ID": "2768",
+    "word": "das Wörterbuch, ¨-er",
+    "meaning": "dictionary",
+    "examples": [
+      "Ich muss das Wort im Wörterbuch nachschlagen."
+    ]
+  },
+  {
+    "ID": "235",
+    "word": "der Bahnhof, ¨-e",
+    "meaning": "the train station",
+    "examples": [
+      "Ich bringe Sie zum Bahnhof."
+    ]
+  },
+  {
+    "ID": "1973",
+    "word": "der Sänger, -/die Sängerin, -nen",
+    "meaning": "the singer",
+    "examples": [
+      "Wie findest du diesen Sänger? − Ich finde seine Stimme toll."
+    ]
+  },
+  {
+    "ID": "1916",
+    "word": "in Rente gehen/sein",
+    "meaning": "to retire",
+    "examples": [
+      "Ich gehe Ende des Jahres in Rente.",
+      "Mein Nachbar ist seit zehn Jahren in Rente."
+    ]
+  },
+  {
+    "ID": "702",
+    "word": "erlauben",
+    "meaning": "to allow",
+    "examples": [
+      "Ich erlaube meinen Kindern nicht so lange fernzusehen.",
+      "Parken ist hier nicht erlaubt."
+    ]
+  },
+  {
+    "ID": "63",
+    "word": "die Ampel, -n",
+    "meaning": "the traffic light",
+    "examples": [
+      "Dort an der Ampel kannst du über die Straße gehen."
+    ]
+  },
+  {
+    "ID": "1536",
+    "word": "die Meinung, -en",
+    "meaning": "opinion",
+    "examples": [
+      "Ich bin der Meinung, dass du recht hast",
+      "Ich habe meine Meinung geändert",
+      "Meiner Meinung nach gibt es hier zu viele Autos"
+    ]
+  },
+  {
+    "ID": "2334",
+    "word": "testen",
+    "meaning": "to test",
+    "examples": [
+      "Testen Sie unsere Angebote kostenlos."
+    ]
+  },
+  {
+    "ID": "1311",
+    "word": "der Koffer, -",
+    "meaning": "the suitcase",
+    "examples": [
+      "Ich habe den Koffer schon gepackt"
+    ]
+  },
+  {
+    "ID": "193",
+    "word": "die Aushilfe, -n",
+    "meaning": "the temporary help",
+    "examples": [
+      "Wir suchen eine freundliche Aushilfe für unser Geschäft."
+    ]
+  },
+  {
+    "ID": "2323",
+    "word": "der Teilnehmer, - / die Teilnehmerin, -nen",
+    "meaning": "participant",
+    "examples": [
+      "Die Teilnehmerinnen aus unserem Kurs kommen aus verschiedenen Ländern."
+    ]
+  },
+  {
+    "ID": "316",
+    "word": "bereits",
+    "meaning": "already",
+    "examples": [
+      "Bitte melde dich bei Frau Kaiser. Sie hat bereits dreimal angerufen."
+    ]
+  },
+  {
+    "ID": "798",
+    "word": "feststellen",
+    "meaning": "to ascertain / to determine",
+    "examples": [
+      "Er hat festgestellt, dass der Absender des Briefes falsch war.",
+      "Der Arzt hat mich untersucht, konnte aber nichts feststellen."
+    ]
+  },
+  {
+    "ID": "1800",
+    "word": "das Portemonnaie/Portmonee, -s",
+    "meaning": "the wallet",
+    "examples": [
+      "Ich habe nur Kleingeld in meinem Portemonnaie."
+    ]
+  },
+  {
+    "ID": "185",
+    "word": "ausfallen",
+    "meaning": "to be cancelled",
+    "examples": [
+      "Nächste Woche fällt der Kurs aus."
+    ]
+  },
+  {
+    "ID": "597",
+    "word": "einig-",
+    "meaning": "some",
+    "examples": [
+      "In diesem Bericht sind einige Fehler.",
+      "Das wird noch einige Zeit dauern."
+    ]
+  },
+  {
+    "ID": "1913",
+    "word": "die Religion, -en",
+    "meaning": "religion",
+    "examples": [
+      "Religion ist für manche Menschen sehr wichtig."
+    ]
+  },
+  {
+    "ID": "2280",
+    "word": "der Supermarkt, ¨-e",
+    "meaning": "supermarket",
+    "examples": [
+      "Donnerstags gehe ich immer in den Supermarkt."
+    ]
+  },
+  {
+    "ID": "69",
+    "word": "der Anbieter, -",
+    "meaning": "the provider",
+    "examples": [
+      "Ist das ein privater Telefonanbieter?"
+    ]
+  },
+  {
+    "ID": "1341",
+    "word": "korrekt",
+    "meaning": "correct",
+    "examples": [
+      "Ich habe die Rechnung geprüft. Alles ist korrekt"
+    ]
+  },
+  {
+    "ID": "2194",
+    "word": "stammen",
+    "meaning": "to originate",
+    "examples": [
+      "Ich stamme aus einer kleinen Stadt an der Donau."
+    ]
+  },
+  {
+    "ID": "337",
+    "word": "besichtigen",
+    "meaning": "to visit",
+    "examples": [
+      "Im Urlaub haben wir Schloss Schönbrunn besichtigt."
+    ]
+  },
+  {
+    "ID": "1",
+    "word": "ab",
+    "meaning": "from",
+    "examples": [
+      "Die Fahrt kostet ab Hamburg 200 Euro.",
+      "Ab nächster Woche bleibt unser Geschäft samstags geschlossen.",
+      "Mein Bruder besucht uns ab und zu."
+    ]
+  },
+  {
+    "ID": "195",
+    "word": "das Ausland",
+    "meaning": "abroad",
+    "examples": [
+      "Wir fahren im Urlaub meistens ins Ausland."
+    ]
+  },
+  {
+    "ID": "156",
+    "word": "die Aufgabe, -n",
+    "meaning": "the task",
+    "examples": [
+      "Hast du deine Hausaufgaben für die Schule schon gemacht?",
+      "Das ist nicht meine Aufgabe."
+    ]
+  },
+  {
+    "ID": "2009",
+    "word": "der Schirm, -e",
+    "meaning": "the umbrella",
+    "examples": [
+      "Es regnet. Hast du einen Schirm dabei?"
+    ]
+  },
+  {
+    "ID": "1418",
+    "word": "der Lärm",
+    "meaning": "the noise",
+    "examples": [
+      "Die Flugzeuge machen einen schrecklichen Lärm"
+    ]
+  },
+  {
+    "ID": "475",
+    "word": "danken",
+    "meaning": "to thank",
+    "examples": [
+      "Ich danke dir für die Einladung."
+    ]
+  },
+  {
+    "ID": "1554",
+    "word": "die Metropole, -n",
+    "meaning": "metropolis",
+    "examples": [
+      "Berlin und Wien sind Metropolen"
+    ]
+  },
+  {
+    "ID": "585",
+    "word": "einerseits",
+    "meaning": "on the one hand",
+    "examples": [
+      "Einerseits möchte ich die Reise gern machen, andererseits ist sie zu teuer."
+    ]
+  },
+  {
+    "ID": "879",
+    "word": "Früchte",
+    "meaning": "fruit",
+    "examples": [
+      "Früchte kaufe ich am liebsten auf dem Markt."
+    ]
+  },
+  {
+    "ID": "1528",
+    "word": "das Meer, -e",
+    "meaning": "sea",
+    "examples": [
+      "Wir machen immer Urlaub am Meer"
+    ]
+  },
+  {
+    "ID": "1382",
+    "word": "sich kümmern",
+    "meaning": "to take care of",
+    "examples": [
+      "Ich kann nicht arbeiten. Ich muss mich um die Kinder kümmern",
+      "Ich habe keine Zeit. Ich muss mich um das Essen kümmern"
+    ]
+  },
+  {
+    "ID": "1660",
+    "word": "neu",
+    "meaning": "new",
+    "examples": [
+      "Mein Wagen ist noch ganz neu.",
+      "Wir haben eine neue Wohnung.",
+      "Man darf hier nicht mehr rauchen? Das ist mir ganz neu."
+    ]
+  },
+  {
+    "ID": "2824",
+    "word": "der Zufall, ¨-e",
+    "meaning": "coincidence",
+    "examples": [
+      "So ein Zufall, dass ich dich hier treffe.",
+      "Durch Zufall habe ich gehört, dass die Wohnung frei ist."
+    ]
+  },
+  {
+    "ID": "2753",
+    "word": "woher",
+    "meaning": "from where",
+    "examples": [
+      "Woher kommst du?",
+      "Unsere Nachbarn ziehen nach Berlin. – Woher wissen Sie das?"
+    ]
+  },
+  {
+    "ID": "2149",
+    "word": "sowieso",
+    "meaning": "anyway",
+    "examples": [
+      "Willst du mir den Brief mitgeben? Ich gehe sowieso zur Post."
+    ]
+  },
+  {
+    "ID": "701",
+    "word": "sich erkundigen",
+    "meaning": "to inquire",
+    "examples": [
+      "Hast du dich schon nach einem Zug erkundigt?",
+      "Ich möchte mich erkundigen, wie es Ihnen geht."
+    ]
+  },
+  {
+    "ID": "170",
+    "word": "der Auftrag, ¨-e",
+    "meaning": "the order",
+    "examples": [
+      "Ich komme im Auftrag von Frau Müller und soll Ihnen diesen Brief geben.",
+      "Im Moment hat die Firma besonders viele Aufträge."
+    ]
+  },
+  {
+    "ID": "454",
+    "word": "die Cafeteria, -s",
+    "meaning": "the cafeteria",
+    "examples": [
+      "Ich hole mir schnell etwas aus der Cafeteria."
+    ]
+  },
+  {
+    "ID": "1238",
+    "word": "der Kandidat, -en",
+    "meaning": "the candidate",
+    "examples": [
+      "Wie viele Kandidaten kommen zur Prüfung?"
+    ]
+  },
+  {
+    "ID": "2605",
+    "word": "verwenden",
+    "meaning": "to use",
+    "examples": [
+      "Dieses Wort wird oft verwendet."
+    ]
+  },
+  {
+    "ID": "2663",
+    "word": "wahr",
+    "meaning": "true",
+    "examples": [
+      "Was ich sage, ist wahr.",
+      "Es ist eine wahre Geschichte.",
+      "Es ist doch schön hier, nicht wahr?"
+    ]
+  },
+  {
+    "ID": "239",
+    "word": "der Ball, ¨-e",
+    "meaning": "the ball",
+    "examples": [
+      "Ich spiele gern mit meinen Kindern Ball."
+    ]
+  },
+  {
+    "ID": "1072",
+    "word": "der Handwerker, -",
+    "meaning": "the craftsman, the tradesman",
+    "examples": [
+      "Morgen sind bei uns die Handwerker. Wir bekommen eine neue Badewanne"
+    ]
+  },
+  {
+    "ID": "2847",
+    "word": "die Zusammenarbeit",
+    "meaning": "cooperation",
+    "examples": [
+      "Sie sind der neue Kollege? Auf gute Zusammenarbeit!"
+    ]
+  },
+  {
+    "ID": "131",
+    "word": "der Arbeiter, - / die Arbeiterin, -nen",
+    "meaning": "the worker",
+    "examples": [
+      "Maria ist seit zwei Jahren Arbeiterin bei Siemens."
+    ]
+  },
+  {
+    "ID": "2842",
+    "word": "zurechtkommen",
+    "meaning": "to manage",
+    "examples": [
+      "Soll ich Ihnen helfen? - Danke. Ich komme allein zurecht."
+    ]
+  },
+  {
+    "ID": "2584",
+    "word": "die Versicherung, -en",
+    "meaning": "insurance",
+    "examples": [
+      "Sie sollten eine Versicherung für Ihr Gepäck abschließen.",
+      "Sie müssen den Unfall der Versicherung melden."
+    ]
+  },
+  {
+    "ID": "449",
+    "word": "die Bürste, -n",
+    "meaning": "the brush",
+    "examples": [
+      "Hast du eine Bürste? Meine Schuhe sind so schmutzig.",
+      "Ich brauche eine Bürste für meine Haare."
+    ]
+  },
+  {
+    "ID": "1710",
+    "word": "ohne",
+    "meaning": "without",
+    "examples": [
+      "Bitte eine Pizza ohne Zwiebeln.",
+      "Ohne Auto ist es schwer zur Arbeit zu kommen.",
+      "Mein Sohn ist einfach mit dem Auto weggefahren ohne mich zu fragen.",
+      "In diesem Haus kann man nichts machen ohne dass die Nachbarn darüber reden."
+    ]
+  },
+  {
+    "ID": "2701",
+    "word": "die Weiterbildung, -en",
+    "meaning": "further education",
+    "examples": [
+      "Ich möchte eine Weiterbildung machen."
+    ]
+  },
+  {
+    "ID": "2512",
+    "word": "verantwortlich",
+    "meaning": "responsible",
+    "examples": [
+      "Sie sind für Ihre Kinder verantwortlich."
+    ]
+  },
+  {
+    "ID": "1444",
+    "word": "leise",
+    "meaning": "quiet",
+    "examples": [
+      "Seid leise. Die anderen schlafen schon",
+      "Könntest du das Radio bitte etwas leiser stellen?"
+    ]
+  },
+  {
+    "ID": "1107",
+    "word": "das Hend(e)l, - (A) → Hähnchen/Hühnchen (D); Poulet (CH)",
+    "meaning": "chicken",
+    "examples": [
+      "Zum Mittagessen gibt es Hendl mit Reis"
+    ]
+  },
+  {
+    "ID": "1226",
+    "word": "das Kabel, -",
+    "meaning": "the cable",
+    "examples": [
+      "Wo ist das Kabel für das Aufnahmegerät?",
+      "Mit Kabel bekommen Sie über 30 Fernsehkanäle"
+    ]
+  },
+  {
+    "ID": "820",
+    "word": "flexibel",
+    "meaning": "flexible",
+    "examples": [
+      "Meine Arbeitszeit ist flexibel."
+    ]
+  },
+  {
+    "ID": "734",
+    "word": "die Etage, -n",
+    "meaning": "the floor (of a building)",
+    "examples": [
+      "Das Büro ist in der 3. Etage, Zimmer 305."
+    ]
+  },
+  {
+    "ID": "2192",
+    "word": "städtisch",
+    "meaning": "municipal",
+    "examples": [
+      "Ich gehe gern in die städtische Bibliothek."
+    ]
+  },
+  {
+    "ID": "19",
+    "word": "abmachen",
+    "meaning": "to agree",
+    "examples": [
+      "Wir hatten doch abgemacht, dass du die Getränke besorgst."
+    ]
+  },
+  {
+    "ID": "2773",
+    "word": "sich wundern",
+    "meaning": "to be surprised",
+    "examples": [
+      "Es hat mich gewundert, dass das Essen hier so günstig ist.",
+      "Ich wundere mich, dass du schon so früh aus der Schule kommst. Was ist los?"
+    ]
+  }
+]

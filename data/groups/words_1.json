@@ -1,0 +1,819 @@
+[
+  {
+    "ID": "1252",
+    "word": "der Käse",
+    "meaning": "the cheese",
+    "examples": [
+      "Möchtest du Käse aufs Brot?"
+    ]
+  },
+  {
+    "ID": "787",
+    "word": "das Fernsehen",
+    "meaning": "the television",
+    "examples": [
+      "Was gibt es heute Abend im Fernsehen?"
+    ]
+  },
+  {
+    "ID": "105",
+    "word": "anschnallen",
+    "meaning": "to fasten",
+    "examples": [
+      "Vergiss nicht, dich anzuschnallen."
+    ]
+  },
+  {
+    "ID": "778",
+    "word": "feiern",
+    "meaning": "to celebrate",
+    "examples": [
+      "Wir haben gestern Karls Geburtstag gefeiert."
+    ]
+  },
+  {
+    "ID": "192",
+    "word": "ausgezeichnet",
+    "meaning": "excellent",
+    "examples": [
+      "Essen und Unterkunft waren ausgezeichnet."
+    ]
+  },
+  {
+    "ID": "599",
+    "word": "einkaufen",
+    "meaning": "to shop",
+    "examples": [
+      "Wir gehen einmal pro Woche einkaufen."
+    ]
+  },
+  {
+    "ID": "592",
+    "word": "einfügen",
+    "meaning": "to insert",
+    "examples": [
+      "Markieren Sie zuerst die Zeilen, dann „kopieren“ drücken und dann einfügen."
+    ]
+  },
+  {
+    "ID": "2051",
+    "word": "der Schritt, -e",
+    "meaning": "the step",
+    "examples": [
+      "Die Sprachschule ist nur ein paar Schritte von hier.",
+      "Du musst der Anleitung Schritt für Schritt folgen."
+    ]
+  },
+  {
+    "ID": "865",
+    "word": "sich freuen",
+    "meaning": "to be happy / to look forward to",
+    "examples": [
+      "Es freut mich, dass alles so gut geklappt hat.",
+      "Ich habe mich über Ihr Geschenk sehr gefreut.",
+      "Ich freue mich schon auf meinen nächsten Urlaub."
+    ]
+  },
+  {
+    "ID": "196",
+    "word": "der Ausländer, - / die Ausländerin, -nen",
+    "meaning": "the foreigner",
+    "examples": [
+      "Viele Ausländer und Ausländerinnen lernen in der Volkshochschule Deutsch. Die ausländischen Studenten müssen zuerst einen Deutschkurs besuchen."
+    ]
+  },
+  {
+    "ID": "925",
+    "word": "das Gedicht, -e",
+    "meaning": "the poem",
+    "examples": [
+      "Kennst du ein schönes Gedicht?"
+    ]
+  },
+  {
+    "ID": "25",
+    "word": "der Abschnitt, -e",
+    "meaning": "the section",
+    "examples": [
+      "Lesen Sie bitte den zweiten Abschnitt."
+    ]
+  },
+  {
+    "ID": "767",
+    "word": "die Farbe, -n",
+    "meaning": "the color",
+    "examples": [
+      "Welche Farbe magst du am liebsten?"
+    ]
+  },
+  {
+    "ID": "1038",
+    "word": "die Größe, -n",
+    "meaning": "size",
+    "examples": [
+      "Welche Größe haben Sie? Größe 170 cm",
+      "Haben Sie das Hemd auch in Größe 40?"
+    ]
+  },
+  {
+    "ID": "187",
+    "word": "ausfüllen",
+    "meaning": "to fill out",
+    "examples": [
+      "Füllen Sie bitte dieses Formular aus!"
+    ]
+  },
+  {
+    "ID": "989",
+    "word": "das Gespräch, -e",
+    "meaning": "the conversation",
+    "examples": [
+      "Herr Müller ist gerade in einem Gespräch",
+      "Ich erwarte ein Gespräch aus Berlin"
+    ]
+  },
+  {
+    "ID": "726",
+    "word": "erzählen",
+    "meaning": "to tell",
+    "examples": [
+      "Mein Mann hat mir schon viel von Ihnen erzählt.",
+      "Ich muss meinen Kindern abends immer eine Geschichte erzählen."
+    ]
+  },
+  {
+    "ID": "930",
+    "word": "gefährlich",
+    "meaning": "dangerous",
+    "examples": [
+      "Achtung, hier ist eine gefährliche Kurve!",
+      "Du darfst nicht bei Rot über die Straße gehen. Das ist gefährlich."
+    ]
+  },
+  {
+    "ID": "75",
+    "word": "anders",
+    "meaning": "different",
+    "examples": [
+      "Anders geht das leider nicht.",
+      "Oliver ist anders als seine Freunde.",
+      "Ich würde das anders machen."
+    ]
+  },
+  {
+    "ID": "882",
+    "word": "frühstücken",
+    "meaning": "to have breakfast",
+    "examples": [
+      "Haben Sie schon gefrühstückt?"
+    ]
+  },
+  {
+    "ID": "612",
+    "word": "einschließlich",
+    "meaning": "including",
+    "examples": [
+      "Alles zusammen kostet 200 Euro, einschließlich Fahrtkosten."
+    ]
+  },
+  {
+    "ID": "471",
+    "word": "die Dame, -n",
+    "meaning": "the lady",
+    "examples": [
+      "Sie ist eine nette alte Dame.",
+      "Meine Damen und Herren!"
+    ]
+  },
+  {
+    "ID": "186",
+    "word": "der Ausflug, ¨-e",
+    "meaning": "the excursion",
+    "examples": [
+      "Am Wochenende machen wir mit Freunden einen Ausflug nach Heidelberg."
+    ]
+  },
+  {
+    "ID": "210",
+    "word": "außerdem",
+    "meaning": "besides",
+    "examples": [
+      "Möchten Sie außerdem noch etwas?",
+      "Der Film war langweilig und außerdem haben die Schauspieler schlecht gespielt."
+    ]
+  },
+  {
+    "ID": "78",
+    "word": "der Anfang, ¨-e",
+    "meaning": "the beginning",
+    "examples": [
+      "Wie war der Film? – Ich habe nur den Anfang gesehen.",
+      "Am Anfang habe ich bei der Arbeit viele Fragen gestellt.",
+      "Mein Chef ist Anfang fünfzig.",
+      "Meine Mutter war von Anfang an dagegen, dass ich nach Berlin ziehe.",
+      "Wir machen Anfang Juli Ferien.",
+      "Meine Freundin wohnt am Anfang der Straße."
+    ]
+  },
+  {
+    "ID": "375",
+    "word": "das Bier",
+    "meaning": "the beer",
+    "examples": [
+      "Ein Bier, bitte!"
+    ]
+  },
+  {
+    "ID": "272",
+    "word": "beenden",
+    "meaning": "to finish",
+    "examples": [
+      "Du musst deine Ausbildung auf jeden Fall beenden."
+    ]
+  },
+  {
+    "ID": "771",
+    "word": "fassen",
+    "meaning": "to grasp",
+    "examples": [
+      "Sie haben den Dieb gefasst.",
+      "Ich habe den Entschluss gefasst, nach Wien zu ziehen."
+    ]
+  },
+  {
+    "ID": "225",
+    "word": "der Autor, -en / die Autorin, -nen",
+    "meaning": "the author",
+    "examples": [
+      "Diese Autorin hat in diesem Jahr schon zwei Bücher geschrieben."
+    ]
+  },
+  {
+    "ID": "16",
+    "word": "abschreiben",
+    "meaning": "to copy",
+    "examples": [
+      "Er hat die Hausaufgaben von mir abgeschrieben."
+    ]
+  },
+  {
+    "ID": "926",
+    "word": "die Geduld",
+    "meaning": "patience",
+    "examples": [
+      "Bitte haben Sie etwas Geduld."
+    ]
+  },
+  {
+    "ID": "342",
+    "word": "besprechen",
+    "meaning": "to discuss",
+    "examples": [
+      "Wir müssen noch genau besprechen, wann wir losfahren und was wir mitnehmen."
+    ]
+  },
+  {
+    "ID": "663",
+    "word": "die Entschuldigung, -en",
+    "meaning": "the apology",
+    "examples": [
+      "Oh, Entschuldigung! – Macht nichts. Kein Problem."
+    ]
+  },
+  {
+    "ID": "889",
+    "word": "das Fundbüro, -s",
+    "meaning": "the lost property office",
+    "examples": [
+      "Sie haben Ihren Schirm verloren. Da fragen Sie am besten im Fundbüro."
+    ]
+  },
+  {
+    "ID": "751",
+    "word": "die Fahrkarte, -n",
+    "meaning": "the ticket",
+    "examples": [
+      "Fahrkarten bekommt man am Automaten."
+    ]
+  },
+  {
+    "ID": "883",
+    "word": "das Frühstück, -",
+    "meaning": "breakfast",
+    "examples": [
+      "Wir sitzen gerade beim Frühstück.",
+      "Sollen wir Ihnen das Frühstück aufs Zimmer bringen?"
+    ]
+  },
+  {
+    "ID": "8",
+    "word": "der Abfall, ¨-e",
+    "meaning": "the waste",
+    "examples": [
+      "Werfen Sie den Bioabfall bitte nicht zum normalen Müll."
+    ]
+  },
+  {
+    "ID": "670",
+    "word": "entwickeln",
+    "meaning": "to develop",
+    "examples": [
+      "Unser Sohn entwickelt sich gut in der Schule.",
+      "Die Firma hat ein neues Produkt entwickelt."
+    ]
+  },
+  {
+    "ID": "862",
+    "word": "freiwillig",
+    "meaning": "voluntary",
+    "examples": [
+      "Manchmal bleibe ich freiwillig länger im Büro."
+    ]
+  },
+  {
+    "ID": "752",
+    "word": "der Fahrplan, ¨-e",
+    "meaning": "the schedule",
+    "examples": [
+      "Der Fahrplan hat sich geändert."
+    ]
+  },
+  {
+    "ID": "863",
+    "word": "fremd",
+    "meaning": "strange / foreign",
+    "examples": [
+      "Ich reise gern in fremde Länder.",
+      "Ich bin fremd hier."
+    ]
+  },
+  {
+    "ID": "944",
+    "word": "geheim",
+    "meaning": "secret",
+    "examples": [
+      "Das ist geheim. Du darfst es niemandem sagen."
+    ]
+  },
+  {
+    "ID": "941",
+    "word": "gegenüber",
+    "meaning": "opposite",
+    "examples": [
+      "Das Geschäft liegt direkt gegenüber der Post.",
+      "Dem Gast gegenüber ist das Rauchen nicht höflich.",
+      "Das Café liegt gegenüber vom Bahnhof."
+    ]
+  },
+  {
+    "ID": "610",
+    "word": "einsam",
+    "meaning": "lonely",
+    "examples": [
+      "Ohne meine Familie fühle ich mich ein bisschen einsam."
+    ]
+  },
+  {
+    "ID": "14",
+    "word": "abheben",
+    "meaning": "to withdraw",
+    "examples": [
+      "Für die Reise habe ich 500 Euro von meinem Konto abgehoben."
+    ]
+  },
+  {
+    "ID": "315",
+    "word": "bereit",
+    "meaning": "ready",
+    "examples": [
+      "Ich bin jederzeit bereit, dir zu helfen.",
+      "Das Paket liegt auf der Post für Sie bereit."
+    ]
+  },
+  {
+    "ID": "774",
+    "word": "faulenzen",
+    "meaning": "to laze around",
+    "examples": [
+      "Am Wochenende können wir faulenzen."
+    ]
+  },
+  {
+    "ID": "901",
+    "word": "die Galerie, -n",
+    "meaning": "the gallery",
+    "examples": [
+      "Diese Galerie ist sehr interessant."
+    ]
+  },
+  {
+    "ID": "625",
+    "word": "Einzel-",
+    "meaning": "single",
+    "examples": [
+      "z. B. Einzelkind, Einzelzimmer"
+    ]
+  },
+  {
+    "ID": "404",
+    "word": "die Bluse, -n",
+    "meaning": "the blouse",
+    "examples": [
+      "Ich hätte gerne eine weiße Bluse."
+    ]
+  },
+  {
+    "ID": "773",
+    "word": "faul",
+    "meaning": "lazy",
+    "examples": [
+      "Mein Sohn war am Anfang in der Schule sehr faul. Heute lernt er sehr fleißig."
+    ]
+  },
+  {
+    "ID": "222",
+    "word": "die Autobahn, -en",
+    "meaning": "the highway",
+    "examples": [
+      "Das Dorf liegt direkt an der Autobahn."
+    ]
+  },
+  {
+    "ID": "431",
+    "word": "das Brot, -e",
+    "meaning": "the bread",
+    "examples": [
+      "Brot kaufe ich immer beim Bäcker, nicht im Supermarkt.",
+      "Was möchtest du aufs Brot haben?",
+      "Nimm noch ein paar belegte Brote für die Fahrt mit."
+    ]
+  },
+  {
+    "ID": "904",
+    "word": "gar",
+    "meaning": "not at all / entirely",
+    "examples": [
+      "Die Kartoffeln sind noch nicht gar.",
+      "Du räumst nie dein Zimmer auf. – Das ist gar nicht wahr."
+    ]
+  },
+  {
+    "ID": "633",
+    "word": "elektrisch",
+    "meaning": "electric",
+    "examples": [
+      "Wir kochen nicht mit Gas, sondern elektrisch."
+    ]
+  },
+  {
+    "ID": "912",
+    "word": "das Gasthaus, ¨-er (A)",
+    "meaning": "the inn",
+    "examples": [
+      "Gehen wir noch in ein Gasthaus, ein Bier trinken?"
+    ]
+  },
+  {
+    "ID": "793",
+    "word": "festhalten",
+    "meaning": "to hold on",
+    "examples": [
+      "Halt dich gut fest!",
+      "Halt die Flasche gut fest."
+    ]
+  },
+  {
+    "ID": "759",
+    "word": "fällig",
+    "meaning": "due",
+    "examples": [
+      "Die Rechnung ist Ende des Monats fällig."
+    ]
+  },
+  {
+    "ID": "792",
+    "word": "die Festplatte, -n",
+    "meaning": "the hard drive",
+    "examples": [
+      "Mein Computer hat eine große Festplatte."
+    ]
+  },
+  {
+    "ID": "55",
+    "word": "als",
+    "meaning": "when",
+    "examples": [
+      "Als mein Mann kam, war die Party schon zu Ende.",
+      "Sie können sich sowohl persönlich als auch im Internet anmelden.",
+      "Meine Schwester ist älter als ich.",
+      "Es ist später als ich dachte."
+    ]
+  },
+  {
+    "ID": "590",
+    "word": "der Einfluss, ¨-e",
+    "meaning": "the influence",
+    "examples": [
+      "Das Wetter hat Einfluss auf die Gesundheit der Menschen."
+    ]
+  },
+  {
+    "ID": "682",
+    "word": "erfolgreich",
+    "meaning": "successful",
+    "examples": [
+      "Mein Großvater war ein erfolgreicher Geschäftsmann."
+    ]
+  },
+  {
+    "ID": "307",
+    "word": "benutzen",
+    "meaning": "to use",
+    "examples": [
+      "Benutzen Sie bitte die öffentlichen Verkehrsmittel."
+    ]
+  },
+  {
+    "ID": "924",
+    "word": "der Geburtstag, -e",
+    "meaning": "the birthday",
+    "examples": [
+      "Herzlichen Glückwunsch zum Geburtstag!"
+    ]
+  },
+  {
+    "ID": "641",
+    "word": "die Empfehlung, -en",
+    "meaning": "recommendation",
+    "examples": [
+      "Ich rufe auf Empfehlung von Herrn Weber an."
+    ]
+  },
+  {
+    "ID": "762",
+    "word": "die Familie, -n",
+    "meaning": "the family",
+    "examples": [
+      "Ich habe eine große Familie."
+    ]
+  },
+  {
+    "ID": "932",
+    "word": "sich etwas gefallen lassen",
+    "meaning": "to put up with something",
+    "examples": [
+      "Das würde ich mir nicht gefallen lassen."
+    ]
+  },
+  {
+    "ID": "420",
+    "word": "die Bremse, -n",
+    "meaning": "the brake",
+    "examples": [
+      "Du musst unbedingt die Bremsen kontrollieren lassen."
+    ]
+  },
+  {
+    "ID": "214",
+    "word": "ausstellen",
+    "meaning": "to exhibit",
+    "examples": [
+      "Im Schaufenster sind Winterschuhe ausgestellt.",
+      "Das Zeugnis wird bis nächste Woche ausgestellt."
+    ]
+  },
+  {
+    "ID": "913",
+    "word": "die Gaststätte, -n (D)",
+    "meaning": "the pub / restaurant",
+    "examples": [
+      "Ich arbeite seit einem Monat in einer Gaststätte."
+    ]
+  },
+  {
+    "ID": "790",
+    "word": "fest",
+    "meaning": "firm / solid",
+    "examples": [
+      "Mein Kollege glaubt fest daran, dass er die neue Stelle bekommt.",
+      "Als wir nach Hause kamen, haben die Kinder schon fest geschlafen.",
+      "Für die nächste Familienfeier gibt es noch keinen festen Termin."
+    ]
+  },
+  {
+    "ID": "699",
+    "word": "erklären",
+    "meaning": "to explain",
+    "examples": [
+      "Kannst du mir erklären, wie man diesen Apparat bedient?"
+    ]
+  },
+  {
+    "ID": "274",
+    "word": "befreit",
+    "meaning": "exempt",
+    "examples": [
+      "Studenten und Studentinnen sind von den Rundfunk-Gebühren befreit."
+    ]
+  },
+  {
+    "ID": "731",
+    "word": "essen",
+    "meaning": "to eat",
+    "examples": [
+      "Haben Sie schon zu Mittag gegessen?",
+      "Ich esse gern Bananen."
+    ]
+  },
+  {
+    "ID": "934",
+    "word": "das Gefühl, -e",
+    "meaning": "feeling",
+    "examples": [
+      "Ich glaube, ich schaffe die Prüfung. Ich habe ein gutes Gefühl."
+    ]
+  },
+  {
+    "ID": "776",
+    "word": "fehlen",
+    "meaning": "to be missing",
+    "examples": [
+      "Mir fehlt ein Euro.",
+      "Was fehlt Ihnen? Haben Sie Schmerzen?"
+    ]
+  },
+  {
+    "ID": "31",
+    "word": "der Abwart, -e / die Abwartin, -nen (CH), der Hausmeister (D, A)",
+    "meaning": "the caretaker",
+    "examples": [
+      "Der Abwart hat mir geholfen, den Schrank in die Wohnung zu tragen."
+    ]
+  },
+  {
+    "ID": "891",
+    "word": "für",
+    "meaning": "for",
+    "examples": [
+      "Ist Post für mich da?",
+      "Ich habe die Schlüssel für meine Wohnung verloren.",
+      "Gibt es hier einen Sportverein für Jugendlich?",
+      "Diese alten Möbel haben wir für 100 Euro bekommen.",
+      "Für einen Anfänger spielt er schon sehr gut Klavier.",
+      "Du kannst nicht einkaufen gehen? Ich kann es für dich machen.",
+      "Für mich ist das ein schwerer Fehler.",
+      "Wir haben die Wohnung für ein Jahr gemietet."
+    ]
+  },
+  {
+    "ID": "779",
+    "word": "die Feier, -n",
+    "meaning": "the celebration",
+    "examples": [
+      "Es war eine schöne Feier."
+    ]
+  },
+  {
+    "ID": "87",
+    "word": "anklicken",
+    "meaning": "to click",
+    "examples": [
+      "Du musst das Bild anklicken. Dann wird es größer."
+    ]
+  },
+  {
+    "ID": "650",
+    "word": "entfernen",
+    "meaning": "to remove",
+    "examples": [
+      "Der Müll muss dringend entfernt werden.",
+      "Das Hotel liegt etwa 100 m vom Strand entfernt."
+    ]
+  },
+  {
+    "ID": "421",
+    "word": "brennen",
+    "meaning": "to burn",
+    "examples": [
+      "In diesem Haus hat es letztes Jahr gebrannt.",
+      "Die Kerze brennt noch. Mach sie bitte aus.",
+      "In deinem Zimmer hat die ganze Nacht das Licht gebrannt."
+    ]
+  },
+  {
+    "ID": "374",
+    "word": "die Bibliothek, -en",
+    "meaning": "the library",
+    "examples": [
+      "Die Stadtbibliothek hat bereits geschlossen."
+    ]
+  },
+  {
+    "ID": "59",
+    "word": "das Alter, -",
+    "meaning": "the age",
+    "examples": [
+      "Wir sind etwa im gleichen Alter.",
+      "Alter",
+      "26 Jahre"
+    ]
+  },
+  {
+    "ID": "859",
+    "word": "im Freien",
+    "meaning": "outdoors",
+    "examples": [
+      "Wir wollen heute im Freien übernachten."
+    ]
+  },
+  {
+    "ID": "955",
+    "word": "die Gemeinschaft, -en",
+    "meaning": "community",
+    "examples": [
+      "Rauchen ist in den Gemeinschaftsräumen nicht erlaubt."
+    ]
+  },
+  {
+    "ID": "988",
+    "word": "gespannt",
+    "meaning": "curious",
+    "examples": [
+      "Ich bin gespannt wer bei diesem Spiel gewinnt"
+    ]
+  },
+  {
+    "ID": "292",
+    "word": "das Bein, -e",
+    "meaning": "the leg",
+    "examples": [
+      "Andreas hat sich das Bein gebrochen."
+    ]
+  },
+  {
+    "ID": "737",
+    "word": "eventuell",
+    "meaning": "possibly",
+    "examples": [
+      "Ich komme eventuell etwas später."
+    ]
+  },
+  {
+    "ID": "769",
+    "word": "das Faschierte (A) / das Hackfleisch (D, CH)",
+    "meaning": "the ground meat",
+    "examples": [
+      "Geben Sie mir bitte 500 g Faschiertes/Hackfleisch."
+    ]
+  },
+  {
+    "ID": "874",
+    "word": "die Frisur, -en",
+    "meaning": "the hairstyle",
+    "examples": [
+      "Du hast eine tolle Frisur! Warst du beim Friseur?"
+    ]
+  },
+  {
+    "ID": "297",
+    "word": "bekannt",
+    "meaning": "known",
+    "examples": [
+      "Ein Onkel von mir ist ein bekannter Politiker.",
+      "Dieses Lied ist sehr bekannt."
+    ]
+  },
+  {
+    "ID": "898",
+    "word": "die Fußgängerzone, -n",
+    "meaning": "the pedestrian zone",
+    "examples": [
+      "Wir treffen uns um 15 Uhr in der Fußgängerzone."
+    ]
+  },
+  {
+    "ID": "383",
+    "word": "bio(logisch)",
+    "meaning": "organic",
+    "examples": [
+      "Biologische Lebensmittel gibt es jetzt auch im Supermarkt."
+    ]
+  },
+  {
+    "ID": "281",
+    "word": "begrenzt",
+    "meaning": "limited",
+    "examples": [
+      "Die Teilnehmerzahl ist auf 12 begrenzt."
+    ]
+  },
+  {
+    "ID": "971",
+    "word": "gering",
+    "meaning": "small / low",
+    "examples": [
+      "Unsere Mannschaft hatte nur eine geringe Chance.",
+      "Wenn Sie ein geringes Einkommen haben, zahlen Sie nur wenig Steuern."
+    ]
+  }
+]

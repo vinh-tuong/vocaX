@@ -1,0 +1,841 @@
+[
+  {
+    "ID": "184",
+    "word": "die Ausfahrt, -en",
+    "meaning": "the exit",
+    "examples": [
+      "Hier ist eine Ausfahrt, da dürfen Sie nicht parken.",
+      "Wie weit ist es noch bis zur Ausfahrt Freiburg?"
+    ]
+  },
+  {
+    "ID": "2510",
+    "word": "verändern",
+    "meaning": "to change",
+    "examples": [
+      "Das geht so nicht. Wir müssen die Organisation verändern.",
+      "Wir haben uns lange nicht gesehen. Aber du hast dich gar nicht verändert."
+    ]
+  },
+  {
+    "ID": "2221",
+    "word": "der Stempel, -",
+    "meaning": "stamp",
+    "examples": [
+      "Der Poststempel trägt das Datum von letzter Woche. Das Paket war lange unterwegs."
+    ]
+  },
+  {
+    "ID": "2380",
+    "word": "traurig",
+    "meaning": "sad",
+    "examples": [
+      "Ich bin traurig. Ich darf nicht mitfahren.",
+      "Das war ein sehr trauriger Film."
+    ]
+  },
+  {
+    "ID": "219",
+    "word": "der Ausweis, -e",
+    "meaning": "the ID",
+    "examples": [
+      "Darf ich mal Ihren Ausweis sehen?"
+    ]
+  },
+  {
+    "ID": "1392",
+    "word": "die Kurve, -n",
+    "meaning": "the curve",
+    "examples": [
+      "Fahr bitte nicht so schnell in die Kurven",
+      "Achtung. Das Stauende ist gleich hinter einer Kurve"
+    ]
+  },
+  {
+    "ID": "2298",
+    "word": "die Tasche, -n",
+    "meaning": "bag",
+    "examples": [
+      "Ich habe nicht viel Gepäck, nur eine Tasche.",
+      "Meine Jacke hat keine Taschen."
+    ]
+  },
+  {
+    "ID": "845",
+    "word": "der Fortschritt, -e",
+    "meaning": "the progress",
+    "examples": [
+      "Ich habe beim Deutschlernen große Fortschritte gemacht."
+    ]
+  },
+  {
+    "ID": "2282",
+    "word": "süß",
+    "meaning": "sweet",
+    "examples": [
+      "Ich esse gern süße Sachen.",
+      "Das ist aber ein süßes Baby!"
+    ]
+  },
+  {
+    "ID": "39",
+    "word": "die Ahnung, -",
+    "meaning": "the idea",
+    "examples": [
+      "Ich hatte keine Ahnung, dass du heute Geburtstag hast."
+    ]
+  },
+  {
+    "ID": "321",
+    "word": "beruflich",
+    "meaning": "professionally",
+    "examples": [
+      "Was machen Sie beruflich?"
+    ]
+  },
+  {
+    "ID": "1365",
+    "word": "die Kreuzung, -en",
+    "meaning": "the intersection",
+    "examples": [
+      "Fahren Sie an der nächsten Kreuzung rechts"
+    ]
+  },
+  {
+    "ID": "2292",
+    "word": "das Talent, -e",
+    "meaning": "talent",
+    "examples": [
+      "Sie hat großes Talent für Musik."
+    ]
+  },
+  {
+    "ID": "1118",
+    "word": "(herunter-)fahren",
+    "meaning": "to shut down, to go down",
+    "examples": [
+      "fährt herunter fuhr herunter hat heruntergefahren",
+      "Zum Schluss musst du den Computer herunterfahren"
+    ]
+  },
+  {
+    "ID": "611",
+    "word": "einschalten",
+    "meaning": "to switch on",
+    "examples": [
+      "Können Sie bitte die Heizung einschalten?"
+    ]
+  },
+  {
+    "ID": "2446",
+    "word": "umgekehrt",
+    "meaning": "vice versa",
+    "examples": [
+      "Nein, umgekehrt. Erst der Vorname, dann der Nachname."
+    ]
+  },
+  {
+    "ID": "1299",
+    "word": "die Klinik, -en",
+    "meaning": "clinic",
+    "examples": [
+      "Ich muss in die Klinik, um meinen kranken Onkel zu besuchen"
+    ]
+  },
+  {
+    "ID": "2165",
+    "word": "Spezial-",
+    "meaning": "special",
+    "examples": [
+      "Ich brauche eine Spezialpflege für trockenes Haar."
+    ]
+  },
+  {
+    "ID": "681",
+    "word": "der Erfolg, -e",
+    "meaning": "the success",
+    "examples": [
+      "Der Film war ein großer Erfolg.",
+      "Ich wünsche Ihnen viel Erfolg bei der Prüfung."
+    ]
+  },
+  {
+    "ID": "2273",
+    "word": "stürzen",
+    "meaning": "to fall",
+    "examples": [
+      "Ich bin auf der Straße gestürzt und habe mir den Fuß gebrochen.",
+      "Bitte pass auf der Treppe auf, dass du nicht hinunterstürzt!"
+    ]
+  },
+  {
+    "ID": "1040",
+    "word": "der Grund, ¨-e",
+    "meaning": "the reason",
+    "examples": [
+      "Sie haben Ihre Stelle gekündigt. Aus welchem Grund?",
+      "Sie haben keinen Grund sich zu beschweren"
+    ]
+  },
+  {
+    "ID": "1113",
+    "word": "die Herkunft",
+    "meaning": "the origin",
+    "examples": [
+      "Viele Leute fragen mich nach meiner Herkunft"
+    ]
+  },
+  {
+    "ID": "2259",
+    "word": "der Strom",
+    "meaning": "electricity",
+    "examples": [
+      "Wie kann ich im Haushalt Strom sparen?"
+    ]
+  },
+  {
+    "ID": "2392",
+    "word": "das Trinkgeld, -er",
+    "meaning": "tip",
+    "examples": [
+      "Ich habe dem Kellner zwei Euro Trinkgeld gegeben."
+    ]
+  },
+  {
+    "ID": "2433",
+    "word": "die Überzeugung, -en",
+    "meaning": "conviction",
+    "examples": [
+      "Wie bist du zu dieser Überzeugung gekommen?"
+    ]
+  },
+  {
+    "ID": "2398",
+    "word": "trotzdem",
+    "meaning": "nevertheless",
+    "examples": [
+      "Es war ziemlich kalt. Trotzdem bin ich schwimmen gegangen."
+    ]
+  },
+  {
+    "ID": "2453",
+    "word": "die Umwelt",
+    "meaning": "environment",
+    "examples": [
+      "Alte Autos sind ein Problem für die Umwelt."
+    ]
+  },
+  {
+    "ID": "2800",
+    "word": "zentral",
+    "meaning": "central",
+    "examples": [
+      "Wir suchen eine Zweizimmerwohnung in zentraler Lage."
+    ]
+  },
+  {
+    "ID": "2659",
+    "word": "der Wagen, -",
+    "meaning": "car",
+    "examples": [
+      "Ich habe meinen Wagen in die Werkstatt gebracht.",
+      "Im zweiten Wagen befindet sich das Zugrestaurant."
+    ]
+  },
+  {
+    "ID": "809",
+    "word": "finanziell",
+    "meaning": "financial",
+    "examples": [
+      "Finanziell geht es meinem Neffen jetzt besser."
+    ]
+  },
+  {
+    "ID": "683",
+    "word": "erforderlich",
+    "meaning": "required",
+    "examples": [
+      "Hier ist die Liste der erforderlichen Zutaten für den Kuchen.",
+      "Es ist erforderlich, dass man den Pass persönlich abholt."
+    ]
+  },
+  {
+    "ID": "1006",
+    "word": "gießen",
+    "meaning": "to water",
+    "examples": [
+      "Es hat nicht geregnet. Ich muss meine Blumen gießen"
+    ]
+  },
+  {
+    "ID": "2617",
+    "word": "das Vitamin, -e",
+    "meaning": "vitamin",
+    "examples": [
+      "Der Arzt sagt, ich soll viele Vitamine essen."
+    ]
+  },
+  {
+    "ID": "2638",
+    "word": "vorkommen",
+    "meaning": "to occur",
+    "examples": [
+      "Kein Problem. Das kann vorkommen."
+    ]
+  },
+  {
+    "ID": "2244",
+    "word": "(sich) stoßen",
+    "meaning": "to bump",
+    "examples": [
+      "Wie haben Sie sich denn verletzt? – Ich habe mich an der Autotür gestoßen."
+    ]
+  },
+  {
+    "ID": "1091",
+    "word": "das Heft, -e",
+    "meaning": "the notebook",
+    "examples": [
+      "Ich hätte gern ein Schreibheft"
+    ]
+  },
+  {
+    "ID": "1278",
+    "word": "das Kissen",
+    "meaning": "the pillow",
+    "examples": [
+      "Ohne Kopfkissen kann ich nicht schlafen"
+    ]
+  },
+  {
+    "ID": "2618",
+    "word": "voll",
+    "meaning": "full",
+    "examples": [
+      "Die Flasche ist noch ganz voll.",
+      "Vor den Feiertagen sind die Züge immer sehr voll.",
+      "Bitte unterschreiben Sie mit Ihrem vollen Namen."
+    ]
+  },
+  {
+    "ID": "2475",
+    "word": "die Unterhaltung, -en",
+    "meaning": "entertainment",
+    "examples": [
+      "Wir wünschen Ihnen gute Unterhaltung."
+    ]
+  },
+  {
+    "ID": "2461",
+    "word": "und",
+    "meaning": "and",
+    "examples": [
+      "Ich habe heute und morgen frei.",
+      "Ich kaufe ein, und mein Mann kocht."
+    ]
+  },
+  {
+    "ID": "1798",
+    "word": "die Pommes frites (Pl.)",
+    "meaning": "french fries",
+    "examples": [
+      "Die Kinder essen gern Würstchen mit Pommes frites."
+    ]
+  },
+  {
+    "ID": "747",
+    "word": "fahren",
+    "meaning": "to drive / to ride",
+    "examples": [
+      "Wir sind mit dem Zug gefahren.",
+      "Fahr nicht so schnell."
+    ]
+  },
+  {
+    "ID": "344",
+    "word": "die Besserung",
+    "meaning": "get well",
+    "examples": [
+      "Gute Besserung!"
+    ]
+  },
+  {
+    "ID": "414",
+    "word": "der Braten, -",
+    "meaning": "the roast",
+    "examples": [
+      "Nehmen Sie noch etwas Soße zum Braten?"
+    ]
+  },
+  {
+    "ID": "1372",
+    "word": "die Kritik, -en",
+    "meaning": "the criticism",
+    "examples": [
+      "Es gibt viel Kritik an der Politik der Regierung",
+      "Dieser Film hat sehr gute Kritiken bekommen"
+    ]
+  },
+  {
+    "ID": "470",
+    "word": "damals",
+    "meaning": "back then",
+    "examples": [
+      "Mit 15 wollte ich gerne Klavier spielen lernen. Aber damals hatte ich kein Geld dafür."
+    ]
+  },
+  {
+    "ID": "1425",
+    "word": "der Lautsprecher, -",
+    "meaning": "the speaker",
+    "examples": [
+      "Bitte achten Sie auch auf die Lautsprecher-Ansagen am Bahnhof"
+    ]
+  },
+  {
+    "ID": "205",
+    "word": "aussehen",
+    "meaning": "to look",
+    "examples": [
+      "Sie sehen wieder besser aus. Sind Sie wieder gesund?",
+      "Er sieht genauso aus wie sein Vater.",
+      "Es sieht so aus, als ob es bald regnen würde."
+    ]
+  },
+  {
+    "ID": "1011",
+    "word": "das Glas, ¨-er",
+    "meaning": "the glass",
+    "examples": [
+      "Vorsicht die Kanne ist aus Glas!",
+      "Eine Flasche Mineralwasser und zwei Gläser bitte!",
+      "Ein Glas Bier bitte"
+    ]
+  },
+  {
+    "ID": "826",
+    "word": "der Flohmarkt, ¨-e",
+    "meaning": "the flea market",
+    "examples": [
+      "Diesen Hut habe ich am Flohmarkt gekauft."
+    ]
+  },
+  {
+    "ID": "2565",
+    "word": "die Vermittlung, -en",
+    "meaning": "agency / mediation",
+    "examples": [
+      "Du suchst ein Zimmer? Dann frag bei der Vermittlung am Bahnhof nach.",
+      "Rufen Sie die Vermittlung an und fragen Sie nach der Telefonnummer von Herrn Fischer."
+    ]
+  },
+  {
+    "ID": "2580",
+    "word": "verschreiben",
+    "meaning": "to prescribe",
+    "examples": [
+      "Die Ärztin hat mir Tabletten verschrieben."
+    ]
+  },
+  {
+    "ID": "881",
+    "word": "früher / früher-",
+    "meaning": "earlier / former",
+    "examples": [
+      "Früher habe ich in Berlin gewohnt.",
+      "Wir nehmen den früheren Zug."
+    ]
+  },
+  {
+    "ID": "1733",
+    "word": "der Ort, -e",
+    "meaning": "the place",
+    "examples": [
+      "Vergessen Sie Ort und Datum nicht."
+    ]
+  },
+  {
+    "ID": "1774",
+    "word": "pflanzen",
+    "meaning": "to plant",
+    "examples": [
+      "Lass uns einen Baum pflanzen!"
+    ]
+  },
+  {
+    "ID": "1117",
+    "word": "herunter-/runter-",
+    "meaning": "down, download",
+    "examples": [
+      "(herunter-)laden lädt herunter lud herunter hat heruntergeladen",
+      "Ich habe mir Musik aus dem Internet heruntergeladen"
+    ]
+  },
+  {
+    "ID": "1559",
+    "word": "der Migrant, -en / die Migrantin, -nen",
+    "meaning": "migrant",
+    "examples": [
+      "Viele Migranten kommen aus Osteuropa"
+    ]
+  },
+  {
+    "ID": "218",
+    "word": "die Auswahl, -en",
+    "meaning": "the selection",
+    "examples": [
+      "Wir müssen eine Auswahl aus den Büchern treffen.",
+      "Das Geschäft hat eine große Auswahl."
+    ]
+  },
+  {
+    "ID": "1283",
+    "word": "klasse",
+    "meaning": "great",
+    "examples": [
+      "Ich finde unseren Lehrer klasse"
+    ]
+  },
+  {
+    "ID": "1776",
+    "word": "das Pflaster, -",
+    "meaning": "the band-aid, plaster",
+    "examples": [
+      "Hast du ein Pflaster? Ich habe mich geschnitten."
+    ]
+  },
+  {
+    "ID": "41",
+    "word": "aktiv",
+    "meaning": "active",
+    "examples": [
+      "Ich bin sehr aktiv und mache viel Sport."
+    ]
+  },
+  {
+    "ID": "1799",
+    "word": "populär",
+    "meaning": "popular",
+    "examples": [
+      "Diese Musik ist bei Jugendlichen populär."
+    ]
+  },
+  {
+    "ID": "1637",
+    "word": "der Familienname, -n",
+    "meaning": "the surname",
+    "examples": [
+      "Ludin ist mein Familienname."
+    ]
+  },
+  {
+    "ID": "2639",
+    "word": "vorläufig",
+    "meaning": "provisional",
+    "examples": [
+      "Ich habe noch keine Wohnung. Ich wohne vorläufig bei einem Freund.",
+      "Das ist eine vorläufige Entscheidung."
+    ]
+  },
+  {
+    "ID": "1459",
+    "word": "lieben",
+    "meaning": "to love",
+    "examples": [
+      "Ich liebe meine Familie",
+      "Meine Frau liebt ihren Beruf",
+      "Wir sind schon lange verheiratet, aber wir lieben uns immer noch"
+    ]
+  },
+  {
+    "ID": "2527",
+    "word": "der Verein, -e",
+    "meaning": "club",
+    "examples": [
+      "Ich bin schon seit 15 Jahren Mitglied in diesem Verein."
+    ]
+  },
+  {
+    "ID": "437",
+    "word": "das Buch, ¨-er",
+    "meaning": "the book",
+    "examples": [
+      "Haben Sie ein Buch über die Geschichte von Berlin?"
+    ]
+  },
+  {
+    "ID": "2610",
+    "word": "viel/viele",
+    "meaning": "much/many",
+    "examples": [
+      "Ich habe schon viel gelernt.",
+      "Ich wünsche Ihnen viel Spaß.",
+      "Hier regnet es viel.",
+      "Das ist mir viel zu teuer.",
+      "Im Winter sind viele Leute erkältet."
+    ]
+  },
+  {
+    "ID": "1198",
+    "word": "interessiert",
+    "meaning": "interested",
+    "examples": [
+      "Mein Nachbar zieht nächsten Monat aus. Sind Sie noch an der Wohnung interessiert?"
+    ]
+  },
+  {
+    "ID": "1735",
+    "word": "der Wohnort, -e",
+    "meaning": "the place of residence",
+    "examples": [
+      "Tragen Sie bitte auch Ihren Wohnort ein."
+    ]
+  },
+  {
+    "ID": "1744",
+    "word": "parallel",
+    "meaning": "parallel",
+    "examples": [
+      "Die Goethestraße ist parallel zur Hauptstraße."
+    ]
+  },
+  {
+    "ID": "775",
+    "word": "der Fauteuil (A, CH) / der Sessel (D, CH)",
+    "meaning": "the armchair",
+    "examples": [
+      "Ich hätte gern einen bequemen Fauteuil/Sessel."
+    ]
+  },
+  {
+    "ID": "945",
+    "word": "gehen",
+    "meaning": "to go",
+    "examples": [
+      "Ich gehe jeden Morgen zu Fuß zur Arbeit.",
+      "Meine Tochter geht noch aufs Gymnasium.",
+      "Ich muss jetzt leider gehen.",
+      "Ein Freund von mir geht ins Ausland.",
+      "Der nächste Zug geht erst in zwei Stunden.",
+      "Am Anfang ging alles ganz gut.",
+      "Geht Ihre Uhr richtig?",
+      "Geht das bis morgen? – Nein, das geht nicht. Ich brauche mehr Zeit.",
+      "Der Mantel geht nicht mehr in den Koffer.",
+      "Das Fenster geht auf die Straße.",
+      "Geht es hier zum Zentrum?",
+      "Wie geht es Ihnen heute?",
+      "Ist das sehr teuer? – Es geht.",
+      "Um was geht es denn?",
+      "Warum geht das Licht nicht?",
+      "Ich weiß nicht, wie das geht."
+    ]
+  },
+  {
+    "ID": "2265",
+    "word": "der Studierende, -n / die Studierende, -n",
+    "meaning": "student",
+    "examples": [
+      "Zehn Studierende besuchen das Seminar."
+    ]
+  },
+  {
+    "ID": "1635",
+    "word": "das Nahrungsmittel, -",
+    "meaning": "the food",
+    "examples": [
+      "In diesen Ländern fehlen vor allem Nahrungsmittel."
+    ]
+  },
+  {
+    "ID": "1453",
+    "word": "lesen",
+    "meaning": "to read",
+    "examples": [
+      "Ich habe gelesen, dass es ab heute Sonderangebote gibt",
+      "Deine Schrift kann ich nicht gut lesen",
+      "In der Schule lesen wir ein Buch von Goethe"
+    ]
+  },
+  {
+    "ID": "2571",
+    "word": "verpflegen",
+    "meaning": "to provide food",
+    "examples": [
+      "Wir werden hier sehr gut mit Essen verpflegt."
+    ]
+  },
+  {
+    "ID": "2645",
+    "word": "die Vorschrift, -en",
+    "meaning": "regulation",
+    "examples": [
+      "Beachten Sie bitte die Vorschriften für das Benutzen der Bibliothek."
+    ]
+  },
+  {
+    "ID": "2632",
+    "word": "vorder-",
+    "meaning": "front",
+    "examples": [
+      "In den vorderen Reihen sind noch Plätze frei."
+    ]
+  },
+  {
+    "ID": "1413",
+    "word": "langsam",
+    "meaning": "slow; slowly",
+    "examples": [
+      "Könnten Sie bitte etwas langsamer sprechen?",
+      "Es wird langsam kalt. Es wird Herbst"
+    ]
+  },
+  {
+    "ID": "1516",
+    "word": "markieren",
+    "meaning": "to mark",
+    "examples": [
+      "Hier ist unser Hotel. Ich markiere Ihnen auf dem Plan den Weg zum Bahnhof"
+    ]
+  },
+  {
+    "ID": "1673",
+    "word": "noch",
+    "meaning": "still/yet",
+    "examples": [
+      "Mein Bruder geht noch zur Schule.",
+      "Bist du fertig? – Nein, noch nicht ganz.",
+      "Haben Sie noch einen Wunsch? – Ja, bitte noch ein Bier.",
+      "Sonst noch etwas? – Nein danke.",
+      "Ich komme später. Ich muss erst noch einkaufen.",
+      "Meine Freundin studiert und abends arbeitet sie noch als Kellnerin.",
+      "Es ist nicht mehr viel Zeit. Nur noch fünf Minuten.",
+      "Ich habe nur noch 20 Euro.",
+      "Ist das Essen schon fertig? – Nein, es dauert noch ein paar Minuten.",
+      "Ist Amadeo schon da? – Vielleicht kommt er noch."
+    ]
+  },
+  {
+    "ID": "197",
+    "word": "ausmachen",
+    "meaning": "to turn off / to agree on",
+    "examples": [
+      "Sie müssen leider warten. – Kein Problem. Das macht mir nichts aus.",
+      "Machen Sie bitte das Licht aus!",
+      "Wir hatten doch ausgemacht, dass du die Getränke besorgst.",
+      "Haben Sie einen Termin ausgemacht?"
+    ]
+  },
+  {
+    "ID": "2625",
+    "word": "vor allem",
+    "meaning": "above all",
+    "examples": [
+      "Grüßen Sie alle von mir, vor allem Frau Meier."
+    ]
+  },
+  {
+    "ID": "868",
+    "word": "freundlich",
+    "meaning": "friendly",
+    "examples": [
+      "Er hat uns sehr freundlich begrüßt.",
+      "Der Mann ist sehr freundlich zu mir.",
+      "Mit freundlichen Grüßen"
+    ]
+  },
+  {
+    "ID": "821",
+    "word": "fliegen",
+    "meaning": "to fly",
+    "examples": [
+      "Der Vogel ist auf einen Baum geflogen.",
+      "Diese Maschine fliegt direkt nach New York.",
+      "Ich bin nach Berlin geflogen."
+    ]
+  },
+  {
+    "ID": "2449",
+    "word": "umsonst",
+    "meaning": "for free / in vain",
+    "examples": [
+      "Ich musste nichts bezahlen. Die Reparatur war umsonst.",
+      "Nichts hat geholfen, es war alles umsonst."
+    ]
+  },
+  {
+    "ID": "314",
+    "word": "der Bereich, -e",
+    "meaning": "the area",
+    "examples": [
+      "In welchem Bereich möchten Sie arbeiten?",
+      "Umfahren Sie den Baustellenbereich."
+    ]
+  },
+  {
+    "ID": "1712",
+    "word": "Öko- (ökologisch)",
+    "meaning": "ecological (prefix)",
+    "examples": [
+      "z.B. Ökoladen (eco-store), Ökostrom (eco-power), ökologischer Anbau (ecological cultivation)"
+    ]
+  },
+  {
+    "ID": "1675",
+    "word": "nochmals",
+    "meaning": "again",
+    "examples": [
+      "Nochmals vielen Dank!"
+    ]
+  },
+  {
+    "ID": "2537",
+    "word": "vergrößern",
+    "meaning": "to enlarge",
+    "examples": [
+      "Können Sie das Foto vergrößern?",
+      "Wir wollen unser Geschäft vergrößern."
+    ]
+  },
+  {
+    "ID": "1770",
+    "word": "der Personenstand",
+    "meaning": "the civil status",
+    "examples": [
+      "Bei „Personenstand“ musst du „ledig“ ankreuzen."
+    ]
+  },
+  {
+    "ID": "2585",
+    "word": "die Verspätung, -en",
+    "meaning": "delay",
+    "examples": [
+      "Unser Zug hatte 10 Minuten Verspätung."
+    ]
+  },
+  {
+    "ID": "464",
+    "word": "dabei",
+    "meaning": "thereby / with it",
+    "examples": [
+      "Was hast du dir dabei gedacht?",
+      "Schön, dass du da bist. Ist deine Familie auch dabei?"
+    ]
+  },
+  {
+    "ID": "1751",
+    "word": "der Passagier, -e / die Passagierin, -nen",
+    "meaning": "the passenger",
+    "examples": [
+      "Die Passagiere Schulz und Kaufmann sollen bitte zur Information kommen."
+    ]
+  },
+  {
+    "ID": "1679",
+    "word": "der Notfall, ¨-e",
+    "meaning": "emergency",
+    "examples": [
+      "Wir haben einen Notfall. Bitte schicken Sie einen Krankenwagen.",
+      "Im Notfall rufen Sie bitte diese Nummer an."
+    ]
+  }
+]

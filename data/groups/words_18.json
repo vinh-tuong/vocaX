@@ -1,0 +1,832 @@
+[
+  {
+    "ID": "333",
+    "word": "beschreiben",
+    "meaning": "to describe",
+    "examples": [
+      "Kannst du mir den Weg zum Flughafen beschreiben?"
+    ]
+  },
+  {
+    "ID": "135",
+    "word": "der Arbeitsplatz, ¨-e",
+    "meaning": "the workplace",
+    "examples": [
+      "In der Industrie gibt es immer weniger Arbeitsplätze."
+    ]
+  },
+  {
+    "ID": "1642",
+    "word": "national/national-",
+    "meaning": "national",
+    "examples": [
+      "Das ist ein nationaler Wettbewerb.",
+      "Die Nationalmannschaft ist ziemlich stark."
+    ]
+  },
+  {
+    "ID": "1046",
+    "word": "gucken",
+    "meaning": "to look",
+    "examples": [
+      "Guck doch mal! Es schneit",
+      "Was bedeutet dieses Wort? – Guck doch im Wörterbuch nach"
+    ]
+  },
+  {
+    "ID": "1803",
+    "word": "die Post",
+    "meaning": "the post office, mail",
+    "examples": [
+      "Die Post macht erst um 8 Uhr auf.",
+      "Meine Frau arbeitet bei der Post.",
+      "Ist Post für mich da?"
+    ]
+  },
+  {
+    "ID": "838",
+    "word": "die Forderung, -en",
+    "meaning": "the demand",
+    "examples": [
+      "Alle Forderungen der Arbeitnehmer kann man in dieser E-Mail lesen."
+    ]
+  },
+  {
+    "ID": "1627",
+    "word": "der Nachteil, -e",
+    "meaning": "the disadvantage",
+    "examples": [
+      "Einen Nachteil hat die Wohnung. Sie liegt nicht zentral."
+    ]
+  },
+  {
+    "ID": "549",
+    "word": "der Durchschnitt, -e",
+    "meaning": "the average",
+    "examples": [
+      "Der Durchschnitt der Ausgaben liegt bei 150 Euro im Monat.",
+      "Im Durchschnitt brauchen wir täglich 20 Minuten zur Arbeit."
+    ]
+  },
+  {
+    "ID": "1622",
+    "word": "die Nachhilfe, -n",
+    "meaning": "the tutoring",
+    "examples": [
+      "Der Schüler braucht Nachhilfe in Mathematik."
+    ]
+  },
+  {
+    "ID": "2848",
+    "word": "zusammenfassen",
+    "meaning": "to summarize",
+    "examples": [
+      "Können Sie das bitte noch einmal kurz zusammenfassen?"
+    ]
+  },
+  {
+    "ID": "1483",
+    "word": "losfahren",
+    "meaning": "to depart",
+    "examples": [
+      "Wir fahren um 8 Uhr los. Sei bitte pünktlich"
+    ]
+  },
+  {
+    "ID": "1768",
+    "word": "persönlich",
+    "meaning": "personal, personally",
+    "examples": [
+      "Hier gibt es zu viele Autos. Das ist meine persönliche Meinung.",
+      "Ich muss Herrn Meier persönlich sprechen."
+    ]
+  },
+  {
+    "ID": "2077",
+    "word": "schwitzen",
+    "meaning": "sweat",
+    "examples": [
+      "Es war sehr heiß. Wir haben alle sehr geschwitzt."
+    ]
+  },
+  {
+    "ID": "1652",
+    "word": "nehmen",
+    "meaning": "to take",
+    "examples": [
+      "Was möchten Sie? – Ich nehme einen Salat.",
+      "Nehmen Sie die Tabletten vor dem Essen!",
+      "Wer hat die Flasche aus dem Kühlschrank genommen?",
+      "Sollen wir ein Taxi nehmen?",
+      "In diesem Jahr kann ich meinen Urlaub erst im Oktober nehmen."
+    ]
+  },
+  {
+    "ID": "81",
+    "word": "die Angabe, -n",
+    "meaning": "the information",
+    "examples": [
+      "Wir brauchen von Ihnen folgende Angaben",
+      "Name, Adresse, Geburtsdatum."
+    ]
+  },
+  {
+    "ID": "278",
+    "word": "beginnen",
+    "meaning": "to begin",
+    "examples": [
+      "In zwei Wochen beginnen die Sommerferien."
+    ]
+  },
+  {
+    "ID": "1671",
+    "word": "nirgends",
+    "meaning": "nowhere",
+    "examples": [
+      "Ich kann die Quittung nirgends finden.",
+      "Hier kann man nirgends parken."
+    ]
+  },
+  {
+    "ID": "2834",
+    "word": "die Zukunft",
+    "meaning": "future",
+    "examples": [
+      "Du musst mehr für die Schule lernen. Denk an die Zukunft.",
+      "In Zukunft werde ich vorsichtiger sein."
+    ]
+  },
+  {
+    "ID": "2251",
+    "word": "die Strecke, -n",
+    "meaning": "route",
+    "examples": [
+      "Sind Sie die ganze Strecke zu Fuß gegangen?",
+      "Auf der Strecke München – Salzburg 8 km Stau.",
+      "Ich möchte nach Hamburg fahren. Können Sie mir sagen, welche Strecke am besten ist?"
+    ]
+  },
+  {
+    "ID": "1495",
+    "word": "der Magen, ¨-",
+    "meaning": "stomach",
+    "examples": [
+      "Mir tut der Magen weh. Ich habe Magenschmerzen"
+    ]
+  },
+  {
+    "ID": "999",
+    "word": "das Gewissen",
+    "meaning": "the conscience",
+    "examples": [
+      "Ich habe deinen Geburtstag vergessen. Ich habe ein ganz schlechtes Gewissen"
+    ]
+  },
+  {
+    "ID": "2347",
+    "word": "der Tierpark, -s",
+    "meaning": "zoo",
+    "examples": [
+      "Wollen wir am Samstag mit den Kindern in den Tierpark gehen?"
+    ]
+  },
+  {
+    "ID": "1988",
+    "word": "schätzen",
+    "meaning": "to estimate/appreciate",
+    "examples": [
+      "Wie alt ist der Chef? – Ich weiß nicht, ich schätze um die Fünfzig.",
+      "Ich schätze deine gute Arbeit."
+    ]
+  },
+  {
+    "ID": "816",
+    "word": "der Fleck, -en",
+    "meaning": "the stain",
+    "examples": [
+      "Du hast einen Fleck auf der Bluse."
+    ]
+  },
+  {
+    "ID": "1041",
+    "word": "gründlich",
+    "meaning": "thorough",
+    "examples": [
+      "Ich möchte die Wohnung gründlich reinigen, bevor der Besuch kommt",
+      "Waschen Sie sich gründlich die Hände"
+    ]
+  },
+  {
+    "ID": "2064",
+    "word": "der Schutz",
+    "meaning": "the protection",
+    "examples": [
+      "Das ist ein guter Schutz gegen Kälte.",
+      "Alle reden heute über den Schutz der Umwelt."
+    ]
+  },
+  {
+    "ID": "2783",
+    "word": "zählen",
+    "meaning": "to count",
+    "examples": [
+      "Bitte zählen Sie das Wechselgeld sofort nach.",
+      "Mein Sohn kann schon bis 100 zählen.",
+      "Ich zähle auf dich!"
+    ]
+  },
+  {
+    "ID": "2562",
+    "word": "der Vermieter, - / die Vermieterin, -nen",
+    "meaning": "landlord",
+    "examples": [
+      "Unsere Vermieterin ist eine sehr nette ältere Frau."
+    ]
+  },
+  {
+    "ID": "2536",
+    "word": "vergnügt",
+    "meaning": "cheerful",
+    "examples": [
+      "Er kam mit einem vergnügten Grinsen herein."
+    ]
+  },
+  {
+    "ID": "559",
+    "word": "ebenso",
+    "meaning": "as well",
+    "examples": [
+      "Schöne Feiertage. – Danke, ebenso."
+    ]
+  },
+  {
+    "ID": "1628",
+    "word": "der Nachwuchs",
+    "meaning": "the offspring",
+    "examples": [
+      "Der Nachwuchs bei Forschern soll gefördert werden.",
+      "Die Katze hat Nachwuchs bekommen."
+    ]
+  },
+  {
+    "ID": "1227",
+    "word": "die Kabine, -n",
+    "meaning": "the cabin",
+    "examples": [
+      "Um zu wählen, gehen Sie bitte in diese Kabine"
+    ]
+  },
+  {
+    "ID": "96",
+    "word": "die Annonce, -n",
+    "meaning": "the advertisement",
+    "examples": [
+      "Ich habe alle Annoncen gelesen, aber die Wohnungen sind zu teuer."
+    ]
+  },
+  {
+    "ID": "1052",
+    "word": "haben",
+    "meaning": "to have",
+    "examples": [
+      "Wir haben Hunger",
+      "Heute habe ich keine Zeit",
+      "Wir haben ein neues Auto",
+      "Kann ich bitte eine Suppe haben?",
+      "Unsere Wohnung hat vier Zimmer",
+      "Ich habe heute viel zu tun",
+      "Du hast es gut. Du kannst in Urlaub fahren"
+    ]
+  },
+  {
+    "ID": "1743",
+    "word": "der Paradeiser, - (A)",
+    "meaning": "the tomato",
+    "examples": [
+      "Kauf bitte noch Paradeiser auf dem Markt."
+    ]
+  },
+  {
+    "ID": "632",
+    "word": "elegant",
+    "meaning": "elegant",
+    "examples": [
+      "Ich finde dein Kleid sehr elegant."
+    ]
+  },
+  {
+    "ID": "1159",
+    "word": "hupen",
+    "meaning": "to honk",
+    "examples": [
+      "hupt hupte hat gehupt",
+      "Hier ist ein Krankenhaus. Hier darfst du nicht hupen"
+    ]
+  },
+  {
+    "ID": "2227",
+    "word": "der Stil, -e",
+    "meaning": "style",
+    "examples": [
+      "Ihr Stil ist sehr elegant.",
+      "Das Gebäude gefällt mir. Welcher Baustil ist das?"
+    ]
+  },
+  {
+    "ID": "2098",
+    "word": "die Semmel, -n (A) → Brötchen (D); Brötli (CH)",
+    "meaning": "bun",
+    "examples": [
+      "Ich hole schnell ein paar Semmeln zum Frühstück."
+    ]
+  },
+  {
+    "ID": "673",
+    "word": "der Erdapfel, ¨- (A) / die Kartoffel",
+    "meaning": "the potato",
+    "examples": [
+      "Kann ich bitte noch Erdäpfel bekommen?"
+    ]
+  },
+  {
+    "ID": "67",
+    "word": "analysieren",
+    "meaning": "to analyze",
+    "examples": [
+      "Die Politiker analysieren die Situation auf dem Arbeitsmarkt."
+    ]
+  },
+  {
+    "ID": "1439",
+    "word": "leicht",
+    "meaning": "easy; light",
+    "examples": [
+      "Der Koffer ist ganz leicht. Ich kann ihn allein tragen",
+      "Es ist nicht leicht, bei diesem Arzt einen Termin zu bekommen"
+    ]
+  },
+  {
+    "ID": "1678",
+    "word": "Not-",
+    "meaning": "emergency (prefix)",
+    "examples": [
+      "die Notaufnahme -n",
+      "The emergency room is right here on the left.",
+      "der Notausgang ¨-e",
+      "The emergency exit is right here by the stairs."
+    ]
+  },
+  {
+    "ID": "951",
+    "word": "die Gelegenheit, -en",
+    "meaning": "opportunity",
+    "examples": [
+      "Das Fest ist eine gute Gelegenheit, unsere Freunde zu sehen."
+    ]
+  },
+  {
+    "ID": "1242",
+    "word": "kaputt",
+    "meaning": "broken",
+    "examples": [
+      "Unsere Waschmaschine ist kaputt",
+      "Ich bin noch ganz kaputt von der Reise"
+    ]
+  },
+  {
+    "ID": "1539",
+    "word": "der Meister, -",
+    "meaning": "master; champion",
+    "examples": [
+      "Ich weiß nicht, wie man das macht. – Dann frag doch den Meister",
+      "Unsere Mannschaft ist deutscher Meister geworden"
+    ]
+  },
+  {
+    "ID": "1181",
+    "word": "inner-",
+    "meaning": "internal",
+    "examples": [
+      "Wir müssen Sie untersuchen. Es kann sein, dass Sie innere Verletzungen haben"
+    ]
+  },
+  {
+    "ID": "1984",
+    "word": "schalten",
+    "meaning": "to switch",
+    "examples": [
+      "Schalten Sie bitte das Licht aus, wenn Sie gehen.",
+      "Kannst du bitte den Fernseher einschalten? Jetzt kommen gleich die Nachrichten.",
+      "Du musst jetzt in den ersten Gang schalten."
+    ]
+  },
+  {
+    "ID": "2656",
+    "word": "waagerecht",
+    "meaning": "horizontal",
+    "examples": [
+      "Ziehen Sie bitte einen waagerechten Strich."
+    ]
+  },
+  {
+    "ID": "2276",
+    "word": "süchtig",
+    "meaning": "addicted",
+    "examples": [
+      "Ich bin süchtig nach Schokolade.",
+      "Fernsehen kann süchtig machen."
+    ]
+  },
+  {
+    "ID": "2141",
+    "word": "sonnig",
+    "meaning": "sunny",
+    "examples": [
+      "Das Wetter morgen sonnig und warm."
+    ]
+  },
+  {
+    "ID": "2538",
+    "word": "verhaften",
+    "meaning": "to arrest",
+    "examples": [
+      "Die Polizei hat 23 Menschen verhaftet."
+    ]
+  },
+  {
+    "ID": "1904",
+    "word": "die Reinigung, -en",
+    "meaning": "the cleaning",
+    "examples": [
+      "Die Reinigung des Büros ist nicht teuer.",
+      "Kannst du bitte die Bluse in die Reinigung bringen?"
+    ]
+  },
+  {
+    "ID": "2760",
+    "word": "das Wohnzimmer, -",
+    "meaning": "living room",
+    "examples": [
+      "Wir sitzen im Wohnzimmer und sehen fern."
+    ]
+  },
+  {
+    "ID": "283",
+    "word": "die Begründung, -en",
+    "meaning": "the justification",
+    "examples": [
+      "Die Miete wurde ohne Begründung erhöht."
+    ]
+  },
+  {
+    "ID": "94",
+    "word": "die Anmeldung, -en",
+    "meaning": "the registration",
+    "examples": [
+      "Wo bekomme ich die Formulare für die Anmeldung?",
+      "Die Anmeldung ist im Erdgeschoss, Zimmer 55."
+    ]
+  },
+  {
+    "ID": "2443",
+    "word": "die Umfrage, -n",
+    "meaning": "survey",
+    "examples": [
+      "Wir machen eine Umfrage zum Thema Umweltschutz."
+    ]
+  },
+  {
+    "ID": "1849",
+    "word": "der Rabatt, -e",
+    "meaning": "discount",
+    "examples": [
+      "You get a ten percent discount."
+    ]
+  },
+  {
+    "ID": "1723",
+    "word": "das Orchester, -",
+    "meaning": "the orchestra",
+    "examples": [
+      "Auf unserer Hochzeit hat ein kleines Orchester gespielt."
+    ]
+  },
+  {
+    "ID": "309",
+    "word": "beobachten",
+    "meaning": "to observe",
+    "examples": [
+      "Wer hat den Unfall beobachtet?"
+    ]
+  },
+  {
+    "ID": "788",
+    "word": "der Fernseher, -",
+    "meaning": "the television set",
+    "examples": [
+      "Der Fernseher ist schon wieder kaputt."
+    ]
+  },
+  {
+    "ID": "211",
+    "word": "die Aussicht, -en",
+    "meaning": "view / prospect",
+    "examples": [
+      "Von diesem Turm hat man eine tolle Aussicht.",
+      "Mit mehreren Fremdsprachen hat man gute Aussichten im Beruf."
+    ]
+  },
+  {
+    "ID": "1165",
+    "word": "die Idee, -n",
+    "meaning": "the idea",
+    "examples": [
+      "Du willst ein Picknick machen? Ich finde die Idee toll"
+    ]
+  },
+  {
+    "ID": "408",
+    "word": "der Bogen, -/¨-",
+    "meaning": "the sheet / form",
+    "examples": [
+      "Bitte schreiben Sie Ihren Namen auf den Antwortbogen."
+    ]
+  },
+  {
+    "ID": "2597",
+    "word": "vertreten",
+    "meaning": "to represent",
+    "examples": [
+      "Wer vertritt Sie, wenn Sie Urlaub machen?"
+    ]
+  },
+  {
+    "ID": "1339",
+    "word": "der Körper, -",
+    "meaning": "body",
+    "examples": [
+      "Der Arzt sagt, ich muss etwas für meinen Körper tun, z. B. schwimmen oder Fahrrad fahren"
+    ]
+  },
+  {
+    "ID": "1538",
+    "word": "meist(ens)",
+    "meaning": "mostly",
+    "examples": [
+      "Meistens trinke ich zum Frühstück nur einen Kaffee",
+      "Seid ihr am Wochenende zu Hause? – Ja, meistens"
+    ]
+  },
+  {
+    "ID": "2702",
+    "word": "welcher, welche, welches",
+    "meaning": "which",
+    "examples": [
+      "Welcher Tag ist heute?",
+      "Welchen Kurs hast du gemacht?"
+    ]
+  },
+  {
+    "ID": "2498",
+    "word": "verursachen",
+    "meaning": "to cause",
+    "examples": [
+      "Dieser Busfahrer verursachte den Unfall."
+    ]
+  },
+  {
+    "ID": "1631",
+    "word": "nah(e)",
+    "meaning": "close",
+    "examples": [
+      "Wie weit ist es zum Bahnhof? – Das ist ganz nah, nur zwei Minuten von hier."
+    ]
+  },
+  {
+    "ID": "1303",
+    "word": "knapp",
+    "meaning": "scarcely, just",
+    "examples": [
+      "Mach schnell. Die Zeit ist knapp",
+      "Unser Geld wird knapp. Wir müssen sparen",
+      "Die Fahrt war kurz. Nur knapp eine Stunde",
+      "Die Wohnung hat nur knapp 30 m²",
+      "Der Tisch hat nur knapp 50 Euro gekostet"
+    ]
+  },
+  {
+    "ID": "1358",
+    "word": "der Krankenwagen, -",
+    "meaning": "the ambulance",
+    "examples": [
+      "Wir mussten einen Krankenwagen rufen"
+    ]
+  },
+  {
+    "ID": "1662",
+    "word": "neugierig",
+    "meaning": "curious",
+    "examples": [
+      "Die Nachbarn sind ziemlich neugierig."
+    ]
+  },
+  {
+    "ID": "1057",
+    "word": "halb",
+    "meaning": "half",
+    "examples": [
+      "Treffen wir uns um halb neun?",
+      "Bei dieser Firma habe ich ein halbes Jahr gearbeitet",
+      "Ich gebe Ihnen die Tomaten zum halben Preis",
+      "Die Flasche ist ja noch halb voll"
+    ]
+  },
+  {
+    "ID": "1404",
+    "word": "die Lampe, -n",
+    "meaning": "the lamp",
+    "examples": [
+      "Ich habe mir eine neue Lampe gekauft",
+      "Mach doch bitte die Lampe an. Es ist so dunkel hier"
+    ]
+  },
+  {
+    "ID": "2593",
+    "word": "verteilen",
+    "meaning": "to distribute",
+    "examples": [
+      "Kannst du bitte schon mal die Gläser verteilen?"
+    ]
+  },
+  {
+    "ID": "2036",
+    "word": "das Schnitzel, -",
+    "meaning": "cutlet/schnitzel",
+    "examples": [
+      "Bitte ein Schnitzel mit Kartoffeln und Salat."
+    ]
+  },
+  {
+    "ID": "823",
+    "word": "die Flucht",
+    "meaning": "the escape",
+    "examples": [
+      "Der Einbrecher war schon auf der Flucht."
+    ]
+  },
+  {
+    "ID": "1682",
+    "word": "notieren",
+    "meaning": "to note",
+    "examples": [
+      "I have noted the appointment."
+    ]
+  },
+  {
+    "ID": "1767",
+    "word": "die Person, -en",
+    "meaning": "the person",
+    "examples": [
+      "Eintritt pro Person 2 Euro."
+    ]
+  },
+  {
+    "ID": "108",
+    "word": "der Anspruch, ¨-e",
+    "meaning": "the entitlement",
+    "examples": [
+      "Sie wohnen im Stadtzentrum. Deshalb haben Sie keinen Anspruch auf Fahrgeld."
+    ]
+  },
+  {
+    "ID": "806",
+    "word": "die Figur, -en",
+    "meaning": "the figure",
+    "examples": [
+      "Lars hat eine gute Figur.",
+      "Bei diesem Spiel hat jeder Spieler vier Figuren."
+    ]
+  },
+  {
+    "ID": "189",
+    "word": "der Ausgang, ¨-e",
+    "meaning": "the exit",
+    "examples": [
+      "Wo ist der Ausgang, bitte?"
+    ]
+  },
+  {
+    "ID": "732",
+    "word": "das Essen, -",
+    "meaning": "the meal",
+    "examples": [
+      "Darf ich Sie zum Essen einladen?",
+      "Das Essen ist kalt geworden."
+    ]
+  },
+  {
+    "ID": "2683",
+    "word": "das Wasser",
+    "meaning": "water",
+    "examples": [
+      "Kann ich bitte ein Glas Wasser haben?",
+      "Eine Cola und zwei Wasser bitte!",
+      "Gibt es hier kein warmes Wasser?"
+    ]
+  },
+  {
+    "ID": "2859",
+    "word": "die Zutaten (Pl.)",
+    "meaning": "ingredients",
+    "examples": [
+      "Welche Zutaten braucht man für diesen Kuchen?"
+    ]
+  },
+  {
+    "ID": "1695",
+    "word": "ober-",
+    "meaning": "upper",
+    "examples": [
+      "Die Wohnung im oberen Stockwerk ist vermietet."
+    ]
+  },
+  {
+    "ID": "503",
+    "word": "der Dialog, -e",
+    "meaning": "the dialogue",
+    "examples": [
+      "Sie hören jetzt einen Dialog."
+    ]
+  },
+  {
+    "ID": "1408",
+    "word": "landen",
+    "meaning": "to land",
+    "examples": [
+      "Wir sind erst um 20 Uhr in München gelandet",
+      "Wegen starken Nebels konnte die Maschine nicht in Frankfurt landen"
+    ]
+  },
+  {
+    "ID": "1508",
+    "word": "männlich",
+    "meaning": "male",
+    "examples": [
+      "Kreuzen Sie bitte an",
+      "„weiblich“ oder „männlich“"
+    ]
+  },
+  {
+    "ID": "1616",
+    "word": "nach",
+    "meaning": "after",
+    "examples": [
+      "Ich fahre morgen nach Hamburg.",
+      "Ich muss jetzt nach Hause.",
+      "Wir treffen uns nach dem Essen.",
+      "Es ist schon nach acht. Wir müssen uns beeilen."
+    ]
+  },
+  {
+    "ID": "2526",
+    "word": "verdienen",
+    "meaning": "to earn",
+    "examples": [
+      "In diesem Beruf verdient man gut.",
+      "Er hat den Urlaub wirklich verdient."
+    ]
+  },
+  {
+    "ID": "2195",
+    "word": "ständig",
+    "meaning": "constantly",
+    "examples": [
+      "Ich habe schon ein paar Mal bei meiner Freundin angerufen. Es ist ständig besetzt."
+    ]
+  },
+  {
+    "ID": "522",
+    "word": "das Dokument, -e",
+    "meaning": "the document",
+    "examples": [
+      "Hast du alle Dokumente für die Anmeldung dabei?",
+      "Dieser Stein ist ein wichtiges Dokument für die alte römische Kultur."
+    ]
+  },
+  {
+    "ID": "2345",
+    "word": "das Tier, -e",
+    "meaning": "animal",
+    "examples": [
+      "Er mag Tiere sehr und geht darum oft in den Zoo."
+    ]
+  },
+  {
+    "ID": "1202",
+    "word": "inzwischen",
+    "meaning": "meanwhile",
+    "examples": [
+      "Herr Müller kommt gleich zurück. Sie können inzwischen in seinem Büro warten"
+    ]
+  }
+]
