@@ -4,11 +4,13 @@ import styles from '../styles/Modal.module.css'
 const Modal = ({ open, onModalClose, style, children }: { open: boolean; style?: CSSProperties | undefined, children: JSX.Element; onModalClose: () => void }) => {
   useEffect(() => {
     if (open) {
-      document.body.style.position = 'fixed';
+      document.body.style.height = '100vh';
+      document.body.style.overflowY = 'hidden';
     }
 
     return () => {
-      document.body.style.position = '';
+      document.body.style.height = 'auto';
+      document.body.style.overflowY = 'auto';
     }
   }, [open]);
 

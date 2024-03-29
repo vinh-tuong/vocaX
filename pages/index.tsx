@@ -44,7 +44,7 @@ export default function Home() {
               Group Difficult
             </h2>
             <p>
-              This group you will find the words you marked as <strong>difficult</strong> before
+              You will find all the words you have marked as <strong>difficult</strong> here
             </p>
           </a>
           {groups.map((group, idx) => (

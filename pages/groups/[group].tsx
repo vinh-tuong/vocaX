@@ -117,7 +117,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
           <input type="checkbox" id="showVoice" checked={showVoice} onChange={(e) => { setShowVoice(e.target.checked); stop(); }} />
           <label htmlFor="showVoice">Voice</label>
         </div>
-        <br />
+        {wordsToShow.length === 0 && title === 'difficult' && <p>Congrats! The world seems to be easy for you :-)</p>}
         <div className={homeStyles.grid}>
           {wordsToShow.map((word) => (
             <CardItem
@@ -141,7 +141,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
             isPlaying={carouselModalOpen}
             interval={slideSpeed}
           >
-            <Slider>
+            <Slider moveThreshold={0.2}>
               {wordsToShow.map((word, idx) => <Slide index={idx} key={word.ID}>
                 <CardItem
                   word={word}
