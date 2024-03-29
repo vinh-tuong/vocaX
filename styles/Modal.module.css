@@ -8,6 +8,7 @@
   display: none;
   width: 400px;
   height: 400px;
+  max-width: 90%;
   background-color: #fff;
   box-sizing: border-box;
   z-index: 9999;

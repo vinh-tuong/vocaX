@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding: 6rem;
+  padding: 6rem 1rem;
   min-height: 100vh;
 }
 
@@ -90,6 +90,7 @@
   align-items: center;
   position: relative;
   padding: 4rem 0;
+  text-align: center;
 }
 
 .logo {
@@ -135,7 +136,7 @@
   }
 
   .center {
-    padding: 8rem 0 6rem;
+    padding: 8rem 0;
   }
 
   .description {

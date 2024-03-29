@@ -4,7 +4,7 @@ import homeStyles from "@/styles/Home.module.css";
 import styles from "@/styles/Group.module.css";
 import axios from 'axios';
 import { Inter } from 'next/font/google';
-import { getGenderFromWord, onSlideSpeedBtnClick, onSpeedRateBtnClick, speak } from '@/utils/helpers';
+import { getGenderFromWord, onSlideSpeedBtnClick, onSpeedRateBtnClick, speak, stop } from '@/utils/helpers';
 import { useEffect, useState } from 'react';
 import { ButtonFirst, ButtonNext, ButtonPlay, CarouselProvider, Slide, Slider } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
@@ -32,6 +32,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
   const [difficult, setDifficult] = useState<Word[]>([]);
   const [showMeaning, setShowMeaning] = useState(true);
   const [showExamples, setShowExamples] = useState(false);
+  const [showVoice, setShowVoice] = useState(true);
 
   useEffect(() => {
     try {
@@ -70,7 +71,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
     }
   };
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return null;
   if (error) return <div>{error.message}</div>;
 
   return (
@@ -89,7 +90,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
           </div>
         </div>
         <h1>Group: {title}</h1>
-        <h3 style={{ textAlign: 'center' }}>{title === 'difficult' ? 'Here you will find all the words you have marked as difficult' : `Here you will find all the words for group ${title}`}</h3>
+        <p style={{ textAlign: 'center' }}>{title === 'difficult' ? 'Here you will find all the words you have marked as difficult' : `Here you will find all the words for group ${title}`}</p>
         <br />
         <select value={genderSelection} onChange={(e) => setGenderSelection(e.target.value)}>
           <option value="all">Show All</option>
@@ -107,11 +108,14 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
           <button className={styles.button} onClick={() => setCarouselModalOpen(true)}>Slideshow</button>
         </div>
         <br />
-        <div>
+        <div style={{ display: 'flex' }}>
+          <span>Show: </span>
           <input type="checkbox" id="showMeaning" checked={showMeaning} onChange={(e) => setShowMeaning(e.target.checked)} />
-          <label htmlFor="showMeaning">Show Meaning</label>
+          <label htmlFor="showMeaning">Meaning</label>
           <input type="checkbox" id="showExamples" checked={showExamples} onChange={(e) => setShowExamples(e.target.checked)} />
-          <label htmlFor="showExamples">Show Examples</label>
+          <label htmlFor="showExamples">Examples</label>
+          <input type="checkbox" id="showVoice" checked={showVoice} onChange={(e) => { setShowVoice(e.target.checked); stop(); }} />
+          <label htmlFor="showVoice">Voice</label>
         </div>
         <br />
         <div className={homeStyles.grid}>
@@ -124,6 +128,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
               speakSth={(phrase) => speak({ phrase, rate: speedRate, voice: selectedVoice })}
               showMeaning={showMeaning}
               showExamples={showExamples}
+              showVoice={showVoice}
             />
           ))}
         </div>
@@ -145,6 +150,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
                   speakSth={(phrase) => speak({ phrase, rate: speedRate, voice: selectedVoice })}
                   showMeaning={showMeaning}
                   showExamples={showExamples}
+                  showVoice={showVoice}
                   inSlide={true}
                 />
               </Slide>

@@ -10,7 +10,7 @@ export default function Home() {
   const groups = Array.from({ length: 30 }, (_, i) => i + 1);
   const { user, error, isLoading } = useUser();
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return null;
   if (error) return <div>{error.message}</div>;
 
   return (

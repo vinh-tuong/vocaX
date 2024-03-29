@@ -29,6 +29,10 @@ const speak = ({ phrase, rate = 1, voice = 0 }: { phrase: string, rate: number, 
   window.speechSynthesis.speak(utterance);
 };
 
+const stop = () => {
+  window.speechSynthesis.cancel();
+};
+
 const onSlideSpeedBtnClick = (slideSpeed: number, setSlideSpeed: (speed: number) => void) => {
   if (slideSpeed === 3000) {
     setSlideSpeed(5000);
@@ -63,5 +67,5 @@ const onSpeedRateBtnClick = (speedRate: number, setSpeedRate: (rate: number) => 
   }
 };
 
-export { getGenderFromWord, speak, onSlideSpeedBtnClick, onSpeedRateBtnClick };
+export { getGenderFromWord, speak, stop, onSlideSpeedBtnClick, onSpeedRateBtnClick };
 
