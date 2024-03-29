@@ -140,7 +140,6 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
             infinite={true}
             isPlaying={carouselModalOpen}
             interval={slideSpeed}
-            preventVerticalScrollOnTouch={true}
           >
             <Slider>
               {wordsToShow.map((word, idx) => <Slide index={idx} key={word.ID}>
