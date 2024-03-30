@@ -61,7 +61,7 @@ const SearchBar = () => {
 
   const onSearchBarFocus = () => {
     if (searchBarRef.current && mobileCheck()) {
-      searchBarRef.current.scrollIntoView({ behavior: "auto" });
+      // searchBarRef.current.scrollIntoView({ behavior: "auto" });
     }
   }
 
