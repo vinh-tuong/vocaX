@@ -62,7 +62,7 @@ const SearchBar = () => {
     <>
       <div className={`${styles.searchContainter} ${suggestions.length > 0 ? styles.focusing : ''}`}>
         <input
-          type="search"
+          type="text"
           className={styles.searchBar}
           placeholder="Which word are you looking for?"
           value={query} onChange={handleSearch}
