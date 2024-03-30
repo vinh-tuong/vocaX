@@ -80,7 +80,6 @@
   opacity: 0.6;
   font-size: 0.9rem;
   line-height: 1.5;
-  max-width: 30ch;
 }
 
 .center {
@@ -128,7 +127,7 @@
   }
 
   .card {
-    padding: 1rem 2.5rem;
+    padding: 1.5rem 2.5rem;
   }
 
   .card h2 {

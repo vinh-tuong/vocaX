@@ -16,13 +16,18 @@ const getGenderFromWord = (word: string) => {
 
 var utterance: SpeechSynthesisUtterance;
 
-const speak = ({ phrase, rate = 1, voice = 0 }: { phrase: string, rate: number, voice: number }) => {
+const speak = ({ phrase, rate = 1, voice = -1 }: { phrase: string, rate: number, voice: number }) => {
   if (!utterance) {
     utterance = new SpeechSynthesisUtterance();
   }
   utterance.text = phrase;
-  // utterance.lang = 'de-DE';
-  utterance.voice = window.speechSynthesis.getVoices().filter(v => v.lang.startsWith('de'))[voice];
+  
+  if (voice !== -1) {
+    utterance.voice = window.speechSynthesis.getVoices().filter(v => v.lang.startsWith('de'))[voice];
+  } else {
+    utterance.lang = 'de-DE';
+  }
+
   utterance.rate = rate;
 
   window.speechSynthesis.cancel();

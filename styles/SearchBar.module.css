@@ -1,0 +1,90 @@
+.searchContainter {
+  display: flex;
+  position: relative;
+  padding: 2px 2px 2px 20px;
+  border-radius: 20px;
+  height: 40px;
+  width: 600px;
+  max-width: 80%;
+  align-self: center;
+  background-color: #fff;
+}
+
+.searchContainter.focusing {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom: none;
+  box-shadow: 0 1px 6px 0 rgba(32,33,36,.28);
+}
+
+.searchBar {
+  flex-grow: 1;
+  border: 0;
+  outline: none;
+  height: 100%;
+}
+
+.searchButtonWrapper {
+  width: 60px;
+  height: 100%;
+  border-radius: 20px;
+}
+
+.searchButtonWrapper:hover {
+  background-color: #00aef0;
+}
+
+.searchButton {
+  width: 100%;
+  height: 100%;
+  -webkit-mask: url(https://mvtuong.github.io/portfolio/icons/search.svg) no-repeat center / 24px;
+  mask: url(https://mvtuong.github.io/portfolio/icons/search.svg) no-repeat center / 24px;
+  background-color: #00aef0;
+  cursor: pointer;
+}
+
+.searchButtonWrapper:hover .searchButton {
+  background-color: #fff;
+}
+
+.searchSuggestions {
+  display: none;
+  flex-direction: column;
+  position: absolute;
+  top: 40px;
+  left: 0;
+  right: 0;
+  list-style: none;
+  text-align: left;
+  margin: -1px 0 0;
+  padding: 0 0 14px;
+  border: 1px solid #eee;
+  border-top: none;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #fff;
+  z-index: 1;
+}
+
+.searchContainter.focusing .searchSuggestions {
+  display: flex;
+  box-shadow: 0 4px 6px 0 rgba(32,33,36,.28);
+}
+
+.searchSuggestions li {
+  padding: 8px 5px 8px 20px;
+  cursor: pointer;
+}
+
+.searchSuggestions li:hover {
+  background-color: #eee;
+}
+
+.searchResult {
+  margin: 20px 0;
+  width: 600px;
+  max-width: 80%;
+  z-index: 1;
+  border: 1px solid #ccc;
+  border-radius: var(--border-radius);;
+}

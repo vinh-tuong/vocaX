@@ -35,6 +35,12 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
   const [showVoice, setShowVoice] = useState(true);
 
   useEffect(() => {
+    const originalWords = title === 'difficult' ? difficult : words;
+    const itemsToShow = originalWords.filter((i: Word) => (getGenderFromWord((i || {}).word) === genderSelection || genderSelection === 'all'));
+    setWordsToShow(itemsToShow);
+  }, [difficult, genderSelection, title, words]);
+
+  useEffect(() => {
     try {
       const storedDifficult = localStorage.getItem('group-difficult');
       if (storedDifficult) {
@@ -45,19 +51,6 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
       console.error(e);
     }
   }, []);
-
-  useEffect(() => {
-    const originalWords = title === 'difficult' ? difficult : words;
-    const itemsToShow = originalWords.filter((i: Word) => (getGenderFromWord((i || {}).word) === genderSelection || genderSelection === 'all'));
-    setWordsToShow(itemsToShow);
-  }, [difficult, genderSelection, title, words]);
-
-  // const onShuffleBtnClick = () => {
-  //   const originalWords = title === 'difficult' ? difficult : words;
-  //   const itemsToShow = [...originalWords];
-  //   itemsToShow.sort(() => 0.5 - Math.random())
-  //   setWordsToShow(itemsToShow);
-  // };
 
   const markAWordDifficult = (word: Word) => {
     if (difficult.some(w => w.ID === word.ID)) {
@@ -70,6 +63,13 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
       setDifficult(newDifficult);
     }
   };
+
+  // const onShuffleBtnClick = () => {
+  //   const originalWords = title === 'difficult' ? difficult : words;
+  //   const itemsToShow = [...originalWords];
+  //   itemsToShow.sort(() => 0.5 - Math.random())
+  //   setWordsToShow(itemsToShow);
+  // };
 
   if (isLoading) return null;
   if (error) return <div>{error.message}</div>;
@@ -117,6 +117,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
           <input type="checkbox" id="showVoice" checked={showVoice} onChange={(e) => { setShowVoice(e.target.checked); stop(); }} />
           <label htmlFor="showVoice">Voice</label>
         </div>
+        <br /><br />
         {wordsToShow.length === 0 && title === 'difficult' && <p>Congrats! The world seems to be easy for you :-)</p>}
         <div className={homeStyles.grid}>
           {wordsToShow.map((word) => (

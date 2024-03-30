@@ -3,6 +3,7 @@ import Link from "next/link";
 import { useUser } from '@auth0/nextjs-auth0/client';
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
+import SearchBar from "@/components/SearchBar";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -34,6 +35,8 @@ export default function Home() {
           <h1 style={{ textTransform: 'uppercase', fontWeight: '500' }}>VOCA.X</h1>
           <h2 style={{ textTransform: 'uppercase', fontWeight: '300' }}>German wordlist B1 level</h2>
         </div>
+
+        <SearchBar />
 
         <div className={styles.grid}>
           <a
