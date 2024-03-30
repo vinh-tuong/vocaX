@@ -1,15 +1,16 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import styles from '../styles/SearchBar.module.css';
 import axios from 'axios';
 import { Word } from '@/utils/types';
 import CardItem from './CardItem';
-import { speak } from '@/utils/helpers';
+import { mobileCheck, speak } from '@/utils/helpers';
 
 const SearchBar = () => {
   const [query, setQuery] = useState('');
   const [suggestions, setSuggestions] = useState<Word[]>([]);
   const [selectedWord, setSelectedWord] = useState<Word>();
   const [difficult, setDifficult] = useState<Word[]>([]);
+  const searchBarRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
     try {
@@ -58,14 +59,22 @@ const SearchBar = () => {
     setSuggestions([]);
   };
 
+  const onSearchBarFocus = () => {
+    if (searchBarRef.current && mobileCheck()) {
+      searchBarRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }
+
   return (
     <>
       <div className={`${styles.searchContainter} ${suggestions.length > 0 ? styles.focusing : ''}`}>
         <input
           type="text"
+          ref={searchBarRef}
           className={styles.searchBar}
           placeholder="Which word are you looking for?"
           value={query} onChange={handleSearch}
+          onFocus={onSearchBarFocus}
         />
         <div className={styles.searchButtonWrapper}><button className={styles.searchButton}></button></div>
         {suggestions.length > 0 && (
