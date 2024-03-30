@@ -3,7 +3,7 @@ import styles from '../styles/SearchBar.module.css';
 import axios from 'axios';
 import { Word } from '@/utils/types';
 import CardItem from './CardItem';
-import { mobileCheck, speak } from '@/utils/helpers';
+import { speak } from '@/utils/helpers';
 
 const SearchBar = () => {
   const [query, setQuery] = useState('');
@@ -59,12 +59,6 @@ const SearchBar = () => {
     setSuggestions([]);
   };
 
-  const onSearchBarFocus = () => {
-    if (searchBarRef.current && mobileCheck()) {
-      // searchBarRef.current.scrollIntoView({ behavior: "auto" });
-    }
-  }
-
   return (
     <>
       <div className={`${styles.searchContainter} ${suggestions.length > 0 ? styles.focusing : ''}`}>
@@ -74,7 +68,6 @@ const SearchBar = () => {
           className={styles.searchBar}
           placeholder="Which word are you looking for?"
           value={query} onChange={handleSearch}
-          onFocus={onSearchBarFocus}
         />
         <div className={styles.searchButtonWrapper}><button className={styles.searchButton}></button></div>
         {suggestions.length > 0 && (
