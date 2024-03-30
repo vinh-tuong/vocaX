@@ -83,7 +83,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
         <link rel="icon" href="/favicon.ico" />
       </Head><main className={`${homeStyles.main} ${inter.className}`}>
         <div className={homeStyles.description}>
-          <Link href="/">Back to home</Link>
+          <Link href="/">Back to Home</Link>
           <div>
             Welcome&nbsp;
             <code className={homeStyles.code}>{user ? user.name : 'Anonymous User'}</code>

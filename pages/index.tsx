@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
+import Image from "next/image";
 import { useUser } from '@auth0/nextjs-auth0/client';
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
@@ -32,7 +33,12 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <h1 style={{ textTransform: 'uppercase', fontWeight: '500' }}>VOCA.X</h1>
+          <Image
+            src="/logo.png"
+            width={60}
+            height={60}
+            alt="Logo"
+          />
           <h2 style={{ textTransform: 'uppercase', fontWeight: '300' }}>German wordlist B1 level</h2>
         </div>
 
