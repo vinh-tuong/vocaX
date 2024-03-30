@@ -37,6 +37,7 @@ export default function Home() {
         </div>
 
         <SearchBar />
+        <br />
 
         <div className={styles.grid}>
           <a
