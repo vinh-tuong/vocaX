@@ -4,7 +4,7 @@ import homeStyles from "@/styles/Home.module.css";
 import styles from "@/styles/Group.module.css";
 import axios from 'axios';
 import { Inter } from 'next/font/google';
-import { getGenderFromWord, onSlideSpeedBtnClick, onSpeedRateBtnClick, speak, stop } from '@/utils/helpers';
+import { getGenderFromWord, mobileCheck, onSlideSpeedBtnClick, onSpeedRateBtnClick, speak, stop } from '@/utils/helpers';
 import { useEffect, useState } from 'react';
 import { ButtonFirst, ButtonNext, ButtonBack, ButtonPlay, CarouselProvider, Slide, Slider } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
@@ -107,6 +107,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
           {/* <button className={styles.button} onClick={onShuffleBtnClick}>Shuffle</button> */}
           <button className={styles.button} onClick={() => setCarouselModalOpen(true)}>Slideshow</button>
         </div>
+        {mobileCheck() && <p>(Hint: swipe to change between slides)</p>}
         <br />
         <div style={{ display: 'flex' }}>
           <span>Show: </span>
