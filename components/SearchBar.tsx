@@ -64,6 +64,7 @@ const SearchBar = () => {
       handleSelectSuggestion(suggestions[0]);
     } else {
       setQuery('');
+      searchBarRef.current?.focus();
     }
   };
 
