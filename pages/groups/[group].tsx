@@ -4,7 +4,7 @@ import homeStyles from "@/styles/Home.module.css";
 import styles from "@/styles/Group.module.css";
 import axios from 'axios';
 import { Inter } from 'next/font/google';
-import { getGenderFromWord, mobileCheck, onSlideSpeedBtnClick, onSpeedRateBtnClick, speak, stop } from '@/utils/helpers';
+import { getGenderFromWord, mobileCheck, onSlideSpeedBtnClick, onSpeedRateBtnClick, speak, stop, getGroupName } from '@/utils/helpers';
 import { useEffect, useState } from 'react';
 import { ButtonFirst, ButtonNext, ButtonBack, ButtonPlay, CarouselProvider, Slide, Slider } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
@@ -78,7 +78,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
     <>
       <Head>
         <title>VocaX</title>
-        <meta name="description" content={`vocaX - German Wordlist - B1 - Group ${title}`} />
+        <meta name="description" content={`vocaX - German Wordlist - B1 - Group ${getGroupName(title)}`} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head><main className={`${homeStyles.main} ${inter.className}`}>
@@ -89,8 +89,8 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
             <code className={homeStyles.code}>{user ? user.name : 'Anonymous User'}</code>
           </div>
         </div>
-        <h1>Group: {title}</h1>
-        <p style={{ textAlign: 'center' }}>{title === 'difficult' ? 'Here you will find all the words you have marked as difficult' : `Here you will find all the words for group ${title}`}</p>
+        <h1><span style={{ fontWeight: '400' }}>Group:</span> {getGroupName(title)}</h1>
+        <p style={{ textAlign: 'center' }}>{title === 'difficult' ? 'Here you will find all the words you have marked as difficult' : `Here you will find all the words for group ${getGroupName(title)}`}</p>
         <br />
         <select value={genderSelection} onChange={(e) => setGenderSelection(e.target.value)}>
           <option value="all">Show All</option>

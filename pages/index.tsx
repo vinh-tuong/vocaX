@@ -5,6 +5,7 @@ import { useUser } from '@auth0/nextjs-auth0/client';
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import SearchBar from "@/components/SearchBar";
+import { getGroupName } from "@/utils/helpers";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -51,7 +52,7 @@ export default function Home() {
             className={styles.card}
           >
             <h2>
-              Group Difficult
+              {getGroupName('difficult')}
             </h2>
             <p>
               You will find all the words you have marked as <strong>difficult</strong> here
@@ -64,10 +65,10 @@ export default function Home() {
               className={styles.card}
             >
               <h2>
-                Group {group} {idx >= 3 && !user && <span>&#128274;</span>}
+                {getGroupName(group.toString())} {idx >= 3 && !user && <span>&#128274;</span>}
               </h2>
               <p>
-                {idx < 3 || idx >= 3 && user ? 'Open this group and explore it' : 'You need to login to explore this group'}
+                {idx < 3 || idx >= 3 && user ? 'Open this group and explore it' : 'You need to login to explore this group. Register for free!'}
               </p>
             </a>
           ))}

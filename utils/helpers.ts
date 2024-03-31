@@ -78,5 +78,47 @@ const mobileCheck = () => {
   return check;
 };
 
-export { getGenderFromWord, speak, stop, onSlideSpeedBtnClick, onSpeedRateBtnClick, mobileCheck };
+interface GroupNames {
+  [key: string]: string;
+}
+
+const groupNames: GroupNames = {
+  "1": "Aurora",
+  "2": "Borealis",
+  "3": "Celestia",
+  "4": "Drift",
+  "5": "Eclipse",
+  "6": "Fjord",
+  "7": "Grove",
+  "8": "Halcyon",
+  "9": "Iris",
+  "10": "Jade",
+  "11": "Kairos",
+  "12": "Lunar",
+  "13": "Mystic",
+  "14": "Nova",
+  "15": "Oasis",
+  "16": "Polaris",
+  "17": "Quasar",
+  "18": "Rune",
+  "19": "Solstice",
+  "20": "Thalassa",
+  "21": "Umbra",
+  "22": "Vortex",
+  "23": "Wilder",
+  "24": "Xanadu",
+  "25": "Yggdrasil",
+  "26": "Zephyr",
+  "27": "Berlin",
+  "28": "Hamburg",
+  "29": "München",
+  "30": "WALL•E",
+  "difficult": "WordForge"
+};
+
+const getGroupName = (groupId: string) => {
+  return groupNames[groupId];
+};
+
+export { getGenderFromWord, speak, stop, onSlideSpeedBtnClick, onSpeedRateBtnClick, mobileCheck, getGroupName };
 
