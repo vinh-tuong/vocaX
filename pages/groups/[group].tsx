@@ -162,7 +162,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
               <ButtonFirst className={styles.button}>First</ButtonFirst>
               <ButtonNext className={styles.button}>Next</ButtonNext>
             </div>
-            <SlideTracker items={wordsToShow} currentSlide={currentSlide} setCurrentSlide={setCurrentSlide} playSound={true} voice={selectedVoice} speedRate={speedRate} />
+            <SlideTracker items={wordsToShow} currentSlide={currentSlide} setCurrentSlide={setCurrentSlide} playSound={showVoice} voice={selectedVoice} speedRate={speedRate} />
           </CarouselProvider>
         </Modal>
       </main>
@@ -175,7 +175,7 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
   const { params, req, res } = context;
   const group = params?.group;
   // For groups greater than 2, require authentication
-  if (parseInt(group as string, 10) > 2) {
+  if (parseInt(group as string, 10) > 3) {
     const session = await getSession(req, res);
     if (!session) {
       return {

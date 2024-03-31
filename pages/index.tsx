@@ -64,10 +64,10 @@ export default function Home() {
               className={styles.card}
             >
               <h2>
-                Group {group} {idx >= 2 && !user && <span>&#128274;</span>}
+                Group {group} {idx >= 3 && !user && <span>&#128274;</span>}
               </h2>
               <p>
-                {idx < 2 || idx >= 2 && user ? 'Open this group and explore it' : 'You need to login to explore this group'}
+                {idx < 3 || idx >= 3 && user ? 'Open this group and explore it' : 'You need to login to explore this group'}
               </p>
             </a>
           ))}
