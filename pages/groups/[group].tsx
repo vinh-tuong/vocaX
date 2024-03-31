@@ -64,21 +64,14 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
     }
   };
 
-  // const onShuffleBtnClick = () => {
-  //   const originalWords = title === 'difficult' ? difficult : words;
-  //   const itemsToShow = [...originalWords];
-  //   itemsToShow.sort(() => 0.5 - Math.random())
-  //   setWordsToShow(itemsToShow);
-  // };
-
   if (isLoading) return null;
   if (error) return <div>{error.message}</div>;
 
   return (
     <>
       <Head>
-        <title>VocaX</title>
-        <meta name="description" content={`vocaX - German Wordlist - B1 - Group ${getGroupName(title)}`} />
+        <title>VocaX - Group page</title>
+        <meta name="description" content={`vocaX - German Wordlist - B1 - Group ${title}`} />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head><main className={`${homeStyles.main} ${inter.className}`}>
@@ -104,7 +97,6 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
         <div>
           <button className={styles.button} onClick={() => onSlideSpeedBtnClick(slideSpeed, setSlideSpeed)}>{slideSpeed / 1000}s</button>
           <button className={styles.button} onClick={() => onSpeedRateBtnClick(speedRate, setSpeedRate)}>{speedRate}x</button>
-          {/* <button className={styles.button} onClick={onShuffleBtnClick}>Shuffle</button> */}
           <button className={styles.button} onClick={() => setCarouselModalOpen(true)}>Slideshow</button>
         </div>
         {mobileCheck() && <p>(Hint: swipe to change between slides)</p>}
