@@ -59,6 +59,14 @@ const SearchBar = () => {
     setSuggestions([]);
   };
 
+  const onSearchBtnClick = () => {
+    if (query && suggestions.length > 0) {
+      handleSelectSuggestion(suggestions[0]);
+    } else {
+      setQuery('');
+    }
+  };
+
   return (
     <>
       <div className={`${styles.searchContainter} ${suggestions.length > 0 ? styles.focusing : ''}`}>
@@ -69,7 +77,7 @@ const SearchBar = () => {
           placeholder="Which word are you looking for?"
           value={query} onChange={handleSearch}
         />
-        <div className={styles.searchButtonWrapper}><button className={styles.searchButton}></button></div>
+        <div className={styles.searchButtonWrapper}><button onClick={onSearchBtnClick} className={`${styles.searchButton} ${query && suggestions.length === 0 ? styles.hasQuery : ''}`}></button></div>
         {suggestions.length > 0 && (
           <ul className={styles.searchSuggestions}>
             {suggestions.map((suggestion) => (

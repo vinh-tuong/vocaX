@@ -22,6 +22,7 @@
   border: 0;
   outline: none;
   height: 100%;
+  font-size: 16px;
 }
 
 .searchButtonWrapper {
@@ -41,6 +42,11 @@
   mask: url(/search.svg) no-repeat center / 24px;
   background-color: #00aef0;
   cursor: pointer;
+}
+
+.searchButton.hasQuery {
+  -webkit-mask: url(/close.png) no-repeat center / 16px;
+  mask: url(/close.png) no-repeat center / 16px;
 }
 
 .searchButtonWrapper:hover .searchButton {
