@@ -9,9 +9,14 @@ const SlideTracker = ({ items, currentSlide, setCurrentSlide, playSound, voice, 
     function onChange() {
       if (items[carouselContext.state.currentSlide] && carouselContext.state.currentSlide !== currentSlide) {
         setCurrentSlide(carouselContext.state.currentSlide);
-        if (playSound) {
-          speak({ phrase: items[carouselContext.state.currentSlide].word, rate: speedRate, voice });
-        }
+      }
+
+      if (!playSound || !items[carouselContext.state.currentSlide].word) {
+        return;
+      }
+
+      if (carouselContext.state.isPlaying || carouselContext.state.currentSlide !== currentSlide) {
+        speak({ phrase: items[carouselContext.state.currentSlide].word, rate: speedRate, voice });
       }
     }
     carouselContext.subscribe(onChange);

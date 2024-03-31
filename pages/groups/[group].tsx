@@ -6,7 +6,7 @@ import axios from 'axios';
 import { Inter } from 'next/font/google';
 import { getGenderFromWord, onSlideSpeedBtnClick, onSpeedRateBtnClick, speak, stop } from '@/utils/helpers';
 import { useEffect, useState } from 'react';
-import { ButtonFirst, ButtonNext, ButtonPlay, CarouselProvider, Slide, Slider } from 'pure-react-carousel';
+import { ButtonFirst, ButtonNext, ButtonBack, ButtonPlay, CarouselProvider, Slide, Slider } from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
 import Modal from '@/components/Modal';
 import VoiceSelector from '@/components/VoiceSelector';
@@ -160,6 +160,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
             <div style={{ position: 'absolute', bottom: '5px', right: '5px' }}>
               <ButtonPlay className={styles.button} childrenPlaying="Pause" childrenPaused="Play" />
               <ButtonFirst className={styles.button}>First</ButtonFirst>
+              <ButtonBack className={styles.button}>Prev</ButtonBack>
               <ButtonNext className={styles.button}>Next</ButtonNext>
             </div>
             <SlideTracker items={wordsToShow} currentSlide={currentSlide} setCurrentSlide={setCurrentSlide} playSound={showVoice} voice={selectedVoice} speedRate={speedRate} />
