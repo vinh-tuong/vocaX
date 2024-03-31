@@ -100,7 +100,7 @@ const groupNames: GroupNames = {
   "15": "Oasis",
   "16": "Polaris",
   "17": "Quasar",
-  "18": "Rune",
+  "18": "Rachel",
   "19": "Solstice",
   "20": "Thalassa",
   "21": "Umbra",
