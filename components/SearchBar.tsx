@@ -75,7 +75,7 @@ const SearchBar = () => {
           type="text"
           ref={searchBarRef}
           className={styles.searchBar}
-          placeholder="Which word are you looking for?"
+          placeholder="Search for a word"
           value={query} onChange={handleSearch}
         />
         <div className={styles.searchButtonWrapper}><button onClick={onSearchBtnClick} className={`${styles.searchButton} ${query && suggestions.length === 0 ? styles.hasQuery : ''}`}></button></div>

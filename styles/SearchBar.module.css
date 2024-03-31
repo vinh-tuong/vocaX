@@ -31,10 +31,6 @@
   border-radius: 20px;
 }
 
-.searchButtonWrapper:hover {
-  background-color: #00aef0;
-}
-
 .searchButton {
   width: 100%;
   height: 100%;
@@ -47,10 +43,6 @@
 .searchButton.hasQuery {
   -webkit-mask: url(/close.png) no-repeat center / 16px;
   mask: url(/close.png) no-repeat center / 16px;
-}
-
-.searchButtonWrapper:hover .searchButton {
-  background-color: #fff;
 }
 
 .searchSuggestions {
@@ -82,10 +74,6 @@
   cursor: pointer;
 }
 
-.searchSuggestions li:hover {
-  background-color: #eee;
-}
-
 .searchResult {
   margin: 20px 0;
   width: 600px;
@@ -93,4 +81,19 @@
   z-index: 1;
   border: 1px solid #ccc;
   border-radius: var(--border-radius);;
+}
+
+/* Enable hover effect only on non-touch devices */
+@media (hover: hover) and (pointer: fine) {
+  .searchButtonWrapper:hover {
+    background-color: #00aef0;
+  }
+
+  .searchButtonWrapper:hover .searchButton {
+    background-color: #fff;
+  }
+
+  .searchSuggestions li:hover {
+    background-color: #eee;
+  }
 }
