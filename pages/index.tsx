@@ -53,7 +53,8 @@ export default function Home() {
 
         <SearchBar />
         <br />
-
+        <p>Groups discovered: {Object.keys(progress).length} / 30 </p>
+        <br />
         <div className={styles.grid}>
           <a
             href="groups/difficult"
