@@ -17,7 +17,7 @@
 
 .scrollTopBtn {
   position: fixed;
-  bottom: 40px;
+  bottom: 50px;
   right: 10px;
   width: 45px;
   height: 45px;
@@ -52,7 +52,7 @@
   .menuBtn {
     position: fixed;
     top: unset;
-    bottom: 40px;
+    bottom: 50px;
     left: 10px;
     width: 45px;
     height: 45px;

@@ -2,16 +2,18 @@ import { CSSProperties, useEffect } from 'react';
 import styles from '../styles/Modal.module.css'
 import { mobileCheck } from '@/utils/helpers';
 
-const Modal = ({ open, onModalClose, style, children }: { open: boolean; style?: CSSProperties | undefined, children: JSX.Element; onModalClose: () => void }) => {
+const Modal = ({ open, onModalClose, style, isSlideshow, children }: { open: boolean; style?: CSSProperties | undefined, isSlideshow?: boolean, children: JSX.Element; onModalClose: () => void }) => {
   useEffect(() => {
-    if (open && mobileCheck()) {
+    if (open && mobileCheck() && isSlideshow) {
       document.body.style.position = 'fixed';
     }
 
     return () => {
-      document.body.style.position = '';
+      if (mobileCheck() && isSlideshow) {
+        document.body.style.position = 'unset';
+      }
     }
-  }, [open]);
+  }, [open, isSlideshow]);
 
   return (
     <div className={`${styles.modalContainer} ${open ? styles.show : ''}`}>

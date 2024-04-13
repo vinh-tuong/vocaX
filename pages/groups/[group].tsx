@@ -54,6 +54,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
     } catch (e) {
       console.error(e);
     }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const markAWordDifficult = (word: Word) => {
@@ -175,7 +176,7 @@ const GroupPage: NextPage<{ groupData: GroupData }> = ({ groupData }) => {
             <button onClick={() => setSettingModalOpen(false)} className={styles.button}>Close</button>
           </div>
         </Modal>
-        <Modal open={carouselModalOpen} onModalClose={() => setCarouselModalOpen(false)} style={{ backgroundColor: "#dbc7ac" }}>
+        <Modal open={carouselModalOpen} onModalClose={() => setCarouselModalOpen(false)} isSlideshow={true} style={{ backgroundColor: "#dbc7ac" }}>
           <CarouselProvider
             naturalSlideWidth={300}
             naturalSlideHeight={300}
