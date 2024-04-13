@@ -95,6 +95,22 @@
 .logo {
   position: relative;
 }
+
+.progressBar {
+  position: relative;
+  height: 10px;
+  background-color: #eee;
+  border-radius: 5px;
+}
+
+.progressBarInner {
+  width: 0;
+  height: 100%;
+  position: absolute;
+  transition: width 500ms ease;
+  border-radius: 5px;
+}
+
 /* Enable hover effect only on non-touch devices */
 @media (hover: hover) and (pointer: fine) {
   .card:hover {

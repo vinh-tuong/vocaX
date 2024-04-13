@@ -5,7 +5,7 @@ import { Word } from '@/utils/types';
 import CardItem from './CardItem';
 import { speak } from '@/utils/helpers';
 
-const SearchBar = () => {
+const SearchBar = ({ group }: { group?: string }) => {
   const [query, setQuery] = useState('');
   const [suggestions, setSuggestions] = useState<Word[]>([]);
   const [selectedWord, setSelectedWord] = useState<Word>();
@@ -46,7 +46,7 @@ const SearchBar = () => {
     }
 
     // Fetch suggestions from the API
-    const response = await axios.get(`/api/search?q=${value.toLowerCase()}`);
+    const response = await axios.get(`/api/search?q=${value.toLowerCase()}&g=${group || ''}`);
     setSuggestions(response.data);
     if (response.data.length === 0) {
       setSelectedWord(undefined);

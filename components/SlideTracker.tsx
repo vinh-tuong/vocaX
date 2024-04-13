@@ -3,7 +3,7 @@ import { useContext, useEffect } from "react";
 import { speak } from "../utils/helpers";
 import { Word } from "@/utils/types";
 
-const SlideTracker = ({ items, currentSlide, setCurrentSlide, playSound, voice, speedRate }: { items: Word[], currentSlide: number, setCurrentSlide: (index: number) => void, playSound: boolean, voice: number, speedRate: number }) => {
+const SlideTracker = ({ items, currentSlide, setCurrentSlide, playSound, voice, speechRate }: { items: Word[], currentSlide: number, setCurrentSlide: (index: number) => void, playSound: boolean, voice: number, speechRate: number }) => {
   const carouselContext = useContext(CarouselContext);
   useEffect(() => {
     function onChange() {
@@ -11,17 +11,17 @@ const SlideTracker = ({ items, currentSlide, setCurrentSlide, playSound, voice, 
         setCurrentSlide(carouselContext.state.currentSlide);
       }
 
-      if (!playSound || !items[carouselContext.state.currentSlide].word) {
+      if (!playSound || !items[carouselContext.state.currentSlide]?.word) {
         return;
       }
 
       if (carouselContext.state.isPlaying || carouselContext.state.currentSlide !== currentSlide) {
-        speak({ phrase: items[carouselContext.state.currentSlide].word, rate: speedRate, voice });
+        speak({ phrase: items[carouselContext.state.currentSlide].word, rate: speechRate, voice });
       }
     }
     carouselContext.subscribe(onChange);
     return () => carouselContext.unsubscribe(onChange);
-  }, [carouselContext, currentSlide, items, playSound, setCurrentSlide, speedRate, voice]);
+  }, [carouselContext, currentSlide, items, playSound, setCurrentSlide, speechRate, voice]);
 
   return (
     <>

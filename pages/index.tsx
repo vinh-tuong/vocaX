@@ -6,12 +6,20 @@ import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import SearchBar from "@/components/SearchBar";
 import { getGroupName } from "@/utils/helpers";
+import { useEffect, useState } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   const groups = Array.from({ length: 30 }, (_, i) => i + 1);
   const { user, error, isLoading } = useUser();
+  const [progress, setProgress] = useState<{ [key: string]: string; }>({});
+
+  useEffect(() => {
+    const storedProgress = localStorage.getItem('progress');
+    const progressItems = JSON.parse(storedProgress || '{}');
+    setProgress(progressItems);
+  }, []);
 
   if (isLoading) return null;
   if (error) return <div>{error.message}</div>;
@@ -67,6 +75,9 @@ export default function Home() {
               <h2>
                 {getGroupName(group.toString())} {idx >= 3 && !user && <span>&#128274;</span>}
               </h2>
+              <div className={styles.progressBar} style={{ marginBottom: '20px' }}>
+                <div className={styles.progressBarInner} style={{ width: `${progress[group]}%`, backgroundColor: `${parseInt(progress[group]) === 100 ? 'green' : 'orange'}` }}></div>
+              </div>
               <p>
                 {idx < 3 || idx >= 3 && user ? 'Open this group and explore it' : 'You need to login to explore this group. Register for free!'}
               </p>

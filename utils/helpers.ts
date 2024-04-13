@@ -55,19 +55,19 @@ const onSlideSpeedBtnClick = (slideSpeed: number, setSlideSpeed: (speed: number)
   }
 };
 
-const onSpeedRateBtnClick = (speedRate: number, setSpeedRate: (rate: number) => void) => {
-  if (speedRate === 1) {
-    setSpeedRate(0.6);
+const onspeechRateBtnClick = (speechRate: number, setSpeechRate: (rate: number) => void) => {
+  if (speechRate === 1) {
+    setSpeechRate(0.6);
     return;
   }
 
-  if (speedRate === 0.6) {
-    setSpeedRate(0.8);
+  if (speechRate === 0.6) {
+    setSpeechRate(0.8);
     return;
   }
 
-  if (speedRate === 0.8) {
-    setSpeedRate(1);
+  if (speechRate === 0.8) {
+    setSpeechRate(1);
     return;
   }
 };
@@ -120,5 +120,13 @@ const getGroupName = (groupId: string) => {
   return groupNames[groupId];
 };
 
-export { getGenderFromWord, speak, stop, onSlideSpeedBtnClick, onSpeedRateBtnClick, mobileCheck, getGroupName };
+const getScrollPercent = () => {
+  const bodyElement = document.documentElement || document.body;
+  const bodyScrollTop = bodyElement.scrollTop;
+  const bodyScrollHeight = bodyElement.scrollHeight;
+
+  return Math.round(bodyScrollTop / (bodyScrollHeight - bodyElement.clientHeight) * 100);
+}
+
+export { getGenderFromWord, speak, stop, onSlideSpeedBtnClick, onspeechRateBtnClick, mobileCheck, getGroupName, getScrollPercent };
 

@@ -15,10 +15,46 @@
   border-color: #0d6efd;
 }
 
+.scrollTopBtn {
+  position: fixed;
+  bottom: 40px;
+  right: 10px;
+  width: 45px;
+  height: 45px;
+}
+
+.menuBtn {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  width: 45px;
+  height: 45px;
+}
+
+.menuBtn svg {
+  vertical-align: middle;
+}
+
 @media (hover: hover) and (pointer: fine) {
   .button:hover {
     color: #fff;
     background-color: #0d6efd;
     border-color: #0d6efd;
+  }
+
+  .menuBtn:hover svg path {
+    stroke: #fff;
+  }
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+  .menuBtn {
+    position: fixed;
+    top: unset;
+    bottom: 40px;
+    left: 10px;
+    width: 45px;
+    height: 45px;
   }
 }
